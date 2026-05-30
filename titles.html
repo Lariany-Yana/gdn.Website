@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Тайтлы</title>
+
+    <link rel="stylesheet" href="style.css" />
+  </head>
+
+  <body>
+    <script src="header.js"></script>
+    <script>
+      // Подсветка раздела
+      document.addEventListener("DOMContentLoaded", function () {
+        const targetHref = "titles.html";
+
+        const links = document.querySelectorAll(".ecosys a");
+        links.forEach((link) => {
+          if (link.getAttribute("href") === targetHref) {
+            link.classList.add("active");
+          }
+        });
+
+        // Текст в поиске
+        const searchInput = document.getElementById("searchInput");
+        if (searchInput) {
+          searchInput.placeholder = "Поиск по тайтлам";
+        }
+      });
+    </script>
+
+    <div class="tabs">
+      <div class="tabs-container">
+        <div class="tabs-section">
+          <button class="tab-button" onclick="godenEngine.openStaticPopup('Randomiser')">Рандомайзер</button>
+        </div>
+        <div class="tabs-section">
+          <button class="tab-button change-section active" data-type="series-Anime">Аниме</button>
+          <button class="tab-button change-section" data-type="series-Serial">Сериалы</button>
+          <button class="tab-button change-section" data-type="series-Cartoon">Мультсериалы</button>
+        </div>
+        <div class="tabs-section">
+          <button class="tab-button change-section" data-type="fullmeter-Anime">Полнометражки</button>
+          <button class="tab-button change-section" data-type="fullmeter-Movie">Фильмы</button>
+          <button class="tab-button change-section" data-type="fullmeter-Cartoon">Мультфильмы</button>
+        </div>
+        <div class="tabs-section">
+          <button class="tab-button change-section" data-type="amusement-Game">Игры</button>
+          <button class="tab-button change-section" data-type="amusement-YouTube">Ютуб</button>
+          <button class="tab-button change-section" data-type="amusement-Event">Ивенты</button>
+          <button class="tab-button watch" onclick="openPopup('Amusement-Poker')">Покер</button>
+          <button class="tab-button change-section" data-type="amusement-TV_Show">ТВ-Шоу</button>
+        </div>
+        <div class="tabs-section">
+          <button class="tab-button change-section" data-type="literature-Manga">Манга</button>
+          <button class="tab-button change-section" data-type="literature-Manhwa">Манхва</button>
+          <button class="tab-button change-section" data-type="literature-Comics">Комиксы</button>
+          <button class="tab-button change-section" data-type="literature-Ranobe">Ранобе</button>
+          <button class="tab-button change-section" data-type="literature-Book">Книги</button>
+        </div>
+      </div>
+    </div>
+
+    <div class="window" id="titles">
+      <p class="retain">Если Вы нашли ошибку на сайте, возникли проблемы или вопросы – пишите в ЛС группы ВК</p>
+    </div>
+
+    <template id="card-template">
+      <article class="title-card">
+        <img loading="lazy" src="" alt="" />
+        <div class="title-info">
+          <span class="name-ru"></span>
+          <span class="name-en"></span>
+          <div class="just-info status"></div>
+          <div class="just-info donut"></div>
+          <div class="btn-group">
+            <button class="watch">Смотреть</button>
+            <button class="add-favorite"></button>
+          </div>
+        </div>
+      </article>
+    </template>
+
+    <template id="content-episodes">
+      <button class="popup-exit"></button>
+      <div class="title-info">
+        <span class="name-ru"></span>
+        <span class="name-en"></span>
+        <div class="donut"></div>
+      </div>
+      <div class="all-seasons-container">
+        <div class="episodes-container"></div>
+      </div>
+    </template>
+
+    <template id="Randomiser">
+      <button class="popup-exit"></button>
+      <button class="random-button"></button>
+      <div class="results-container"></div>
+    </template>
+
+    <script type="text/javascript" src="./BD1/Series/Anime.js"></script>
+    <script src="./BD1/Series/Anime_popups.js"></script>
+    <script src="./BD1/Series/Cartoons_popups.js"></script>
+    <script src="./BD1/Series/Cartoons.js"></script>
+    <script src="./BD1/Series/Serials.js"></script>
+    <script src="./BD1/Series/Serials_popups.js"></script>
+    <script src="./BD1/Fullmeter/fmAnime.js"></script>
+    <script src="./BD1/Fullmeter/fmAnime_popups.js"></script>
+    <script src="./BD1/Fullmeter/fmCartoons.js"></script>
+    <script src="./BD1/Fullmeter/fmCartoons_popups.js"></script>
+    <script src="./BD1/Fullmeter/fmMovies.js"></script>
+    <script src="./BD1/Fullmeter/fmMovies_popups.js"></script>
+    <script src="./BD1/Amusement/Events.js"></script>
+    <script src="./BD1/Amusement/Games.js"></script>
+    <script src="./BD1/Amusement/Games_popups.js"></script>
+    <script src="./BD1/Amusement/Poker_popups.js"></script>
+    <script src="./BD1/Amusement/TV-Show.js"></script>
+    <script src="./BD1/Amusement/TV-Show_popups.js"></script>
+    <script src="./BD1/Amusement/YT.js"></script>
+    <script src="./BD1/Amusement/YT_popups.js"></script>
+    <script src="./BD1/Literary/Books.js"></script>
+    <script src="./BD1/Literary/Books_popups.js"></script>
+    <script src="./BD1/Literary/Comics.js"></script>
+    <script src="./BD1/Literary/Comics_popups.js"></script>
+    <script src="./BD1/Literary/Manga.js"></script>
+    <script src="./BD1/Literary/Manga_popups.js"></script>
+    <script src="./BD1/Literary/Manhwa.js"></script>
+    <script src="./BD1/Literary/Manhwa_popups.js"></script>
+    <script src="./BD1/Literary/Ranobe.js"></script>
+    <script src="./BD1/Literary/Ranobe_popups.js"></script>
+
+    <script src="./JS/core.js"></script>
+    <script src="./JS/titles-module.js"></script>
+  </body>
+</html>

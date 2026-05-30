@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Заказы</title>
+
+    <link rel="stylesheet" href="style.css" />
+  </head>
+
+  <body>
+    <script src="header.js"></script>
+    <script>
+      // Подсветка раздела
+      document.addEventListener("DOMContentLoaded", function () {
+        const targetHref = "orders.html";
+
+        const links = document.querySelectorAll(".ecosys a");
+        links.forEach((link) => {
+          if (link.getAttribute("href") === targetHref) {
+            link.classList.add("active");
+          }
+        });
+
+        // Текст в поиске
+        const searchInput = document.getElementById("searchInput");
+        if (searchInput) {
+          searchInput.placeholder = "Поиск по заказам";
+        }
+      });
+    </script>
+
+    <div class="tabs">
+      <div class="tabs-container">
+        <div class="tabs-section">
+          <button class="tab-button change-section active" data-type="order-during">В процессе</button>
+          <button class="tab-button change-section" data-type="order-waiting">В очереди</button>
+          <button class="tab-button change-section" data-type="order-incomplete">Початое</button>
+          <button class="tab-button change-section" data-type="order-frozen">На паузе</button>
+          <button class="tab-button change-section" data-type="order-switch">Свапы</button>
+        </div>
+      </div>
+    </div>
+
+    <div class="window" id="orders">
+      <p class="retain">Если Вы нашли ошибку на сайте, возникли проблемы или вопросы – пишите в ЛС группы ВК</p>
+      <h1 class="retain RGB-accent" id="updateWas"></h1>
+    </div>
+
+    <template id="order-card-template">
+      <article class="order-card">
+        <div class="order-content">
+          <span class="name-ru"></span>
+          <span class="name-en"></span>
+          <div class="order-info"></div>
+        </div>
+        <button class="add-favorite"></button>
+        <div class="order-slots"></div>
+      </article>
+    </template>
+
+    <template id="slot-row-template">
+      <div class="slot-row">
+        <span class="slot-info date"></span>
+        <span class="slot-info count"></span>
+        <span class="slot-info nickname"></span>
+      </div>
+    </template>
+
+    <template id="order-switch-template">
+      <article class="order-card">
+        <div class="order-content from">
+          <span class="name-ru"></span>
+          <span class="name-en"></span>
+          <div class="order-info"></div>
+        </div>
+        <div class="order-content to">
+          <span class="name-ru"></span>
+          <span class="name-en"></span>
+          <div class="order-info"></div>
+        </div>
+      </article>
+    </template>
+
+    <script src="./BD2/Orders.js"></script>
+    <script src="./JS/core.js"></script>
+    <script src="./JS/orders-module.js"></script>
+  </body>
+</html>
