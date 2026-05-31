@@ -957,7 +957,7 @@ button {
   position: fixed;
   height: calc(var(--UI-letterbox) - (var(--PDNG-general) * 2));
   flex: 1 1 100%;
-  width: min(400px, 100%);
+  max-width: min(var(--CARD-title-width), 100%);
   top: 0;
   gap: var(--PDNG-general);
   z-index: 100;
