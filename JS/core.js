@@ -1,45 +1,4 @@
 // =========================================================================
-// Управление темой оформления сайта >>> HEAD
-// =========================================================================
-const html = document.documentElement;
-
-let currentTheme = localStorage.getItem("theme") || "auto";
-
-function applyTheme(theme) {
-  html.setAttribute("data-theme", theme);
-  localStorage.setItem("theme", theme);
-  currentTheme = theme;
-}
-
-applyTheme(currentTheme);
-
-function toggleTheme(targetTheme) {
-  if (targetTheme) {
-    applyTheme(targetTheme);
-  }
-}
-
-// =========================================================================
-// Индикатор онлайн-статуса стрима >>> HEAD
-// =========================================================================
-document.addEventListener("DOMContentLoaded", function () {
-  const streamElement = document.querySelector(".header-icon.stream");
-
-  fetch("https://decapi.me/twitch/uptime/godenname")
-    .then((response) => (response.ok ? response.text() : Promise.reject()))
-    .then((text) => {
-      if (!streamElement) return;
-      const responseText = text.trim().toLowerCase();
-
-      if (!responseText.includes("offline")) {
-        streamElement.classList.add("online");
-      } else {
-        streamElement.classList.remove("online");
-      }
-    });
-});
-
-// =========================================================================
 // Глобальные утилиты для управления попапами
 // =========================================================================
 function closeAllPopups() {
