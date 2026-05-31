@@ -1,6 +1,6 @@
 const headerTemplate = `
 	<nav class="ecosys">
-		<a href="/main">Главная</a>
+		<a href="/">Главная</a>
 		<a href="/titles">Тайтлы</a>
 		<a href="/orders">Заказы</a>
 	</nav>
