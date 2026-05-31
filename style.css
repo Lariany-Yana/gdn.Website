@@ -511,7 +511,7 @@ button {
           background-color: var(--branded-color);
           &[data-empty="true"] {
             background-color: red;
-						pointer-events: none;
+            pointer-events: none;
           }
 
           &.vk::after {
@@ -649,6 +649,7 @@ button {
       box-sizing: border-box;
       font-size: var(--TXT-size-normal);
       color: var(--RGB-regular);
+      will-change: transform;
 
       @supports (corner-shape: squircle) {
         & {
@@ -776,7 +777,7 @@ button {
         padding: 0 !important;
       }
 
-      .btn-group button, .popup-exit {
+      .btn-group button {
         will-change: transform;
       }
     }
