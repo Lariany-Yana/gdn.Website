@@ -1,4 +1,4 @@
-const updateWas = "Добавление новых слотов было: 25.05.25";
+const updateWas = "Добавление новых слотов было: 25.05.26";
 const ordersDatabase = [
   /* ШАБЛОН
   {

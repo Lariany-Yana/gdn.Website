@@ -479,8 +479,8 @@ const seriesSerials = [
   {
     nameRu: "Паук-Нуар || Человек-паук",
     nameEn: "Spider-Noir || Spider-man",
-    titleStatus: "Просмотрено: 1-8/8 Эпизод",
-    donutTerms: "",
+    titleStatus: "Просмотрено: 1-4/8 Эпизод",
+    donutTerms: "donut-lvl-3",
     id: "Series-Serials_Spider-Noir",
     posterImage: "https://static.tildacdn.com/tild3936-3065-4135-b630-313830363263/img.webp",
     cardType: "series-Serial",

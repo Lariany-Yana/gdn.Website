@@ -21,7 +21,7 @@ const getOrderWaitingTime = (item) => {
 const OrdersConfig = {
   containerId: "#orders",
   database: ordersDatabase,
-  defaultType: "order-during",
+  defaultType: "order-waiting",
   favKey: "fav_orders",
   favTextDefault: "Отслеживать",
   favTextAdded: "Отслеживается",

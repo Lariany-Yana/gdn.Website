@@ -200,7 +200,7 @@ button {
 }
 
 .RGB-regular {
-  color: var(--RGB-accent) !important;
+  color: var(--RGB-regular) !important;
 }
 .RGB-accent {
   color: var(--RGB-accent) !important;

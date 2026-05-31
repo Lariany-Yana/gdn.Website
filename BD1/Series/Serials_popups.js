@@ -2992,6 +2992,18 @@ const seriesSerialsPopups = {
       ],
     },
   ],
+  "Series-Serials_Spider-Noir": [
+    {
+      seasonName: "",
+      items: [
+        {
+          title: "1-4 Эпизод",
+          source: "vk",
+          link: "video-208448461_456241842?t=13m55s",
+        },
+      ],
+    },
+  ],
   "Series-Serials_The-Boys": [
     {
       seasonName: "1 Сезон",

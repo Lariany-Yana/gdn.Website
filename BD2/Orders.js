@@ -1,4 +1,4 @@
-const updateWas = "Добавление новых слотов было: 25.05.25";
+const updateWas = "Добавление новых слотов было: 25.05.26";
 const ordersDatabase = [
   /* ШАБЛОН
   {
@@ -45,7 +45,7 @@ const ordersDatabase = [
   {
     nameRu: "Декстер",
     nameEn: "Dexter",
-    orderRemark: "Сериал, 7 Сезон 3-12/12 Эпизод / Требуется +5 слота",
+    orderRemark: "Сериал, 7 Сезон 3-12/12 Эпизод Требуется +5 слота",
     personalOrder: "",
     cardType: "order-during",
     id: "order_Dexter",
@@ -1108,7 +1108,7 @@ const ordersDatabase = [
   {
     nameRu: "Южный Парк",
     nameEn: "South Park",
-    orderRemark: "Мультсериал, 3 Сезон 7-17/17 Эпизод / Требуется +2,75 слота",
+    orderRemark: "Мультсериал, 3 Сезон 7-17/17 Эпизод / Требуется +2.75 слота",
     personalOrder: "",
     cardType: "order-incomplete",
     id: "order_South-Park",

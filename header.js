@@ -1,8 +1,8 @@
 const headerTemplate = `
 	<nav class="ecosys">
-		<a href="main.html">Главная</a>
-		<a href="titles.html">Тайтлы</a>
-		<a href="orders.html">Заказы</a>
+		<a href="/main">Главная</a>
+		<a href="/titles">Тайтлы</a>
+		<a href="/orders">Заказы</a>
 	</nav>
 
 	<nav class="search-header">
