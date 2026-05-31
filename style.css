@@ -776,7 +776,7 @@ button {
         padding: 0 !important;
       }
 
-      .btn-group button {
+      .btn-group button, .popup-exit {
         will-change: transform;
       }
     }
