@@ -28,6 +28,7 @@ document.addEventListener("DOMContentLoaded", function () {
   fetch("https://decapi.me/twitch/uptime/godenname")
     .then((response) => (response.ok ? response.text() : Promise.reject()))
     .then((text) => {
+      if (!streamElement) return;
       const responseText = text.trim().toLowerCase();
 
       if (!responseText.includes("offline")) {
@@ -106,10 +107,11 @@ function renderSearchResults(filteredArray, createCardFn, placeholderText = "Ð’Ð
     const itemsToRender = filteredArray.slice(0, LIMIT);
 
     itemsToRender.forEach((item) => {
-      const cardFragment = createCardFn(item);
-      const card = cardFragment.querySelector(".title-card, .order-card") || cardFragment.firstElementChild;
+      const cardNode = createCardFn(item);
 
-      wrap.appendChild(cardFragment);
+      const card = cardNode.classList?.contains("title-card") || cardNode.classList?.contains("order-card") ? cardNode : cardNode.querySelector(".title-card, .order-card") || cardNode.firstElementChild;
+
+      wrap.appendChild(cardNode);
       animateCardAppearance(card);
     });
     container.appendChild(wrap);

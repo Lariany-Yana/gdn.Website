@@ -40,44 +40,8 @@ const ordersDatabase = [
     personalOrder: "",
     cardType: "order-during",
     id: "order_One-Piece-Manga",
-    items: [
-      {
-        nickname: "Дурко",
-        slot: "1",
-        date: "15.05.26",
-      },
-    ],
+    items: [],
   },*/
-  {
-    nameRu: "Сокол и Зимний Солдат",
-    nameEn: "The Falcon and the Winter Soldier",
-    orderRemark: "Сериал, 1 Сезон 5-6/6 Эпизод",
-    personalOrder: "",
-    cardType: "order-during",
-    id: "order_Falcon-and-Winter-Soldier",
-    items: [
-      {
-        nickname: "Сулейка",
-        slot: "1",
-        date: "01.03.25",
-      },
-    ],
-  },
-  {
-    nameRu: "Южный Парк",
-    nameEn: "South Park",
-    orderRemark: "Мультсериал, 3 Сезон 3-6/17 Эпизод",
-    personalOrder: "user_Katya",
-    cardType: "order-during",
-    id: "order_South-Park",
-    items: [
-      {
-        nickname: "Твою мать!",
-        slot: "1",
-        date: "21.04.26",
-      },
-    ],
-  },
   {
     nameRu: "Декстер",
     nameEn: "Dexter",
@@ -385,21 +349,6 @@ const ordersDatabase = [
         nickname: "Кирвин",
         slot: "1",
         date: "10.06.25",
-      },
-    ],
-  },
-  {
-    nameRu: "Фантастическая четверка",
-    nameEn: "Fantastic Four",
-    orderRemark: "Фильм",
-    personalOrder: "",
-    cardType: "order-waiting",
-    id: "order_Fantastic-Four-1",
-    items: [
-      {
-        nickname: "Демон21",
-        slot: "1",
-        date: "24.06.25",
       },
     ],
   },
@@ -1156,6 +1105,15 @@ const ordersDatabase = [
   },
   //#endregion
   //#region Початые
+  {
+    nameRu: "Южный Парк",
+    nameEn: "South Park",
+    orderRemark: "Мультсериал, 3 Сезон 7-17/17 Эпизод / Требуется +2,75 слота",
+    personalOrder: "",
+    cardType: "order-incomplete",
+    id: "order_South-Park",
+    items: [],
+  },
   {
     nameRu: "Для тебя, Бессмертный",
     nameEn: "Fumetsu no Anata e",

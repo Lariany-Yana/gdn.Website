@@ -130,17 +130,15 @@ function createTitleCard(item) {
 
   if (item.id && String(item.id).trim() !== "") {
     if (favBtn) {
-      if (item.id && String(item.id).trim() !== "") {
-        favBtn.classList.remove("hidden");
+      favBtn.classList.remove("hidden");
 
-        const currentFavs = JSON.parse(localStorage.getItem(TitlesConfig.favKey)) || [];
-        const isFav = currentFavs.includes(String(item.id));
+      const currentFavs = JSON.parse(localStorage.getItem(TitlesConfig.favKey)) || [];
+      const isFav = currentFavs.includes(String(item.id));
 
-        favBtn.textContent = isFav ? TitlesConfig.favTextAdded : TitlesConfig.favTextDefault;
-        favBtn.classList.toggle("tracked", isFav);
-      } else {
-        favBtn.classList.add("hidden");
-      }
+      favBtn.textContent = isFav ? TitlesConfig.favTextAdded : TitlesConfig.favTextDefault;
+      favBtn.classList.toggle("tracked", isFav);
+    } else {
+      favBtn.classList.add("hidden");
     }
   }
 
@@ -190,10 +188,20 @@ function createTitleCard(item) {
     };
   }
 
+  const hasLink = Array.isArray(linkData) ? !!linkData[1]?.trim() : !!linkData?.trim();
+  const hasPopup = !!popupDatabase[item.id];
+
+  if (!hasLink && !hasPopup) {
+    watchBtn.setAttribute("data-empty", "true");
+    watchBtn.textContent = "ERROR";
+  }
+
   return clone;
 }
 
 function openPopup(id) {
+  const resContainer = document.querySelector(".results-container");
+  if (resContainer) resContainer.innerHTML = "";
   let titleData = cardDatabase.find((i) => i.id === id);
 
   if (!titleData) {
@@ -370,8 +378,11 @@ const TitlesConfig = {
       const directScore = Math.max(scoreRu, scoreEn);
 
       if (directScore > 0) {
-        item.score = directScore - (item.nameRuLower || "").length * 0.001;
-        filtered.push(item);
+        const scoredItem = {
+          ...item,
+          score: directScore - (item.nameRuLower || "").length * 0.001,
+        };
+        filtered.push(scoredItem);
         continue;
       }
 
@@ -384,8 +395,11 @@ const TitlesConfig = {
 
       const score = matches / queryTris.length;
       if (score > 0.35) {
-        item.score = score * 0.5;
-        filtered.push(item);
+        const scoredItem = {
+          ...item,
+          score: score * 0.5,
+        };
+        filtered.push(scoredItem);
       }
     }
 

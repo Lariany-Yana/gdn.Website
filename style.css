@@ -9,6 +9,10 @@
 
 ::-webkit-scrollbar-thumb {
   background-color: var(--RGB-regular) !important;
+  cursor: grab;
+}
+::-webkit-scrollbar-thumb:active {
+  background-color: var(--RGB-accent) !important;
 }
 
 ::-webkit-scrollbar-thumb:vertical {
@@ -28,7 +32,7 @@
 }
 
 ::-webkit-scrollbar-button:horizontal {
-  width: 0px !important;
+  width: var(--PDNG-extra) !important;
 }
 
 :root {
@@ -352,7 +356,7 @@ button {
 /* Карточка-тайтл */
 .title-card {
   flex: 1 1 var(--WIN-width);
-  max-width: var(--CARD-title-width);
+  max-width: min(var(--CARD-title-width), 100%);
   box-sizing: border-box;
   border-radius: 0px;
   overflow: hidden;
@@ -360,7 +364,6 @@ button {
   display: flex;
   flex-direction: column;
   background: transparent;
-  backdrop-filter: var(--BLUR-main);
 
   img {
     width: 100%;
@@ -416,7 +419,7 @@ button {
   .title-info {
     position: relative;
     overflow: hidden;
-    background: var(--CARD-color);
+    background-color: var(--CARD-color);
     padding: calc((var(--PDNG-general) / 2) * 1.5);
     display: flex;
     flex-direction: column;
@@ -437,7 +440,7 @@ button {
       height: 100%;
       opacity: 0.1;
       transform: skewX(-25deg);
-      animation: glare 6s ease-in-out infinite;
+      animation: glare 6s ease infinite;
       z-index: 1;
     }
 
@@ -484,14 +487,32 @@ button {
 
         &:first-child {
           border-radius: 0 var(--BDR-radius-extra) var(--BDR-radius-extra) 0;
+          @supports (corner-shape: bevel) {
+            & {
+              border-radius: 0 var(--BDR-radius-main) var(--BDR-radius-main) 0;
+              corner-shape: bevel;
+              padding-left: 0;
+            }
+          }
         }
 
         &:last-child {
           border-radius: var(--BDR-radius-extra) 0 0 var(--BDR-radius-extra);
+          @supports (corner-shape: bevel) {
+            & {
+              border-radius: var(--BDR-radius-main) 0 0 var(--BDR-radius-main);
+              corner-shape: bevel;
+              padding-right: 0;
+            }
+          }
         }
 
         &.watch {
           background-color: var(--branded-color);
+          &[data-empty="true"] {
+            background-color: red;
+						pointer-events: none;
+          }
 
           &.vk::after {
             content: " в ВК";
@@ -511,18 +532,6 @@ button {
         }
       }
     }
-  }
-}
-
-@keyframes glare {
-  0% {
-    left: -150%;
-  }
-  50% {
-    left: 150%;
-  }
-  100% {
-    left: 150%;
   }
 }
 
@@ -586,27 +595,6 @@ button {
   }
 }
 
-img::after {
-  content: "No data :[";
-  display: block;
-  position: absolute;
-  font-family: var(--TXT-family-extra) !important;
-  font-size: var(--TXT-size-normal);
-  padding: var(--PDNG-general);
-  box-sizing: border-box;
-  border-radius: inherit;
-  color: var(--RGB-background);
-  top: 0;
-  left: 0;
-  width: 100%;
-  aspect-ratio: inherit;
-  background-color: var(--RGB-regular) !important;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: 50%;
-  background-image: url("https://static.tildacdn.com/tild3662-3930-4762-a566-333830316637/icon.svg");
-}
-
 /* Попап */
 .popup-overlay {
   position: fixed;
@@ -640,6 +628,12 @@ img::after {
     flex-direction: column;
     flex-wrap: nowrap;
     align-items: center;
+    @supports (corner-shape: bevel) {
+      & {
+        border-radius: var(--BDR-radius-extra);
+        corner-shape: bevel;
+      }
+    }
 
     .popup-exit {
       position: sticky;
@@ -655,6 +649,13 @@ img::after {
       box-sizing: border-box;
       font-size: var(--TXT-size-normal);
       color: var(--RGB-regular);
+
+      @supports (corner-shape: squircle) {
+        & {
+          border-radius: 0 0 var(--BDR-radius-main) var(--BDR-radius-main);
+          corner-shape: squircle;
+        }
+      }
 
       &::after {
         content: "Закрыть окно";
@@ -730,6 +731,12 @@ img::after {
           &.lost {
             background-color: DimGrey !important;
           }
+          @supports (corner-shape: squircle) {
+            & {
+              border-radius: var(--BDR-radius-main);
+              corner-shape: squircle;
+            }
+          }
         }
       }
 
@@ -756,8 +763,8 @@ img::after {
           opacity: 0;
           transform: scale(0.9);
           transition:
-            opacity var(--UI-transition-extra) ease-in-out,
-            transform var(--UI-transition-extra) ease-in-out;
+            opacity var(--UI-transition-extra) ease,
+            transform var(--UI-transition-extra) ease;
 
           &.visible {
             opacity: 1;
@@ -765,28 +772,100 @@ img::after {
           }
         }
       }
+      .card-container {
+        padding: 0 !important;
+      }
+
+      .btn-group button {
+        will-change: transform;
+      }
     }
 
     .custom-content {
       width: 50%;
       &.settings {
-        padding: var(--PDNG-general);
-        border: 1px var(--POPUP-border-color) solid;
         display: flex;
         flex-direction: column;
         align-items: center;
-        gap: var(--PDNG-extra);
+        gap: var(--PDNG-general) !important;
 
         p {
           text-align: center;
         }
 
         .slider {
+          --thumb-height: 10px;
           display: flex;
           flex-direction: column;
           justify-content: center;
-          justify-items: center;
-          gap: calc(var(--PDNG-extra) / 2);
+          text-align: center;
+          width: var(--CARD-title-width);
+          gap: var(--PDNG-extra);
+
+          label span {
+            font-weight: bold;
+            color: var(--RGB-accent);
+          }
+
+          input[type="range"] {
+            -webkit-appearance: none;
+            appearance: none;
+            width: 100%;
+            background: transparent;
+            cursor: pointer;
+
+            &::-webkit-slider-runnable-track {
+              height: var(--thumb-height);
+              background: var(--RGB-regular);
+              border-radius: calc((var(--thumb-height) / 2));
+            }
+
+            &::-moz-range-track {
+              height: var(--thumb-height);
+              background: var(--RGB-regular);
+              border-radius: calc((var(--thumb-height) / 2));
+            }
+
+            &::-webkit-slider-thumb {
+              -webkit-appearance: none;
+              appearance: none;
+              cursor: pointer;
+              margin-top: calc((var(--thumb-height) / 2) * -1);
+              height: calc((var(--thumb-height) * 2));
+              width: var(--thumb-height);
+              border-radius: calc((var(--thumb-height) / 2));
+              background-color: var(--RGB-accent);
+            }
+
+            &::-moz-range-thumb {
+              cursor: pointer;
+              margin-top: calc((var(--thumb-height) / 2) * -1);
+              height: calc((var(--thumb-height) * 2));
+              width: var(--thumb-height);
+              border-radius: calc((var(--thumb-height) / 2));
+              background-color: var(--RGB-accent);
+            }
+          }
+
+          .reset {
+            padding: var(--PDNG-button);
+            font-size: var(--TXT-size-buttons);
+            text-transform: uppercase;
+            background-color: transparent;
+            border: 1px var(--RGB-regular) solid;
+            border-radius: var(--BDR-radius-extra);
+            cursor: pointer;
+            transition: border var(--UI-transition-extra) ease;
+            @supports (corner-shape: squircle) {
+              & {
+                border-radius: var(--BDR-radius-main);
+                corner-shape: squircle;
+              }
+            }
+            &:hover {
+              border: 1px var(--RGB-accent) solid;
+            }
+          }
         }
       }
     }
@@ -805,7 +884,6 @@ img::after {
   max-width: var(--WIN-width);
   border-radius: var(--BDR-radius-extra) var(--BDR-radius-extra) 0 0;
   justify-self: center;
-  padding: 0 var(--PDNG-general);
   border: var(--BDR-size) solid var(--WIN-border-color);
   border-bottom: none !important;
 
@@ -839,6 +917,12 @@ img::after {
       & + &::before {
         content: "×";
       }
+      &:first-child {
+        padding-left: var(--PDNG-general);
+      }
+      &:last-child {
+        padding-right: var(--PDNG-general);
+      }
 
       .tab-button {
         cursor: pointer;
@@ -848,7 +932,6 @@ img::after {
         flex: 1 1 auto;
         white-space: nowrap;
         height: 100%;
-        border-radius: var(--BDR-radius-extra);
         padding: var(--PDNG-extra) 0;
         background: none;
         box-sizing: border-box;
@@ -899,12 +982,19 @@ img::after {
     text-transform: uppercase;
     text-align: center;
     border-radius: var(--BDR-radius-extra);
+
     font-size: var(--TXT-size-normal);
     box-sizing: border-box;
     color: var(--FIND-input-color);
     background-color: var(--FIND-color);
     border: var(--BDR-size) solid var(--FIND-border);
     outline: none;
+    @supports (corner-shape: squircle) {
+      & {
+        border-radius: var(--BDR-radius-main);
+        corner-shape: squircle;
+      }
+    }
 
     &::placeholder {
       color: var(--FIND-placeholder-color);
@@ -922,6 +1012,12 @@ img::after {
   box-sizing: border-box;
   background-color: var(--RGB-regular);
   transition: background-color var(--UI-transition-extra) ease;
+  @supports (corner-shape: squircle) {
+    & {
+      border-radius: var(--BDR-radius-main);
+      corner-shape: squircle;
+    }
+  }
 
   svg {
     padding: 5px;
@@ -938,10 +1034,10 @@ img::after {
     &.online {
       cursor: pointer;
       filter: none;
-      animation: pulse 1.5s ease-in-out infinite;
+      animation: pulse 1.5s ease infinite;
     }
     &:not(.online) {
-      pointer-events: none;
+      pointer-events: none !important;
       filter: grayscale(1);
     }
   }
@@ -955,18 +1051,6 @@ img::after {
     filter: none !important;
     animation: none !important;
     background-color: light-dark(color-mix(in oklab, var(--RGB-regular), white 10%), color-mix(in oklab, var(--RGB-regular), black 10%)) !important;
-  }
-}
-
-@keyframes pulse {
-  0% {
-    background-color: var(--RGB-regular);
-  }
-  50% {
-    background-color: light-dark(color-mix(in oklab, var(--RGB-regular), white 20%), color-mix(in oklab, var(--RGB-regular), black 20%)) !important;
-  }
-  100% {
-    background-color: var(--RGB-regular);
   }
 }
 
@@ -1039,6 +1123,12 @@ img::after {
         height: auto;
         background-color: var(--RGB-regular) !important;
         opacity: 0.1;
+      }
+      @supports (corner-shape: squircle) {
+        & {
+          border-radius: var(--BDR-radius-main);
+          corner-shape: squircle;
+        }
       }
 
       .slot-info {
@@ -1115,6 +1205,12 @@ img::after {
     background-color: var(--bg-color) !important;
     border: 2px var(--bg-color) solid !important;
     border-radius: var(--BDR-radius-main) !important;
+    @supports (corner-shape: squircle) {
+      & {
+        border-radius: calc(var(--BDR-radius-main) * 2) !important;
+        corner-shape: squircle;
+      }
+    }
     .order-content {
       .name-ru {
         color: var(--txt-regular) !important;
@@ -1134,10 +1230,10 @@ img::after {
     }
     .order-slots {
       .slot-row {
+        border: 1px var(--txt-accent) solid !important;
         &::before {
           background-color: var(--bg-color) !important;
         }
-        border: 1px var(--txt-accent) solid !important;
         .slot-info {
           color: var(--txt-accent) !important;
         }
@@ -1173,6 +1269,11 @@ img::after {
     .order-slots {
       .slot-row {
         border-radius: 5px !important;
+        @supports (corner-shape: squircle) {
+          & {
+            corner-shape: scoop;
+          }
+        }
         &::before {
           background-color: var(--txt-accent) !important;
           opacity: 0.75 !important;
@@ -1342,6 +1443,27 @@ img::after {
     border-radius: var(--PDNG-general);
     object-position: center bottom;
     backdrop-filter: var(--BLUR-main);
+
+    &[src=""]::after {
+      content: "No data :[";
+      display: block;
+      position: absolute;
+      font-family: var(--TXT-family-extra) !important;
+      font-size: var(--TXT-size-normal);
+      padding: var(--PDNG-general);
+      box-sizing: border-box;
+      border-radius: inherit;
+      color: var(--RGB-background);
+      top: 0;
+      left: 0;
+      width: 100%;
+      aspect-ratio: inherit;
+      background-color: var(--RGB-regular) !important;
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: 50%;
+      background-image: url("https://static.tildacdn.com/tild3662-3930-4762-a566-333830316637/icon.svg");
+    }
   }
 
   .bio {
@@ -1361,6 +1483,7 @@ img::after {
     &:not(:has(.text)) .name {
       margin-top: 0;
       border-radius: 0 0 calc(var(--BDR-radius-main) / 2) calc(var(--BDR-radius-main) / 2);
+      corner-shape: unset;
     }
 
     .name {
@@ -1376,6 +1499,12 @@ img::after {
       box-sizing: border-box;
       border-radius: calc(var(--BDR-radius-main) / 2);
       color: white;
+      @supports (corner-shape: squircle) {
+        & {
+          border-radius: var(--BDR-radius-main);
+          corner-shape: squircle;
+        }
+      }
     }
 
     .text {
@@ -1476,13 +1605,9 @@ details.schedule {
   .search-header {
     opacity: 1 !important;
   }
-  .episodes-container {
-    width: 100% !important;
-  }
-  .custom-content {
-    width: 100% !important;
-  }
-
+  .episodes-container,
+  .title-card,
+  .custom-content,
   .avatar {
     width: 100% !important;
   }
@@ -1495,113 +1620,26 @@ details.schedule {
   }
 }
 
-
-/* =========================================================================
-   БАЗОВЫЙ КОНТЕЙНЕР СЛАЙДЕРА
-   ========================================================================= */
-.slider {
-  display: flex;
-  flex-direction: column; /* Элементы выстраиваются друг под другом */
-  gap: 10px; /* Отступ между текстом, ползунком и кнопкой */
-  font-family: sans-serif;
-  max-width: 300px; /* Ограничиваем ширину контейнера */
-  padding: 15px;
-  background-color: #f9f9f9; /* Фон контейнера (можно убрать) */
-  border-radius: 8px;
+@keyframes pulse {
+  0% {
+    background-color: var(--RGB-regular);
+  }
+  50% {
+    background-color: light-dark(color-mix(in oklab, var(--RGB-regular), white 20%), color-mix(in oklab, var(--RGB-regular), black 20%)) !important;
+  }
+  100% {
+    background-color: var(--RGB-regular);
+  }
 }
 
-/* Стилизация текста и индикатора процентов */
-.slider label {
-  font-size: 14px;
-  color: #333333;
-  font-weight: 500;
-}
-
-.slider label span {
-  font-weight: bold;
-  color: #007bff; /* Цвет цифр процентов */
-}
-
-/* =========================================================================
-   СТИЛИЗАЦИЯ ПОЛЗУНКА (INPUT RANGE)
-   ========================================================================= */
-.slider input[type="range"] {
-  -webkit-appearance: none; /* Отключаем стандартные стили браузера */
-  appearance: none;
-  width: 100%;
-  background: transparent; /* Убираем дефолтный фон */
-  cursor: pointer;
-}
-
-/* --- Дорожка слайдера (Track) --- */
-/* Для Chrome, Safari, Edge, Opera */
-.slider input[type="range"]::-webkit-slider-runnable-track {
-  height: 6px;
-  background: #e0e0e0; /* Цвет дорожки */
-  border-radius: 3px;
-}
-
-/* Для Firefox */
-.slider input[type="range"]::-moz-range-track {
-  height: 6px;
-  background: #e0e0e0;
-  border-radius: 3px;
-}
-
-/* --- Сам ползунок (Thumb / Кругляшок) --- */
-/* Для Chrome, Safari, Edge, Opera */
-.slider input[type="range"]::-webkit-slider-thumb {
-  -webkit-appearance: none; /* Отключаем дефолт */
-  appearance: none;
-  margin-top: -5px; /* Центрируем крутилку относительно дорожки ( (высота_дорожки - высота_крутилки) / 2 ) */
-  height: 16px;
-  width: 16px;
-  border-radius: 50%; /* Делаем круглым */
-  background: #007bff; /* Цвет крутилки */
-  transition: transform 0.1s ease;
-}
-
-/* Для Firefox */
-.slider input[type="range"]::-moz-range-thumb {
-  border: none; /* Убираем дефолтную рамку Firefox */
-  height: 16px;
-  width: 16px;
-  border-radius: 50%;
-  background: #007bff;
-  transition: transform 0.1s ease;
-}
-
-/* Эффект при наведении на крутилку */
-.slider input[type="range"]::-webkit-slider-thumb:hover {
-  transform: scale(1.2); /* Слегка увеличивается */
-}
-.slider input[type="range"]::-moz-range-thumb:hover {
-  transform: scale(1.2);
-}
-
-/* =========================================================================
-   КНОПКА СБРОСА
-   ========================================================================= */
-.slider .reset-width-btn {
-  padding: 6px 12px;
-  font-size: 13px;
-  color: #555555;
-  background-color: #ffffff;
-  border: 1px solid #cccccc;
-  border-radius: 4px;
-  cursor: pointer;
-  transition: all 0.2s ease;
-  align-self: flex-start; /* Кнопка не растягивается во всю ширину */
-}
-
-/* Эффекты для кнопки */
-.slider .reset-width-btn:hover {
-  background-color: #f0f0f0;
-  color: #333333;
-  border-color: #999999;
-}
-
-.slider .reset-width-btn:active {
-  background-color: #e5e5e5;
-  transform: scale(0.98); /* Эффект нажатия */
+@keyframes glare {
+  0% {
+    left: -150%;
+  }
+  50% {
+    left: 150%;
+  }
+  100% {
+    left: 150%;
+  }
 }

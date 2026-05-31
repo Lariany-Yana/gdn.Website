@@ -4098,7 +4098,7 @@ const seriesAnimePopups = {
       ],
     },
   ],
-  "Series-Anime_LOGG": [
+  "Series-Anime_Legend-of-the-Galactic-Heroes": [
     {
       seasonName: "1 Сезон",
       items: [

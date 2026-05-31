@@ -477,6 +477,15 @@ const seriesSerials = [
     cardType: "series-Serial",
   },
   {
+    nameRu: "Паук-Нуар || Человек-паук",
+    nameEn: "Spider-Noir || Spider-man",
+    titleStatus: "Просмотрено: 1-8/8 Эпизод",
+    donutTerms: "",
+    id: "Series-Serials_Spider-Noir",
+    posterImage: "https://static.tildacdn.com/tild3936-3065-4135-b630-313830363263/img.webp",
+    cardType: "series-Serial",
+  },
+  {
     nameRu: "Пацаны",
     nameEn: "The Boys",
     titleStatus: "Просмотрено: 3 Сезона",
@@ -559,7 +568,7 @@ const seriesSerials = [
   {
     nameRu: "Сокол и Зимний Солдат",
     nameEn: "The Falcon and the Winter Soldier",
-    titleStatus: "Просмотрено: 1-4/6 Эпизод",
+    titleStatus: "Просмотрено: 1-6/6 Эпизод",
     donutTerms: "donut-lvl-3",
     id: "Series-Serials_The-Falcon-and-the-Winter-Soldier",
     posterImage: "https://static.tildacdn.com/tild6236-3961-4333-b165-616537643535/_The_Falcon_and_the_.webp",

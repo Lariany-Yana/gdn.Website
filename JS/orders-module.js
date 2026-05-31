@@ -59,29 +59,24 @@ const OrdersConfig = {
         };
       }),
 
-createCardFn: (order) => {
-    // 1. Обработка специального типа карточек: Свапы заказов
+  createCardFn: (order) => {
     if (order.cardType === "order-switch") {
       const template = document.getElementById("order-switch-template");
       if (!template) {
         console.error("Шаблон order-switch-template не найден");
         return document.createElement("article");
       }
-      
+
       const fragment = template.content.cloneNode(true);
       const card = fragment.querySelector(".order-card");
 
-      // ID для карточек свапов обычно не критичен (они без кнопки избранного), 
-      // но на всякий случай генерируем или берем пустой
       const orderId = order.id ? String(order.id).trim() : "";
       if (orderId) card.id = orderId;
 
-      // Добавляем класс кастомизации (например, цвет пользователя)
       if (order.personalOrder && order.personalOrder.trim() !== "") {
         card.classList.add(order.personalOrder.trim());
       }
 
-      // Заполняем блок "ОТКУДА" (from) -> суффикс _1
       const fromBlock = card.querySelector(".order-content.from");
       if (fromBlock) {
         fromBlock.querySelector(".name-ru").textContent = order.nameRu_1 || "";
@@ -89,7 +84,6 @@ createCardFn: (order) => {
         hideIfEmpty(fromBlock.querySelector(".order-info"), order.orderRemark_1);
       }
 
-      // Заполняем блок "КУДА" (to) -> суффикс _2
       const toBlock = card.querySelector(".order-content.to");
       if (toBlock) {
         toBlock.querySelector(".name-ru").textContent = order.nameRu_2 || "";
@@ -100,7 +94,6 @@ createCardFn: (order) => {
       return card;
     }
 
-    // 2. Стандартная логика для всех остальных типов карточек (с фильтрацией по слотам)
     const template = document.getElementById("order-card-template");
     const slotTemplate = document.getElementById("slot-row-template");
     const fragment = template.content.cloneNode(true);
@@ -144,58 +137,77 @@ createCardFn: (order) => {
       }
     }
 
+    const nameElements = card.querySelectorAll(".name-ru");
+
+    nameElements.forEach((element) => {
+      element.style.cursor = "copy";
+      let isCopying = false;
+
+      element.addEventListener("click", () => {
+        if (isCopying) return;
+
+        const textToCopy = element.textContent.trim();
+        if (!textToCopy) return;
+
+        isCopying = true;
+        navigator.clipboard
+          .writeText(textToCopy)
+          .then(() => {
+            const originalText = textToCopy;
+            element.textContent = "Скопировано в буфер обмена";
+            element.classList.add("copied");
+
+            setTimeout(() => {
+              element.textContent = originalText;
+              element.classList.remove("copied");
+              isCopying = false;
+            }, 1500);
+          })
+          .catch((err) => {
+            console.error("Ошибка копирования", err);
+            isCopying = false;
+          });
+      });
+    });
+
     return card;
   },
 
   openSearchFn: (query, indexedData) => {
-    let popup = document.getElementById("popup-search") || initPopup("search");
-    const container = popup.querySelector(".results-container");
-
     if (query.length < 2) {
-      container.innerHTML = `<p class="search-hint">${OrdersConfig.searchPlaceholder}</p>`;
+      renderSearchResults(null, OrdersConfig.createCardFn, OrdersConfig.searchPlaceholder);
       return;
     }
 
     const lowerQuery = query.toLowerCase();
-    let filtered = [];
+    const filtered = [];
 
     if (lowerQuery.startsWith("@")) {
       const pureNickQuery = lowerQuery.slice(1);
 
       if (pureNickQuery.length === 0) {
-        container.innerHTML = `<p class="search-hint">${OrdersConfig.searchPlaceholder}</p>`;
+        renderSearchResults(null, OrdersConfig.createCardFn, OrdersConfig.searchPlaceholder);
         return;
       }
 
-      filtered = indexedData.filter((item) => item.nicknameIndex.some((nick) => nick.includes(pureNickQuery)));
-    } else {
-      filtered = indexedData.filter((item) => item.searchIndex.includes(lowerQuery));
-    }
+      indexedData.forEach((item) => {
+        const matchedNick = item.nicknameIndex.find((nick) => nick.includes(pureNickQuery));
+        if (matchedNick) {
+          const score = calculateMatchScore(matchedNick, pureNickQuery);
 
-    container.innerHTML = filtered.length ? "" : "<p>Ничего не найдено</p>";
-
-    if (filtered.length) {
-      const wrap = document.createElement("div");
-      wrap.className = "card-container";
-
-      const LIMIT = 15;
-      const itemsToRender = filtered.slice(0, LIMIT);
-
-      itemsToRender.forEach((item) => {
-        const card = OrdersConfig.createCardFn(item);
-        wrap.appendChild(card);
-        animateCardAppearance(card);
+          filtered.push({ ...item, score });
+        }
       });
-
-      container.appendChild(wrap);
-
-      if (filtered.length > LIMIT) {
-        const leftOver = filtered.length - LIMIT;
-        const remainingItems = filtered.slice(LIMIT);
-
-        renderSearchMoreButton(container, wrap, remainingItems, OrdersConfig.createCardFn, leftOver);
-      }
+    } else {
+      indexedData.forEach((item) => {
+        const score = calculateMatchScore(item.searchIndex, lowerQuery);
+        if (score > 0) {
+          filtered.push({ ...item, score });
+        }
+      });
     }
+
+    renderSearchResults(filtered, OrdersConfig.createCardFn, OrdersConfig.searchPlaceholder);
   },
 };
 

@@ -197,7 +197,7 @@ const fullmeterCartoonPopups = {
       cardType: "fullmeter-Cartoon",
     },
   ],
-  "Fullmeter-Cartoon_The-Lego-Movie": [
+  "Fullmeter-Cartoon_The-Lego-Movies": [
     {
       nameRu: "ЛЕГО Фильм",
       nameEn: "The Lego Movie",

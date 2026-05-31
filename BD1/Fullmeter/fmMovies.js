@@ -526,6 +526,7 @@ const fullmeterMovie = [
     nameRu: "Волк с Уолл-стрит",
     nameEn: "The Wolf of Wall Street",
     donutTerms: "",
+    titleLink: ["boosty", "hiddenarchive/posts/2a10acb8-655e-4e33-8399-6f5f62f61abc?share=success_publish_link"],
     id: "Fullmeter-Movie_Wolf-of-Wall-Street",
     posterImage: "https://static.tildacdn.com/tild6439-6666-4735-a566-383066306137/__-.webp",
     cardType: "fullmeter-Movie",
@@ -1590,7 +1591,7 @@ const fullmeterMovie = [
     nameRu: "Любовь и другие лекарства",
     nameEn: "Love & Other Drugs",
     donutTerms: "donut-lvl-3",
-    titleLink: ["vk", "video-208448461_456240806?t=3m35s"],
+    titleLink: ["vk", "video-208448461_456241430?t=12m16s"],
     id: "Fullmeter-Movie_Love-Other-Drugs",
     posterImage: "https://static.tildacdn.com/tild6233-6134-4164-a561-323931383862/___.webp",
     cardType: "fullmeter-Movie",
@@ -2261,7 +2262,7 @@ const fullmeterMovie = [
     titleStatus: "Сборник",
     donutTerms: "",
     id: "Fullmeter-Movie_Saw",
-    posterImage: "https://static.tildacdn.com/tild3632-3332-4561-b334-363739326232/photo.webp",
+    posterImage: "https://static.tildacdn.com/tild6530-3766-4532-b131-646635656338/img.webp",
     cardType: "fullmeter-Movie",
   },
   {
@@ -2270,7 +2271,7 @@ const fullmeterMovie = [
     titleStatus: "Сборник",
     donutTerms: "",
     id: "Fullmeter-Movie_Kick-Ass",
-    posterImage: "https://static.tildacdn.com/tild6662-3739-4238-a462-643035363631/photo.webp",
+    posterImage: "https://static.tildacdn.com/tild3635-3363-4634-b636-633133353636/img.webp",
     cardType: "fullmeter-Movie",
   },
   {
@@ -2288,7 +2289,7 @@ const fullmeterMovie = [
     titleStatus: "Сборник",
     donutTerms: "",
     id: "Fullmeter-Movie_Pirates-of-Caribbean",
-    posterImage: "https://static.tildacdn.com/tild6332-6161-4766-b039-616538356432/__.webp",
+    posterImage: "https://static.tildacdn.com/tild6562-3737-4566-a332-373537666632/img.webp",
     cardType: "fullmeter-Movie",
   },
   {
@@ -2978,7 +2979,7 @@ const fullmeterMovie = [
     titleStatus: "Сборник",
     donutTerms: "",
     id: "Fullmeter-Movie_Taxi",
-    posterImage: "https://static.tildacdn.com/tild6137-6566-4938-b264-303765643631/photo.webp",
+    posterImage: "https://static.tildacdn.com/tild3165-6337-4339-b061-653330616364/img.webp",
     cardType: "fullmeter-Movie",
   },
   {
@@ -3041,7 +3042,7 @@ const fullmeterMovie = [
     titleStatus: "Сборник",
     donutTerms: "",
     id: "Fullmeter-Movie_Top-Gun",
-    posterImage: "https://static.tildacdn.com/tild3937-3833-4964-b430-363034346635/_.webp",
+    posterImage: "https://static.tildacdn.com/tild3332-3137-4263-a333-393537636566/img.webp",
     cardType: "fullmeter-Movie",
   },
   {
@@ -3050,7 +3051,7 @@ const fullmeterMovie = [
     titleStatus: "Сборник",
     donutTerms: "",
     id: "Fullmeter-Movie_Transformers",
-    posterImage: "https://static.tildacdn.com/tild3436-3630-4135-b432-386535393365/photo.webp",
+    posterImage: "https://static.tildacdn.com/tild6365-3639-4935-b563-633134653863/img.webp",
     cardType: "fullmeter-Movie",
   },
   {
@@ -3131,7 +3132,7 @@ const fullmeterMovie = [
     titleStatus: "Сборник",
     donutTerms: "",
     id: "Fullmeter-Movie_Kill-Bill",
-    posterImage: "https://static.tildacdn.com/tild6365-6233-4638-b636-323034653862/_.webp",
+    posterImage: "https://static.tildacdn.com/tild6361-6563-4463-b736-356239383764/img.webp",
     cardType: "fullmeter-Movie",
   },
   {
@@ -3139,6 +3140,15 @@ const fullmeterMovie = [
     nameEn: "Tucker & Dale vs Evil",
     titleLost: "lost",
     posterImage: "https://static.tildacdn.com/tild3666-6334-4132-b233-373932623062/img.webp",
+    cardType: "fullmeter-Movie",
+  },
+  {
+    nameRu: "Фантастическая четверка",
+    nameEn: "Fantastic Four",
+    donutTerms: "donut-lvl-3",
+    titleLink: ["vk", "video-208448461_456241841?t=4h28m35s"],
+    id: "Fullmeter-Movie_Fantastic-Four",
+    posterImage: "https://static.tildacdn.com/tild6537-3566-4233-b933-363133623061/img.webp",
     cardType: "fullmeter-Movie",
   },
   {
@@ -3173,7 +3183,7 @@ const fullmeterMovie = [
     titleStatus: "Сборник",
     donutTerms: "",
     id: "Fullmeter-Movie_Fast-and-Furious",
-    posterImage: "https://static.tildacdn.com/tild3561-3938-4633-b032-623537336230/photo.webp",
+    posterImage: "https://static.tildacdn.com/tild3465-3061-4165-a132-366164396131/img.webp",
     cardType: "fullmeter-Movie",
   },
   {
@@ -3191,7 +3201,7 @@ const fullmeterMovie = [
     titleStatus: "Сборник",
     donutTerms: "",
     id: "Fullmeter-Movie_Predator",
-    posterImage: "https://static.tildacdn.com/tild6666-3231-4238-b036-663361666664/photo.webp",
+    posterImage: "https://static.tildacdn.com/tild3233-3932-4364-a265-396539663537/img.webp",
     cardType: "fullmeter-Movie",
   },
   {
@@ -3200,7 +3210,7 @@ const fullmeterMovie = [
     titleStatus: "Сборник",
     donutTerms: "",
     id: "Fullmeter-Movie_The-Hobbit",
-    posterImage: "https://static.tildacdn.com/tild6536-6239-4338-a437-383435376430/photo.webp",
+    posterImage: "https://static.tildacdn.com/tild6134-3661-4861-b937-376564323534/img.webp",
     cardType: "fullmeter-Movie",
   },
   {
@@ -3235,7 +3245,7 @@ const fullmeterMovie = [
     titleStatus: "Сборник",
     donutTerms: "",
     id: "Fullmeter-Movie_Chronicles-of-Narnia",
-    posterImage: "https://static.tildacdn.com/tild3139-3535-4536-b663-653464376261/_.webp",
+    posterImage: "https://static.tildacdn.com/tild3633-6533-4234-b136-333131373837/img.webp",
     cardType: "fullmeter-Movie",
   },
   {
@@ -3244,7 +3254,7 @@ const fullmeterMovie = [
     titleStatus: "Сборник",
     donutTerms: "",
     id: "Fullmeter-Movie_Chronicles-of-Riddick",
-    posterImage: "https://static.tildacdn.com/tild6562-3464-4034-a432-343664663262/_.webp",
+    posterImage: "https://static.tildacdn.com/tild3362-6162-4931-b036-396430323837/img.webp",
     cardType: "fullmeter-Movie",
   },
   {
@@ -3280,7 +3290,7 @@ const fullmeterMovie = [
     titleStatus: "Сборник",
     donutTerms: "",
     id: "Fullmeter-Movie_Rush-Hour",
-    posterImage: "https://static.tildacdn.com/tild3563-3235-4333-b065-666532313261/_.webp",
+    posterImage: "https://static.tildacdn.com/tild3138-3436-4362-b336-663231363530/img.webp",
     cardType: "fullmeter-Movie",
   },
   {
@@ -3351,7 +3361,7 @@ const fullmeterMovie = [
     titleStatus: "Сборник",
     donutTerms: "",
     id: "Fullmeter-Movie_Chapiteau-Show",
-    posterImage: "https://static.tildacdn.com/tild3438-6439-4236-a465-363734396531/-.webp",
+    posterImage: "https://static.tildacdn.com/tild6530-3966-4361-b333-663332303331/img.webp",
     cardType: "fullmeter-Movie",
   },
   {
@@ -3360,7 +3370,7 @@ const fullmeterMovie = [
     titleStatus: "Сборник",
     donutTerms: "",
     id: "Fullmeter-Movie_Sherlock-Holmes",
-    posterImage: "https://static.tildacdn.com/tild6663-3731-4763-a163-326634353032/_.webp",
+    posterImage: "https://static.tildacdn.com/tild3361-3864-4238-b832-353836336534/img.webp",
     cardType: "fullmeter-Movie",
   },
   {
@@ -3396,7 +3406,7 @@ const fullmeterMovie = [
     titleStatus: "Сборник",
     donutTerms: "",
     id: "Fullmeter-Movie_Ace-Ventura",
-    posterImage: "https://static.tildacdn.com/tild6566-3834-4661-b766-666531653038/_.webp",
+    posterImage: "https://static.tildacdn.com/tild6565-3037-4434-a661-343338393961/img.webp",
     cardType: "fullmeter-Movie",
   },
   {
