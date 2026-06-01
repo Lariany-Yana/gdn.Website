@@ -472,6 +472,10 @@ const fullmeterMoviePopups = {
   ],
   "Fullmeter-Movie_Marvel-Cinematic-Universe": [
     {
+      seasonName: "Первая фаза",
+      items: [],
+    },
+    {
       nameRu: "Железный человек || Марвел",
       nameEn: "Iron Man || Marvel",
       donutTerms: "donut-lvl-1",
@@ -517,6 +521,10 @@ const fullmeterMoviePopups = {
       cardType: "fullmeter-Movie",
     },
     {
+      seasonName: "Вторая фаза",
+      items: [],
+    },
+    {
       nameRu: "Железный человек 3 || Марвел",
       nameEn: "Iron Man 3 || Marvel",
       donutTerms: "donut-lvl-1",
@@ -558,6 +566,10 @@ const fullmeterMoviePopups = {
       id: "Fullmeter-Movie_MCU-Ant-Man",
       posterImage: "https://static.tildacdn.com/tild6164-3532-4565-a636-643731656163/img.webp",
       cardType: "fullmeter-Movie",
+    },
+    {
+      seasonName: "Третья фаза",
+      items: [],
     },
     {
       nameRu: "Первый мститель 3: Противостояние || Марвел",
@@ -650,6 +662,11 @@ const fullmeterMoviePopups = {
       cardType: "fullmeter-Movie",
     },
     { pasteCard: "Series-Serials_Loki" },
+
+    {
+      seasonName: "Промежуточная фаза",
+      items: [],
+    },
     {
       nameRu: "Человек-паук || Марвел",
       nameEn: "Spider-Man || Marvel",
@@ -700,6 +717,10 @@ const fullmeterMoviePopups = {
       id: "Fullmeter-Movie_MCU-Venom",
       posterImage: "https://static.tildacdn.com/tild3532-3434-4461-b564-376166613133/img.webp",
       cardType: "fullmeter-Movie",
+    },
+    {
+      seasonName: "Четвёртая фаза",
+      items: [],
     },
     {
       nameRu: "Человек-паук 2: Вдали от дома || Марвел",
@@ -783,7 +804,7 @@ const fullmeterMoviePopups = {
     },
     { pasteCard: "Series-Serials_The-Falcon-and-the-Winter-Soldier" },
     {
-      seasonName: "Вне Кинематографичесой вселенной",
+      seasonName: "Вне Кинематографической вселенной",
       items: [],
     },
     { pasteCard: "Fullmeter-Movie_Ghost-Rider" },
