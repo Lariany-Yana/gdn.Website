@@ -782,6 +782,16 @@ const fullmeterMoviePopups = {
       cardType: "fullmeter-Movie",
     },
     { pasteCard: "Series-Serials_The-Falcon-and-the-Winter-Soldier" },
+    {
+      seasonName: "Вне Кинематографичесой вселенной",
+      items: [],
+    },
+    { pasteCard: "Fullmeter-Movie_Ghost-Rider" },
+    { pasteCard: "Fullmeter-Cartoon_Spider-Man" },
+    { pasteCard: "Series-Serials_Moon-Knight" },
+    { pasteCard: "Series-Cartoon_What-If" },
+    { pasteCard: "Fullmeter-Movie_Fantastic-Four" },
+    { pasteCard: "Series-Serials_Spider-Noir" },
   ],
   "Fullmeter-Movie_Marvel-X-Men": [
     {
