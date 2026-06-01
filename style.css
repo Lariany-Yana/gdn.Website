@@ -980,12 +980,11 @@ button {
     order: 1;
     flex: 1 1 100%;
     height: min(60px, 100%);
-		max-width: calc(100% - (60px * 2));
+    max-width: calc(100% - (60px * 2));
     padding: var(--PDNG-extra);
     text-transform: uppercase;
     text-align: center;
     border-radius: var(--BDR-radius-extra);
-
     font-size: var(--TXT-size-normal);
     box-sizing: border-box;
     color: var(--FIND-input-color);
@@ -1287,121 +1286,55 @@ button {
       }
     }
   }
-}
 
-/* #region Статист
-.order-card.user_Edwin-okak {
-  background-color: rgb(21, 21, 21);
-  border-radius: var(--general-border-radius-hover);
+  &.user_Katya {
+    /* Твою мать! */
+    --bg-color: rgb(190, 90, 55);
+    --txt-regular: white;
+    --txt-accent: black;
+    background-color: var(--bg-color) !important;
+    border: 2px var(--bg-color) solid !important;
+    border-radius: var(--PDNG-general) !important;
+    .order-content {
+      .name-ru {
+        color: var(--txt-regular) !important;
+      }
+      .name-en {
+        color: var(--txt-regular) !important;
+      }
+      .order-info {
+        color: var(--txt-accent) !important;
+      }
+    }
+    .add-favorite {
+      color: var(--txt-regular) !important;
+      &:hover {
+        color: color-mix(in oklab, var(--txt-regular), black 20%) !important;
+      }
+    }
+    .order-slots {
+      .slot-row {
+        &::before {
+          opacity: 1 !important;
+          background-color: var(--txt-accent) !important;
+        }
+        border: 1px var(--txt-accent) solid !important;
+        .slot-info {
+          color: var(--bg-color) !important;
+          .date {
+            color: inherit;
+          }
+          .count {
+            color: inherit;
+          }
+          .nickname {
+            color: inherit;
+          }
+        }
+      }
+    }
+  }
 }
-.order-card.user_Edwin-okak .order-info.type {
-  color: white;
-}
-.order-card.user_Edwin-okak .order-info.name * {
-  color: white;
-}
-.order-card.user_Edwin-okak .order-info.slots {
-  border-radius: calc(var(--general-border-radius-hover) / 2);
-}
-.order-card.user_Edwin-okak .order-info.slots:hover {
-  background-color: rgb(21, 185, 185);
-}
-.order-card.user_Edwin-okak .order-info.slots * {
-  color: white;
-}
-.order-card.user_Edwin-okak .order-info.slots:hover * {
-  color: rgb(21, 21, 21);
-}
-.order-card.user_Edwin-okak details summary {
-  border-radius: calc(var(--general-border-radius-hover) / 2);
-  color: rgb(21, 185, 185);
-}
-.order-card.user_Edwin-okak details summary:hover {
-  background-color: rgb(21, 185, 185);
-  color: rgb(21, 21, 21);
-}
-#endregion */
-/* #region Твою мать
-.order-card.user_Aunt-Katya {
-  background-color: rgb(190, 90, 55);
-}
-.order-card.user_Aunt-Katya .order-info.type {
-  color: black;
-}
-.order-card.user_Aunt-Katya .order-info.name * {
-  color: white;
-}
-.order-card.user_Aunt-Katya .order-info.slots:hover {
-  background-color: black;
-}
-.order-card.user_Aunt-Katya .order-info.slots * {
-  color: black;
-}
-.order-card.user_Aunt-Katya .order-info.slots:hover * {
-  color: rgb(190, 90, 55);
-}
-.order-card.user_Aunt-Katya details summary {
-  color: black;
-}
-.order-card.user_Aunt-Katya details summary:hover {
-  background-color: black;
-  color: rgb(250, 230, 220);
-}
-#endregion */
-/* #region Исида
-.order-card.user_Aunt-Izida {
-  background-color: rgb(220, 220, 200);
-}
-.order-card.user_Aunt-Izida .order-info.type {
-  color: rgb(220, 40, 40);
-}
-.order-card.user_Aunt-Izida .order-info.name * {
-  color: rgb(60, 100, 170);
-}
-.order-card.user_Aunt-Izida .order-info.slots:hover {
-  background-color: rgb(75, 40, 50);
-}
-.order-card.user_Aunt-Izida .order-info.slots * {
-  color: rgb(75, 40, 50);
-}
-.order-card.user_Aunt-Izida .order-info.slots:hover * {
-  color: rgb(220, 220, 200);
-}
-.order-card.user_Aunt-Izida details summary {
-  color: rgb(220, 40, 40);
-}
-.order-card.user_Aunt-Izida details summary:hover {
-  background-color: rgb(220, 40, 40);
-  color: rgb(220, 220, 200);
-}
-#endregion */
-/* #region Рутобс
-.order-card.user_Rutworbs {
-  background-color: rgb(80, 75, 100);
-}
-.order-card.user_Rutworbs .order-info.type {
-  color: rgb(225, 110, 175);
-}
-.order-card.user_Rutworbs .order-info.name * {
-  color: rgb(225, 200, 135);
-}
-.order-card.user_Rutworbs .order-info.slots:hover {
-  background-color: rgb(222, 222, 222);
-}
-.order-card.user_Rutworbs .order-info.slots * {
-  color: rgb(222, 222, 222);
-}
-.order-card.user_Rutworbs .order-info.slots:hover * {
-  color: rgb(80, 75, 100);
-}
-.order-card.user_Rutworbs details summary {
-  color: rgb(225, 110, 175);
-}
-.order-card.user_Rutworbs details summary:hover {
-  background-color: rgb(225, 110, 175);
-  color: rgb(80, 75, 100);
-}
-/* #endregion */
 
 /* ГЛАВНАЯ */
 
