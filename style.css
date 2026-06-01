@@ -267,6 +267,7 @@ button {
   gap: var(--PDNG-general);
   flex: 1 1 var(--WIN-width);
   height: var(--UI-letterbox);
+  width: min(400px, calc(100% - (var(--PDNG-extra) * 2)));
   opacity: var(--UI-opacity-unhover);
   transition: opacity var(--UI-transition-main) ease;
   background: none;
@@ -280,13 +281,14 @@ button {
     align-items: center;
     justify-content: center;
     text-decoration: none;
-    height: min(60px, 100%);
+    min-width: 0;
+    height: min(60px, calc(100% - (var(--PDNG-extra) * 2)));
     cursor: pointer;
     text-align: center;
     text-transform: uppercase;
     font-size: var(--TXT-size-normal);
     flex: 1 1 0;
-    padding: 0 var(--PDNG-general);
+    padding: var(--PDNG-button);
     border-radius: 0px;
     color: var(--RGB-regular) !important;
     background: none;
@@ -956,8 +958,7 @@ button {
 .search-header {
   position: fixed;
   height: calc(var(--UI-letterbox) - (var(--PDNG-general) * 2));
-  flex: 1 1 100%;
-  max-width: min(var(--CARD-title-width), 100%);
+  width: min(400px, calc(100% - (var(--PDNG-extra) * 2)));
   top: 0;
   gap: var(--PDNG-general);
   z-index: 100;
@@ -979,7 +980,8 @@ button {
     order: 1;
     flex: 1 1 100%;
     height: min(60px, 100%);
-    padding: var(--PDNG-general);
+		max-width: calc(100% - (60px * 2));
+    padding: var(--PDNG-extra);
     text-transform: uppercase;
     text-align: center;
     border-radius: var(--BDR-radius-extra);
@@ -1001,57 +1003,57 @@ button {
       color: var(--FIND-placeholder-color);
     }
   }
-}
 
-.header-icon {
-  outline: none;
-  text-decoration: none;
-  height: min(60px, 100%);
-  margin: auto;
-  aspect-ratio: 1/1;
-  border-radius: var(--BDR-radius-extra);
-  box-sizing: border-box;
-  background-color: var(--RGB-regular);
-  transition: background-color var(--UI-transition-extra) ease;
-  @supports (corner-shape: squircle) {
-    & {
-      border-radius: var(--BDR-radius-main);
-      corner-shape: squircle;
-    }
-  }
-
-  svg {
-    padding: 5px;
+  .header-icon {
+    outline: none;
+    text-decoration: none;
+    height: min(60px, 100%);
+    margin: auto;
     aspect-ratio: 1/1;
+    border-radius: var(--BDR-radius-extra);
     box-sizing: border-box;
-
-    path {
-      fill: var(--RGB-background);
+    background-color: var(--RGB-regular);
+    transition: background-color var(--UI-transition-extra) ease;
+    @supports (corner-shape: squircle) {
+      & {
+        border-radius: var(--BDR-radius-main);
+        corner-shape: squircle;
+      }
     }
-  }
 
-  &.stream {
-    order: 1;
-    &.online {
+    svg {
+      padding: 5px;
+      aspect-ratio: 1/1;
+      box-sizing: border-box;
+
+      path {
+        fill: var(--RGB-background);
+      }
+    }
+
+    &.stream {
+      order: 1;
+      &.online {
+        cursor: pointer;
+        filter: none;
+        animation: pulse 1.5s ease infinite;
+      }
+      &:not(.online) {
+        pointer-events: none !important;
+        filter: grayscale(1);
+      }
+    }
+
+    &.liked {
+      order: 2;
       cursor: pointer;
-      filter: none;
-      animation: pulse 1.5s ease infinite;
     }
-    &:not(.online) {
-      pointer-events: none !important;
-      filter: grayscale(1);
+
+    &:hover {
+      filter: none !important;
+      animation: none !important;
+      background-color: light-dark(color-mix(in oklab, var(--RGB-regular), white 10%), color-mix(in oklab, var(--RGB-regular), black 10%)) !important;
     }
-  }
-
-  &.liked {
-    order: 2;
-    cursor: pointer;
-  }
-
-  &:hover {
-    filter: none !important;
-    animation: none !important;
-    background-color: light-dark(color-mix(in oklab, var(--RGB-regular), white 10%), color-mix(in oklab, var(--RGB-regular), black 10%)) !important;
   }
 }
 
@@ -1618,6 +1620,11 @@ details.schedule {
 
   .coarse-hidden {
     display: none !important;
+  }
+
+  .search-header {
+    height: calc(var(--UI-letterbox) - (var(--PDNG-extra) * 2)) !important;
+    margin: var(--PDNG-extra) !important;
   }
 }
 
