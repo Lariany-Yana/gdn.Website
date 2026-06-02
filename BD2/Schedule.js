@@ -6,8 +6,23 @@ const scheduleDatabase = [
     date: "01.06.26"
   },
   {//Вторник
-    nameRu: "Стрим вполне вероятен :]",
-    scheduleRemark: "",
+    nameRu: "Ван Пис",
+    nameEn: "One Piece",
+    scheduleRemark: "Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "02.06.26"
+  },
+  {//Вторник
+    nameRu: "Паук-Нуар",
+    nameEn: "Spider-Noir",
+    scheduleRemark: "Начало в 17:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "02.06.26"
+  },
+  {//Вторник
+    nameRu: "Покер",
+    nameEn: "",
+    scheduleRemark: "Начало в 21:00 по МСК",
     scheduleType: "schedule-current",
     date: "02.06.26"
   },
