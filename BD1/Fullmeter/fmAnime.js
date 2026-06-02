@@ -5,7 +5,7 @@ const fullmeterAnime = [
     donutTerms: "",
     titleLink: ["vk", "video-208448461_456239283?t=10m9s"],
     id: "Fullmeter-Anime_Millennium-Actress",
-    posterImage: "https://static.tildacdn.com/tild6264-6533-4439-a536-623663613631/_.webp",
+    posterImage: "https://static.tildacdn.com/tild3466-3531-4438-b734-326136663731/img.webp",
     cardType: "fullmeter-Anime",
   },
   {
@@ -14,16 +14,7 @@ const fullmeterAnime = [
     donutTerms: "donut-lvl-2",
     titleLink: ["vk", "video-208448461_456240162?t=1h27m10s"],
     id: "Fullmeter-Anime_Kaze-tachinu",
-    posterImage: "https://static.tildacdn.com/tild3133-3166-4663-b136-313238393137/_.webp",
-    cardType: "fullmeter-Anime",
-  },
-  {
-    nameRu: "Воспоминания о будущем",
-    nameEn: "Memorizu / Memories",
-    donutTerms: "donut-lvl-1",
-    titleLink: ["vk", "video-208448461_456239471?t=4h56m15s"],
-    id: "Fullmeter-Anime_Memorizu",
-    posterImage: "https://static.tildacdn.com/tild6430-3964-4931-b737-613430323236/__.webp",
+    posterImage: "https://static.tildacdn.com/tild6135-6636-4064-a333-663664353838/img.webp",
     cardType: "fullmeter-Anime",
   },
   {
@@ -32,7 +23,7 @@ const fullmeterAnime = [
     donutTerms: "donut-lvl-3",
     titleLink: ["vk", "video-208448461_456241599?t=14m1s"],
     id: "Fullmeter-Anime_Lost-in-Starlight",
-    posterImage: "https://static.tildacdn.com/tild6561-6539-4533-b731-343663393562/____.webp",
+    posterImage: "https://static.tildacdn.com/tild6639-3365-4234-a232-326334393934/img.webp",
     cardType: "fullmeter-Anime",
   },
   {
@@ -41,7 +32,7 @@ const fullmeterAnime = [
     titleStatus: "Сборник",
     donutTerms: "",
     id: "Fullmeter-Anime_Kara-no-Kyoukai",
-    posterImage: "https://static.tildacdn.com/tild6364-3565-4639-b831-383732373631/_.webp",
+    posterImage: "https://static.tildacdn.com/tild6437-6461-4531-b139-616661613130/img.webp",
     cardType: "fullmeter-Anime",
   },
   {
@@ -50,7 +41,7 @@ const fullmeterAnime = [
     titleStatus: "Сборник",
     donutTerms: "",
     id: "Fullmeter-Anime_Mahou-Shoujo-Madoka-Magica",
-    posterImage: "https://static.tildacdn.com/tild3564-6236-4838-b965-636361333732/-_.webp",
+    posterImage: "https://static.tildacdn.com/tild3664-3831-4265-a234-613834336565/img.webp",
     cardType: "fullmeter-Anime",
   },
   {
@@ -59,7 +50,7 @@ const fullmeterAnime = [
     donutTerms: "",
     titleLink: ["vk", "video-208448461_456239250"],
     id: "Fullmeter-Anime_Toki-wo-kakeru-shoujo",
-    posterImage: "https://static.tildacdn.com/tild3436-6364-4430-b065-376234643936/__.webp",
+    posterImage: "https://static.tildacdn.com/tild3732-3562-4162-a663-613035613935/img.webp",
     cardType: "fullmeter-Anime",
   },
   {
@@ -68,7 +59,7 @@ const fullmeterAnime = [
     donutTerms: "donut-lvl-1",
     titleLink: ["vk", "video-208448461_456239179?t=1h13m12s"],
     id: "Fullmeter-Anime_Vampire-Hunter-D-Bloodlust",
-    posterImage: "https://static.tildacdn.com/tild6635-3565-4439-a533-623430333338/_____.webp",
+    posterImage: "https://static.tildacdn.com/tild3931-3830-4036-b437-393663616331/img.webp",
     cardType: "fullmeter-Anime",
   },
   {
@@ -77,7 +68,7 @@ const fullmeterAnime = [
     donutTerms: "",
     titleLink: ["boosty", "hiddenarchive/posts/fe2a57e1-3e4c-4fcc-ac0a-7bd1f15afe7d?t=949&tmid=e9ae6db2-c267-4050-979f-f3a391488d13"],
     id: "Fullmeter-Anime_Tenki-no-ko",
-    posterImage: "https://static.tildacdn.com/tild6338-3661-4736-a333-336263353430/_.webp",
+    posterImage: "https://static.tildacdn.com/tild3636-3964-4735-b661-313439393531/img.webp",
     cardType: "fullmeter-Anime",
   },
   {
@@ -86,7 +77,7 @@ const fullmeterAnime = [
     titleStatus: "Сборник",
     donutTerms: "",
     id: "Fullmeter-Anime_Evangelion-Shin",
-    posterImage: "https://static.tildacdn.com/tild3064-6133-4337-b466-313064366431/photo.webp",
+    posterImage: "https://static.tildacdn.com/tild3835-6136-4566-b430-653536303837/img.webp",
     cardType: "fullmeter-Anime",
   },
   {
@@ -95,7 +86,7 @@ const fullmeterAnime = [
     donutTerms: "donut-lvl-3",
     titleLink: ["vk", "video-208448461_456241442?t=7h43m56s"],
     id: "Fullmeter-Anime_Josee-Tora-Sakana-tachi",
-    posterImage: "https://static.tildacdn.com/tild3834-3262-4739-b862-323361363834/___.webp",
+    posterImage: "https://static.tildacdn.com/tild6339-3938-4164-b063-336433386664/img.webp",
     cardType: "fullmeter-Anime",
   },
   {
@@ -104,7 +95,16 @@ const fullmeterAnime = [
     donutTerms: "",
     titleLink: ["boosty", "hiddenarchive/posts/e05f3d90-c344-4b28-b928-c97bd4934daa?share=post_link"],
     id: "Fullmeter-Anime_Perfect-Blue",
-    posterImage: "https://static.tildacdn.com/tild6434-6631-4738-b862-383930363433/_.webp",
+    posterImage: "https://static.tildacdn.com/tild6664-3036-4164-b433-613931616636/img.webp",
+    cardType: "fullmeter-Anime",
+  },
+  {
+    nameRu: "История Резе || Человек-бензопила",
+    nameEn: "Chainsaw Man Movie: Reze-hen",
+    donutTerms: "donut-lvl-3",
+    titleLink: ["vk", "video-208448461_456241739?t=2h30m34s"],
+    id: "Fullmeter-Anime_Chainsaw-Man-Movie-Reze-hen",
+    posterImage: "https://static.tildacdn.com/tild3130-3433-4363-b066-656532353066/img.webp",
     cardType: "fullmeter-Anime",
   },
   {
@@ -113,7 +113,7 @@ const fullmeterAnime = [
     donutTerms: "donut-lvl-1",
     titleLink: ["vk", "video-208448461_456239124?t=3h11m30s"],
     id: "Fullmeter-Anime_Eiga-daisuki-Pompo-san",
-    posterImage: "https://static.tildacdn.com/tild3139-6438-4537-a464-363163393437/_.webp",
+    posterImage: "https://static.tildacdn.com/tild3233-6531-4136-b138-303735623633/img.webp",
     cardType: "fullmeter-Anime",
   },
   {
@@ -122,7 +122,7 @@ const fullmeterAnime = [
     donutTerms: "",
     titleLink: ["vk", "video-208448461_456239293"],
     id: "Fullmeter-Anime_Cowboy-Bebop-Tengoku-no-Tobira",
-    posterImage: "https://static.tildacdn.com/tild6665-6262-4662-b030-633364633864/____.webp",
+    posterImage: "https://static.tildacdn.com/tild6139-3639-4530-b232-376638383966/img.webp",
     cardType: "fullmeter-Anime",
   },
   {
@@ -140,7 +140,7 @@ const fullmeterAnime = [
     donutTerms: "",
     titleLink: ["boosty", "hiddenarchive/posts/38d0e6bf-6619-4406-ac62-2803ed423c54?share=post_link"],
     id: "Fullmeter-Anime_Redline",
-    posterImage: "https://static.tildacdn.com/tild3161-6261-4861-a565-353365343435/_.webp",
+    posterImage: "https://static.tildacdn.com/tild3666-6665-4266-a662-643838653930/img.webp",
     cardType: "fullmeter-Anime",
   },
   {
@@ -149,7 +149,7 @@ const fullmeterAnime = [
     donutTerms: "donut-lvl-3",
     titleLink: ["vk", "video-208448461_456241268?t=4h30m27s"],
     id: "Fullmeter-Anime_Summer-Ghost",
-    posterImage: "https://static.tildacdn.com/tild6232-6633-4461-a533-623866313132/_.webp",
+    posterImage: "https://static.tildacdn.com/tild3538-3439-4336-b164-643364303339/img.webp",
     cardType: "fullmeter-Anime",
   },
   {
@@ -158,7 +158,7 @@ const fullmeterAnime = [
     donutTerms: "",
     titleLink: ["vk", "video-208448461_456239314"],
     id: "Fullmeter-Anime_Hotaru-no-Haka",
-    posterImage: "https://static.tildacdn.com/tild3439-3663-4261-b437-626438666231/_.webp",
+    posterImage: "https://static.tildacdn.com/tild3438-6561-4266-b530-323666616337/img.webp",
     cardType: "fullmeter-Anime",
   },
   {
@@ -167,16 +167,16 @@ const fullmeterAnime = [
     titleStatus: "Сборник",
     donutTerms: "",
     id: "Fullmeter-Anime_Boku-no-Hero-Academia",
-    posterImage: "https://static.tildacdn.com/tild6134-3661-4362-a161-386634656631/_Boku_no_Hero_Academ.webp",
+    posterImage: "https://static.tildacdn.com/tild3933-3464-4432-b734-376131333062/img.webp",
     cardType: "fullmeter-Anime",
   },
   {
     nameRu: "Навсикая из Долины ветров",
-    nameEn: "Kaze no Tani no Nausicaa",
+    nameEn: "Kaze no tani no Naushika",
     donutTerms: "donut-lvl-2",
     titleLink: ["vk", "video-208448461_456240321?t=5h9m14s"],
-    id: "Fullmeter-Anime_Kaze-no-Tani-no-Nausicaa",
-    posterImage: "https://static.tildacdn.com/tild3239-6663-4663-a331-316132343764/___.webp",
+    id: "Fullmeter-Anime_Kaze-no-Tani-no-Naushika",
+    posterImage: "https://static.tildacdn.com/tild3364-3663-4235-a631-613335333537/img.webp",
     cardType: "fullmeter-Anime",
   },
   {
@@ -185,7 +185,7 @@ const fullmeterAnime = [
     donutTerms: "donut-lvl-3",
     titleLink: ["vk", "video-208448461_456241152"],
     id: "Fullmeter-Anime_The-Sky-Crawlers",
-    posterImage: "https://static.tildacdn.com/tild3431-3034-4763-a165-333737346634/_.webp",
+    posterImage: "https://static.tildacdn.com/tild6538-3862-4031-b462-663662636636/img.webp",
     cardType: "fullmeter-Anime",
   },
   {
@@ -194,7 +194,7 @@ const fullmeterAnime = [
     donutTerms: "",
     titleLink: ["vk", "video-208448461_456239286"],
     id: "Fullmeter-Anime_Jin-Rou",
-    posterImage: "https://static.tildacdn.com/tild6632-6235-4235-b966-623637323030/photo.webp",
+    posterImage: "https://static.tildacdn.com/tild3337-3565-4163-a536-663339626639/img.webp",
     cardType: "fullmeter-Anime",
   },
   {
@@ -203,7 +203,7 @@ const fullmeterAnime = [
     donutTerms: "donut-lvl-3",
     titleLink: ["vk", "video-208448461_456241171?t=3h28m8s"],
     id: "Fullmeter-Anime_Gyakusatsu-Kikan",
-    posterImage: "https://static.tildacdn.com/tild6564-3838-4661-a361-613430333839/_.webp",
+    posterImage: "https://static.tildacdn.com/tild6231-6632-4133-b334-326466376338/img.webp",
     cardType: "fullmeter-Anime",
   },
   {
@@ -212,7 +212,7 @@ const fullmeterAnime = [
     donutTerms: "",
     titleLink: ["vk", "video-208448461_456239288"],
     id: "Fullmeter-Anime_Paprika",
-    posterImage: "https://static.tildacdn.com/tild3236-3532-4134-b864-386363643235/photo.webp",
+    posterImage: "https://static.tildacdn.com/tild3239-3630-4561-a536-356237363834/img.webp",
     cardType: "fullmeter-Anime",
   },
   {
@@ -221,7 +221,7 @@ const fullmeterAnime = [
     donutTerms: "",
     titleLink: ["vk", "video-208448461_456239252?t=13m20s"],
     id: "Fullmeter-Anime_Ghost-in-the-Shell",
-    posterImage: "https://static.tildacdn.com/tild6638-6164-4238-b265-373565323338/__.webp",
+    posterImage: "https://static.tildacdn.com/tild6232-3162-4162-b266-346339353937/img.webp",
     cardType: "fullmeter-Anime",
   },
   {
@@ -230,7 +230,7 @@ const fullmeterAnime = [
     donutTerms: "",
     titleLink: ["vk", "video-208448461_456239291?t=11m36s"],
     id: "Fullmeter-Anime_Mononoke-Hime",
-    posterImage: "https://static.tildacdn.com/tild6439-3839-4463-a235-653738313734/_.webp",
+    posterImage: "https://static.tildacdn.com/tild3730-3132-4766-b561-633061313030/img.webp",
     cardType: "fullmeter-Anime",
   },
   {
@@ -239,7 +239,7 @@ const fullmeterAnime = [
     donutTerms: "",
     titleLink: ["boosty", "hiddenarchive/posts/3dfbed92-ec20-4a6a-80fa-37eb8a8cb4fb?t=7365&tmid=5ee64bc6-ce08-414f-9bb7-0b511eface6a"],
     id: "Fullmeter-Anime_Byousoku-5-Centimeter",
-    posterImage: "https://static.tildacdn.com/tild6538-3366-4437-a538-396562326661/5___.webp",
+    posterImage: "https://static.tildacdn.com/tild6139-6535-4933-a563-663330626333/img.webp",
     cardType: "fullmeter-Anime",
   },
   {
@@ -248,7 +248,7 @@ const fullmeterAnime = [
     donutTerms: "",
     titleLink: ["boosty", "hiddenarchive/posts/d94f37be-723b-48b3-aee5-3e17abfb323e?share=success_publish_link"],
     id: "Fullmeter-Anime_Kotonoha-no-Niwa",
-    posterImage: "https://static.tildacdn.com/tild3266-6466-4130-b530-623965313062/__.webp",
+    posterImage: "https://static.tildacdn.com/tild3133-6539-4063-b338-303566626665/img.webp",
     cardType: "fullmeter-Anime",
   },
   {
@@ -257,7 +257,7 @@ const fullmeterAnime = [
     donutTerms: "donut-lvl-2",
     titleLink: ["vk", "video-208448461_456240744?t=3m24s"],
     id: "Fullmeter-Anime_Blue-Giant",
-    posterImage: "https://static.tildacdn.com/tild3932-3063-4839-b032-343733363862/_.webp",
+    posterImage: "https://static.tildacdn.com/tild6664-3533-4365-b864-306130313837/img.webp",
     cardType: "fullmeter-Anime",
   },
   {
@@ -266,16 +266,16 @@ const fullmeterAnime = [
     donutTerms: "donut-lvl-3",
     titleLink: ["vk", "video-208448461_456241447?t=11m31s"],
     id: "Fullmeter-Anime_Suzume-no-Tojimari",
-    posterImage: "https://static.tildacdn.com/tild6130-6235-4734-b432-626263633138/__.webp",
+    posterImage: "https://static.tildacdn.com/tild3136-3062-4463-b462-373032613430/img.webp",
     cardType: "fullmeter-Anime",
   },
   {
     nameRu: "Твоё имя",
-    nameEn: "Kimi no Na wa.",
+    nameEn: "Kimi no Na wa",
     donutTerms: "",
     titleLink: ["boosty", "hiddenarchive/posts/87cbaa4c-ffdd-4c33-aa1d-d50ecc5826d7?share=post_link"],
     id: "Fullmeter-Anime_Kimi-no-Na-wa",
-    posterImage: "https://static.tildacdn.com/tild3564-3765-4161-a562-613230646230/_.webp",
+    posterImage: "https://static.tildacdn.com/tild6531-6431-4539-b564-313539383265/img.webp",
     cardType: "fullmeter-Anime",
   },
   {
@@ -284,7 +284,7 @@ const fullmeterAnime = [
     donutTerms: "donut-lvl-3",
     titleLink: ["vk", "video-208448461_456240885?t=11m16s"],
     id: "Fullmeter-Anime_Tunnel-to-Summer",
-    posterImage: "https://static.tildacdn.com/tild3337-3338-4566-b230-316261663537/____.webp",
+    posterImage: "https://static.tildacdn.com/tild6539-3162-4932-b365-613863616533/img.webp",
     cardType: "fullmeter-Anime",
   },
   {
@@ -293,7 +293,7 @@ const fullmeterAnime = [
     donutTerms: "donut-lvl-3",
     titleLink: ["vk", "video-208448461_456241745?t=6m3s"],
     id: "Fullmeter-Anime_Sayonara-no-Asa-ni-Yakusoku-no-Hana-wo-Kazarou",
-    posterImage: "https://static.tildacdn.com/tild3166-3835-4436-b330-346462323663/____.webp",
+    posterImage: "https://static.tildacdn.com/tild3439-3830-4164-b034-643732386564/img.webp",
     cardType: "fullmeter-Anime",
   },
   {
@@ -302,7 +302,7 @@ const fullmeterAnime = [
     donutTerms: "donut-lvl-2",
     titleLink: ["vk", "video-208448461_456240083?t=13m1s"],
     id: "Fullmeter-Anime_Spirited-Away",
-    posterImage: "https://static.tildacdn.com/tild3665-6161-4039-a163-313863336137/_.webp",
+    posterImage: "https://static.tildacdn.com/tild3432-6462-4230-b965-393330393664/img.webp",
     cardType: "fullmeter-Anime",
   },
   {
@@ -311,7 +311,7 @@ const fullmeterAnime = [
     donutTerms: "donut-lvl-1",
     titleLink: ["vk", "video-208448461_456239101?t=3h58m30s"],
     id: "Fullmeter-Anime_Bakemono-no-Ko",
-    posterImage: "https://static.tildacdn.com/tild6233-3633-4132-b636-336539616235/_.webp",
+    posterImage: "https://static.tildacdn.com/tild6339-6132-4666-a463-626265663864/img.webp",
     cardType: "fullmeter-Anime",
   },
   {
@@ -320,7 +320,7 @@ const fullmeterAnime = [
     donutTerms: "",
     titleLink: ["boosty", "hiddenarchive/posts/26357ba8-8be2-4465-8327-c6b5501c9415?share=post_link"],
     id: "Fullmeter-Anime_Koe-no-Katachi",
-    posterImage: "https://static.tildacdn.com/tild6165-3062-4131-a435-366231323061/_.webp",
+    posterImage: "https://static.tildacdn.com/tild3864-6138-4665-b566-333134663264/img.webp",
     cardType: "fullmeter-Anime",
   },
   {
@@ -329,25 +329,16 @@ const fullmeterAnime = [
     donutTerms: "donut-lvl-3",
     titleLink: ["vk", "video-208448461_456241443?t=4h9m16s"],
     id: "Fullmeter-Anime_Hotori-Tada-Saiwai-wo-Koinegau",
-    posterImage: "https://static.tildacdn.com/tild6264-6437-4430-a432-663863616537/____.webp",
+    posterImage: "https://static.tildacdn.com/tild3734-6365-4461-b137-356164303564/img.webp",
     cardType: "fullmeter-Anime",
   },
   {
-    nameRu: "Человек-бензопила: История Резе",
-    nameEn: "Chainsaw Man Movie: Reze-hen",
-    donutTerms: "donut-lvl-3",
-    titleLink: ["vk", "video-208448461_456241739?t=2h30m34s"],
-    id: "Fullmeter-Anime_Chainsaw-Man-Movie-Reze-hen",
-    posterImage: "https://static.tildacdn.com/tild3835-6365-4835-b531-353061663933/-__.webp",
-    cardType: "fullmeter-Anime",
-  },
-  {
-    nameRu: "Чёрный клевер: Меч короля магов",
-    nameEn: "Black Clover: Mahou Tei no Ken",
+    nameRu: "Меч короля магов || Чёрный клевер",
+    nameEn: "Mahou Tei no Ken || Black Clover",
     donutTerms: "donut-lvl-3",
     titleLink: ["vk", "video-208448461_456241781?t=2h22m35s"],
     id: "Fullmeter-Anime_Black-Clover-Mahou-Tei-no-Ken",
-    posterImage: "https://static.tildacdn.com/tild3131-6330-4835-b933-643838393532/____.webp",
+    posterImage: "https://static.tildacdn.com/tild3661-3863-4735-b063-323464373066/img.webp",
     cardType: "fullmeter-Anime",
   },
   {
@@ -356,7 +347,7 @@ const fullmeterAnime = [
     donutTerms: "donut-lvl-3",
     titleLink: ["vk", "video-208448461_456241172?t=11m12s"],
     id: "Fullmeter-Anime_Mimi-wo-Sumaseba",
-    posterImage: "https://static.tildacdn.com/tild6130-3465-4239-b333-646638333434/_.webp",
+    posterImage: "https://static.tildacdn.com/tild6462-6539-4265-b936-333931343036/img.webp",
     cardType: "fullmeter-Anime",
   },
   {
@@ -365,7 +356,7 @@ const fullmeterAnime = [
     donutTerms: "",
     titleLink: ["boosty", "hiddenarchive/posts/aa90fcef-6d38-497e-9010-0aa61f2dfd7a?share=post_link"],
     id: "Fullmeter-Anime_Seishun-Buta-Yarou-wa-Yumemiru-Shoujo-no-Yume-wo-Minai",
-    posterImage: "https://static.tildacdn.com/tild3630-3063-4137-b434-643333333931/______-.webp",
+    posterImage: "https://static.tildacdn.com/tild6231-3431-4135-b866-336534343266/img.webp",
     cardType: "fullmeter-Anime",
   },
   {
@@ -374,7 +365,7 @@ const fullmeterAnime = [
     donutTerms: "",
     titleLink: ["vk", "video-208448461_456239305"],
     id: "Fullmeter-Anime_Tenshi-no-Tamago",
-    posterImage: "https://static.tildacdn.com/tild3861-6233-4835-a362-373035353136/_.webp",
+    posterImage: "https://static.tildacdn.com/tild3533-3239-4561-a531-393166303431/img.webp",
     cardType: "fullmeter-Anime",
   },
   {
@@ -383,7 +374,7 @@ const fullmeterAnime = [
     donutTerms: "donut-lvl-3",
     titleLink: ["vk", "video-208448461_456241166?t=5h48m30s"],
     id: "Fullmeter-Anime_Kimi-no-Suizou-wo-Tabetai",
-    posterImage: "https://static.tildacdn.com/tild3235-6639-4966-b565-643534323965/____.webp",
+    posterImage: "https://static.tildacdn.com/tild6438-6234-4632-b430-636562643131/img.webp",
     cardType: "fullmeter-Anime",
   },
 ];

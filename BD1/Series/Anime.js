@@ -320,6 +320,16 @@ const seriesAnime = [
     cardType: "series-Anime",
   },
   {
+    nameRu: "Воспоминания о будущем",
+    nameEn: "Memorizu / Memories",
+    titleStatus: "Просмотрено: 1-3/3 Эпизод",
+    donutTerms: "donut-lvl-1",
+    titleLink: ["vk", "video-208448461_456239471?t=4h56m15s"],
+    id: "Series-Anime_Memorizu",
+    posterImage: "https://static.tildacdn.com/tild6430-3964-4931-b737-613430323236/__.webp",
+    cardType: "series-Anime",
+  },
+  {
     nameRu: "Восхождение в тени! / Кардинал теней",
     nameEn: "Kage no Jitsuryokusha ni Naritakute!",
     titleStatus: "Просмотрено: 1 Сезон 1-20/20 Эпизод",

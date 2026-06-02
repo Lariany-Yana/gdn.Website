@@ -3392,7 +3392,7 @@ const seriesAnimePopups = {
         },
       ],
     },
-		{pasteCard:"Fullmeter-Anime_The-End-of-Evangelion"}
+    { pasteCard: "Fullmeter-Anime_The-End-of-Evangelion" },
   ],
   "Series-Anime_No-Guns-Life": [
     {
@@ -3896,7 +3896,7 @@ const seriesAnimePopups = {
         },
       ],
     },
-    { pasteCard: "Fullmeter-Anime_Cowboy-Bebop-Tengoku-no-Tobira"},
+    { pasteCard: "Fullmeter-Anime_Cowboy-Bebop-Tengoku-no-Tobira" },
   ],
   "Series-Anime_Higurashi-no-Naku-Koro-ni": [
     {
@@ -6393,7 +6393,7 @@ const seriesAnimePopups = {
       posterImage: "https://static.tildacdn.com/tild6530-3838-4132-b433-663733333362/img.webp",
       cardType: "series-Anime",
     },
-		{ pasteCard:"Series-Anime_Kishibe-Rohan-wa-Ugokanai"},
+    { pasteCard: "Series-Anime_Kishibe-Rohan-wa-Ugokanai" },
     {
       nameRu: "Золотой ветер || Невероятное приключение ДжоДжо",
       nameEn: "Ougon no Kaze / Golden Wind || JoJo no Kimyou na Bouken JoJo's Bizarre Adventure",
@@ -9068,7 +9068,7 @@ const seriesAnimePopups = {
         },
       ],
     },
-		{pasteCard: "Fullmeter-Anime_Chainsaw-Man-Movie-Reze-hen"},
+    { pasteCard: "Fullmeter-Anime_Chainsaw-Man-Movie-Reze-hen" },
   ],
   "Series-Anime_Devilman-Crybaby": [
     {
@@ -9178,16 +9178,7 @@ const seriesAnimePopups = {
         },
       ],
     },
-    {
-      seasonName: "",
-      items: [
-        {
-          title: "Меч короля магов",
-          source: "vk",
-          link: "video-208448461_456241781?t=2h22m35s",
-        },
-      ],
-    },
+    { pasteCard: "Fullmeter-Anime_Black-Clover-Mahou-Tei-no-Ken" },
   ],
   "Series-Anime_Shuumatsu-Nani-Shitemasu": [
     {
