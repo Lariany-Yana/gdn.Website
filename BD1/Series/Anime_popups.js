@@ -6416,7 +6416,7 @@ const seriesAnimePopups = {
       nameEn: "Steel Ball Run || JoJo no Kimyou na Bouken JoJo's Bizarre Adventure",
       titleStatus: "Просмотрено: 1 Эпизод",
       donutTerms: "donut-lvl-3",
-      titleLink: "https://static.tildacdn.com/tild6131-3738-4766-a537-623334323930/img.webp",
+      titleLink: ["vk", "video-208448461_456241824?t=2h50m23s"],
       id: "Series-Anime_JoJo-Bizarre-Adventure-7",
       posterImage: "https://static.tildacdn.com/tild6336-6637-4533-b963-663132613563/img.webp",
       cardType: "series-Anime",
