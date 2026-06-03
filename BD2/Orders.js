@@ -33,15 +33,6 @@ const ordersDatabase = [
       },
     ],
   },
-  /*{
-    nameRu: "Ван Пис",
-    nameEn: "One Piece",
-    orderRemark: "Манга",
-    personalOrder: "",
-    cardType: "order-during",
-    id: "order_One-Piece-Manga",
-    items: [],
-  },*/
   {
     nameRu: "Декстер",
     nameEn: "Dexter",
@@ -1105,6 +1096,15 @@ const ordersDatabase = [
   },
   //#endregion
   //#region Початые
+  {
+    nameRu: "Ван Пис",
+    nameEn: "One Piece",
+    orderRemark: "Манга, прочитано -1 Слот [1150-1155 Главы] / Ожидается уточнение",
+    personalOrder: "",
+    cardType: "order-incomplete",
+    id: "order_One-Piece-Manga",
+    items: [],
+  },
   {
     nameRu: "Южный Парк",
     nameEn: "South Park",

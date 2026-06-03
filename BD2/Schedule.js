@@ -19,21 +19,14 @@ const scheduleDatabase = [
   {
     nameRu: "Ван Пис",
     nameEn: "One Piece",
-    scheduleRemark: "Начало в 15:00 по МСК",
+    scheduleRemark: "1156-1163 Главы",
     scheduleType: "schedule-current",
     date: "03.06.26",
   },
   {
     nameRu: "Паук-Нуар",
     nameEn: "Spider-Noir",
-    scheduleRemark: "Начало в 17:00 по МСК",
-    scheduleType: "schedule-current",
-    date: "03.06.26",
-  },
-  {
-    nameRu: "Покер",
-    nameEn: "",
-    scheduleRemark: "Начало в 21:00 по МСК",
+    scheduleRemark: "5-8 Эпизод",
     scheduleType: "schedule-current",
     date: "03.06.26",
   },
