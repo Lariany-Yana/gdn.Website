@@ -5,7 +5,7 @@ const fullmeterCartoon = [
     donutTerms: "donut-lvl-2",
     titleLink: ["vk", "video-208448461_456240415?t=6h21m35s"],
     id: "Fullmeter-Cartoon_Anastasia",
-    posterImage: "https://static.tildacdn.com/tild3930-3862-4134-b433-386266303437/photo.webp",
+    posterImage: "https://static.tildacdn.com/tild6464-3764-4232-b930-336631646666/img.webp",
     cardType: "fullmeter-Cartoon",
   },
   {
@@ -14,7 +14,7 @@ const fullmeterCartoon = [
     donutTerms: "donut-lvl-2",
     titleLink: ["vk", "video-208448461_456240165?t=6h32m20s"],
     id: "Fullmeter-Cartoon_Atlantis-The-Lost-Empire",
-    posterImage: "https://static.tildacdn.com/tild3261-3432-4830-b232-613539666337/__.webp",
+    posterImage: "https://static.tildacdn.com/tild6565-6563-4732-a463-656262346662/img.webp",
     cardType: "fullmeter-Cartoon",
   },
   {
@@ -23,7 +23,7 @@ const fullmeterCartoon = [
     donutTerms: "donut-lvl-3",
     titleLink: ["vk", "video-208448461_456240810?t=7h50m50s"],
     id: "Fullmeter-Cartoon_Beowulf",
-    posterImage: "https://static.tildacdn.com/tild6265-6337-4231-a138-616431623535/photo.webp",
+    posterImage: "https://static.tildacdn.com/tild6131-3134-4033-a639-386436616332/img.webp",
     cardType: "fullmeter-Cartoon",
   },
   {
@@ -32,7 +32,7 @@ const fullmeterCartoon = [
     donutTerms: "donut-lvl-1",
     titleLink: ["vk", "video-208448461_456239024?t=10m34s"],
     id: "Fullmeter-Cartoon_Fantastic-Mr-Fox",
-    posterImage: "https://static.tildacdn.com/tild3536-6165-4561-b536-653964393137/__.webp",
+    posterImage: "https://static.tildacdn.com/tild3663-3462-4435-b236-613764333134/img.webp",
     cardType: "fullmeter-Cartoon",
   },
   {
@@ -41,25 +41,25 @@ const fullmeterCartoon = [
     donutTerms: "donut-lvl-3",
     titleLink: ["vk", "video-208448461_456241431?t=8h31m39s"],
     id: "Fullmeter-Cartoon_Brother-Bear",
-    posterImage: "https://static.tildacdn.com/tild3230-6265-4238-b734-353230386666/_.webp",
+    posterImage: "https://static.tildacdn.com/tild6632-3230-4031-b839-613764623932/img.webp",
     cardType: "fullmeter-Cartoon",
   },
   {
-    nameRu: "Бэтмен: Убийственная шутка",
+    nameRu: "Бэтмен&#1: Убийственная шутка",
     nameEn: "Batman: The Killing Joke",
     donutTerms: "donut-lvl-3",
     titleLink: ["vk", "video-208448461_456241591?t=12m46s"],
     id: "Fullmeter-Cartoon_Batman-Killing-Joke",
-    posterImage: "https://static.tildacdn.com/tild6430-3934-4165-b665-663637613138/__.webp",
+    posterImage: "https://static.tildacdn.com/tild3732-3938-4539-a362-336631326134/img.webp",
     cardType: "fullmeter-Cartoon",
   },
   {
-    nameRu: "Бэтмен: Под красным колпаком",
+    nameRu: "Бэтмен&#2: Под красным колпаком",
     nameEn: "Batman: Under the Red Hood",
     donutTerms: "donut-lvl-3",
     titleLink: ["vk", "video-208448461_456241598?t=18m53s"],
     id: "Fullmeter-Cartoon_Batman-Under-Red-Hood",
-    posterImage: "https://static.tildacdn.com/tild6232-6538-4130-b134-373136613735/___.webp",
+    posterImage: "https://static.tildacdn.com/tild6239-6530-4562-a333-393565316137/img.webp",
     cardType: "fullmeter-Cartoon",
   },
   {
@@ -68,7 +68,7 @@ const fullmeterCartoon = [
     donutTerms: "donut-lvl-2",
     titleLink: ["vk", "video-208448461_456240415?t=4h24m17s"],
     id: "Fullmeter-Cartoon_Up",
-    posterImage: "https://static.tildacdn.com/tild6536-3331-4361-a335-343765623236/photo.webp",
+    posterImage: "https://static.tildacdn.com/tild6331-3939-4462-a536-643139396230/img.webp",
     cardType: "fullmeter-Cartoon",
   },
   {
@@ -77,7 +77,7 @@ const fullmeterCartoon = [
     donutTerms: "",
     titleLink: ["boosty", "godenname/posts/100068ea-450a-498a-9f89-b982b1b6be28?share=post_link"],
     id: "Fullmeter-Cartoon_Hercules",
-    posterImage: "https://static.tildacdn.com/tild3833-6564-4639-a335-343134363165/photo.webp",
+    posterImage: "https://static.tildacdn.com/tild6233-3331-4531-b031-373233656566/img.webp",
     cardType: "fullmeter-Cartoon",
   },
   {
@@ -95,7 +95,7 @@ const fullmeterCartoon = [
     donutTerms: "donut-lvl-2",
     titleLink: ["vk", "video-208448461_456240105?t=11m50s"],
     id: "Fullmeter-Cartoon_Hunchback-of-Notre-Dame",
-    posterImage: "https://static.tildacdn.com/tild3832-6632-4434-a432-353263656663/__-.webp",
+    posterImage: "https://static.tildacdn.com/tild3236-3834-4336-b362-343930653431/img.webp",
     cardType: "fullmeter-Cartoon",
   },
   {
@@ -104,7 +104,7 @@ const fullmeterCartoon = [
     donutTerms: "donut-lvl-2",
     titleLink: ["vk", "video-208448461_456240415?t=2h22m2s"],
     id: "Fullmeter-Cartoon_Big-Hero-6",
-    posterImage: "https://static.tildacdn.com/tild3735-6237-4165-b734-346233363363/_.webp",
+    posterImage: "https://static.tildacdn.com/tild3536-3662-4839-b561-326536316163/img.webp",
     cardType: "fullmeter-Cartoon",
   },
   {
@@ -113,7 +113,7 @@ const fullmeterCartoon = [
     donutTerms: "donut-lvl-3",
     titleLink: ["vk", "video-208448461_456241714?t=12m30s"],
     id: "Fullmeter-Equestria-Girls",
-    posterImage: "https://static.tildacdn.com/tild6466-6633-4534-b665-306562636632/__.webp",
+    posterImage: "https://static.tildacdn.com/tild6137-3233-4537-b132-313330633061/img.webp",
     cardType: "fullmeter-Cartoon",
   },
   {
@@ -121,7 +121,7 @@ const fullmeterCartoon = [
     donutTerms: "donut-lvl-3",
     titleLink: ["vk", "video-208448461_456241496?t=4h31m34s"],
     id: "Fullmeter-Cartoon_Kids-vs-Wizards",
-    posterImage: "https://static.tildacdn.com/tild3133-6334-4036-b830-343431623164/__.webp",
+    posterImage: "https://static.tildacdn.com/tild3933-6637-4663-b665-323337383334/img.webp",
     cardType: "fullmeter-Cartoon",
   },
   {
@@ -130,7 +130,7 @@ const fullmeterCartoon = [
     donutTerms: "donut-lvl-3",
     titleLink: ["vk", "video-208448461_456241332?t=4h19m16s"],
     id: "Fullmeter-Cartoon_The-Wild-Robot",
-    posterImage: "https://static.tildacdn.com/tild3338-6535-4330-b065-376461623561/_.webp",
+    posterImage: "https://static.tildacdn.com/tild3836-6632-4638-b965-623238363865/img.webp",
     cardType: "fullmeter-Cartoon",
   },
   {
@@ -139,7 +139,7 @@ const fullmeterCartoon = [
     donutTerms: "donut-lvl-3",
     titleLink: ["vk", "video-208448461_456241449?t=2h11m6s"],
     id: "Fullmeter-Cartoon_Soul",
-    posterImage: "https://static.tildacdn.com/tild3736-3561-4964-b065-333633306239/photo.webp",
+    posterImage: "https://static.tildacdn.com/tild6631-3966-4063-b835-653035396362/img.webp",
     cardType: "fullmeter-Cartoon",
   },
   {
@@ -157,7 +157,7 @@ const fullmeterCartoon = [
     donutTerms: "donut-lvl-2",
     titleLink: ["vk", "video-208448461_456240165?t=4h23m46s"],
     id: "Fullmeter-Cartoon_Zootopia",
-    posterImage: "https://static.tildacdn.com/tild6238-6234-4163-a363-333433613238/photo.webp",
+    posterImage: "https://static.tildacdn.com/tild3735-6233-4833-a264-626462303766/img.webp",
     cardType: "fullmeter-Cartoon",
   },
   {
@@ -183,7 +183,7 @@ const fullmeterCartoon = [
     donutTerms: "donut-lvl-2",
     titleLink: ["vk", "video-208448461_456240713?t=2h11m30s"],
     id: "Fullmeter-Cartoon_Midget-Nose",
-    posterImage: "https://static.tildacdn.com/tild6235-3764-4562-b234-656430336530/_.webp",
+    posterImage: "https://static.tildacdn.com/tild3732-3937-4237-b533-613338376230/img.webp",
     cardType: "fullmeter-Cartoon",
   },
   {
@@ -192,7 +192,7 @@ const fullmeterCartoon = [
     donutTerms: "donut-lvl-3",
     titleLink: ["vk", "video-208448461_456241644?t=12m3s"],
     id: "Fullmeter-Cartoon_KPop-Demon-Hunters",
-    posterImage: "https://static.tildacdn.com/tild6233-3666-4132-b130-376434343331/-__.webp",
+    posterImage: "https://static.tildacdn.com/tild3031-3066-4661-b238-663963633434/img.webp",
     cardType: "fullmeter-Cartoon",
   },
   {
@@ -201,7 +201,7 @@ const fullmeterCartoon = [
     donutTerms: "donut-lvl-3",
     titleLink: ["vk", "video-208448461_456240840?t=1h56m50s"],
     id: "Fullmeter-Cartoon_Klaus",
-    posterImage: "https://static.tildacdn.com/tild3833-3630-4438-b032-373861613734/photo.webp",
+    posterImage: "https://static.tildacdn.com/tild3232-6634-4237-a563-653662653435/img.webp",
     cardType: "fullmeter-Cartoon",
   },
   {
@@ -210,7 +210,7 @@ const fullmeterCartoon = [
     donutTerms: "donut-lvl-3",
     titleLink: ["vk", "video-208448461_456241105?t=3h40m10s"],
     id: "Fullmeter-Cartoon_Coraline",
-    posterImage: "https://static.tildacdn.com/tild3838-3836-4035-a665-333538663234/___.webp",
+    posterImage: "https://static.tildacdn.com/tild3462-3239-4934-b362-326266346434/img.webp",
     cardType: "fullmeter-Cartoon",
   },
   {
@@ -228,7 +228,7 @@ const fullmeterCartoon = [
     donutTerms: "donut-lvl-3",
     titleLink: ["vk", "video-208448461_456240840?t=13m41s"],
     id: "Fullmeter-Cartoon_Nightmare-Before-Christmas",
-    posterImage: "https://static.tildacdn.com/tild3963-3733-4431-b236-626666623664/__.webp",
+    posterImage: "https://static.tildacdn.com/tild6239-3161-4336-b864-623132633264/img.webp",
     cardType: "fullmeter-Cartoon",
   },
   {
@@ -264,7 +264,7 @@ const fullmeterCartoon = [
     donutTerms: "",
     titleLink: ["boosty", "hiddenarchive/posts/af81e37e-4d04-4dba-9ea2-6020c76d81d4?share=post_link"],
     id: "Fullmeter-Cartoon_Flashpoint-Paradox",
-    posterImage: "https://static.tildacdn.com/tild3365-3835-4331-b166-316632376465/____.webp",
+    posterImage: "https://static.tildacdn.com/tild3439-3532-4365-b465-346237643030/img.webp",
     cardType: "fullmeter-Cartoon",
   },
   {
@@ -273,7 +273,7 @@ const fullmeterCartoon = [
     donutTerms: "donut-lvl-3",
     titleLink: ["vk", "video-208448461_456241578?t=2h41m27s"],
     id: "Fullmeter-Cartoon_Lilo-and-Stitch",
-    posterImage: "https://static.tildacdn.com/tild3439-3563-4536-a564-393236313536/__.webp",
+    posterImage: "https://static.tildacdn.com/tild6232-3336-4634-b137-353835646136/img.webp",
     cardType: "fullmeter-Cartoon",
   },
   {
@@ -282,7 +282,7 @@ const fullmeterCartoon = [
     donutTerms: "donut-lvl-3",
     titleLink: ["vk", "video-208448461_456241702?t=2h45m22s"],
     id: "Fullmeter-Cartoon_Surf-Up",
-    posterImage: "https://static.tildacdn.com/tild3037-3033-4733-b362-376433333634/_.webp",
+    posterImage: "https://static.tildacdn.com/tild6433-3739-4335-b231-303765343565/img.webp",
     cardType: "fullmeter-Cartoon",
   },
   {
@@ -300,7 +300,7 @@ const fullmeterCartoon = [
     donutTerms: "",
     titleLink: ["boosty", "hiddenarchive/posts/967d4b32-8dcd-4525-949f-91f0c4fb5c8c?t=7970&tmid=362c94e9-312e-42f2-a5fb-195a8230f05f"],
     id: "Fullmeter-Cartoon_Mars-Express",
-    posterImage: "https://static.tildacdn.com/tild3738-3861-4734-b462-356235343632/_.webp",
+    posterImage: "https://static.tildacdn.com/tild3734-3034-4864-b961-363331656565/img.webp",
     cardType: "fullmeter-Cartoon",
   },
   {
@@ -309,7 +309,7 @@ const fullmeterCartoon = [
     donutTerms: "donut-lvl-2",
     titleLink: ["vk", "video-208448461_456239971?t=13h53m59s"],
     id: "Fullmeter-Cartoon_Megamind",
-    posterImage: "https://static.tildacdn.com/tild3937-3963-4961-b236-653331376666/photo.webp",
+    posterImage: "https://static.tildacdn.com/tild3035-3035-4835-b439-666331343832/img.webp",
     cardType: "fullmeter-Cartoon",
   },
   {
@@ -327,7 +327,7 @@ const fullmeterCartoon = [
     titleStatus: "Сборник",
     donutTerms: "",
     id: "Fullmeter-Cartoon_Monsters",
-    posterImage: "https://static.tildacdn.com/tild3735-3461-4163-a438-613062613938/____.webp",
+    posterImage: "https://static.tildacdn.com/tild3332-3966-4630-a164-353666616461/img.webp",
     cardType: "fullmeter-Cartoon",
   },
   {
@@ -336,7 +336,7 @@ const fullmeterCartoon = [
     donutTerms: "donut-lvl-3",
     titleLink: ["vk", "video-208448461_456241792?t=16m36s"],
     id: "Fullmeter-Cartoon_Treasure-Planet",
-    posterImage: "https://static.tildacdn.com/tild3963-3732-4863-b534-323063393364/_.webp",
+    posterImage: "https://static.tildacdn.com/tild6265-3066-4732-b138-386230316438/img.webp",
     cardType: "fullmeter-Cartoon",
   },
   {
@@ -345,7 +345,7 @@ const fullmeterCartoon = [
     donutTerms: "donut-lvl-2",
     titleLink: ["vk", "video-208448461_456240789?t=3h50s"],
     id: "Fullmeter-Cartoon_Sausage-Party",
-    posterImage: "https://static.tildacdn.com/tild6530-6162-4565-b532-383566633664/_.webp",
+    posterImage: "https://static.tildacdn.com/tild3065-3564-4233-a361-343736333033/img.webp",
     cardType: "fullmeter-Cartoon",
   },
   {
@@ -354,7 +354,7 @@ const fullmeterCartoon = [
     donutTerms: "",
     titleLink: ["vk", "video-208448461_456239223"],
     id: "Fullmeter-Cartoon_Prince-of-Egypt",
-    posterImage: "https://static.tildacdn.com/tild6431-3465-4336-b961-303435363638/_.webp",
+    posterImage: "https://static.tildacdn.com/tild6363-3466-4336-b932-313130336130/img.webp",
     cardType: "fullmeter-Cartoon",
   },
   {
@@ -363,7 +363,7 @@ const fullmeterCartoon = [
     donutTerms: "donut-lvl-2",
     titleLink: ["vk", "video-208448461_456240664?t=11m"],
     id: "Fullmeter-Cartoon_Princess-and-Frog",
-    posterImage: "https://static.tildacdn.com/tild3761-6664-4062-a635-636162366437/__.webp",
+    posterImage: "https://static.tildacdn.com/tild3737-3730-4335-b764-303330346331/img.webp",
     cardType: "fullmeter-Cartoon",
   },
   {
@@ -372,7 +372,7 @@ const fullmeterCartoon = [
     donutTerms: "",
     titleLink: ["boosty", "godenname/posts/68626da1-318c-4864-b5b9-e2e02d02c087?t=211&tmid=692fd160-1792-4096-9174-822763a62490"],
     id: "Fullmeter-Cartoon_Wreck-It-Ralph",
-    posterImage: "https://static.tildacdn.com/tild6635-6563-4137-b863-353237643434/photo.webp",
+    posterImage: "https://static.tildacdn.com/tild3639-6363-4166-a537-656362346432/img.webp",
     cardType: "fullmeter-Cartoon",
   },
   {
@@ -381,7 +381,7 @@ const fullmeterCartoon = [
     donutTerms: "donut-lvl-2",
     titleLink: ["vk", "video-208448461_456239993?t=3h30s"],
     id: "Fullmeter-Cartoon_Rango",
-    posterImage: "https://static.tildacdn.com/tild3264-3438-4333-b231-636430633966/photo.webp",
+    posterImage: "https://static.tildacdn.com/tild6164-6264-4761-a266-333464363262/img.webp",
     cardType: "fullmeter-Cartoon",
   },
   {
@@ -390,7 +390,7 @@ const fullmeterCartoon = [
     donutTerms: "donut-lvl-2",
     titleLink: ["vk", "video-208448461_456240011?t=4h23m45s"],
     id: "Fullmeter-Cartoon_Tangled",
-    posterImage: "https://static.tildacdn.com/tild3435-6539-4439-a234-346663343333/__.webp",
+    posterImage: "https://static.tildacdn.com/tild3261-3133-4437-b134-653061386263/img.webp",
     cardType: "fullmeter-Cartoon",
   },
   {
@@ -399,16 +399,7 @@ const fullmeterCartoon = [
     donutTerms: "donut-lvl-2",
     titleLink: ["vk", "video-208448461_456240076?t=9h12m50s"],
     id: "Fullmeter-Cartoon_Rio",
-    posterImage: "https://static.tildacdn.com/tild3733-6132-4534-b734-636666666362/photo.webp",
-    cardType: "fullmeter-Cartoon",
-  },
-  {
-    nameRu: "Робоцып: Спешл DC Comics",
-    nameEn: "Robot Chicken: DC Comics Special",
-    donutTerms: "donut-lvl-3",
-    titleLink: ["vk", "video-208448461_456241591?t=1h53m59s"],
-    id: "Fullmeter-Cartoon_Robot-Chicken-DC-Comics-Special",
-    posterImage: "https://static.tildacdn.com/tild3363-6638-4361-b563-396632363765/__DC_Comics.webp",
+    posterImage: "https://static.tildacdn.com/tild6233-3665-4162-b337-663032663432/img.webp",
     cardType: "fullmeter-Cartoon",
   },
   {
@@ -417,7 +408,7 @@ const fullmeterCartoon = [
     donutTerms: "donut-lvl-1",
     titleLink: ["vk", "video-208448461_456239733?t=2h1m32s"],
     id: "Fullmeter-Cartoon_Christmas-Carol",
-    posterImage: "https://static.tildacdn.com/tild3736-3239-4163-a337-353933383933/_.webp",
+    posterImage: "https://static.tildacdn.com/tild6363-3533-4231-b330-386535613063/img.webp",
     cardType: "fullmeter-Cartoon",
   },
   {
@@ -426,7 +417,7 @@ const fullmeterCartoon = [
     donutTerms: "donut-lvl-2",
     titleLink: ["vk", "video-208448461_456239971?t=15h46m52s"],
     id: "Fullmeter-Cartoon_Simpsons-Movie",
-    posterImage: "https://static.tildacdn.com/tild3962-6431-4331-a162-363637383132/__.webp",
+    posterImage: "https://static.tildacdn.com/tild6365-3535-4562-a661-396233356566/img.webp",
     cardType: "fullmeter-Cartoon",
   },
   {
@@ -435,7 +426,7 @@ const fullmeterCartoon = [
     donutTerms: "donut-lvl-3",
     titleLink: ["vk", "video-208448461_456241406?t=2h6m42s"],
     id: "Fullmeter-Cartoon_Legend-of-Seven-Seas",
-    posterImage: "https://static.tildacdn.com/tild3762-3163-4130-b266-633638646162/photo.webp",
+    posterImage: "https://static.tildacdn.com/tild3232-6562-4263-b530-386537376231/img.webp",
     cardType: "fullmeter-Cartoon",
   },
   {
@@ -443,7 +434,7 @@ const fullmeterCartoon = [
     donutTerms: "donut-lvl-3",
     titleLink: ["vk", "video-208448461_456241643?t=12m7s"],
     id: "Fullmeter-Cartoon_Kikoriki-Beginning",
-    posterImage: "https://static.tildacdn.com/tild6461-6330-4962-b935-633163393561/_.webp",
+    posterImage: "https://static.tildacdn.com/tild3763-6166-4133-b664-303661386335/img.webp",
     cardType: "fullmeter-Cartoon",
   },
   {
@@ -452,7 +443,7 @@ const fullmeterCartoon = [
     donutTerms: "donut-lvl-3",
     titleLink: ["vk", "video-208448461_456240956?t=11m38s"],
     id: "Fullmeter-Cartoon_Stallion-of-Cimarron",
-    posterImage: "https://static.tildacdn.com/tild3863-3466-4137-a333-626439396363/__.webp",
+    posterImage: "https://static.tildacdn.com/tild6330-6430-4563-a363-646663633765/img.webp",
     cardType: "fullmeter-Cartoon",
   },
   {
@@ -461,7 +452,7 @@ const fullmeterCartoon = [
     donutTerms: "donut-lvl-2",
     titleLink: ["vk", "video-208448461_456239966?t=6h17m19s"],
     id: "Fullmeter-Cartoon_The-Incredibles",
-    posterImage: "https://static.tildacdn.com/tild3036-3434-4431-b034-623630626536/photo.webp",
+    posterImage: "https://static.tildacdn.com/tild3466-6339-4436-a666-386534663466/img.webp",
     cardType: "fullmeter-Cartoon",
   },
   {
@@ -487,7 +478,7 @@ const fullmeterCartoon = [
     donutTerms: "",
     titleLink: ["vk", "video-208448461_456239640"],
     id: "Fullmeter-Cartoon_Corpse-Bride",
-    posterImage: "https://static.tildacdn.com/tild6433-6238-4231-b235-656236366436/_.webp",
+    posterImage: "https://static.tildacdn.com/tild3936-6238-4636-b831-333965376164/img.webp",
     cardType: "fullmeter-Cartoon",
   },
   {
@@ -496,7 +487,7 @@ const fullmeterCartoon = [
     donutTerms: "donut-lvl-3",
     titleLink: ["vk", "video-208448461_456241114?t=2h33m4s"],
     id: "Fullmeter-Cartoon_Turok-Son-of-Stone",
-    posterImage: "https://static.tildacdn.com/tild3234-3861-4164-a663-646163336165/__.webp",
+    posterImage: "https://static.tildacdn.com/tild6630-6666-4236-b734-363333666135/img.webp",
     cardType: "fullmeter-Cartoon",
   },
   {
@@ -505,7 +496,7 @@ const fullmeterCartoon = [
     donutTerms: "donut-lvl-2",
     titleLink: ["vk", "video-208448461_456240427?t=4h3m31s"],
     id: "Fullmeter-Cartoon_Killer-Bean-Forever",
-    posterImage: "https://static.tildacdn.com/tild3139-3263-4163-b861-623862313637/_.webp",
+    posterImage: "https://static.tildacdn.com/tild6635-6638-4664-b362-656537343236/img.webp",
     cardType: "fullmeter-Cartoon",
   },
   {
@@ -514,7 +505,7 @@ const fullmeterCartoon = [
     donutTerms: "donut-lvl-2",
     titleLink: ["vk", "video-208448461_456239941?t=4h1m47s"],
     id: "Fullmeter-Cartoon_Flanders-no-Inu",
-    posterImage: "https://static.tildacdn.com/tild6132-3661-4535-b635-613834323666/_.webp",
+    posterImage: "https://static.tildacdn.com/tild3766-6133-4132-a664-333836363664/img.webp",
     cardType: "fullmeter-Cartoon",
   },
   {
@@ -523,7 +514,7 @@ const fullmeterCartoon = [
     donutTerms: "donut-lvl-2",
     titleLink: ["vk", "video-208448461_456240668?t=5m10s"],
     id: "Fullmeter-Cartoon_Frozen",
-    posterImage: "https://static.tildacdn.com/tild6562-3165-4565-b464-393630646239/_.webp",
+    posterImage: "https://static.tildacdn.com/tild3635-6531-4632-b232-633232386165/img.webp",
     cardType: "fullmeter-Cartoon",
   },
   {
@@ -532,7 +523,7 @@ const fullmeterCartoon = [
     donutTerms: "donut-lvl-3",
     titleLink: ["vk", "video-208448461_456240917?t=1h29m46s"],
     id: "Fullmeter-Cartoon_Brave",
-    posterImage: "https://static.tildacdn.com/tild3738-6434-4062-b030-396166363862/_.webp",
+    posterImage: "https://static.tildacdn.com/tild6363-6535-4531-b661-653665376235/img.webp",
     cardType: "fullmeter-Cartoon",
   },
   {
@@ -541,7 +532,7 @@ const fullmeterCartoon = [
     donutTerms: "donut-lvl-2",
     titleLink: ["vk", "video-208448461_456240690?t=1h35m50s"],
     id: "Fullmeter-Cartoon_Rise-of-Guardians",
-    posterImage: "https://static.tildacdn.com/tild6265-6166-4237-b061-373638343130/_.webp",
+    posterImage: "https://static.tildacdn.com/tild3437-6232-4363-b931-323463343233/img.webp",
     cardType: "fullmeter-Cartoon",
   },
   {
@@ -559,16 +550,16 @@ const fullmeterCartoon = [
     donutTerms: "",
     titleLink: ["vk", "video-208448461_456241638?t=1m32s"],
     id: "Fullmeter-Cartoon_TMNT",
-    posterImage: "https://static.tildacdn.com/tild3434-6132-4338-a539-366537633836/-.webp",
+    posterImage: "https://static.tildacdn.com/tild6639-3830-4733-b433-353535656333/img.webp",
     cardType: "fullmeter-Cartoon",
   },
   {
     nameRu: "Шрек 2",
-    nameEn: "Shrek",
+    nameEn: "Shrek 2",
     donutTerms: "",
     titleLink: ["vk", "video-208448461_456239238"],
-    id: "Fullmeter-Cartoon_Shrek",
-    posterImage: "https://static.tildacdn.com/tild6364-3866-4264-a635-623637663736/_2.webp",
+    id: "Fullmeter-Cartoon_Shrek-2",
+    posterImage: "https://static.tildacdn.com/tild3363-6433-4166-b339-613639643839/img.webp",
     cardType: "fullmeter-Cartoon",
   },
 ];

@@ -293,6 +293,16 @@ const seriesCartoons = [
     cardType: "series-Cartoon",
   },
   {
+    nameRu: "Робоцып: Спешл DC Comics",
+    nameEn: "Robot Chicken: DC Comics Special",
+    titleStatus: "Просмотрено: 1-3/3 Эпизод",
+    donutTerms: "donut-lvl-3",
+    titleLink: ["vk", "video-208448461_456241591?t=1h53m59s"],
+    id: "Series-Cartoon_Robot-Chicken-DC-Comics-Special",
+    posterImage: "https://static.tildacdn.com/tild6463-6539-4361-b162-396537656336/img.webp",
+    cardType: "series-Cartoon",
+  },
+  {
     nameRu: "Сборник армянских мультфильмов Роберта Саакянца (1981-1985)",
     titleStatus: "Просмотрено: 1-5/5 Эпизод",
     donutTerms: "",
