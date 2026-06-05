@@ -36,7 +36,7 @@ const ordersDatabase = [
   {
     nameRu: "Декстер",
     nameEn: "Dexter",
-    orderRemark: "Сериал, Требуется +5 слота (7 Сезон 3-12/12 Эпизод)",
+    orderRemark: "Сериал, Требуется: +5 слота (7 Сезон 3-12/12 Эпизод)",
     personalOrder: "",
     cardType: "order-during",
     id: "order_Dexter",
@@ -45,7 +45,7 @@ const ordersDatabase = [
   {
     nameRu: "Сопрано",
     nameEn: "The Sopranos",
-    orderRemark: "Сериал, Требуется +4 слота (3 Сезон 6-13/13 Эпизод)",
+    orderRemark: "Сериал, Требуется: +4 слота (3 Сезон 6-13/13 Эпизод)",
     personalOrder: "",
     cardType: "order-during",
     id: "order_Sopranos",
