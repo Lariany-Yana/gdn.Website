@@ -36,6 +36,7 @@ const scheduleDatabase = [
     scheduleType: "schedule-current",
     date: "04.06.26",
   },
+  // Пятница
   {
     nameRu: "Стрим маловероятен :|",
     scheduleRemark: "",

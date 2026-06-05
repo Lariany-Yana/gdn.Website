@@ -36,7 +36,7 @@ const ordersDatabase = [
   {
     nameRu: "Декстер",
     nameEn: "Dexter",
-    orderRemark: "Сериал, 7 Сезон 3-12/12 Эпизод Требуется +5 слота",
+    orderRemark: "Сериал, Требуется +5 слота (7 Сезон 3-12/12 Эпизод)",
     personalOrder: "",
     cardType: "order-during",
     id: "order_Dexter",
@@ -45,7 +45,7 @@ const ordersDatabase = [
   {
     nameRu: "Сопрано",
     nameEn: "The Sopranos",
-    orderRemark: "Сериал, 3 Сезон 6-13/13 Эпизод / Требуется +4 слота",
+    orderRemark: "Сериал, Требуется +4 слота (3 Сезон 6-13/13 Эпизод)",
     personalOrder: "",
     cardType: "order-during",
     id: "order_Sopranos",
@@ -1099,7 +1099,7 @@ const ordersDatabase = [
   {
     nameRu: "Ван Пис",
     nameEn: "One Piece",
-    orderRemark: "Манга, прочитано -1 Слот [1150-1155 Главы] / Ожидается уточнение",
+    orderRemark: "Манга, Ожидается уточнение (Прочитано: -1 Слот, 1150-1155 Главы)",
     personalOrder: "",
     cardType: "order-incomplete",
     id: "order_One-Piece-Manga",
@@ -1108,7 +1108,7 @@ const ordersDatabase = [
   {
     nameRu: "Южный Парк",
     nameEn: "South Park",
-    orderRemark: "Мультсериал, 3 Сезон 7-17/17 Эпизод / Требуется +2.75 слота",
+    orderRemark: "Мультсериал, Требуется: +2.75 слота (3 Сезон 7-17/17 Эпизод)",
     personalOrder: "",
     cardType: "order-incomplete",
     id: "order_South-Park",
@@ -1117,7 +1117,7 @@ const ordersDatabase = [
   {
     nameRu: "Для тебя, Бессмертный",
     nameEn: "Fumetsu no Anata e",
-    orderRemark: "Аниме, 1 Сезон 9-20/20 Эпизод / Требуется +3 слота",
+    orderRemark: "Аниме, Требуется: +3 слота (1 Сезон 9-20/20 Эпизод)",
     personalOrder: "",
     cardType: "order-incomplete",
     id: "order_To-Your-Eternity",
@@ -1126,7 +1126,7 @@ const ordersDatabase = [
   {
     nameRu: "Ох уж этот экстрасенс Сайки Кусуо!",
     nameEn: "Saiki Kusuo no Ψ-nan",
-    orderRemark: "Аниме, 1 Сезон 13-24/24 Эпизод / Требуется +4 слота",
+    orderRemark: "Аниме, Требуется: +4 слота (1 Сезон 13-24/24 Эпизод)",
     personalOrder: "",
     cardType: "order-incomplete",
     id: "order_Saiki-Kusuo-1",
@@ -1135,7 +1135,7 @@ const ordersDatabase = [
   {
     nameRu: "Да, я паук, и что с того",
     nameEn: "Kumo Desu ga, Nanika?",
-    orderRemark: "Аниме, 1 Сезон 5-24/24 Эпизод / Требуется +5 слотов",
+    orderRemark: "Аниме, Требуется: +5 слотов (1 Сезон 5-24/24 Эпизод)",
     personalOrder: "",
     cardType: "order-incomplete",
     id: "order_Kumo-Desu-ga-Nanika",
@@ -1144,7 +1144,7 @@ const ordersDatabase = [
   {
     nameRu: "Драгон Болл / Драконий жемчуг",
     nameEn: "Dragon Ball",
-    orderRemark: "Аниме, 1 Сезон 5-153/153 Эпизод / Требуется +37.25 слотов",
+    orderRemark: "Аниме, Требуется: +37.25 слотов (1 Сезон 5-153/153 Эпизод)",
     personalOrder: "",
     cardType: "order-incomplete",
     id: "order_Dragon-Ball-1",
@@ -1153,7 +1153,7 @@ const ordersDatabase = [
   {
     nameRu: "Флэш",
     nameEn: "The Flash",
-    orderRemark: "Сериал, 1 Сезон 13-23/23 Эпизод / Требуется +5 слотов",
+    orderRemark: "Сериал, Требуется: +5 слотов (1 Сезон 13-23/23 Эпизод)",
     personalOrder: "",
     cardType: "order-incomplete",
     id: "order_The-Flash",
@@ -1162,7 +1162,7 @@ const ordersDatabase = [
   {
     nameRu: "Боец Баки",
     nameEn: "Grappler Baki",
-    orderRemark: "Аниме, 1 Сезон 5-24/24 Эпизод / Требуется +5 слотов",
+    orderRemark: "Аниме, Требуется: +5 слотов (1 Сезон 5-24/24 Эпизод)",
     personalOrder: "",
     cardType: "order-incomplete",
     id: "order_Grappler-Baki",
@@ -1171,7 +1171,7 @@ const ordersDatabase = [
   {
     nameRu: "Игра в кальмара",
     nameEn: "Ojingeo geim",
-    orderRemark: "Сериал, 2 Сезон 3-7/7 Эпизод / Требуется +2.5 слота",
+    orderRemark: "Сериал, Требуется: +2.5 слота (2 Сезон 3-7/7 Эпизод)",
     personalOrder: "",
     cardType: "order-incomplete",
     id: "order_Ojingeo-geim",
