@@ -10,6 +10,11 @@ const amusementPokerPopups = {
       seasonName: "2026",
       items: [
         {
+          title: "28 Мая",
+          source: "vk",
+          link: "video-208448461_456241839?t=4m41s",
+        },
+        {
           title: "18 Февраля",
           source: "vk",
           link: "video-208448461_456241776?t=3h14m34s",
