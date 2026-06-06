@@ -34,9 +34,18 @@ const ordersDatabase = [
     ],
   },
   {
+    nameRu: "Ван Пис",
+    nameEn: "One Piece",
+    orderRemark: "Манга, Ожидается уточнение (Прочитано: -2 Слота, 1150-1171 Главы)",
+    personalOrder: "",
+    cardType: "order-during",
+    id: "order_One-Piece-Manga",
+    items: [],
+  },
+  {
     nameRu: "Декстер",
     nameEn: "Dexter",
-    orderRemark: "Сериал, Требуется: +2.5 слота (7 Сезон 8-12/12 Эпизод), Просмотрено: -2.5 Слота (7 Сезон 3-7 Эпизод)",
+    orderRemark: "Сериал, Требуется: +2.5 слота (7 Сезон 8-12/12 Эпизод), Ожидается уточнение (Просмотрено: -2.5 Слота, 7 Сезон 3-7 Эпизод)",
     personalOrder: "",
     cardType: "order-during",
     id: "order_Dexter",
@@ -1081,15 +1090,6 @@ const ordersDatabase = [
   },
   //#endregion
   //#region Початые
-  {
-    nameRu: "Ван Пис",
-    nameEn: "One Piece",
-    orderRemark: "Манга, Ожидается уточнение (Прочитано: -2 Слота, 1150-1171 Главы)",
-    personalOrder: "",
-    cardType: "order-incomplete",
-    id: "order_One-Piece-Manga",
-    items: [],
-  },
   {
     nameRu: "Южный Парк",
     nameEn: "South Park",
