@@ -1024,6 +1024,26 @@ const seriesSerialsPopups = {
         },
       ],
     },
+    {
+      seasonName: "7 Сезон",
+      items: [
+        {
+          title: "1-2 Эпизод",
+          source: "vk",
+          link: "video-208448461_456241834?t=2h11m8s",
+        },
+        {
+          title: "3-5 Эпизод ?",
+          source: "vk",
+          link: "video-208448461_456241840?t=15m31s",
+        },
+        {
+          title: "6-7 Эпизод",
+          source: "vk",
+          link: "video-208448461_456241844?t=1h53m24s",
+        },
+      ],
+    },
   ],
   "Series-Serials_The-Vampire-Diaries": [
     {

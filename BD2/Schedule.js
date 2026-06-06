@@ -1,5 +1,14 @@
 const scheduleDatabase = [
   //#region Текущая неделя
+  /* ШАБЛОН
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: "Время",
+    scheduleType: "schedule-current",
+    date: "00.06.26",
+  },
+	*/
   // Понедельник
   {
     nameRu: "Стрим невозможен :[",
@@ -38,8 +47,23 @@ const scheduleDatabase = [
   },
   // Пятница
   {
-    nameRu: "Стрим маловероятен :|",
-    scheduleRemark: "",
+    nameRu: "Ван Пис",
+    nameEn: "One Piece",
+    scheduleRemark: "Манга, 1164-1171 Главы",
+    scheduleType: "schedule-current",
+    date: "05.06.26",
+  },
+  {
+    nameRu: "Декстер",
+    nameEn: "Dexter",
+    scheduleRemark: "Сериал, 7 Сезон 5-6 Эпизод",
+    scheduleType: "schedule-current",
+    date: "05.06.26",
+  },
+  {
+    nameRu: "Аллея кошмаров",
+    nameEn: "Nightmare Alley",
+    scheduleRemark: "Фильм",
     scheduleType: "schedule-current",
     date: "05.06.26",
   },

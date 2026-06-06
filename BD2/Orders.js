@@ -36,7 +36,7 @@ const ordersDatabase = [
   {
     nameRu: "Декстер",
     nameEn: "Dexter",
-    orderRemark: "Сериал, Требуется: +5 слота (7 Сезон 3-12/12 Эпизод)",
+    orderRemark: "Сериал, Требуется: +2.5 слота (7 Сезон 8-12/12 Эпизод), Просмотрено: -2.5 Слота (7 Сезон 3-7 Эпизод)",
     personalOrder: "",
     cardType: "order-during",
     id: "order_Dexter",
@@ -106,21 +106,6 @@ const ordersDatabase = [
         nickname: "Кирвин",
         slot: "1",
         date: "19.02.25",
-      },
-    ],
-  },
-  {
-    nameRu: "Аллея кошмаров",
-    nameEn: "Nightmare Alley",
-    orderRemark: "Фильм",
-    personalOrder: "",
-    cardType: "order-waiting",
-    id: "order_Nightmare-Alley",
-    items: [
-      {
-        nickname: "Кирвин",
-        slot: "1",
-        date: "11.03.25",
       },
     ],
   },
@@ -1099,7 +1084,7 @@ const ordersDatabase = [
   {
     nameRu: "Ван Пис",
     nameEn: "One Piece",
-    orderRemark: "Манга, Ожидается уточнение (Прочитано: -1 Слот, 1150-1155 Главы)",
+    orderRemark: "Манга, Ожидается уточнение (Прочитано: -2 Слота, 1150-1171 Главы)",
     personalOrder: "",
     cardType: "order-incomplete",
     id: "order_One-Piece-Manga",

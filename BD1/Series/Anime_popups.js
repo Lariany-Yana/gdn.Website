@@ -1877,6 +1877,11 @@ const seriesAnimePopups = {
           link: "video-208448461_456241838?t=16m9s",
         },
         {
+          title: "Манга: 1150-1155 Главы",
+          source: "vk",
+          link: "video-208448461_456241840?t=2h41m49s",
+        },
+        {
           title: "Манга: 1156-1163 Главы",
           source: "vk",
           link: "video-208448461_456241843?t=11m9s",

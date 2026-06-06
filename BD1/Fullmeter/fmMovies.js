@@ -175,6 +175,15 @@ const fullmeterMovie = [
     cardType: "fullmeter-Movie",
   },
   {
+    nameRu: "Аллея кошмаров",
+    nameEn: "Nightmare Alley",
+    donutTerms: "donut-lvl-3",
+    titleLink: ["vk", "video-208448461_456241844?t=3m8s"],
+    id: "Fullmeter-Movie_Nightmare-Alley",
+    posterImage: "https://static.tildacdn.com/tild3062-6639-4665-b836-333765373932/img.webp",
+    cardType: "fullmeter-Movie",
+  },
+  {
     nameRu: "Анатомия падения",
     nameEn: "Anatomie d'une chute",
     donutTerms: "donut-lvl-3",
