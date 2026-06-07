@@ -4,7 +4,7 @@ const scheduleDatabase = [
   {
     nameRu: "Название",
     nameEn: "Название",
-    scheduleRemark: "Время",
+    scheduleRemark: "Начало в 15:00 по МСК",
     scheduleType: "schedule-current",
     date: "00.06.26",
   },
@@ -75,8 +75,23 @@ const scheduleDatabase = [
   },
   // Воскресенье
   {
-    nameRu: "Стрим вполне вероятен :]",
-    scheduleRemark: "",
+    nameRu: "Сопрано",
+    nameEn: "The Sopranos",
+    scheduleRemark: "3 Сезон 6-8 Эпизод",
+    scheduleType: "schedule-current",
+    date: "07.06.26",
+  },
+  {
+    nameRu: "Меч чужака",
+    nameEn: "Stranger: Mukou Hadan",
+    scheduleRemark: "Полнометражка",
+    scheduleType: "schedule-current",
+    date: "07.06.26",
+  },
+  {
+    nameRu: "Южный Парк",
+    nameEn: "South Park",
+    scheduleRemark: "Начало в 20:00 по МСК",
     scheduleType: "schedule-current",
     date: "07.06.26",
   },
