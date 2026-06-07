@@ -549,7 +549,7 @@ const ordersDatabase = [
       },
       {
         nickname: "lucky_god_man",
-        slot: "20",
+        slot: "2",
         date: "28.08.25",
       },
     ],
@@ -1163,7 +1163,7 @@ const ordersDatabase = [
     items: [],
   },
   //#endregion
-  //#region Заморожено
+  //#region На паузе
   {
     nameRu: "Игра лжецов",
     nameEn: "Liar Game",
@@ -1184,7 +1184,7 @@ const ordersDatabase = [
     nameEn: "Tengoku Daimakyou",
     orderRemark: "Аниме, 1 Сезон 1-13/13 Эпизод",
     personalOrder: "user_Edwin",
-    cardType: "order-frozen",
+    cardType: "order-waiting",
     id: "order_Tengoku-Daimakyou-1",
     items: [
       {
@@ -1214,7 +1214,7 @@ const ordersDatabase = [
     nameEn: "Hotarubi no Mori e",
     orderRemark: "Полнометражка",
     personalOrder: "user_Edwin",
-    cardType: "order-frozen",
+    cardType: "order-waiting",
     id: "order_Hotarubi-no-Mori-e",
     items: [
       {
@@ -1228,7 +1228,7 @@ const ordersDatabase = [
     nameRu: "Need for Speed: Most Wanted (2005)",
     orderRemark: "Игра, 7 Слотов",
     personalOrder: "user_Edwin",
-    cardType: "order-frozen",
+    cardType: "order-waiting",
     id: "order_Most-Wanted-2005",
     items: [
       {
@@ -1248,7 +1248,7 @@ const ordersDatabase = [
     nameEn: "Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?)",
     orderRemark: "Аниме, 1 Сезон 5-12/12 Эпизод",
     personalOrder: "user_Edwin",
-    cardType: "order-frozen",
+    cardType: "order-waiting",
     id: "order_Muri-ja-Nakatta",
     items: [
       {
@@ -1262,7 +1262,7 @@ const ordersDatabase = [
     nameRu: "Goat: Мечтай по-крупному",
     orderRemark: "Мультфильм",
     personalOrder: "user_Edwin",
-    cardType: "order-frozen",
+    cardType: "order-waiting",
     id: "order_Goat",
     items: [
       {
@@ -1276,7 +1276,7 @@ const ordersDatabase = [
     nameRu: "Пересмотр «Заклятие (Пересмотр пересмотра)»",
     orderRemark: "Пересмотр пересмотра пересмотра",
     personalOrder: "user_Edwin",
-    cardType: "order-frozen",
+    cardType: "order-waiting",
     id: "order_Conjuring-Rewatch",
     items: [
       {

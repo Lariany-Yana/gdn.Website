@@ -1765,10 +1765,10 @@ const seriesAnime = [
   {
     nameRu: "Ямада-кун и семь ведьм",
     nameEn: "Yamada-kun to 7-nin no Majo",
-    titleStatus: "Просмотрено: 1-4/12 Эпизод",
+    titleStatus: "Просмотрено: 1-12/12 Эпизод",
     donutTerms: "donut-lvl-3",
     titleLink: ["vk", "video-208448461_456241646?t=11m49s"],
-    id: "Series-Anime_Bunny-Girl-Senpai",
+    id: "Series-Anime_Yamada-kun-to-7-nin-no-Majo",
     posterImage: "https://static.tildacdn.com/tild6430-3161-4434-a565-656435393433/-___.webp",
     cardType: "series-Anime",
   },
