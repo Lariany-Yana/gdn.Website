@@ -54,7 +54,7 @@ const ordersDatabase = [
   {
     nameRu: "Сопрано",
     nameEn: "The Sopranos",
-    orderRemark: "Сериал, Требуется: +4 слота (3 Сезон 6-13/13 Эпизод)",
+    orderRemark: "Сериал, Требуется: +2 слота (3 Сезон 10-13/13 Эпизод), Ожидается уточнение (Просмотрено: -2 Слота, 3 Сезон 6-9 Эпизод)",
     personalOrder: "",
     cardType: "order-during",
     id: "order_Sopranos",
@@ -145,21 +145,6 @@ const ordersDatabase = [
         nickname: "Стас",
         slot: "3",
         date: "19.03.25",
-      },
-    ],
-  },
-  {
-    nameRu: "Меч чужака",
-    nameEn: "Stranger: Mukou Hadan",
-    orderRemark: "Полнометражка",
-    personalOrder: "",
-    cardType: "order-waiting",
-    id: "order_Mukou-Hadan",
-    items: [
-      {
-        nickname: "Рандом",
-        slot: "1",
-        date: "21.03.25",
       },
     ],
   },
@@ -1093,7 +1078,7 @@ const ordersDatabase = [
   {
     nameRu: "Южный Парк",
     nameEn: "South Park",
-    orderRemark: "Мультсериал, Требуется: +2.75 слота (3 Сезон 7-17/17 Эпизод)",
+    orderRemark: "Мультсериал, Требуется: +1.75 слота (3 Сезон 11-17/17 Эпизод), Ожидается уточнение (Просмотрено: -1 Слот, 3 Сезон 7-10 Эпизод)",
     personalOrder: "",
     cardType: "order-incomplete",
     id: "order_South-Park",

@@ -1769,6 +1769,11 @@ const seriesCartoonsPopups = {
           source: "vk",
           link: "video-208448461_456241841?t=2h31m40s",
         },
+        {
+          title: "7-10 Эпизод",
+          source: "vk",
+          link: "video-208448461_456241845?t=4h50m8s",
+        },
       ],
     },
   ],
