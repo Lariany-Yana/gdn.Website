@@ -119,21 +119,6 @@ const ordersDatabase = [
     ],
   },
   {
-    nameRu: "Инуяшики",
-    nameEn: "Inuyashiki",
-    orderRemark: "Аниме, 1 Сезон 5/11 Эпизод",
-    personalOrder: "",
-    cardType: "order-waiting",
-    id: "order_Inuyashiki",
-    items: [
-      {
-        nickname: "Аноним",
-        slot: "0.25",
-        date: "15.03.25",
-      },
-    ],
-  },
-  {
     nameRu: "Ямада-кун и семь ведьм",
     nameEn: "Yamada-kun to 7-nin no Majo",
     orderRemark: "Аниме, 1 Сезон 1-12/12 Эпизод",
@@ -728,6 +713,11 @@ const ordersDatabase = [
     id: "order_Supernatural-6",
     items: [
       {
+        nickname: "Аноним",
+        slot: "0.25",
+        date: "15.03.25",
+      },
+      {
         nickname: "Твою мать!",
         slot: "1",
         date: "02.12.25",
@@ -1311,6 +1301,17 @@ const ordersDatabase = [
     orderRemark_1: "Фильм > 1 Слот > Фильм",
     orderRemark_2: "Свап был 25.05.26 (Мисти)",
     personalOrder: "user_Misty",
+    cardType: "order-switch",
+    items: [],
+  },
+  {
+    nameRu_1: "Инуяшики",
+    nameEn_1: "Inuyashiki",
+    nameRu_2: "Сверхъестественное",
+    nameEn_2: "Supernatural",
+    orderRemark_1: "Аниме > 0.25 Слота > Сериал",
+    orderRemark_2: "Свап был 08.06.26 (Аноним)",
+    personalOrder: "",
     cardType: "order-switch",
     items: [],
   },
