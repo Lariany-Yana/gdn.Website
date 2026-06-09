@@ -1,4 +1,4 @@
-const updateWas = "Добавление новых слотов было: 25.05.26";
+const updateWas = "Добавление новых слотов было: 09.06.26";
 const ordersDatabase = [
   /* ШАБЛОН
   {
@@ -39,7 +39,7 @@ const ordersDatabase = [
   {
     nameRu: "Ван Пис",
     nameEn: "One Piece",
-    orderRemark: "Манга ⨯ Прочитано: -3 Слота (1150-1171 Главы)",
+    orderRemark: "Манга ⨯ Прочитано: -2.25 Слота (1155-1171 Главы)",
     cardType: "order-during",
     id: "order_One-Piece-Manga",
     items: [
@@ -56,20 +56,14 @@ const ordersDatabase = [
         was: "was",
       },
       {
-        nickname: "1150-1155 Главы",
-        slot: "1", // 1150-1155 Главы
-        date: "В уточнении",
-        was: "owe",
+        nickname: "Алукард",
+        slot: "0.75", // 1150-1154 Главы
+        date: "03.06.26",
+        was: "was",
       },
       {
-        nickname: "1156-1163 Главы",
-        slot: "1", // 1156-1163 Главы
-        date: "В уточнении",
-        was: "owe",
-      },
-      {
-        nickname: "1164-1171 Главы",
-        slot: "1", // 1164-1171 Главы
+        nickname: "1155-1171 Главы",
+        slot: "2.25", // 1155-1163 Главы
         date: "В уточнении",
         was: "owe",
       },
@@ -89,14 +83,20 @@ const ordersDatabase = [
         was: "was",
       },
       {
-        nickname: "7с 3-5эп",
-        slot: "1.5", // 7 Сезон 3-5 Эпизод
-        date: "В уточнении",
-        was: "owe",
+        nickname: "Твою мать!",
+        slot: "1", // 7 Сезон 3-4 Эпизод
+        date: "29.05.26",
+        was: "was",
       },
       {
-        nickname: "7с 6-7эп",
-        slot: "1", // 7 Сезон 6-7 Эпизод
+        nickname: "Мавроди",
+        slot: "1", // 7 Сезон 5-6 Эпизод
+        date: "05.06.26",
+        was: "was",
+      },
+      {
+        nickname: "7с 7эп",
+        slot: "0.5", // 7 Сезон 7 Эпизод
         date: "В уточнении",
         was: "owe",
       },
@@ -122,10 +122,10 @@ const ordersDatabase = [
         was: "was",
       },
       {
-        nickname: "3с 6-7эп",
+        nickname: "Сатурдей",
         slot: "1", // 3 Сезон 6-7 Эпизод
-        date: "В уточнении",
-        was: "owe",
+        date: "07.06.26",
+        was: "was",
       },
       {
         nickname: "3с 8-9эп",
@@ -138,7 +138,8 @@ const ordersDatabase = [
   {
     nameRu: "Южный Парк",
     nameEn: "South Park",
-    orderRemark: "Мультсериал ⨯ Просмотрено: 3 Сезон 1-10/17 Эпизод",
+    orderRemark: "Мультсериал ⨯ В заказе: 3 Сезон 11-15/17 Эпизод",
+    personalOrder: "user_Katya",
     cardType: "order-during",
     id: "order_South-Park",
     items: [
@@ -149,16 +150,26 @@ const ordersDatabase = [
         was: "was",
       },
       {
-        nickname: "3с 4-7эп",
-        slot: "0.75", // 3 Сезон 4-6 Эпизод
-        date: "В уточнении",
-        was: "owe",
+        nickname: "Твою мать!",
+        slot: "1", // 3 Сезон 4-7 Эпизод
+        date: "20.05.26",
+        was: "was",
       },
       {
-        nickname: "3с 7-10эп",
-        slot: "1", // 3 Сезон 7-10 Эпизод
-        date: "В уточнении",
-        was: "owe",
+        nickname: "₁₁Naтрий",
+        slot: "0.75", // 3 Сезон 8-10 Эпизод
+        date: "07.06.26",
+        was: "was",
+      },
+      {
+        nickname: "₁₁Naтрий",
+        slot: "0.25", // 3 Сезон 11 Эпизод
+        date: "07.06.26",
+      },
+      {
+        nickname: "Твою мать!",
+        slot: "1", // 3 Сезон 12-15 Эпизод
+        date: "07.06.26",
       },
     ],
   },
@@ -1236,6 +1247,131 @@ const ordersDatabase = [
       },
     ],
   },
+  {
+    nameRu: "Алиса в Пограничье",
+    nameEn: "Imawa no Kuni no Alice",
+    orderRemark: "Манга",
+    personalOrder: "user_Izida",
+    cardType: "order-waiting",
+    id: "order_Imawa-no-Kuni-no-Alice",
+    items: [
+      {
+        nickname: "Izida-Sama",
+        slot: "3",
+        date: "24.05.26",
+      },
+    ],
+  },
+  {
+    nameRu: "Моя геройская академия: Вне закона",
+    nameEn: "Vigilante: Boku no Hero Academia Illegals",
+    orderRemark: "Аниме × В заказе: 1 Сезон 1-13/13 Эпизод",
+    cardType: "order-waiting",
+    id: "order_Boku-no-Hero-Academia-Illegals",
+    items: [
+      {
+        nickname: "Nightmare336",
+        slot: "3.25",
+        date: "24.05.26",
+      },
+    ],
+  },
+  {
+    nameRu: "Магическая битва",
+    nameEn: "Jujutsu Kaisen",
+    cardType: "order-waiting",
+    id: "order_007",
+    items: [
+      {
+        nickname: "Сулейка",
+        slot: "1",
+        date: "28.05.26",
+      },
+    ],
+  },
+  {
+    nameRu: "Crusader Kings III",
+    orderRemark: "Игра",
+    personalOrder: "user_Izida",
+    cardType: "order-waiting",
+    id: "order_Crusader-Kings-3",
+    items: [
+      {
+        nickname: "Izida-Sama",
+        slot: "2",
+        date: "06.06.26",
+      },
+    ],
+  },
+  {
+    nameRu: "Фантастическая четвёрка: Первые шаги",
+    nameEn: "The Fantastic Four: First Steps",
+    orderRemark: "Фильм",
+    cardType: "order-waiting",
+    id: "order_The-Fantastic-Four-First-Steps",
+    items: [
+      {
+        nickname: "Nightmare336",
+        slot: "1",
+        date: "09.06.26",
+      },
+    ],
+  },
+  {
+    nameRu: "Капитан Америка: Дивный новый мир",
+    nameEn: "Captain America: Brave New World",
+    orderRemark: "Фильм",
+    cardType: "order-waiting",
+    id: "order_Captain-America-Brave-New-World",
+    items: [
+      {
+        nickname: "Сулейка",
+        slot: "1",
+        date: "09.06.26",
+      },
+    ],
+  },
+  {
+    nameRu: "Громовержцы*",
+    nameEn: "Thunderbolts*",
+    orderRemark: "Фильм",
+    cardType: "order-waiting",
+    id: "order_Thunderbolts",
+    items: [
+      {
+        nickname: "Сулейка",
+        slot: "1",
+        date: "09.06.26",
+      },
+    ],
+  },
+  {
+    nameRu: "Годнеслот",
+    personalOrder: "user_Katya",
+    cardType: "order-waiting",
+    id: "order_008",
+    items: [
+      {
+        nickname: "Твою мать!",
+        slot: "1",
+        date: "09.06.26",
+      },
+    ],
+  },
+  {
+    nameRu: "Ангельские ритмы!",
+    nameEn: "Angel Beats!",
+    orderRemark: "Аниме × В заказе: 1 Сезон 1-4/13 Эпизод",
+    cardType: "order-waiting",
+    id: "order_Angel-Beats",
+    items: [
+      {
+        nickname: "Insomnia",
+        slot: "1",
+        date: "09.06.26",
+      },
+    ],
+  },
   //#endregion
   //#region ~Нужен дозаказ~
   {
@@ -1483,6 +1619,20 @@ const ordersDatabase = [
         nickname: "Демон21",
         slot: "1",
         date: "24.06.25",
+        was: "was",
+      },
+    ],
+  },
+  {
+    nameRu: "Паук-Нуар",
+    nameEn: "Spider-Noir",
+    orderRemark: "Сериал × Просмотрено: 1 Сезон 1-8/8 Эпизод",
+    cardType: "order-finished",
+    items: [
+      {
+        nickname: "Сулейка",
+        slot: "4",
+        date: "27.05.26",
         was: "was",
       },
     ],
