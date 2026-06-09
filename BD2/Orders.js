@@ -103,6 +103,39 @@ const ordersDatabase = [
     ],
   },
   {
+    nameRu: "Сопрано",
+    nameEn: "The Sopranos",
+    orderRemark: "Сериал, Просмотрено: 3 Сезон 1-9/13 Эпизод",
+    cardType: "order-during",
+    id: "order_Sopranos",
+    items: [
+      {
+        nickname: "Сатурдей",
+        slot: "1.5", // 3 Сезон 1-3 Эпизод
+        date: "21.04.26",
+        was: "was",
+      },
+      {
+        nickname: "Сатурдей",
+        slot: "1", // 3 Сезон 4-5 Эпизод
+        date: "12.05.26",
+        was: "was",
+      },
+      {
+        nickname: "3с 6-7эп",
+        slot: "1", // 3 Сезон 6-7 Эпизод
+        date: "В уточнении",
+        was: "owe",
+      },
+      {
+        nickname: "3с 8-9эп",
+        slot: "1", // 3 Сезон 8-9 Эпизод
+        date: "В уточнении",
+        was: "owe",
+      },
+    ],
+  },
+  {
     nameRu: "Южный Парк",
     nameEn: "South Park",
     orderRemark: "Мультсериал, Просмотрено: 3 Сезон 1-10/17 Эпизод",
@@ -1469,39 +1502,6 @@ const ordersDatabase = [
     ],
   },
   //#region Сопрано
-  {
-    nameRu: "Сопрано",
-    nameEn: "The Sopranos",
-    orderRemark: "Сериал, Просмотрено: -2 Слота (3 Сезон 6-9 Эпизод)",
-    cardType: "order-during",
-    id: "order_Sopranos",
-    items: [
-      {
-        nickname: "Сатурдей",
-        slot: "1.5", // 3 Сезон 1-3 Эпизод
-        date: "21.04.26",
-        was: "was",
-      },
-      {
-        nickname: "Сатурдей",
-        slot: "1", // 3 Сезон 4-5 Эпизод
-        date: "12.05.26",
-        was: "was",
-      },
-      {
-        nickname: "3с 6-7эп",
-        slot: "1", // 3 Сезон 6-7 Эпизод
-        date: "В уточнении",
-        was: "owe",
-      },
-      {
-        nickname: "3с 8-9эп",
-        slot: "1", // 3 Сезон 8-9 Эпизод
-        date: "В уточнении",
-        was: "owe",
-      },
-    ],
-  },
   {
     nameRu: "Сопрано",
     nameEn: "The Sopranos",
