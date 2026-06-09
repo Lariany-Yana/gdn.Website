@@ -39,7 +39,7 @@ const ordersDatabase = [
   {
     nameRu: "Ван Пис",
     nameEn: "One Piece",
-    orderRemark: "Манга, Прочитано: -3 Слота (1150-1171 Главы)",
+    orderRemark: "Манга ⨯ Прочитано: -3 Слота (1150-1171 Главы)",
     cardType: "order-during",
     id: "order_One-Piece-Manga",
     items: [
@@ -78,7 +78,7 @@ const ordersDatabase = [
   {
     nameRu: "Декстер",
     nameEn: "Dexter",
-    orderRemark: "Сериал, Просмотрено: 7 Сезон 1-7/12 Эпизод",
+    orderRemark: "Сериал ⨯ Просмотрено: 7 Сезон 1-7/12 Эпизод",
     cardType: "order-during",
     id: "order_Dexter",
     items: [
@@ -105,7 +105,7 @@ const ordersDatabase = [
   {
     nameRu: "Сопрано",
     nameEn: "The Sopranos",
-    orderRemark: "Сериал, Просмотрено: 3 Сезон 1-9/13 Эпизод",
+    orderRemark: "Сериал ⨯ Просмотрено: 3 Сезон 1-9/13 Эпизод",
     cardType: "order-during",
     id: "order_Sopranos",
     items: [
@@ -138,7 +138,7 @@ const ordersDatabase = [
   {
     nameRu: "Южный Парк",
     nameEn: "South Park",
-    orderRemark: "Мультсериал, Просмотрено: 3 Сезон 1-10/17 Эпизод",
+    orderRemark: "Мультсериал ⨯ Просмотрено: 3 Сезон 1-10/17 Эпизод",
     cardType: "order-during",
     id: "order_South-Park",
     items: [
@@ -1255,7 +1255,7 @@ const ordersDatabase = [
   {
     nameRu: "Инуяшики",
     nameEn: "Inuyashiki",
-    orderRemark: "Аниме, Просмотрено: 1 Сезон 1-4/11 Эпизод",
+    orderRemark: "Аниме ⨯ Просмотрено: 1 Сезон 1-4/11 Эпизод",
     cardType: "order-incomplete",
     id: "order_Inuyashiki",
     items: [
@@ -1270,7 +1270,7 @@ const ordersDatabase = [
   {
     nameRu: "Для тебя, Бессмертный",
     nameEn: "Fumetsu no Anata e",
-    orderRemark: "Аниме, Просмотрено: 2 Сезон 1-8/20 Эпизод",
+    orderRemark: "Аниме ⨯ Просмотрено: 2 Сезон 1-8/20 Эпизод",
     cardType: "order-incomplete",
     id: "order_To-Your-Eternity",
     items: [
@@ -1291,7 +1291,7 @@ const ordersDatabase = [
   {
     nameRu: "Ох уж этот экстрасенс Сайки Кусуо!",
     nameEn: "Saiki Kusuo no Ψ-nan",
-    orderRemark: "Аниме, Просмотрено: 1 Сезон 1-12/24 Эпизод",
+    orderRemark: "Аниме ⨯ Просмотрено: 1 Сезон 1-12/24 Эпизод",
     cardType: "order-incomplete",
     id: "order_Saiki-Kusuo-1",
     items: [
@@ -1312,7 +1312,7 @@ const ordersDatabase = [
   {
     nameRu: "Да, я паук, и что с того",
     nameEn: "Kumo Desu ga, Nanika?",
-    orderRemark: "Аниме, Просмотрено: 1 Сезон 1-4/24 Эпизод",
+    orderRemark: "Аниме ⨯ Просмотрено: 1 Сезон 1-4/24 Эпизод",
     cardType: "order-incomplete",
     id: "order_Kumo-Desu-ga-Nanika",
     items: [
@@ -1327,7 +1327,7 @@ const ordersDatabase = [
   {
     nameRu: "Драгон Болл / Драконий жемчуг",
     nameEn: "Dragon Ball",
-    orderRemark: "Аниме, Просмотрено: 1 Сезон 1-4/153 Эпизод",
+    orderRemark: "Аниме ⨯ Просмотрено: 1 Сезон 1-4/153 Эпизод",
     cardType: "order-incomplete",
     id: "order_Dragon-Ball-1",
     items: [
@@ -1342,7 +1342,7 @@ const ordersDatabase = [
   {
     nameRu: "Флэш",
     nameEn: "The Flash",
-    orderRemark: "Сериал, Просмотрено: 1 Сезон 1-12/23 Эпизод",
+    orderRemark: "Сериал ⨯ Просмотрено: 1 Сезон 1-12/23 Эпизод",
     cardType: "order-incomplete",
     id: "order_The-Flash",
     items: [
@@ -1375,7 +1375,7 @@ const ordersDatabase = [
   {
     nameRu: "Боец Баки",
     nameEn: "Grappler Baki",
-    orderRemark: "Аниме, Просмотрено: 1 Сезон 1-4/24 Эпизод",
+    orderRemark: "Аниме ⨯ Просмотрено: 1 Сезон 1-4/24 Эпизод",
     cardType: "order-incomplete",
     id: "order_Grappler-Baki",
     items: [
@@ -1390,7 +1390,7 @@ const ordersDatabase = [
   {
     nameRu: "Игра в кальмара",
     nameEn: "Ojingeo geim",
-    orderRemark: "Сериал, Просмотрено: 2 Сезон 1-2/7 Эпизод",
+    orderRemark: "Сериал ⨯ Просмотрено: 2 Сезон 1-2/7 Эпизод",
     cardType: "order-incomplete",
     id: "order_Ojingeo-geim",
     items: [
@@ -1505,7 +1505,7 @@ const ordersDatabase = [
   {
     nameRu: "Сопрано",
     nameEn: "The Sopranos",
-    orderRemark: "Сериал, Просмотрено: 2 Сезон 1-13/13 Эпизод",
+    orderRemark: "Сериал ⨯ Просмотрено: 2 Сезон 1-13/13 Эпизод",
     cardType: "order-finished",
     items: [
       {
@@ -1555,7 +1555,7 @@ const ordersDatabase = [
   {
     nameRu: "Сопрано",
     nameEn: "The Sopranos",
-    orderRemark: "Сериал, Просмотрено: 1 Сезон 1-13/13 Эпизод",
+    orderRemark: "Сериал ⨯ Просмотрено: 1 Сезон 1-13/13 Эпизод",
     cardType: "order-finished",
     items: [
       {
@@ -1595,7 +1595,7 @@ const ordersDatabase = [
   {
     nameRu: "Южный Парк",
     nameEn: "South Park",
-    orderRemark: "Мультсериал, Просмотрено: 2 Сезон 1-18/18 Эпизод",
+    orderRemark: "Мультсериал ⨯ Просмотрено: 2 Сезон 1-18/18 Эпизод",
     cardType: "order-finished",
     items: [
       {
@@ -1639,7 +1639,7 @@ const ordersDatabase = [
   {
     nameRu: "Южный Парк",
     nameEn: "South Park",
-    orderRemark: "Мультсериал, Просмотрено: 1 Сезон 1-13/13 Эпизод",
+    orderRemark: "Мультсериал ⨯ Просмотрено: 1 Сезон 1-13/13 Эпизод",
     cardType: "order-finished",
     items: [
       {
@@ -1673,7 +1673,7 @@ const ordersDatabase = [
   {
     nameRu: "Декстер",
     nameEn: "Dexter",
-    orderRemark: "Сериал, Просмотрено: 6 Сезон 1-12/12 Эпизод",
+    orderRemark: "Сериал ⨯ Просмотрено: 6 Сезон 1-12/12 Эпизод",
     cardType: "order-finished",
     items: [
       {
@@ -1711,7 +1711,7 @@ const ordersDatabase = [
   {
     nameRu: "Декстер",
     nameEn: "Dexter",
-    orderRemark: "Сериал, Просмотрено: 5 Сезон 1-12/12 Эпизод",
+    orderRemark: "Сериал ⨯ Просмотрено: 5 Сезон 1-12/12 Эпизод",
     cardType: "order-finished",
     items: [
       {
@@ -1755,7 +1755,7 @@ const ordersDatabase = [
   {
     nameRu: "Декстер",
     nameEn: "Dexter",
-    orderRemark: "Сериал, Просмотрено: 4 Сезон 1-12/12 Эпизод",
+    orderRemark: "Сериал ⨯ Просмотрено: 4 Сезон 1-12/12 Эпизод",
     cardType: "order-finished",
     items: [
       {
@@ -1787,7 +1787,7 @@ const ordersDatabase = [
   {
     nameRu: "Декстер",
     nameEn: "Dexter",
-    orderRemark: "Сериал, Просмотрено: 3 Сезон 1-12/12 Эпизод",
+    orderRemark: "Сериал ⨯ Просмотрено: 3 Сезон 1-12/12 Эпизод",
     cardType: "order-finished",
     items: [
       {
@@ -1831,7 +1831,7 @@ const ordersDatabase = [
   {
     nameRu: "Декстер",
     nameEn: "Dexter",
-    orderRemark: "Сериал, Просмотрено: 2 Сезон 1-12/12 Эпизод",
+    orderRemark: "Сериал ⨯ Просмотрено: 2 Сезон 1-12/12 Эпизод",
     cardType: "order-finished",
     items: [
       {
@@ -1857,7 +1857,7 @@ const ordersDatabase = [
   {
     nameRu: "Декстер",
     nameEn: "Dexter",
-    orderRemark: "Сериал, Просмотрено: 1 Сезон 1-12/12 Эпизод",
+    orderRemark: "Сериал ⨯ Просмотрено: 1 Сезон 1-12/12 Эпизод",
     cardType: "order-finished",
     items: [
       {
