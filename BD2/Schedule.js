@@ -21,7 +21,7 @@ const scheduleDatabase = [
     nameEn: "Fantastic Four: Rise of the Silver Surfer",
     scheduleRemark: "Начало в 19:00 по МСК",
     scheduleType: "schedule-current",
-    date: "00.06.26",
+    date: "09.06.26",
   },
   {
     nameRu: "День рождения Годеня :[",
