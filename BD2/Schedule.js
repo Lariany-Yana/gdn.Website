@@ -4,7 +4,7 @@ const scheduleDatabase = [
   {
     nameRu: "Название",
     nameEn: "Название",
-    scheduleRemark: "Начало в 15:00 по МСК",
+    scheduleRemark: " × Начало в 15:00 по МСК",
     scheduleType: "schedule-current",
     date: "00.06.26",
   },
@@ -17,8 +17,15 @@ const scheduleDatabase = [
   },
   // Вторник
   {
+    nameRu: "Фантастическая четверка 2: Вторжение Серебряного серфера",
+    nameEn: "Fantastic Four: Rise of the Silver Surfer",
+    scheduleRemark: "Начало в 19:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "00.06.26",
+  },
+  {
     nameRu: "День рождения Годеня :[",
-    scheduleRemark: "Начало в 20:00 по МСК",
+    scheduleRemark: "Начало в 21:00 по МСК",
     scheduleType: "schedule-current",
     date: "09.06.26",
   },
@@ -77,14 +84,14 @@ const scheduleDatabase = [
   {
     nameRu: "Ван Пис",
     nameEn: "One Piece",
-    scheduleRemark: "Манга, 1156-1163 Главы",
+    scheduleRemark: "Манга × 1156-1163 Главы",
     scheduleType: "schedule-past",
     date: "03.06.26",
   },
   {
     nameRu: "Паук-Нуар",
     nameEn: "Spider-Noir",
-    scheduleRemark: "Сериал, 5-8 Эпизод",
+    scheduleRemark: "Сериал × 5-8 Эпизод",
     scheduleType: "schedule-past",
     date: "03.06.26",
   },
@@ -99,14 +106,14 @@ const scheduleDatabase = [
   {
     nameRu: "Ван Пис",
     nameEn: "One Piece",
-    scheduleRemark: "Манга, 1164-1171 Главы",
+    scheduleRemark: "Манга × 1164-1171 Главы",
     scheduleType: "schedule-past",
     date: "05.06.26",
   },
   {
     nameRu: "Декстер",
     nameEn: "Dexter",
-    scheduleRemark: "Сериал, 7 Сезон 5-6 Эпизод",
+    scheduleRemark: "Сериал × 7 Сезон 5-6 Эпизод",
     scheduleType: "schedule-past",
     date: "05.06.26",
   },
@@ -127,7 +134,7 @@ const scheduleDatabase = [
   {
     nameRu: "Сопрано",
     nameEn: "The Sopranos",
-    scheduleRemark: "Сериал, 3 Сезон 8-9 Эпизод",
+    scheduleRemark: "Сериал × 3 Сезон 8-9 Эпизод",
     scheduleType: "schedule-past",
     date: "07.06.26",
   },
@@ -141,7 +148,7 @@ const scheduleDatabase = [
   {
     nameRu: "Южный Парк",
     nameEn: "South Park",
-    scheduleRemark: "Мультсериал, 3 Сезон 7-10 Эпизод",
+    scheduleRemark: "Мультсериал × 3 Сезон 7-10 Эпизод",
     scheduleType: "schedule-past",
     date: "07.06.26",
   },

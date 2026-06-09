@@ -535,20 +535,6 @@ const ordersDatabase = [
     ],
   },
   {
-    nameRu: "Фантастическая четверка 2: Вторжение Серебряного серфера",
-    nameEn: "Fantastic Four: Rise of the Silver Surfer",
-    orderRemark: "Фильм",
-    cardType: "order-waiting",
-    id: "order_Fantastic-Four-2",
-    items: [
-      {
-        nickname: "Демон21",
-        slot: "1",
-        date: "24.06.25",
-      },
-    ],
-  },
-  {
     nameRu: "The Alters",
     nameEn: "(16 Июля выходит большое DLC)",
     orderRemark: "Игра",
@@ -1473,6 +1459,34 @@ const ordersDatabase = [
   },
   //#endregion
   //#region ~Просмотренное~
+  {
+    nameRu: "Фантастическая четверка 2: Вторжение Серебряного серфера",
+    nameEn: "Fantastic Four: Rise of the Silver Surfer",
+    orderRemark: "Фильм",
+    cardType: "order-finished",
+    items: [
+      {
+        nickname: "Демон21",
+        slot: "1",
+        date: "24.06.25",
+        was: "was",
+      },
+    ],
+  },
+  {
+    nameRu: "Фантастическая четверка",
+    nameEn: "Fantastic Four",
+    orderRemark: "Фильм",
+    cardType: "order-finished",
+    items: [
+      {
+        nickname: "Демон21",
+        slot: "1",
+        date: "24.06.25",
+        was: "was",
+      },
+    ],
+  },
   {
     nameRu: "Меч чужака",
     nameEn: "Stranger: Mukou Hadan",
