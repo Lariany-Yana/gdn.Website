@@ -19,13 +19,13 @@ const scheduleDatabase = [
   {
     nameRu: "Фантастическая четверка 2: Вторжение Серебряного серфера",
     nameEn: "Fantastic Four: Rise of the Silver Surfer",
-    scheduleRemark: "Начало в 19:00 по МСК",
+    scheduleRemark: "Фильм",
     scheduleType: "schedule-current",
     date: "09.06.26",
   },
   {
     nameRu: "День рождения Годеня :[",
-    scheduleRemark: "Начало в 21:00 по МСК",
+    scheduleRemark: "Покер",
     scheduleType: "schedule-current",
     date: "09.06.26",
   },

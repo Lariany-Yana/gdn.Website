@@ -1334,6 +1334,26 @@ const fullmeterMoviePopups = {
       cardType: "fullmeter-Movie",
     },
   ],
+  "Fullmeter-Movie_Fantastic-Four": [
+    {
+      nameRu: "Фантастическая четверка",
+      nameEn: "Fantastic Four",
+      donutTerms: "donut-lvl-3",
+      titleLink: ["vk", "video-208448461_456241841?t=4h28m35s"],
+      id: "Fullmeter-Movie_Fantastic-Four-1",
+      posterImage: "https://static.tildacdn.com/tild6239-3663-4562-b939-336436303637/img.webp",
+      cardType: "fullmeter-Movie",
+    },
+    {
+      nameRu: "Вторжение Серебряного серфера || Фантастическая четверка 2",
+      nameEn: "Rise of the Silver Surfer || Fantastic Four 2",
+      donutTerms: "donut-lvl-3",
+      titleLink: ["vk", "video-208448461_456241846?t=14m29s"],
+      id: "Fullmeter-Movie_Fantastic-Four-2",
+      posterImage: "https://static.tildacdn.com/tild6264-6565-4430-a566-353137366164/img.webp",
+      cardType: "fullmeter-Movie",
+    },
+  ],
   "Fullmeter-Movie_DC-Comics": [
     {
       seasonName: "Расширенная вселенная DC",
