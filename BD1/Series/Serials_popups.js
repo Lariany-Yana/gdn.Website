@@ -1033,7 +1033,7 @@ const seriesSerialsPopups = {
           link: "video-208448461_456241834?t=2h11m8s",
         },
         {
-          title: "3-5 Эпизод ?",
+          title: "3-5 Эпизод",
           source: "vk",
           link: "video-208448461_456241840?t=15m31s",
         },

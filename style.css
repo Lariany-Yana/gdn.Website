@@ -889,7 +889,7 @@ button {
   justify-self: center;
   border: var(--BDR-size) solid var(--WIN-border-color);
   border-bottom: none !important;
-	box-shadow: 0 2px 0 0 var(--RGB-background);
+  box-shadow: 0 2px 0 0 var(--RGB-background);
 
   .tabs-container {
     display: flex;
@@ -1127,6 +1127,15 @@ button {
         background-color: var(--RGB-regular) !important;
         opacity: 0.1;
       }
+      &.was {
+        opacity: 0.33 !important;
+        &.owe {
+          border: 2px var(--RGB-regular) dashed;
+          &::before {
+            display: none !important;
+          }
+        }
+      }
       @supports (corner-shape: squircle) {
         & {
           border-radius: var(--BDR-radius-main);
@@ -1144,7 +1153,7 @@ button {
           content: "Слотов: ";
         }
 
-        &:first-child::after,
+        &:first-child:after,
         &:last-child::before {
           content: " • ";
         }

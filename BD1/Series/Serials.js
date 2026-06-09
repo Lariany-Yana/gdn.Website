@@ -577,7 +577,7 @@ const seriesSerials = [
   {
     nameRu: "Сопрано",
     nameEn: "The Sopranos",
-    titleStatus: "Просмотрено: 2 Сезона, 3 Сезон 1-7/13 Эпизод",
+    titleStatus: "Просмотрено: 2 Сезона, 3 Сезон 1-9/13 Эпизод",
     donutTerms: "donut-lvl-3",
     id: "Series-Serials_The-Sopranos",
     posterImage: "https://static.tildacdn.com/tild3035-6630-4966-a331-616335636465/photo.webp",

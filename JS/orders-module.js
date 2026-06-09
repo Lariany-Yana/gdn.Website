@@ -5,14 +5,20 @@ const monthNames = ["Январь", "Февраль", "Март", "Апрель"
 
 const cardTypeLabels = {
   "order-during": "В процессе",
-  "order-incomplete": "Початое",
+  "order-incomplete": "Нужен дозаказ",
   "order-frozen": "На паузе",
   "order-switch": "Свапы",
+  "order-finished": "Просмотренное",
 };
 
 const getOrderWaitingTime = (item) => {
-  const dateStr = item.items?.[0]?.date;
-  return dateStr ? OrdersConfig.parseCustomDate(dateStr).getTime() : Infinity;
+  if (!item.items || item.items.length === 0) return Infinity;
+
+  const firstActiveItem = item.items.find((slot) => !slot.was || (slot.was.trim() !== "was" && slot.was.trim() !== "owe"));
+
+  const targetItem = firstActiveItem || item.items[0];
+
+  return targetItem && targetItem.date ? OrdersConfig.parseCustomDate(targetItem.date).getTime() : Infinity;
 };
 
 // =========================================================================
@@ -37,10 +43,15 @@ const OrdersConfig = {
 
   getGroupKeyFn: (item) => {
     if (item.cardType === "order-waiting") {
-      const firstItem = item.items?.[0];
-      if (!firstItem?.date) return "Без даты";
+      if (!item.items || item.items.length === 0) return "Без даты";
 
-      const date = OrdersConfig.parseCustomDate(firstItem.date);
+      const firstActiveItem = item.items.find((slot) => !slot.was || (slot.was.trim() !== "was" && slot.was.trim() !== "owe"));
+
+      const targetItem = firstActiveItem || item.items[0];
+
+      if (!targetItem || !targetItem.date) return "Без даты";
+
+      const date = OrdersConfig.parseCustomDate(targetItem.date);
       return `${monthNames[date.getMonth()]} ${date.getFullYear()}`;
     }
     return cardTypeLabels[item.cardType] || "Без категории";
@@ -48,7 +59,7 @@ const OrdersConfig = {
 
   getFlatDatabase: () =>
     ordersDatabase
-      .filter((item) => item.cardType !== "order-switch")
+      .filter((item) => item.cardType !== "order-switch" && item.cardType !== "order-finished")
       .map((item) => {
         const nicknames = item.items ? item.items.map((slot) => slot.nickname.toLowerCase()) : [];
 
@@ -116,9 +127,21 @@ const OrdersConfig = {
       order.items.forEach((item) => {
         const slotRowFrag = slotTemplate.content.cloneNode(true);
         const slotRow = slotRowFrag.querySelector(".slot-row");
+
         slotRow.querySelector(".nickname").textContent = item.nickname;
         slotRow.querySelector(".count").textContent = item.slot;
         slotRow.querySelector(".date").textContent = item.date;
+
+        if (item.was) {
+          const wasValue = item.was.trim();
+
+          if (wasValue === "was") {
+            slotRow.classList.add("was");
+          } else if (wasValue === "owe") {
+            slotRow.classList.add("was", "owe");
+          }
+        }
+
         slotsContainer.appendChild(slotRowFrag);
       });
       slotsContainer.classList.remove("hidden");

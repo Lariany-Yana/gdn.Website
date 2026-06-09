@@ -5,7 +5,6 @@ const ordersDatabase = [
     nameRu: "Название",
     nameEn: "Название",
     orderRemark: "Тип",
-    personalOrder: "",
     cardType: "order-test",
     items: [
       {
@@ -17,54 +16,187 @@ const ordersDatabase = [
   },
 	*/
 
-  //#region В процессе
+  //#region ~В процессе~
   {
     nameRu: "Ван Пис",
     nameEn: "One Piece",
-    orderRemark: "Аниме, 1 Сезон 1158-1164 Эпизод",
-    personalOrder: "",
+    orderRemark: "Аниме × В заказе: 1 Сезон 1158-1164 Эпизод",
     cardType: "order-during",
     id: "order_One-Piece-Anime",
     items: [
       {
         nickname: "Дурко",
-        slot: "1.75 + 0.25",
-        date: "~14.04.26",
+        slot: "1.75", // 1 Сезон 1158-1164 Эпизод
+        date: "05.04.26",
+      },
+      {
+        nickname: "Дурко",
+        slot: "0.25", // 1 Сезон 1165 Эпизод
+        date: "12.05.26",
       },
     ],
   },
   {
     nameRu: "Ван Пис",
     nameEn: "One Piece",
-    orderRemark: "Манга, Ожидается уточнение (Прочитано: -2 Слота, 1150-1171 Главы)",
-    personalOrder: "",
+    orderRemark: "Манга, Прочитано: -3 Слота (1150-1171 Главы)",
     cardType: "order-during",
     id: "order_One-Piece-Manga",
-    items: [],
+    items: [
+      {
+        nickname: "Вару",
+        slot: "1", // 1128-1134 Главы
+        date: "15.05.26",
+        was: "was",
+      },
+      {
+        nickname: "Дурко",
+        slot: "2", // 1135-1149 Главы
+        date: "15.05.26",
+        was: "was",
+      },
+      {
+        nickname: "1150-1155 Главы",
+        slot: "1", // 1150-1155 Главы
+        date: "В уточнении",
+        was: "owe",
+      },
+      {
+        nickname: "1156-1163 Главы",
+        slot: "1", // 1156-1163 Главы
+        date: "В уточнении",
+        was: "owe",
+      },
+      {
+        nickname: "1164-1171 Главы",
+        slot: "1", // 1164-1171 Главы
+        date: "В уточнении",
+        was: "owe",
+      },
+    ],
   },
   {
     nameRu: "Декстер",
     nameEn: "Dexter",
-    orderRemark: "Сериал, Требуется: +2.5 слота (7 Сезон 8-12/12 Эпизод), Ожидается уточнение (Просмотрено: -2.5 Слота, 7 Сезон 3-7 Эпизод)",
-    personalOrder: "",
+    orderRemark: "Сериал, Просмотрено: 7 Сезон 1-7/12 Эпизод",
     cardType: "order-during",
     id: "order_Dexter",
-    items: [],
+    items: [
+      {
+        nickname: "Мавроди",
+        slot: "1", // 6 Сезон 1-2 Эпизод
+        date: "22.04.26",
+        was: "was",
+      },
+      {
+        nickname: "6с 3-5эп",
+        slot: "1.5", // 6 Сезон 3-5 Эпизод
+        date: "В уточнении",
+        was: "owe",
+      },
+      {
+        nickname: "6с 6-7эп",
+        slot: "1", // 6 Сезон 6-7 Эпизод
+        date: "В уточнении",
+        was: "owe",
+      },
+    ],
   },
   {
-    nameRu: "Сопрано",
-    nameEn: "The Sopranos",
-    orderRemark: "Сериал, Требуется: +2 слота (3 Сезон 10-13/13 Эпизод), Ожидается уточнение (Просмотрено: -2 Слота, 3 Сезон 6-9 Эпизод)",
-    personalOrder: "",
+    nameRu: "Южный Парк",
+    nameEn: "South Park",
+    orderRemark: "Мультсериал, Просмотрено: 3 Сезон 1-10/17 Эпизод",
     cardType: "order-during",
-    id: "order_Sopranos",
-    items: [],
+    id: "order_South-Park",
+    items: [
+      {
+        nickname: "Твою мать!",
+        slot: "0.75", // 3 Сезон 1-3 Эпизод
+        date: "21.04.26",
+        was: "was",
+      },
+      {
+        nickname: "3с 4-7эп",
+        slot: "0.75", // 3 Сезон 4-6 Эпизод
+        date: "В уточнении",
+        was: "owe",
+      },
+      {
+        nickname: "3с 7-10эп",
+        slot: "1", // 3 Сезон 7-10 Эпизод
+        date: "В уточнении",
+        was: "owe",
+      },
+    ],
   },
   //#endregion
-  //#region В очереди
+  //#region ~В очереди~
+  {
+    nameRu: "Иллюзия рая",
+    nameEn: "Tengoku Daimakyou",
+    orderRemark: "Аниме × В заказе: 1 Сезон 1-13/13 Эпизод",
+    personalOrder: "user_Edwin",
+    cardType: "order-waiting",
+    id: "order_Tengoku-Daimakyou-1",
+    items: [
+      {
+        nickname: "Статист",
+        slot: "0.5", // 1 Сезон 1-2 Эпизод
+        date: "14.01.24",
+      },
+      {
+        nickname: "Статист",
+        slot: "1.5", // 1 Сезон 3-8 Эпизод
+        date: "05.03.24",
+      },
+      {
+        nickname: "Статист",
+        slot: "0.5", // 1 Сезон 9-10 Эпизод
+        date: "17.05.24",
+      },
+      {
+        nickname: "Статист",
+        slot: "0.5", // 1 Сезон 11-13 Эпизод
+        date: "25.07.24",
+      },
+    ],
+  },
+  {
+    nameRu: "В лес, где мерцают светлячки",
+    nameEn: "Hotarubi no Mori e",
+    orderRemark: "Полнометражка",
+    personalOrder: "user_Edwin",
+    cardType: "order-waiting",
+    id: "order_Hotarubi-no-Mori-e",
+    items: [
+      {
+        nickname: "Статист",
+        slot: "0.5",
+        date: "05.03.24",
+      },
+    ],
+  },
+  {
+    nameRu: "Need for Speed: Most Wanted (2005)",
+    orderRemark: "Игра",
+    personalOrder: "user_Edwin",
+    cardType: "order-waiting",
+    id: "order_Most-Wanted-2005",
+    items: [
+      {
+        nickname: "Статист",
+        slot: "6",
+        date: "29.05.24",
+      },
+      {
+        nickname: "Статист",
+        slot: "1",
+        date: "05.07.24",
+      },
+    ],
+  },
   {
     nameRu: "Пустые слоты",
-    orderRemark: "",
     personalOrder: "user_Izida",
     cardType: "order-waiting",
     id: "order_001",
@@ -77,9 +209,56 @@ const ordersDatabase = [
     ],
   },
   {
+    nameRu: "У меня нет любовницы! (А может и есть?!)",
+    nameEn: "Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?)",
+    orderRemark: "Аниме × В заказе: 1 Сезон 5-12/12 Эпизод",
+    personalOrder: "user_Edwin",
+    cardType: "order-waiting",
+    id: "order_Muri-ja-Nakatta",
+    items: [
+      {
+        nickname: "Статист",
+        slot: "1", // 1 Сезон 1-4 Эпизод
+        date: "17.05.24",
+        was: "was",
+      },
+      {
+        nickname: "Статист",
+        slot: "2", // 1 Сезон 5-12 Эпизод
+        date: "26.08.24",
+      },
+    ],
+  },
+  {
+    nameRu: "Goat: Мечтай по-крупному",
+    orderRemark: "Мультфильм",
+    personalOrder: "user_Edwin",
+    cardType: "order-waiting",
+    id: "order_Goat",
+    items: [
+      {
+        nickname: "Статист",
+        slot: "1",
+        date: "27.09.24",
+      },
+    ],
+  },
+  {
+    nameRu: "Пересмотр «Заклятие (Пересмотр пересмотра)»",
+    orderRemark: "Пересмотр пересмотра пересмотра",
+    personalOrder: "user_Edwin",
+    cardType: "order-waiting",
+    id: "order_Conjuring-Rewatch",
+    items: [
+      {
+        nickname: "Статист",
+        slot: "1",
+        date: "27.09.24",
+      },
+    ],
+  },
+  {
     nameRu: "Золотой запас слотов на потом",
-    orderRemark: "",
-    personalOrder: "",
     cardType: "order-waiting",
     id: "order_002",
     items: [
@@ -92,8 +271,6 @@ const ordersDatabase = [
   },
   {
     nameRu: "Слоты на потом",
-    orderRemark: "",
-    personalOrder: "",
     cardType: "order-waiting",
     id: "order_003",
     items: [
@@ -107,7 +284,6 @@ const ordersDatabase = [
   {
     nameRu: "GTA Vice City: The Next-Gen Edition",
     orderRemark: "Игра",
-    personalOrder: "",
     cardType: "order-waiting",
     id: "order_Vice-City",
     items: [
@@ -121,14 +297,13 @@ const ordersDatabase = [
   {
     nameRu: "Ямада-кун и семь ведьм",
     nameEn: "Yamada-kun to 7-nin no Majo",
-    orderRemark: "Аниме, 1 Сезон 1-12/12 Эпизод",
-    personalOrder: "",
+    orderRemark: "Аниме × В заказе: 1 Сезон 1-12/12 Эпизод",
     cardType: "order-waiting",
     id: "order_Yamada-kun",
     items: [
       {
         nickname: "Стас",
-        slot: "3",
+        slot: "3", // 1 Сезон 1-12 Эпизод
         date: "19.03.25",
       },
     ],
@@ -167,7 +342,6 @@ const ordersDatabase = [
     nameRu: "Целитель Адамс",
     nameEn: "Patch Adams",
     orderRemark: "Фильм",
-    personalOrder: "",
     cardType: "order-waiting",
     id: "order_Patch-Adams",
     items: [
@@ -175,6 +349,31 @@ const ordersDatabase = [
         nickname: "Кирвин",
         slot: "1",
         date: "23.03.25",
+      },
+    ],
+  },
+  {
+    nameRu: "Семь смертных грехов",
+    nameEn: "Nanatsu no Taizai / The Seven Deadly Sins",
+    orderRemark: "Аниме × В заказе: 1 Сезон 13-24/24 Эпизод",
+    cardType: "order-waiting",
+    id: "order_Nanatsu-no-Taizai-1",
+    items: [
+      {
+        nickname: "Podserty",
+        slot: "3", // 1 Сезон 1-12 Эпизод
+        date: "26.06.24",
+        was: "was",
+      },
+      {
+        nickname: "Coras",
+        slot: "1", // 1 Сезон 13-16 Эпизод
+        date: "29.03.25",
+      },
+      {
+        nickname: "Podserty",
+        slot: "2", // 1 Сезон 17-12 Эпизод
+        date: "06.08.25",
       },
     ],
   },
@@ -196,7 +395,6 @@ const ordersDatabase = [
   {
     nameRu: "South Park: The Stick of Truth",
     orderRemark: "Игра",
-    personalOrder: "",
     cardType: "order-waiting",
     id: "order_Stick-of-Truth",
     items: [
@@ -210,24 +408,24 @@ const ordersDatabase = [
   {
     nameRu: "Рим",
     nameEn: "Rome",
-    orderRemark: "Сериал, 1 Сезон 1-12/12 Эпизод",
+    orderRemark: "Сериал × В заказе: 1 Сезон 1-12/12 Эпизод",
     personalOrder: "user_Misty",
     cardType: "order-waiting",
     id: "order_Rome-1",
     items: [
       {
         nickname: "Мисти",
-        slot: "2",
+        slot: "2", // 1 Сезон 1-4 Эпизод
         date: "18.05.25",
       },
       {
         nickname: "Мисти",
-        slot: "2",
+        slot: "2", // 1 Сезон 5-8 Эпизод
         date: "10.06.25",
       },
       {
         nickname: "Мисти",
-        slot: "2",
+        slot: "2", // 1 Сезон 9-12 Эпизод
         date: "17.07.25",
       },
     ],
@@ -235,14 +433,13 @@ const ordersDatabase = [
   {
     nameRu: "Соколиный глаз",
     nameEn: "Hawkeye",
-    orderRemark: "Сериал, 1 Сезон 1-6/6 Эпизод",
-    personalOrder: "",
+    orderRemark: "Сериал × В заказе: 1 Сезон 1-6/6 Эпизод",
     cardType: "order-waiting",
     id: "order_Hawkeye",
     items: [
       {
         nickname: "Сулейка",
-        slot: "3",
+        slot: "3", // 1 Сезон 1-6 Эпизод
         date: "23.05.25",
       },
     ],
@@ -251,7 +448,6 @@ const ordersDatabase = [
     nameRu: "Опорный Пункт",
     nameEn: "FireBase",
     orderRemark: "Мини-Фильм",
-    personalOrder: "",
     cardType: "order-waiting",
     id: "order_FireBase",
     items: [
@@ -266,7 +462,6 @@ const ordersDatabase = [
     nameRu: "Ракка",
     nameEn: "Rakka",
     orderRemark: "Мини-Фильм",
-    personalOrder: "",
     cardType: "order-waiting",
     id: "order_Rakka",
     items: [
@@ -296,7 +491,6 @@ const ordersDatabase = [
     nameRu: "Пока не сыграл в ящик",
     nameEn: "The Bucket List",
     orderRemark: "Фильм",
-    personalOrder: "",
     cardType: "order-waiting",
     id: "order_The-Bucket-List",
     items: [
@@ -311,7 +505,6 @@ const ordersDatabase = [
     nameRu: "Фантастическая четверка 2: Вторжение Серебряного серфера",
     nameEn: "Fantastic Four: Rise of the Silver Surfer",
     orderRemark: "Фильм",
-    personalOrder: "",
     cardType: "order-waiting",
     id: "order_Fantastic-Four-2",
     items: [
@@ -324,8 +517,8 @@ const ordersDatabase = [
   },
   {
     nameRu: "The Alters",
-    orderRemark: "Игра, 3 слота",
-    personalOrder: "",
+    nameEn: "(16 Июля выходит большое DLC)",
+    orderRemark: "Игра",
     cardType: "order-waiting",
     id: "order_The-Alters",
     items: [
@@ -343,8 +536,7 @@ const ordersDatabase = [
   },
   {
     nameRu: "Tainted Grail: The Fall of Avalon",
-    orderRemark: "Игра, 1.5 Слота",
-    personalOrder: "",
+    orderRemark: "Игра",
     cardType: "order-waiting",
     id: "order_Tainted-Grail",
     items: [
@@ -373,42 +565,45 @@ const ordersDatabase = [
   {
     nameRu: "Невеста чародея",
     nameEn: "Mahoutsukai no Yome",
-    orderRemark: "Аниме, 1 Сезон 5-24/24 Эпизод",
-    personalOrder: "",
+    orderRemark: "Аниме × В заказе: 1 Сезон 5-24/24 Эпизод",
     cardType: "order-waiting",
     id: "order_Mahoutsukai-no-Yome",
     items: [
       {
         nickname: "АйзенBBC",
-        slot: "1",
+        slot: "1", // 1 Сезон 1-4 Эпизод
+        date: "25.05.25",
+        was: "was",
+      },
+      {
+        nickname: "АйзенBBC",
+        slot: "1", // 1 Сезон 5-8 Эпизод
         date: "23.07.25",
       },
       {
         nickname: "АйзенBBC",
-        slot: "1",
+        slot: "1", // 1 Сезон 9-12 Эпизод
         date: "24.08.25",
       },
       {
         nickname: "АйзенBBC",
-        slot: "1",
+        slot: "1", // 1 Сезон 13-16 Эпизод
         date: "21.09.25",
       },
       {
         nickname: "АйзенBBC",
-        slot: "1",
+        slot: "1", // 1 Сезон 17-20 Эпизод
         date: "21.10.25",
       },
       {
         nickname: "АйзенBBC",
-        slot: "1",
+        slot: "1", // 1 Сезон 21-24 Эпизод
         date: "21.11.25",
       },
     ],
   },
   {
     nameRu: "Пустые слоты",
-    orderRemark: "",
-    personalOrder: "",
     cardType: "order-waiting",
     id: "order_004",
     items: [
@@ -422,14 +617,13 @@ const ordersDatabase = [
   {
     nameRu: "Летнее время",
     nameEn: "Summertime Render",
-    orderRemark: "Аниме, 1 Сезон 1-5/25 Эпизод",
-    personalOrder: "",
+    orderRemark: "Аниме × В заказе: 1 Сезон 1-5/25 Эпизод",
     cardType: "order-waiting",
     id: "order_Summertime-Render",
     items: [
       {
         nickname: "Krang",
-        slot: "1.25",
+        slot: "1.25", // 1 Сезон 1-5 Эпизод
         date: "27.07.25",
       },
     ],
@@ -437,19 +631,18 @@ const ordersDatabase = [
   {
     nameRu: "Первородный грех Такопи",
     nameEn: "Takopii no Genzai",
-    orderRemark: "Аниме, 1 Сезон 1-6/6 Эпизод",
-    personalOrder: "",
+    orderRemark: "Аниме × В заказе: 1 Сезон 1-6/6 Эпизод",
     cardType: "order-waiting",
     id: "order_Takopii-no-Genzai",
     items: [
       {
         nickname: "Coras",
-        slot: "0.75",
+        slot: "0.75", // 1 Сезон 1-3 Эпизод
         date: "29.07.25",
       },
       {
         nickname: "Izida-Sama",
-        slot: "0.75",
+        slot: "0.75", // 1 Сезон 4-6 Эпизод
         date: "29.07.25",
       },
     ],
@@ -457,34 +650,18 @@ const ordersDatabase = [
   {
     nameRu: "Семь смертных грехов",
     nameEn: "Nanatsu no Taizai / The Seven Deadly Sins",
-    orderRemark: "Аниме, 1 Сезон 9-24/24 Эпизод",
-    personalOrder: "",
-    cardType: "order-waiting",
-    id: "order_Nanatsu-no-Taizai-1",
-    items: [
-      {
-        nickname: "Podserty",
-        slot: "3",
-        date: "06.08.25",
-      },
-      {
-        nickname: "Podserty",
-        slot: "1",
-        date: "14.12.25",
-      },
-    ],
-  },
-  {
-    nameRu: "Семь смертных грехов",
-    nameEn: "Nanatsu no Taizai / The Seven Deadly Sins",
-    orderRemark: "Аниме, 2 Сезон 1-8/24 Эпизод",
-    personalOrder: "",
+    orderRemark: "Аниме × В заказе: 2 Сезон 1-16/24 Эпизод",
     cardType: "order-waiting",
     id: "order_Nanatsu-no-Taizai-2",
     items: [
       {
         nickname: "Podserty",
-        slot: "2",
+        slot: "1", // 1 Сезон 1-4 Эпизод
+        date: "06.08.25",
+      },
+      {
+        nickname: "Podserty",
+        slot: "3", // 2 Сезон 5-16 Эпизод
         date: "14.12.25",
       },
     ],
@@ -492,14 +669,13 @@ const ordersDatabase = [
   {
     nameRu: "Отбросы",
     nameEn: "Misfits",
-    orderRemark: "Сериал, 4 Сезон 1-8/8 Эпизод",
-    personalOrder: "",
+    orderRemark: "Сериал × В заказе: 4 Сезон 1-8/8 Эпизод",
     cardType: "order-waiting",
     id: "order_Misfits-4",
     items: [
       {
         nickname: "Madaofist",
-        slot: "4",
+        slot: "4", // 4 Сезон 1-8 Эпизод
         date: "08.08.25",
       },
     ],
@@ -507,19 +683,18 @@ const ordersDatabase = [
   {
     nameRu: "Бумажный дом",
     nameEn: "La casa de papel",
-    orderRemark: "Сериал, 2 Сезон 1-5/9 Эпизод",
-    personalOrder: "",
+    orderRemark: "Сериал × В заказе: 2 Сезон 1-5/9 Эпизод",
     cardType: "order-waiting",
     id: "order_La-casa-de-papel-2",
     items: [
       {
         nickname: "lucky_god_man",
-        slot: "0.5",
+        slot: "0.5", // 2 Сезон 1 Эпизод
         date: "20.08.25",
       },
       {
         nickname: "lucky_god_man",
-        slot: "2",
+        slot: "2", // 2 Сезон 2-5 Эпизод
         date: "28.08.25",
       },
     ],
@@ -527,29 +702,29 @@ const ordersDatabase = [
   {
     nameRu: "Плутон",
     nameEn: "Pluto",
-    orderRemark: "Аниме, 1 Сезон 1-8/8 Эпизод",
+    orderRemark: "Аниме × В заказе: 1 Сезон 1-8/8 Эпизод",
     personalOrder: "user_Misty",
     cardType: "order-waiting",
     id: "order_Pluto",
     items: [
       {
         nickname: "Мисти",
-        slot: "0.5",
+        slot: "0.5", // 1 Сезон 1 Эпизод
         date: "16.09.25",
       },
       {
         nickname: "Мисти",
-        slot: "1.5",
+        slot: "1.5", // 1 Сезон 2-4 Эпизод
         date: "16.02.26",
       },
       {
         nickname: "Мисти",
-        slot: "1",
+        slot: "1", // 1 Сезон 5-6 Эпизод
         date: "17.03.26",
       },
       {
         nickname: "Мисти",
-        slot: "1",
+        slot: "1", // 1 Сезон 7-8 Эпизод
         date: "17.05.26",
       },
     ],
@@ -558,7 +733,6 @@ const ordersDatabase = [
     nameRu: "Мстители",
     nameEn: "Avengers by Jonathan Hickman",
     orderRemark: "Комикс",
-    personalOrder: "",
     cardType: "order-waiting",
     id: "order_Avengers-Jonathan-Hickman",
     items: [
@@ -572,29 +746,29 @@ const ordersDatabase = [
   {
     nameRu: "Готэм",
     nameEn: "Gotham",
-    orderRemark: "Сериал, 1 Сезон 1-22/22 Эпизод",
+    orderRemark: "Сериал × В заказе: 1 Сезон 1-22/22 Эпизод",
     personalOrder: "user_Katya",
     cardType: "order-waiting",
     id: "order_Gotham-1",
     items: [
       {
         nickname: "Твою мать!",
-        slot: "2",
+        slot: "2", // 1 Сезон 1-4 Эпизод
         date: "12.10.25",
       },
       {
         nickname: "Твою мать!",
-        slot: "1",
+        slot: "1", // 1 Сезон 5-6 Эпизод
         date: "25.11.25",
       },
       {
         nickname: "Твою мать!",
-        slot: "1",
+        slot: "1", // 1 Сезон 7-8 Эпизод
         date: "26.12.25",
       },
       {
         nickname: "Твою мать!",
-        slot: "7",
+        slot: "7", // 1 Сезон 9-22 Эпизод
         date: "08.01.26",
       },
     ],
@@ -602,14 +776,14 @@ const ordersDatabase = [
   {
     nameRu: "Пантеон",
     nameEn: "Pantheon",
-    orderRemark: "Мультсериал, 1 Сезон 1-8/8 Эпизод",
+    orderRemark: "Мультсериал × В заказе: 1 Сезон 1-8/8 Эпизод",
     personalOrder: "user_Izida",
     cardType: "order-waiting",
     id: "order_Pantheon-1",
     items: [
       {
         nickname: "Izida-Sama",
-        slot: "4",
+        slot: "4", // 1 Сезон 1-8 Эпизод
         date: "21.10.25",
       },
     ],
@@ -617,14 +791,14 @@ const ordersDatabase = [
   {
     nameRu: "Пантеон",
     nameEn: "Pantheon",
-    orderRemark: "Мультсериал, 2 Сезон 1-8/8 Эпизод",
+    orderRemark: "Мультсериал × В заказе: 2 Сезон 1-8/8 Эпизод",
     personalOrder: "user_Izida",
     cardType: "order-waiting",
     id: "order_Pantheon-2",
     items: [
       {
         nickname: "Izida-Sama",
-        slot: "4",
+        slot: "4", // 2 Сезон 1-8 Эпизод
         date: "21.10.25",
       },
     ],
@@ -678,7 +852,6 @@ const ordersDatabase = [
     nameRu: "Мерцающие огни",
     nameEn: "Blinkende lygter",
     orderRemark: "Фильм",
-    personalOrder: "",
     cardType: "order-waiting",
     id: "order_Blinkende-lygter",
     items: [
@@ -693,12 +866,11 @@ const ordersDatabase = [
     nameRu: "Разборки в стиле кунг-фу",
     nameEn: "Kung fu",
     orderRemark: "Фильм",
-    personalOrder: "",
     cardType: "order-waiting",
     id: "order_Kung-fu",
     items: [
       {
-        nickname: "Марс Кривокопьев",
+        nickname: "Кирвин",
         slot: "1",
         date: "02.12.25",
       },
@@ -707,7 +879,7 @@ const ordersDatabase = [
   {
     nameRu: "Сверхъестественное",
     nameEn: "Supernatural",
-    orderRemark: "Сериал, 6 Сезон 1-2/22 Эпизод",
+    orderRemark: "Сериал × В заказе: 6 Сезон 1-4/22 Эпизод",
     personalOrder: "user_Katya",
     cardType: "order-waiting",
     id: "order_Supernatural-6",
@@ -719,7 +891,7 @@ const ordersDatabase = [
       },
       {
         nickname: "Твою мать!",
-        slot: "1",
+        slot: "2", // 6 Сезон 1-4 Эпизод
         date: "02.12.25",
       },
     ],
@@ -728,7 +900,6 @@ const ordersDatabase = [
     nameRu: "Моя геройская академия 3: Миссия мировых героев",
     nameEn: "Boku no Hero Academia the Movie 3: World Heroes' Mission",
     orderRemark: "Полнометражка",
-    personalOrder: "",
     cardType: "order-waiting",
     id: "order_My-Hero-Academia-Movie-3",
     items: [
@@ -742,24 +913,23 @@ const ordersDatabase = [
   {
     nameRu: "Парад смерти",
     nameEn: "Death Parade",
-    orderRemark: "Аниме, 1 Сезон 1-12/12 Эпизод",
-    personalOrder: "",
+    orderRemark: "Аниме × В заказе: 1 Сезон 1-12/12 Эпизод",
     cardType: "order-waiting",
     id: "order_Death-Parade",
     items: [
       {
         nickname: "АйзенBBC",
-        slot: "1",
+        slot: "1", // 1 Сезон 1-4 Эпизод
         date: "14.12.25",
       },
       {
         nickname: "АйзенBBC",
-        slot: "1",
+        slot: "1", // 1 Сезон 5-8 Эпизод
         date: "21.01.26",
       },
       {
         nickname: "АйзенBBC",
-        slot: "1",
+        slot: "1", // 1 Сезон 9-12 Эпизод
         date: "20.02.26",
       },
     ],
@@ -782,19 +952,19 @@ const ordersDatabase = [
   {
     nameRu: "Оно: Добро пожаловать в Дерри",
     nameEn: "IT: Welcome to Derry",
-    orderRemark: "Сериал, 1 Сезон 1-8/8 Эпизод",
+    orderRemark: "Сериал × В заказе: 1 Сезон 1-8/8 Эпизод",
     personalOrder: "user_Misty",
     cardType: "order-waiting",
     id: "order_Welcome-to-Derry-1",
     items: [
       {
         nickname: "Мисти",
-        slot: "2",
+        slot: "2", // 1 Сезон 1-4 Эпизод
         date: "17.12.25",
       },
       {
         nickname: "Мисти",
-        slot: "2",
+        slot: "2", // 1 Сезон 5-8 Эпизод
         date: "28.12.25",
       },
     ],
@@ -803,7 +973,6 @@ const ordersDatabase = [
     nameRu: "Стометровка",
     nameEn: "Hyakuemu",
     orderRemark: "Полнометражка",
-    personalOrder: "",
     cardType: "order-waiting",
     id: "order_Hyakuemu",
     items: [
@@ -832,7 +1001,6 @@ const ordersDatabase = [
   {
     nameRu: "Бриллиантовая рука",
     orderRemark: "Фильм",
-    personalOrder: "",
     cardType: "order-waiting",
     id: "order_Diamond-Hand",
     items: [
@@ -847,7 +1015,6 @@ const ordersDatabase = [
     nameRu: "Гомункул",
     nameEn: "Homunculus",
     orderRemark: "Манга",
-    personalOrder: "",
     cardType: "order-waiting",
     id: "order_Homunculus",
     items: [
@@ -860,8 +1027,6 @@ const ordersDatabase = [
   },
   {
     nameRu: "Годнеслот Тарковского",
-    orderRemark: "",
-    personalOrder: "",
     cardType: "order-waiting",
     id: "order_Tarkovsky",
     items: [
@@ -876,7 +1041,6 @@ const ordersDatabase = [
     nameRu: "Со склонов Кокурико",
     nameEn: "Kokuriko-zaka kara",
     orderRemark: "Полнометражка",
-    personalOrder: "",
     cardType: "order-waiting",
     id: "order_Kokuriko-zaka-kara",
     items: [
@@ -890,14 +1054,13 @@ const ordersDatabase = [
   {
     nameRu: "Монолог фармацевта",
     nameEn: "Kusuriya no Hitorigoto",
-    orderRemark: "Аниме, 1 Сезон 1-8/24 Эпизод",
-    personalOrder: "",
+    orderRemark: "Аниме × В заказе: 1 Сезон 1-8/24 Эпизод",
     cardType: "order-waiting",
     id: "order_Kusuriya-no-Hitorigoto",
     items: [
       {
         nickname: "Vlados",
-        slot: "2",
+        slot: "2", // 1 Сезон 1-8 Эпизод
         date: "26.02.26",
       },
     ],
@@ -906,7 +1069,6 @@ const ordersDatabase = [
     nameRu: "Клинок, рассекающий демонов: Бесконечный замок — Возвращение Акадзы",
     nameEn: "Kimetsu no Yaiba Movie 1: Mugenjou-hen - Akaza Sairai",
     orderRemark: "Полнометражка",
-    personalOrder: "",
     cardType: "order-waiting",
     id: "order_Kimetsu-no-Yaiba-Movie-1",
     items: [
@@ -919,8 +1081,6 @@ const ordersDatabase = [
   },
   {
     nameRu: "Пустой слот",
-    orderRemark: "",
-    personalOrder: "",
     cardType: "order-waiting",
     id: "order_005",
     items: [
@@ -934,14 +1094,13 @@ const ordersDatabase = [
   {
     nameRu: "Невероятное приключение ДжоДжо: Гонка «Стальной шар»",
     nameEn: "Steel Ball Run: JoJo no Kimyou na Bouken",
-    orderRemark: "Аниме, 7 Сезон 2-3 Эпизод",
-    personalOrder: "",
+    orderRemark: "Аниме × В заказе: 7 Сезон 2-3 Эпизод",
     cardType: "order-waiting",
     id: "order_Steel-Ball-Run-7",
     items: [
       {
         nickname: "Sadasogir",
-        slot: "0.5",
+        slot: "0.5", // 1 Сезон 2-3 Эпизод
         date: "19.03.26",
       },
     ],
@@ -949,7 +1108,6 @@ const ordersDatabase = [
   {
     nameRu: "F1: The Movie",
     orderRemark: "Фильм",
-    personalOrder: "",
     cardType: "order-waiting",
     id: "order_F1-The-Movie",
     items: [
@@ -962,8 +1120,6 @@ const ordersDatabase = [
   },
   {
     nameRu: "Пустые слоты",
-    orderRemark: "",
-    personalOrder: "",
     cardType: "order-waiting",
     id: "order_006",
     items: [
@@ -977,7 +1133,6 @@ const ordersDatabase = [
   {
     nameRu: "Warhammer 40 000: Rogue Trader",
     orderRemark: "Игра",
-    personalOrder: "",
     cardType: "order-waiting",
     id: "order_Rogue-Trader",
     items: [
@@ -1007,7 +1162,6 @@ const ordersDatabase = [
     nameRu: "Марти Великолепный",
     nameEn: "Marty Supreme",
     orderRemark: "Фильм",
-    personalOrder: "",
     cardType: "order-waiting",
     id: "order_Marty-Supreme",
     items: [
@@ -1051,99 +1205,176 @@ const ordersDatabase = [
   {
     nameRu: "Звёздные войны. Дарт Мол: Повелитель теней",
     nameEn: "Star Wars: Maul – Shadow Lord",
-    orderRemark: "Мультсериал, 1 Сезон 1-4/10 Эпизод",
+    orderRemark: "Мультсериал × В заказе: 1 Сезон 1-4/10 Эпизод",
     personalOrder: "user_Misty",
     cardType: "order-waiting",
     id: "order_Maul-Shadow-Lord",
     items: [
       {
         nickname: "Мисти",
-        slot: "1",
+        slot: "1", // 1 Сезон 1-4 Эпизод
         date: "17.05.26",
       },
     ],
   },
   //#endregion
-  //#region Початые
+  //#region ~Нужен дозаказ~
   {
-    nameRu: "Южный Парк",
-    nameEn: "South Park",
-    orderRemark: "Мультсериал, Требуется: +1.75 слота (3 Сезон 11-17/17 Эпизод), Ожидается уточнение (Просмотрено: -1 Слот, 3 Сезон 7-10 Эпизод)",
-    personalOrder: "",
+    nameRu: "Инуяшики",
+    nameEn: "Inuyashiki",
+    orderRemark: "Аниме, Просмотрено: 1 Сезон 1-4/11 Эпизод",
     cardType: "order-incomplete",
-    id: "order_South-Park",
-    items: [],
+    id: "order_Inuyashiki",
+    items: [
+      {
+        nickname: "КутКин",
+        slot: "1", // 1 Сезон 1-4 Эпизод
+        date: "25.11.24",
+        was: "was",
+      },
+    ],
   },
   {
     nameRu: "Для тебя, Бессмертный",
     nameEn: "Fumetsu no Anata e",
-    orderRemark: "Аниме, Требуется: +3 слота (1 Сезон 9-20/20 Эпизод)",
-    personalOrder: "",
+    orderRemark: "Аниме, Просмотрено: 2 Сезон 1-8/20 Эпизод",
     cardType: "order-incomplete",
     id: "order_To-Your-Eternity",
-    items: [],
+    items: [
+      {
+        nickname: "КутКин",
+        slot: "1", // 2 Сезон 1-4 Эпизод
+        date: "25.11.24",
+        was: "was",
+      },
+      {
+        nickname: "Мисти",
+        slot: "1", // 2 Сезон 5-8 Эпизод
+        date: "17.03.26",
+        was: "was",
+      },
+    ],
   },
   {
     nameRu: "Ох уж этот экстрасенс Сайки Кусуо!",
     nameEn: "Saiki Kusuo no Ψ-nan",
-    orderRemark: "Аниме, Требуется: +4 слота (1 Сезон 13-24/24 Эпизод)",
-    personalOrder: "",
+    orderRemark: "Аниме, Просмотрено: 1 Сезон 1-12/24 Эпизод",
     cardType: "order-incomplete",
     id: "order_Saiki-Kusuo-1",
-    items: [],
+    items: [
+      {
+        nickname: "Вару",
+        slot: "2", // 1 Сезон 1-8 Эпизод
+        date: "04.01.26",
+        was: "was",
+      },
+      {
+        nickname: "Вару",
+        slot: "1", // 1 Сезон 9-12 Эпизод
+        date: "18.03.26",
+        was: "was",
+      },
+    ],
   },
   {
     nameRu: "Да, я паук, и что с того",
     nameEn: "Kumo Desu ga, Nanika?",
-    orderRemark: "Аниме, Требуется: +5 слотов (1 Сезон 5-24/24 Эпизод)",
-    personalOrder: "",
+    orderRemark: "Аниме, Просмотрено: 1 Сезон 1-4/24 Эпизод",
     cardType: "order-incomplete",
     id: "order_Kumo-Desu-ga-Nanika",
-    items: [],
+    items: [
+      {
+        nickname: "Вару",
+        slot: "1", // 1 Сезон 1-4 Эпизод
+        date: "09.01.26",
+        was: "was",
+      },
+    ],
   },
   {
     nameRu: "Драгон Болл / Драконий жемчуг",
     nameEn: "Dragon Ball",
-    orderRemark: "Аниме, Требуется: +37.25 слотов (1 Сезон 5-153/153 Эпизод)",
-    personalOrder: "",
+    orderRemark: "Аниме, Просмотрено: 1 Сезон 1-4/153 Эпизод",
     cardType: "order-incomplete",
     id: "order_Dragon-Ball-1",
-    items: [],
+    items: [
+      {
+        nickname: "Вару",
+        slot: "1", // 1 Сезон 1-4 Эпизод
+        date: "22.01.26",
+        was: "was",
+      },
+    ],
   },
   {
     nameRu: "Флэш",
     nameEn: "The Flash",
-    orderRemark: "Сериал, Требуется: +5 слотов (1 Сезон 13-23/23 Эпизод)",
-    personalOrder: "",
+    orderRemark: "Сериал, Просмотрено: 1 Сезон 1-12/23 Эпизод",
     cardType: "order-incomplete",
     id: "order_The-Flash",
-    items: [],
+    items: [
+      {
+        nickname: "Глатон",
+        slot: "2", // 1 Сезон 1-4 Эпизод
+        date: "25.09.23",
+        was: "was",
+      },
+      {
+        nickname: "Глатон",
+        slot: "2", // 1 Сезон 5-8 Эпизод
+        date: "23.03.24",
+        was: "was",
+      },
+      {
+        nickname: "Аноним",
+        slot: "1", // 1 Сезон 9-10 Эпизод
+        date: "26.05.24",
+        was: "was",
+      },
+      {
+        nickname: "Сулейка",
+        slot: "1", // 1 Сезон 11-12 Эпизод
+        date: "22.11.24",
+        was: "was",
+      },
+    ],
   },
   {
     nameRu: "Боец Баки",
     nameEn: "Grappler Baki",
-    orderRemark: "Аниме, Требуется: +5 слотов (1 Сезон 5-24/24 Эпизод)",
-    personalOrder: "",
+    orderRemark: "Аниме, Просмотрено: 1 Сезон 1-4/24 Эпизод",
     cardType: "order-incomplete",
     id: "order_Grappler-Baki",
-    items: [],
+    items: [
+      {
+        nickname: "Сатурдей",
+        slot: "1", // 1 Сезон 1-4 Эпизод
+        date: "02.10.24",
+        was: "was",
+      },
+    ],
   },
   {
     nameRu: "Игра в кальмара",
     nameEn: "Ojingeo geim",
-    orderRemark: "Сериал, Требуется: +2.5 слота (2 Сезон 3-7/7 Эпизод)",
-    personalOrder: "",
+    orderRemark: "Сериал, Просмотрено: 2 Сезон 1-2/7 Эпизод",
     cardType: "order-incomplete",
     id: "order_Ojingeo-geim",
-    items: [],
+    items: [
+      {
+        nickname: "plague_9bit",
+        slot: "1", // 2 Сезон 1-2 Эпизод
+        date: "09.01.25",
+        was: "was",
+      },
+    ],
   },
   //#endregion
-  //#region На паузе
+  //#region ~На паузе~
   {
     nameRu: "Игра лжецов",
     nameEn: "Liar Game",
     orderRemark: "Манга, 7 Слотов",
-    personalOrder: "",
     cardType: "order-frozen",
     id: "order_Liar-Game",
     items: [
@@ -1154,115 +1385,8 @@ const ordersDatabase = [
       },
     ],
   },
-  {
-    nameRu: "Иллюзия рая",
-    nameEn: "Tengoku Daimakyou",
-    orderRemark: "Аниме, 1 Сезон 1-13/13 Эпизод",
-    personalOrder: "user_Edwin",
-    cardType: "order-waiting",
-    id: "order_Tengoku-Daimakyou-1",
-    items: [
-      {
-        nickname: "Статист",
-        slot: "0.5",
-        date: "14.01.24",
-      },
-      {
-        nickname: "Статист",
-        slot: "1.5",
-        date: "05.03.24",
-      },
-      {
-        nickname: "Статист",
-        slot: "0.5",
-        date: "17.05.24",
-      },
-      {
-        nickname: "Статист",
-        slot: "0.5",
-        date: "25.07.24",
-      },
-    ],
-  },
-  {
-    nameRu: "В лес, где мерцают светлячки",
-    nameEn: "Hotarubi no Mori e",
-    orderRemark: "Полнометражка",
-    personalOrder: "user_Edwin",
-    cardType: "order-waiting",
-    id: "order_Hotarubi-no-Mori-e",
-    items: [
-      {
-        nickname: "Статист",
-        slot: "0.5",
-        date: "05.03.24",
-      },
-    ],
-  },
-  {
-    nameRu: "Need for Speed: Most Wanted (2005)",
-    orderRemark: "Игра, 7 Слотов",
-    personalOrder: "user_Edwin",
-    cardType: "order-waiting",
-    id: "order_Most-Wanted-2005",
-    items: [
-      {
-        nickname: "Статист",
-        slot: "6",
-        date: "29.05.24",
-      },
-      {
-        nickname: "Статист",
-        slot: "1",
-        date: "05.07.24",
-      },
-    ],
-  },
-  {
-    nameRu: "У меня нет любовницы! (А может и есть?!)",
-    nameEn: "Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?)",
-    orderRemark: "Аниме, 1 Сезон 5-12/12 Эпизод",
-    personalOrder: "user_Edwin",
-    cardType: "order-waiting",
-    id: "order_Muri-ja-Nakatta",
-    items: [
-      {
-        nickname: "Статист",
-        slot: "2",
-        date: "26.08.24",
-      },
-    ],
-  },
-  {
-    nameRu: "Goat: Мечтай по-крупному",
-    orderRemark: "Мультфильм",
-    personalOrder: "user_Edwin",
-    cardType: "order-waiting",
-    id: "order_Goat",
-    items: [
-      {
-        nickname: "Статист",
-        slot: "1",
-        date: "27.09.24",
-      },
-    ],
-  },
-  {
-    nameRu: "Пересмотр «Заклятие (Пересмотр пересмотра)»",
-    orderRemark: "Пересмотр пересмотра пересмотра",
-    personalOrder: "user_Edwin",
-    cardType: "order-waiting",
-    id: "order_Conjuring-Rewatch",
-    items: [
-      {
-        nickname: "Статист",
-        slot: "1",
-        date: "27.09.24",
-      },
-    ],
-  },
   //#endregion
-  //#region Свапы
+  //#region ~Свапы~
   {
     nameRu_1: "Need for Speed: Underground",
     nameRu_2: "Заклятие (Пересмотр пересмотра)",
@@ -1311,9 +1435,678 @@ const ordersDatabase = [
     nameEn_2: "Supernatural",
     orderRemark_1: "Аниме > 0.25 Слота > Сериал",
     orderRemark_2: "Свап был 08.06.26 (Аноним)",
-    personalOrder: "",
     cardType: "order-switch",
     items: [],
   },
+  //#endregion
+  //#region ~Просмотренное~
+  {
+    nameRu: "Меч чужака",
+    nameEn: "Stranger: Mukou Hadan",
+    orderRemark: "Полнометражка",
+    cardType: "order-finished",
+    items: [
+      {
+        nickname: "Рандом",
+        slot: "1",
+        date: "21.03.25",
+        was: "was",
+      },
+    ],
+  },
+  {
+    nameRu: "Аллея кошмаров",
+    nameEn: "Nightmare Alley",
+    orderRemark: "Фильм",
+    cardType: "order-finished",
+    items: [
+      {
+        nickname: "Кирвин",
+        slot: "1",
+        date: "11.03.25",
+        was: "was",
+      },
+    ],
+  },
+  //#region Сопрано
+  {
+    nameRu: "Сопрано",
+    nameEn: "The Sopranos",
+    orderRemark: "Сериал, Просмотрено: -2 Слота (3 Сезон 6-9 Эпизод)",
+    cardType: "order-during",
+    id: "order_Sopranos",
+    items: [
+      {
+        nickname: "Сатурдей",
+        slot: "1.5", // 3 Сезон 1-3 Эпизод
+        date: "21.04.26",
+        was: "was",
+      },
+      {
+        nickname: "Сатурдей",
+        slot: "1", // 3 Сезон 4-5 Эпизод
+        date: "12.05.26",
+        was: "was",
+      },
+      {
+        nickname: "3с 6-7эп",
+        slot: "1", // 3 Сезон 6-7 Эпизод
+        date: "В уточнении",
+        was: "owe",
+      },
+      {
+        nickname: "3с 8-9эп",
+        slot: "1", // 3 Сезон 8-9 Эпизод
+        date: "В уточнении",
+        was: "owe",
+      },
+    ],
+  },
+  {
+    nameRu: "Сопрано",
+    nameEn: "The Sopranos",
+    orderRemark: "Сериал, Просмотрено: 2 Сезон 1-13/13 Эпизод",
+    cardType: "order-finished",
+    items: [
+      {
+        nickname: "Сатурдей",
+        slot: "0.5", // 2 Сезон 1 Эпизод
+        date: "23.10.25",
+        was: "was",
+      },
+      {
+        nickname: "Сатурдей",
+        slot: "1", // 2 Сезон 2-3 Эпизод
+        date: "24.10.25",
+        was: "was",
+      },
+      {
+        nickname: "Сатурдей",
+        slot: "1", // 2 Сезон 4-5 Эпизод
+        date: "08.01.26",
+        was: "was",
+      },
+      {
+        nickname: "Сатурдей",
+        slot: "1", // 2 Сезон 6-7 Эпизод
+        date: "27.01.26",
+        was: "was",
+      },
+      {
+        nickname: "Сатурдей",
+        slot: "1", // 2 Сезон 8-9 Эпизод
+        date: "03.02.26",
+        was: "was",
+      },
+      {
+        nickname: "Сатурдей",
+        slot: "1", // 2 Сезон 10-11 Эпизод
+        date: "06.03.26",
+        was: "was",
+      },
+      {
+        nickname: "Сатурдей",
+        slot: "1", // 2 Сезон 12-13 Эпизод
+        date: "19.03.26",
+        was: "was",
+      },
+    ],
+  },
+  {
+    nameRu: "Сопрано",
+    nameEn: "The Sopranos",
+    orderRemark: "Сериал, Просмотрено: 1 Сезон 1-13/13 Эпизод",
+    cardType: "order-finished",
+    items: [
+      {
+        nickname: "Сатурдей",
+        slot: "1", // 1 Сезон 1-2 Эпизод
+        date: "27.09.24",
+        was: "was",
+      },
+      {
+        nickname: "Сатурдей",
+        slot: "1", // 1 Сезон 3-4 Эпизод
+        date: "18.10.24",
+        was: "was",
+      },
+      {
+        nickname: "Сатурдей",
+        slot: "1", // 1 Сезон 5-6 Эпизод
+        date: "06.05.25",
+        was: "was",
+      },
+      {
+        nickname: "fudjikayashi",
+        slot: "2", // 1 Сезон 7-10 Эпизод
+        date: "17.06.25",
+        was: "was",
+      },
+      {
+        nickname: "Сатурдей",
+        slot: "1.5", // 1 Сезон 11-13 Эпизод
+        date: "23.10.25",
+        was: "was",
+      },
+    ],
+  },
+  //#endregion
+  //#region Южный Парк
+  {
+    nameRu: "Южный Парк",
+    nameEn: "South Park",
+    orderRemark: "Мультсериал, Просмотрено: 2 Сезон 1-18/18 Эпизод",
+    cardType: "order-finished",
+    items: [
+      {
+        nickname: "Кирвин",
+        slot: "0.25", // 2 Сезон 1 Эпизод
+        date: "04.02.26",
+        was: "was",
+      },
+      {
+        nickname: "афкМарк",
+        slot: "1", // 2 Сезон 2-5 Эпизод
+        date: "06.02.26",
+        was: "was",
+      },
+      {
+        nickname: "Кирвин",
+        slot: "1", // 2 Сезон 6-9 Эпизод
+        date: "22.02.26",
+        was: "was",
+      },
+      {
+        nickname: "Твою мать!",
+        slot: "1", // 2 Сезон 10-13 Эпизод
+        date: "04.03.26",
+        was: "was",
+      },
+      {
+        nickname: "Сатурдей",
+        slot: "1", // 2 Сезон 14-17 Эпизод
+        date: "06.03.26",
+        was: "was",
+      },
+      {
+        nickname: "Твою мать!",
+        slot: "0.25", // 2 Сезон 18 Эпизод
+        date: "21.04.26",
+        was: "was",
+      },
+    ],
+  },
+  {
+    nameRu: "Южный Парк",
+    nameEn: "South Park",
+    orderRemark: "Мультсериал, Просмотрено: 1 Сезон 1-13/13 Эпизод",
+    cardType: "order-finished",
+    items: [
+      {
+        nickname: "Сатурдей",
+        slot: "1", // 1 Сезон 1-4 Эпизод
+        date: "09.12.24",
+        was: "was",
+      },
+      {
+        nickname: "Твою мать!",
+        slot: "1", // 1 Сезон 5-8 Эпизод
+        date: "08.03.25",
+        was: "was",
+      },
+      {
+        nickname: "Твою мать!",
+        slot: "1", // 1 Сезон 9-12 Эпизод
+        date: "04.02.26",
+        was: "was",
+      },
+      {
+        nickname: "Кирвин",
+        slot: "0.25", // 1 Сезон 13 Эпизод
+        date: "04.02.26",
+        was: "was",
+      },
+    ],
+  },
+  //#endregion
+  //#region Декстер
+  {
+    nameRu: "Декстер",
+    nameEn: "Dexter",
+    orderRemark: "Сериал, Просмотрено: 6 Сезон 1-12/12 Эпизод",
+    cardType: "order-finished",
+    items: [
+      {
+        nickname: "Твою мать!",
+        slot: "0.5", // 6 Сезон 1 Эпизод
+        date: "11.02.26",
+        was: "was",
+      },
+      {
+        nickname: "Мавроди",
+        slot: "1", // 6 Сезон 2-3 Эпизод
+        date: "12.02.26",
+        was: "was",
+      },
+      {
+        nickname: "Мавроди",
+        slot: "1.5", // 6 Сезон 4-6 Эпизод
+        date: "06.03.26",
+        was: "was",
+      },
+      {
+        nickname: "Твою мать!",
+        slot: "1.5", // 6 Сезон 7-9 Эпизод
+        date: "17.03.26",
+        was: "was",
+      },
+      {
+        nickname: "Твою мать!",
+        slot: "1.5", // 6 Сезон 10-12 Эпизод
+        date: "22.04.26",
+        was: "was",
+      },
+    ],
+  },
+  {
+    nameRu: "Декстер",
+    nameEn: "Dexter",
+    orderRemark: "Сериал, Просмотрено: 5 Сезон 1-12/12 Эпизод",
+    cardType: "order-finished",
+    items: [
+      {
+        nickname: "Твою мать!",
+        slot: "1", // 5 Сезон 1-2 Эпизод
+        date: "25.12.25",
+        was: "was",
+      },
+      {
+        nickname: "Твою мать!",
+        slot: "1", // 5 Сезон 3-4 Эпизод
+        date: "06.01.26",
+        was: "was",
+      },
+      {
+        nickname: "Твою мать!",
+        slot: "1", // 5 Сезон 5-6 Эпизод
+        date: "08.01.26",
+        was: "was",
+      },
+      {
+        nickname: "Твою мать!",
+        slot: "1", // 5 Сезон 7-8 Эпизод
+        date: "27.01.26",
+        was: "was",
+      },
+      {
+        nickname: "Мавроди",
+        slot: "1.5", // 5 Сезон 9-11 Эпизод
+        date: "30.01.26",
+        was: "was",
+      },
+      {
+        nickname: "Твою мать!",
+        slot: "0.5", // 5 Сезон 12 Эпизод
+        date: "11.02.26",
+        was: "was",
+      },
+    ],
+  },
+  {
+    nameRu: "Декстер",
+    nameEn: "Dexter",
+    orderRemark: "Сериал, Просмотрено: 4 Сезон 1-12/12 Эпизод",
+    cardType: "order-finished",
+    items: [
+      {
+        nickname: "Твою мать!",
+        slot: "2", // 4 Сезон 1-4 Эпизод
+        date: "30.09.25",
+        was: "was",
+      },
+      {
+        nickname: "Твою мать!",
+        slot: "2", // 4 Сезон 5-8 Эпизод
+        date: "02.11.25",
+        was: "was",
+      },
+      {
+        nickname: "Твою мать!",
+        slot: "1", // 4 Сезон 9-10 Эпизод
+        date: "10.11.25",
+        was: "was",
+      },
+      {
+        nickname: "Твою мать!",
+        slot: "1", // 4 Сезон 11-12 Эпизод
+        date: "11.11.25",
+        was: "was",
+      },
+    ],
+  },
+  {
+    nameRu: "Декстер",
+    nameEn: "Dexter",
+    orderRemark: "Сериал, Просмотрено: 3 Сезон 1-12/12 Эпизод",
+    cardType: "order-finished",
+    items: [
+      {
+        nickname: "Кирвин",
+        slot: "1", // 3 Сезон 1-2 Эпизод
+        date: "29.08.25",
+        was: "was",
+      },
+      {
+        nickname: "Твою мать!",
+        slot: "1", // 3 Сезон 3-4 Эпизод
+        date: "31.08.25",
+        was: "was",
+      },
+      {
+        nickname: "Твою мать!",
+        slot: "1", // 3 Сезон 5-6 Эпизод
+        date: "07.09.25",
+        was: "was",
+      },
+      {
+        nickname: "Твою мать!",
+        slot: "1", // 3 Сезон 7-8 Эпизод
+        date: "16.09.25",
+        was: "was",
+      },
+      {
+        nickname: "Твою мать!",
+        slot: "1", // 3 Сезон 9-10 Эпизод
+        date: "19.09.25",
+        was: "was",
+      },
+      {
+        nickname: "Твою мать!",
+        slot: "1", // 3 Сезон 11-12 Эпизод
+        date: "30.09.25",
+        was: "was",
+      },
+    ],
+  },
+  {
+    nameRu: "Декстер",
+    nameEn: "Dexter",
+    orderRemark: "Сериал, Просмотрено: 2 Сезон 1-12/12 Эпизод",
+    cardType: "order-finished",
+    items: [
+      {
+        nickname: "Зеро_ИК",
+        slot: "3", // 2 Сезон 1-6 Эпизод
+        date: "25.10.23",
+        was: "was",
+      },
+      {
+        nickname: "Твою мать!",
+        slot: "2", // 2 Сезон 7-10 Эпизод
+        date: "29.10.23",
+        was: "was",
+      },
+      {
+        nickname: "Твою мать!",
+        slot: "1", // 2 Сезон 11-12 Эпизод
+        date: "21.12.23",
+        was: "was",
+      },
+    ],
+  },
+  {
+    nameRu: "Декстер",
+    nameEn: "Dexter",
+    orderRemark: "Сериал, Просмотрено: 1 Сезон 1-12/12 Эпизод",
+    cardType: "order-finished",
+    items: [
+      {
+        nickname: "Зеро_ИК",
+        slot: "6", // 1 Сезон 1-12 Эпизод
+        date: "10.08.23",
+        was: "was",
+      },
+    ],
+  },
+  //#endregion
+  //#region Сверхи
+  {
+    nameRu: "Сверхъестественное",
+    nameEn: "Supernatural",
+    orderRemark: "Сериал, 5 Сезон 1-22/22 Эпизод",
+    cardType: "order-finished",
+    items: [
+      {
+        nickname: "Твою мать!",
+        slot: "1",
+        date: "15.08.25",
+        was: "was",
+      },
+      {
+        nickname: "Твою мать!",
+        slot: "1",
+        date: "28.08.25",
+        was: "was",
+      },
+      {
+        nickname: "Твою мать!",
+        slot: "2",
+        date: "16.09.25",
+        was: "was",
+      },
+      {
+        nickname: "Твою мать!",
+        slot: "1",
+        date: "28.09.25",
+        was: "was",
+      },
+      {
+        nickname: "Твою мать!",
+        slot: "1",
+        date: "12.10.25",
+        was: "was",
+      },
+      {
+        nickname: "Твою мать!",
+        slot: "1",
+        date: "21.10.25",
+        was: "was",
+      },
+      {
+        nickname: "Твою мать!",
+        slot: "2",
+        date: "27.10.25",
+        was: "was",
+      },
+      {
+        nickname: "Твою мать!",
+        slot: "1",
+        date: "11.11.25",
+        was: "was",
+      },
+      {
+        nickname: "Твою мать!",
+        slot: "1",
+        date: "18.11.25",
+        was: "was",
+      },
+    ],
+  },
+  {
+    nameRu: "Сверхъестественное",
+    nameEn: "Supernatural",
+    orderRemark: "Сериал, 4 Сезон 1-22/22 Эпизод",
+    cardType: "order-finished",
+    items: [
+      {
+        nickname: "Твою мать!",
+        slot: "3",
+        date: "25.07.25",
+        was: "was",
+      },
+      {
+        nickname: "Твою мать!",
+        slot: "1",
+        date: "25.07.25",
+        was: "was",
+      },
+      {
+        nickname: "Твою мать!",
+        slot: "3",
+        date: "05.08.25",
+        was: "was",
+      },
+      {
+        nickname: "Твою мать!",
+        slot: "2",
+        date: "06.08.25",
+        was: "was",
+      },
+      {
+        nickname: "Твою мать!",
+        slot: "2",
+        date: "15.08.25",
+        was: "was",
+      },
+    ],
+  },
+  {
+    nameRu: "Сверхъестественное",
+    nameEn: "Supernatural",
+    orderRemark: "Сериал, 3 Сезон 1-16/16 Эпизод",
+    cardType: "order-finished",
+    items: [
+      {
+        nickname: "Твою мать!",
+        slot: "0.5",
+        date: "05.06.25",
+        was: "was",
+      },
+      {
+        nickname: "Твою мать!",
+        slot: "2",
+        date: "30.06.25",
+        was: "was",
+      },
+      {
+        nickname: "Твою мать!",
+        slot: "2",
+        date: "15.07.25",
+        was: "was",
+      },
+      {
+        nickname: "Твою мать!",
+        slot: "2.5",
+        date: "20.07.25",
+        was: "was",
+      },
+      {
+        nickname: "Твою мать!",
+        slot: "1",
+        date: "25.07.25",
+        was: "was",
+      },
+    ],
+  },
+  {
+    nameRu: "Сверхъестественное",
+    nameEn: "Supernatural",
+    orderRemark: "Сериал, 2 Сезон 1-22/22 Эпизод",
+    cardType: "order-finished",
+    items: [
+      {
+        nickname: "Твою мать!",
+        slot: "1",
+        date: "24.11.24",
+        was: "was",
+      },
+      {
+        nickname: "Твою мать!",
+        slot: "2.5",
+        date: "15.12.24",
+        was: "was",
+      },
+      {
+        nickname: "Твою мать!",
+        slot: "1",
+        date: "22.01.25",
+        was: "was",
+      },
+      {
+        nickname: "Твою мать!",
+        slot: "1",
+        date: "20.02.25",
+        was: "was",
+      },
+      {
+        nickname: "Твою мать!",
+        slot: "2",
+        date: "06.04.25",
+        was: "was",
+      },
+      {
+        nickname: "Твою мать!",
+        slot: "2",
+        date: "08.05.25",
+        was: "was",
+      },
+      {
+        nickname: "Твою мать!",
+        slot: "1.5",
+        date: "05.06.25",
+        was: "was",
+      },
+    ],
+  },
+  {
+    nameRu: "Сверхъестественное",
+    nameEn: "Supernatural",
+    orderRemark: "Сериал, 1 Сезон 1-22/22 Эпизод",
+    cardType: "order-finished",
+    items: [
+      {
+        nickname: "Твою мать!",
+        slot: "3",
+        date: "10.05.24",
+        was: "was",
+      },
+      {
+        nickname: "Твою мать!",
+        slot: "2",
+        date: "15.06.24",
+        was: "was",
+      },
+      {
+        nickname: "Твою мать!",
+        slot: "1",
+        date: "16.08.24",
+        was: "was",
+      },
+      {
+        nickname: "Твою мать!",
+        slot: "1",
+        date: "11.09.24",
+        was: "was",
+      },
+      {
+        nickname: "Твою мать!",
+        slot: "2",
+        date: "18.10.24",
+        was: "was",
+      },
+      {
+        nickname: "Твою мать!",
+        slot: "1",
+        date: "01.11.24",
+        was: "was",
+      },
+      {
+        nickname: "Твою мать!",
+        slot: "1",
+        date: "09.11.24",
+        was: "was",
+      },
+    ],
+  }, //#endregion
   //#endregion
 ];
