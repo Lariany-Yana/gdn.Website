@@ -339,20 +339,6 @@ const ordersDatabase = [
     ],
   },
   {
-    nameRu: "Ямада-кун и семь ведьм",
-    nameEn: "Yamada-kun to 7-nin no Majo",
-    orderRemark: "Аниме × В заказе: 1 Сезон 1-12/12 Эпизод",
-    cardType: "order-waiting",
-    id: "order_Yamada-kun",
-    items: [
-      {
-        nickname: "Стас",
-        slot: "3", // 1 Сезон 1-12 Эпизод
-        date: "19.03.25",
-      },
-    ],
-  },
-  {
     nameRu: "Одинокий замок в Зазеркалье",
     nameEn: "Kagami no Kojou",
     orderRemark: "Полнометражка",
