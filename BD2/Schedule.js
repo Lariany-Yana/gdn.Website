@@ -38,7 +38,7 @@ const scheduleDatabase = [
   },
   // Четверг
   {
-    nameRu: "Стрим маловероятен :|",
+    nameRu: "Стрим не состоялся :[",
     scheduleRemark: "",
     scheduleType: "schedule-current",
     date: "11.06.26",
