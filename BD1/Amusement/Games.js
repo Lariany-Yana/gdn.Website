@@ -85,7 +85,6 @@ const amusementGames = [
   {
     nameRu: "Dark Souls",
     titleStatus: "Наиграно: До финала",
-    donutTerms: "",
     id: "Amusement-Games_Dark-Souls",
     posterImage: "https://static.tildacdn.com/tild3161-3032-4766-b233-643263656563/Dark_Souls.webp",
     cardType: "amusement-Game",
@@ -117,7 +116,6 @@ const amusementGames = [
   {
     nameRu: "Detroit: Become Human",
     titleStatus: "Наиграно: До финала",
-    donutTerms: "",
     id: "Amusement-Games_Detroit-Become-Human",
     posterImage: "https://static.tildacdn.com/tild3836-3130-4461-a464-306131333236/Detroit_Become_Human.webp",
     cardType: "amusement-Game",
@@ -141,7 +139,6 @@ const amusementGames = [
   {
     nameRu: "Divinity: Original Sin 2",
     titleStatus: "Наиграно: До финала",
-    donutTerms: "",
     id: "Amusement-Games_Divinity-Original-Sin-2",
     posterImage: "https://static.tildacdn.com/tild6630-3733-4162-b962-323335336463/Divinity_Original_Si.webp",
     cardType: "amusement-Game",
@@ -149,7 +146,6 @@ const amusementGames = [
   {
     nameRu: "Dragon Age: Origins",
     titleStatus: "Наиграно: До финала",
-    donutTerms: "",
     id: "Amusement-Games_Dragon-Age-Origins",
     posterImage: "https://static.tildacdn.com/tild3566-3365-4261-b131-663433383966/Dragon_Age_Origins.webp",
     cardType: "amusement-Game",
@@ -264,7 +260,6 @@ const amusementGames = [
   {
     nameRu: "Inscryption",
     titleStatus: "Наиграно: До финала",
-    donutTerms: "",
     titleLink: ["boosty", "hiddenarchive/posts/0982e2bf-5fca-4824-8521-441758908c18?share=post_link"],
     id: "Amusement-Games_Inscryption",
     posterImage: "https://static.tildacdn.com/tild6639-6666-4765-a331-646237353735/Inscryption.webp",
@@ -345,7 +340,6 @@ const amusementGames = [
   {
     nameRu: "Minecraft",
     titleStatus: "Наиграно: Ни много ни мало",
-    donutTerms: "",
     id: "Amusement-Games_Minecraft",
     posterImage: "https://static.tildacdn.com/tild3165-6436-4366-a432-616336373837/Minecraft.webp",
     cardType: "amusement-Game",

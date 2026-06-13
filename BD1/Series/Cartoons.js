@@ -76,7 +76,6 @@ const seriesCartoons = [
     nameRu: "Гравити Фолз",
     nameEn: "Gravity Falls",
     titleStatus: "Просмотрено: 2 Сезона",
-    donutTerms: "",
     id: "Series-Cartoon_Gravity-Falls",
     posterImage: "https://static.tildacdn.com/tild6631-6230-4761-a430-656133303931/_.webp",
     cardType: "series-Cartoon",
@@ -93,7 +92,6 @@ const seriesCartoons = [
   {
     nameRu: "Губка Боб Квадратные Штаны",
     nameEn: "SpongeBob SquarePants",
-    donutTerms: "",
     id: "Series-Cartoon_SpongeBob-SquarePants",
     posterImage: "https://static.tildacdn.com/tild3133-3830-4531-b732-333637303833/___.webp",
     cardType: "series-Cartoon",
@@ -101,7 +99,6 @@ const seriesCartoons = [
   {
     nameRu: "Доктор Айболит",
     titleStatus: "Просмотрено: 1-7/7 Эпизод",
-    donutTerms: "",
     titleLink: ["boosty", "hiddenarchive/posts/b9b53b18-69ef-4459-8526-c2631b80a236?t=16702&tmid=6610f2b3-91ab-41cf-84ec-bd6bf07fc524"],
     id: "Series-Cartoon_Dr-Aibolit",
     posterImage: "https://static.tildacdn.com/tild3137-6338-4863-a436-383630346331/_.webp",
@@ -121,7 +118,6 @@ const seriesCartoons = [
     nameRu: "ДОТА: Кровь дракона",
     nameEn: "Dota: Dragon's Blood",
     titleStatus: "Просмотрено: 2 Сезона",
-    donutTerms: "",
     id: "Series-Cartoon_Dota-Dragon-Blood",
     posterImage: "https://static.tildacdn.com/tild6238-3634-4633-b866-346665333263/OTA__.webp",
     cardType: "series-Cartoon",
@@ -175,7 +171,6 @@ const seriesCartoons = [
   {
     nameRu: "Киберслав",
     titleStatus: "Просмотрено: 1-4/8 Эпизод",
-    donutTerms: "",
     titleLink: ["boosty", "hiddenarchive/posts/2a043374-5769-4cbf-8f18-461aa1d37da4?share=post_link"],
     id: "Series-Cartoon_Cyberslav",
     posterImage: "https://static.tildacdn.com/tild6466-3265-4061-a133-303261616135/photo.webp",
@@ -268,7 +263,6 @@ const seriesCartoons = [
   {
     nameRu: "Приключения капитана Врунгеля",
     titleStatus: "Просмотрено: 1-13/13 Эпизод",
-    donutTerms: "",
     titleLink: ["boosty", "hiddenarchive/posts/b9b53b18-69ef-4459-8526-c2631b80a236?t=5967&tmid=6610f2b3-91ab-41cf-84ec-bd6bf07fc524"],
     id: "Series-Cartoon_Captain-Vrungel",
     posterImage: "https://static.tildacdn.com/tild6262-3766-4337-b962-653331323333/__.webp",
@@ -277,7 +271,6 @@ const seriesCartoons = [
   {
     nameRu: "Принц Галактики",
     titleStatus: "Просмотрено: 1-4/12 Эпизод",
-    donutTerms: "",
     titleLink: ["boosty", "hiddenarchive/posts/8e4a5bd9-a36e-463d-94b6-1a26f00636b2?share=success_publish_link"],
     id: "Series-Cartoon_Prince-of-the-Galaxy",
     posterImage: "https://static.tildacdn.com/tild3835-3536-4362-b135-656265613730/_.webp",
@@ -305,7 +298,6 @@ const seriesCartoons = [
   {
     nameRu: "Сборник армянских мультфильмов Роберта Саакянца (1981-1985)",
     titleStatus: "Просмотрено: 1-5/5 Эпизод",
-    donutTerms: "",
     titleLink: ["boosty", "hiddenarchive/posts/b9b53b18-69ef-4459-8526-c2631b80a236?t=16709&tmid=6610f2b3-91ab-41cf-84ec-bd6bf07fc524"],
     id: "Series-Cartoon_Robert-Sahakyants",
     posterImage: "https://static.tildacdn.com/tild3663-6539-4639-a635-396337383666/____.webp",

@@ -74,7 +74,6 @@ const fullmeterCartoon = [
   {
     nameRu: "Геркулес",
     nameEn: "Hercules",
-    donutTerms: "",
     titleLink: ["boosty", "godenname/posts/100068ea-450a-498a-9f89-b982b1b6be28?share=post_link"],
     id: "Fullmeter-Cartoon_Hercules",
     posterImage: "https://static.tildacdn.com/tild6233-3331-4531-b031-373233656566/img.webp",
@@ -253,7 +252,6 @@ const fullmeterCartoon = [
   {
     nameRu: "Лига справедливости: Парадокс источника конфликта",
     nameEn: "Justice League: The Flashpoint Paradox",
-    donutTerms: "",
     titleLink: ["boosty", "hiddenarchive/posts/af81e37e-4d04-4dba-9ea2-6020c76d81d4?share=post_link"],
     id: "Fullmeter-Cartoon_Flashpoint-Paradox",
     posterImage: "https://static.tildacdn.com/tild3439-3532-4365-b465-346237643030/img.webp",
@@ -288,7 +286,6 @@ const fullmeterCartoon = [
   {
     nameRu: "Марс Экспресс",
     nameEn: "Mars Express",
-    donutTerms: "",
     titleLink: ["boosty", "hiddenarchive/posts/967d4b32-8dcd-4525-949f-91f0c4fb5c8c?t=7970&tmid=362c94e9-312e-42f2-a5fb-195a8230f05f"],
     id: "Fullmeter-Cartoon_Mars-Express",
     posterImage: "https://static.tildacdn.com/tild3734-3034-4864-b961-363331656565/img.webp",
@@ -340,7 +337,6 @@ const fullmeterCartoon = [
   {
     nameRu: "Принц Египта",
     nameEn: "The Prince of Egypt",
-    donutTerms: "",
     titleLink: ["vk", "video-208448461_456239223"],
     id: "Fullmeter-Cartoon_Prince-of-Egypt",
     posterImage: "https://static.tildacdn.com/tild6363-3466-4336-b932-313130336130/img.webp",
@@ -358,7 +354,6 @@ const fullmeterCartoon = [
   {
     nameRu: "Ральф",
     nameEn: "Wreck-It Ralph",
-    donutTerms: "",
     titleLink: ["boosty", "godenname/posts/68626da1-318c-4864-b5b9-e2e02d02c087?t=211&tmid=692fd160-1792-4096-9174-822763a62490"],
     id: "Fullmeter-Cartoon_Wreck-It-Ralph",
     posterImage: "https://static.tildacdn.com/tild3639-6363-4166-a537-656362346432/img.webp",
@@ -462,7 +457,6 @@ const fullmeterCartoon = [
   {
     nameRu: "Труп невесты",
     nameEn: "Corpse Bride",
-    donutTerms: "",
     titleLink: ["vk", "video-208448461_456239640"],
     id: "Fullmeter-Cartoon_Corpse-Bride",
     posterImage: "https://static.tildacdn.com/tild3936-6238-4636-b831-333965376164/img.webp",
@@ -533,7 +527,6 @@ const fullmeterCartoon = [
   {
     nameRu: "Черепашки-ниндзя",
     nameEn: "TMNT",
-    donutTerms: "",
     titleLink: ["vk", "video-208448461_456241638?t=1m32s"],
     id: "Fullmeter-Cartoon_TMNT",
     posterImage: "https://static.tildacdn.com/tild6639-3830-4733-b433-353535656333/img.webp",
@@ -542,7 +535,6 @@ const fullmeterCartoon = [
   {
     nameRu: "Шрек 2",
     nameEn: "Shrek 2",
-    donutTerms: "",
     titleLink: ["vk", "video-208448461_456239238"],
     id: "Fullmeter-Cartoon_Shrek-2",
     posterImage: "https://static.tildacdn.com/tild3363-6433-4166-b339-613639643839/img.webp",

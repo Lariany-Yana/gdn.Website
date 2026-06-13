@@ -11,7 +11,6 @@ const fullmeterMovie = [
   {
     nameRu: "12 лет рабства",
     nameEn: "12 Years a Slave",
-    donutTerms: "",
     titleLink: ["boosty", "hiddenarchive/posts/62d1470d-e31d-4721-a13a-da3d2b65afcf?share=success_publish_link"],
     id: "Fullmeter-Movie_12-Years-a-Slave",
     posterImage: "https://static.tildacdn.com/tild6461-6632-4134-b134-636438323836/12__.webp",
@@ -46,7 +45,6 @@ const fullmeterMovie = [
   {
     nameRu: "100 вещей и ничего лишнего",
     nameEn: "100 Dinge",
-    donutTerms: "",
     titleLink: ["boosty", "hiddenarchive/posts/68d25891-696a-4a22-be1a-72468e0aca0c?t=20152&tmid=1e374ec6-cb7c-4379-8913-8aa15a4f87d6"],
     id: "Fullmeter-Movie_100-Dinge",
     posterImage: "https://static.tildacdn.com/tild3932-3233-4465-a435-323036323139/100____.webp",
@@ -201,7 +199,6 @@ const fullmeterMovie = [
   {
     nameRu: "Антихрист",
     nameEn: "Antichrist",
-    donutTerms: "",
     titleLink: ["vk", "video-208448461_456239307"],
     id: "Fullmeter-Movie_Antichrist",
     posterImage: "https://static.tildacdn.com/tild3462-3566-4731-b533-363631366231/photo.webp",
@@ -342,7 +339,6 @@ const fullmeterMovie = [
   {
     nameRu: "Бивень",
     nameEn: "Tusk",
-    donutTerms: "",
     titleLink: ["vk", "video-208448461_456239228"],
     id: "Fullmeter-Movie_Tusk",
     posterImage: "https://static.tildacdn.com/tild3936-6333-4262-b433-353531386266/photo.webp",
@@ -360,7 +356,6 @@ const fullmeterMovie = [
   {
     nameRu: "Блеф. История обмана и мошенничества",
     nameEn: "Bluff. storia di truffe e di imbroglioni",
-    donutTerms: "",
     titleLink: ["boosty", "hiddenarchive/posts/71a7a8c9-c023-409e-acd2-e28c2ef2b78c?share=success_publish_link"],
     id: "Fullmeter-Movie_Bluff",
     posterImage: "https://static.tildacdn.com/tild3534-3965-4836-b936-623537343138/photo.webp",
@@ -387,7 +382,6 @@ const fullmeterMovie = [
   {
     nameRu: "Богемская рапсодия",
     nameEn: "Bohemian Rhapsody",
-    donutTerms: "",
     titleLink: ["boosty", "hiddenarchive/posts/1c85c7cb-86e1-4e8e-96be-20e4c90eb284?share=success_publish_link"],
     id: "Fullmeter-Movie_Bohemian-Rhapsody",
     posterImage: "https://static.tildacdn.com/tild6337-3737-4534-b066-613830323634/_.webp",
@@ -484,7 +478,6 @@ const fullmeterMovie = [
   {
     nameRu: "Визит",
     nameEn: "The Visit",
-    donutTerms: "",
     titleLink: ["boosty", "godenname/posts/0bb44e3d-d9a2-4b0e-a81c-727c908091c4?t=15480&tmid=3aab5e71-7b64-45c5-b8e0-86410c68ac79"],
     id: "Fullmeter-Movie_The-Visit",
     posterImage: "https://static.tildacdn.com/tild3834-3464-4138-b362-646663613266/photo.webp",
@@ -528,7 +521,6 @@ const fullmeterMovie = [
   {
     nameRu: "Волк с Уолл-стрит",
     nameEn: "The Wolf of Wall Street",
-    donutTerms: "",
     titleLink: ["boosty", "hiddenarchive/posts/2a10acb8-655e-4e33-8399-6f5f62f61abc?share=success_publish_link"],
     id: "Fullmeter-Movie_Wolf-of-Wall-Street",
     posterImage: "https://static.tildacdn.com/tild6439-6666-4735-a566-383066306137/__-.webp",
@@ -582,7 +574,6 @@ const fullmeterMovie = [
   {
     nameRu: "Враг",
     nameEn: "Enemy",
-    donutTerms: "",
     titleLink: ["vk", "video-208448461_456239296"],
     id: "Fullmeter-Movie_Enemy",
     posterImage: "https://static.tildacdn.com/tild6639-3936-4636-b835-313766353661/photo.webp",
@@ -591,7 +582,6 @@ const fullmeterMovie = [
   {
     nameRu: "Временная петля",
     nameEn: "Los cronocrímenes",
-    donutTerms: "",
     titleLink: ["vk", "video-208448461_456239226"],
     id: "Fullmeter-Movie_Los-cronocrímenes",
     posterImage: "https://static.tildacdn.com/tild3661-3430-4233-b639-376663316161/_.webp",
@@ -600,7 +590,6 @@ const fullmeterMovie = [
   {
     nameRu: "Всё везде и сразу",
     nameEn: "Everything Everywhere All at Once",
-    donutTerms: "",
     titleLink: ["boosty", "godenname/posts/68626da1-318c-4864-b5b9-e2e02d02c087?t=13594&tmid=692fd160-1792-4096-9174-822763a62490"],
     id: "Fullmeter-Movie_Everything-Everywhere-All-at-Once",
     posterImage: "https://static.tildacdn.com/tild3963-3036-4332-b239-336432626261/___.webp",
@@ -627,7 +616,6 @@ const fullmeterMovie = [
   {
     nameRu: "Выживший",
     nameEn: "The Revenant",
-    donutTerms: "",
     titleLink: ["boosty", "godenname/posts/c3b36b06-eb10-4343-b17e-90a733212d05?t=551&tmid=bba6e81c-0978-4a7e-9099-84c2d58a129c"],
     id: "Fullmeter-Movie_The-Revenant",
     posterImage: "https://static.tildacdn.com/tild3235-3730-4933-a464-626565356538/photo.webp",
@@ -698,7 +686,6 @@ const fullmeterMovie = [
   {
     nameRu: "Глубоководный горизонт",
     nameEn: "Deepwater Horizon",
-    donutTerms: "",
     titleLink: ["boosty", "hiddenarchive/posts/0612bc71-86b4-47fc-a5cc-d3d9e4fa8568?share=post_link"],
     id: "Fullmeter-Movie_Deepwater-Horizon",
     posterImage: "https://static.tildacdn.com/tild3436-3563-4562-b233-303264346362/_.webp",
@@ -707,7 +694,6 @@ const fullmeterMovie = [
   {
     nameRu: "Голова-ластик",
     nameEn: "Eraserhead",
-    donutTerms: "",
     titleLink: ["vk", "video-208448461_456239297"],
     id: "Fullmeter-Movie_Eraserhead",
     posterImage: "https://static.tildacdn.com/tild3661-6365-4233-b730-663530383033/-.webp",
@@ -733,7 +719,6 @@ const fullmeterMovie = [
   {
     nameRu: "Гори, гори ясно",
     nameEn: "Brightburn",
-    donutTerms: "",
     titleLink: ["boosty", "hiddenarchive/posts/6b9b40e4-5af7-4cdd-b7e6-234bbe42e158?share=post_link"],
     id: "Fullmeter-Movie_Brightburn",
     posterImage: "https://static.tildacdn.com/tild3533-6662-4534-b335-373564643336/__.webp",
@@ -787,7 +772,6 @@ const fullmeterMovie = [
   {
     nameRu: "Грязь",
     nameEn: "Filth",
-    donutTerms: "",
     titleLink: ["vk", "video-208448461_456239298"],
     id: "Fullmeter-Movie_Filth",
     posterImage: "https://static.tildacdn.com/tild6332-3866-4565-b532-376237326264/photo.webp",
@@ -865,7 +849,6 @@ const fullmeterMovie = [
   {
     nameRu: "Джанго освобожденный",
     nameEn: "Django Unchained",
-    donutTerms: "",
     titleLink: ["boosty", "godenname/posts/f2776580-fbf7-42c3-b4a3-fb325b18a26a?t=8033&tmid=cb9fff60-3789-4d03-abda-9eeb74ec5192"],
     id: "Fullmeter-Movie_Django-Unchained",
     posterImage: "https://static.tildacdn.com/tild3735-6535-4135-a437-356462353932/_.webp",
@@ -900,7 +883,6 @@ const fullmeterMovie = [
   {
     nameRu: "Джуманджи",
     nameEn: "Jumanji",
-    donutTerms: "",
     titleLink: ["boosty", "hiddenarchive/posts/8e77a674-fc7f-442c-8803-3dc0b2125e4e?t=14998&tmid=beaa89f5-0c51-449e-8e24-aca516edeb00"],
     id: "Fullmeter-Movie_Jumanji",
     posterImage: "https://static.tildacdn.com/tild6634-6139-4731-b032-376239636666/photo.webp",
@@ -909,7 +891,6 @@ const fullmeterMovie = [
   {
     nameRu: "Дикость",
     nameEn: "Wild Things",
-    donutTerms: "",
     titleLink: ["vk", "video-208448461_456239232?t=12m23s"],
     id: "Fullmeter-Movie_Wild-Things",
     posterImage: "https://static.tildacdn.com/tild6163-3163-4237-a434-306338306635/photo.webp",
@@ -927,7 +908,6 @@ const fullmeterMovie = [
   {
     nameRu: "Догвилль",
     nameEn: "Dogville",
-    donutTerms: "",
     titleLink: ["vk", "video-208448461_456239311"],
     id: "Fullmeter-Movie_Dogville",
     posterImage: "https://static.tildacdn.com/tild6134-3564-4562-b366-643835626539/photo.webp",
@@ -936,7 +916,6 @@ const fullmeterMovie = [
   {
     nameRu: "Доказательство смерти",
     nameEn: "Death Proof",
-    donutTerms: "",
     titleLink: ["vk", "video-208448461_456239300"],
     id: "Fullmeter-Movie_Death-Proof",
     posterImage: "https://static.tildacdn.com/tild3338-3238-4339-b935-653162663634/_.webp",
@@ -954,7 +933,6 @@ const fullmeterMovie = [
   {
     nameRu: "Дом",
     nameEn: "Hausu",
-    donutTerms: "",
     titleLink: ["boosty", "hiddenarchive/posts/3e56b5f3-ff31-4a4c-a9d8-2c9e881f3b09?share=post_link"],
     id: "Fullmeter-Movie_Hausu",
     posterImage: "https://static.tildacdn.com/tild3738-3832-4234-b065-373964363066/photo.webp",
@@ -990,7 +968,6 @@ const fullmeterMovie = [
   {
     nameRu: "Драйв",
     nameEn: "Drive",
-    donutTerms: "",
     titleLink: ["vk", "video-208448461_456239304"],
     id: "Fullmeter-Movie_Drive",
     posterImage: "https://static.tildacdn.com/tild3466-3665-4661-b738-623738376266/photo.webp",
@@ -1008,7 +985,6 @@ const fullmeterMovie = [
   {
     nameRu: "Дракула",
     nameEn: "Bram Stoker's Dracula",
-    donutTerms: "",
     titleLink: ["boosty", "godenname/posts/6d7308d5-bd2f-464b-a614-d808dad29128?t=10475&tmid=e80b6598-370f-4d7c-995c-b02b72877bef"],
     id: "Fullmeter-Movie_Bram-Stoker-Dracula",
     posterImage: "https://static.tildacdn.com/tild3766-3161-4630-a565-366330326663/_Bram_Stokers_Dracul.webp",
@@ -1034,7 +1010,6 @@ const fullmeterMovie = [
   {
     nameRu: "Ещё по одной",
     nameEn: "Druk",
-    donutTerms: "",
     titleLink: ["vk", "video-208448461_456239306"],
     id: "Fullmeter-Movie_Druk",
     posterImage: "https://static.tildacdn.com/tild6161-3664-4736-a439-396664306163/__.webp",
@@ -1067,7 +1042,6 @@ const fullmeterMovie = [
   {
     nameRu: "Забавные игры",
     nameEn: "Funny Games",
-    donutTerms: "",
     titleLink: ["boosty", "hiddenarchive/posts/3f3e8971-13a6-499e-a96e-04b1af5745b8?share=post_link"],
     id: "Fullmeter-Movie_Funny-Games",
     posterImage: "https://static.tildacdn.com/tild3162-3934-4430-b566-393634356439/_.webp",
@@ -1137,7 +1111,6 @@ const fullmeterMovie = [
   {
     nameRu: "Звёздный десант",
     nameEn: "Starship Troopers",
-    donutTerms: "",
     titleLink: ["vk", "video-208448461_456239240"],
     id: "Fullmeter-Movie_Starship-Troopers",
     posterImage: "https://static.tildacdn.com/tild6232-3937-4664-a438-323666316632/_.webp",
@@ -1181,7 +1154,6 @@ const fullmeterMovie = [
   },
   {
     nameRu: "Иван Васильевич меняет профессию",
-    donutTerms: "",
     titleLink: ["boosty", "hiddenarchive/posts/8e77a674-fc7f-442c-8803-3dc0b2125e4e?t=7681&tmid=beaa89f5-0c51-449e-8e24-aca516edeb00"],
     id: "Fullmeter-Movie_Ivan-Vasilyevich-change-his-profession",
     posterImage: "https://static.tildacdn.com/tild6337-6231-4263-b734-356365333239/___.webp",
@@ -1348,7 +1320,6 @@ const fullmeterMovie = [
   {
     nameRu: "Коллекционер",
     nameEn: "The Collector",
-    donutTerms: "",
     titleLink: ["boosty", "hiddenarchive/posts/1959e5e8-2ec3-4610-94d9-47803e172528"],
     id: "Fullmeter-Movie_Collector",
     posterImage: "https://static.tildacdn.com/tild3462-3534-4535-b336-393030373262/photo.webp",
@@ -1375,7 +1346,6 @@ const fullmeterMovie = [
   {
     nameRu: "Костяной томагавк",
     nameEn: "Bone Tomahawk",
-    donutTerms: "",
     titleLink: ["vk", "video-208448461_456239309"],
     id: "Fullmeter-Movie_Bone-Tomahawk",
     posterImage: "https://static.tildacdn.com/tild3065-3331-4761-a566-373431656163/_.webp",
@@ -1522,7 +1492,6 @@ const fullmeterMovie = [
   {
     nameRu: "Ларс и настоящая девушка",
     nameEn: "Lars and the Real Girl",
-    donutTerms: "",
     titleLink: ["vk", "video-208448461_456239292"],
     id: "Fullmeter-Movie_Lars-and-Real-Girl",
     posterImage: "https://static.tildacdn.com/tild6466-3861-4531-b763-323435353634/___.webp",
@@ -1639,7 +1608,6 @@ const fullmeterMovie = [
   {
     nameRu: "Мальтийский сокол",
     nameEn: "The Maltese Falcon",
-    donutTerms: "",
     titleLink: ["boosty", "hiddenarchive/posts/9f264787-4f89-4eb3-a1c4-91fca3eede9f?share=post_link"],
     id: "Fullmeter-Movie_Maltese-Falcon",
     posterImage: "https://static.tildacdn.com/tild6439-3762-4962-b064-633139613532/_.webp",
@@ -1697,7 +1665,6 @@ const fullmeterMovie = [
   {
     nameRu: "Маяк",
     nameEn: "The Lighthouse",
-    donutTerms: "",
     titleLink: ["vk", "video-208448461_456239714?t=16s"],
     id: "Fullmeter-Movie_The-Lighthouse",
     posterImage: "https://static.tildacdn.com/tild3535-6339-4066-b333-313366393438/photo.webp",
@@ -1706,7 +1673,6 @@ const fullmeterMovie = [
   {
     nameRu: "Мгла",
     nameEn: "The Mist",
-    donutTerms: "",
     titleLink: ["vk", "video-208448461_456239590"],
     id: "Fullmeter-Movie_The-Mist",
     posterImage: "https://static.tildacdn.com/tild3565-3965-4163-a238-656337333661/photo.webp",
@@ -1724,7 +1690,6 @@ const fullmeterMovie = [
   {
     nameRu: "Мертвые не умирают",
     nameEn: "The Dead Don’t Die",
-    donutTerms: "",
     titleLink: ["vk", "video-208448461_456239248"],
     id: "Fullmeter-Movie_Dead-Dont-Die",
     posterImage: "https://static.tildacdn.com/tild6535-3864-4834-b164-393736316535/__.webp",
@@ -1907,7 +1872,6 @@ const fullmeterMovie = [
   {
     nameRu: "Немыслимое",
     nameEn: "Unthinkable",
-    donutTerms: "",
     titleLink: ["boosty", "hiddenarchive/posts/8e77a674-fc7f-442c-8803-3dc0b2125e4e?t=683&tmid=beaa89f5-0c51-449e-8e24-aca516edeb00"],
     id: "Fullmeter-Movie_Unthinkable",
     posterImage: "https://static.tildacdn.com/tild6130-6332-4730-a165-393562313438/photo.webp",
@@ -1934,7 +1898,6 @@ const fullmeterMovie = [
   {
     nameRu: "Не смотрите наверх",
     nameEn: "Don’t Look Up",
-    donutTerms: "",
     titleLink: ["vk", "video-208448461_456239281"],
     id: "Fullmeter-Movie_Secret-Life-of-Walter-Mitty",
     posterImage: "https://static.tildacdn.com/tild3637-6635-4437-b931-613963613363/__.webp",
@@ -1952,7 +1915,6 @@ const fullmeterMovie = [
   {
     nameRu: "Нечто",
     nameEn: "The Thing",
-    donutTerms: "",
     titleLink: ["vk", "video-208448461_456239225"],
     id: "Fullmeter-Movie_The-Thing",
     posterImage: "https://static.tildacdn.com/tild6664-3331-4330-b836-336662386239/photo.webp",
@@ -1970,7 +1932,6 @@ const fullmeterMovie = [
   {
     nameRu: "Нимфоманка: Часть 1",
     nameEn: "Nymphomaniac: Vol. I",
-    donutTerms: "",
     titleLink: ["vk", "video-208448461_456239285"],
     id: "Fullmeter-Movie_Nymphomaniac-1",
     posterImage: "https://static.tildacdn.com/tild6134-6664-4130-b363-636264313138/photo.webp",
@@ -2023,7 +1984,6 @@ const fullmeterMovie = [
   {
     nameRu: "Одержимость",
     nameEn: "Whiplash",
-    donutTerms: "",
     titleLink: ["boosty", "hiddenarchive/posts/8b960666-d060-4e00-93ac-10994b7ddbc9?share=post_link"],
     id: "Fullmeter-Movie_Whiplash",
     posterImage: "https://static.tildacdn.com/tild6662-3962-4838-a530-643035346266/photo.webp",
@@ -2085,7 +2045,6 @@ const fullmeterMovie = [
   {
     nameRu: "Она",
     nameEn: "Her",
-    donutTerms: "",
     titleLink: ["boosty", "hiddenarchive/posts/9c25d0b5-9c05-4421-94e0-f9c1ea4e6369?t=15303&tmid=5e51855c-45f7-4660-a700-5746223f4f6f"],
     id: "Fullmeter-Movie_Her",
     posterImage: "https://static.tildacdn.com/tild3235-3566-4332-b465-623038326237/photo.webp",
@@ -2102,7 +2061,6 @@ const fullmeterMovie = [
   {
     nameRu: "Оно приходит за тобой",
     nameEn: "It Follows",
-    donutTerms: "",
     titleLink: ["vk", "video-208448461_456239282"],
     id: "Fullmeter-Movie_It-Follows",
     posterImage: "https://static.tildacdn.com/tild3939-6535-4231-b738-356538653937/_2.webp",
@@ -2129,7 +2087,6 @@ const fullmeterMovie = [
   {
     nameRu: "Основатель",
     nameEn: "The Founder",
-    donutTerms: "",
     titleLink: ["boosty", "hiddenarchive/posts/7884857b-b8da-4d50-9a2d-a0d836a943a0?t=683&tmid=ccce6864-29c4-4b6e-bba7-8c872bc10d9d"],
     id: "Fullmeter-Movie_The-Founder",
     posterImage: "https://static.tildacdn.com/tild3963-3033-4366-a561-303938616566/photo.webp",
@@ -2147,7 +2104,6 @@ const fullmeterMovie = [
   {
     nameRu: "Отель «Гранд Будапешт»",
     nameEn: "The Grand Budapest Hotel",
-    donutTerms: "",
     titleLink: ["boosty", "hiddenarchive/posts/2b8d8884-fdf8-42f4-a6a6-edc4debe29ef?share=post_link"],
     id: "Fullmeter-Movie_The-Grand-Budapest-Hotel",
     posterImage: "https://static.tildacdn.com/tild3839-3765-4331-b066-346364626632/__.webp",
@@ -2156,7 +2112,6 @@ const fullmeterMovie = [
   {
     nameRu: "Отец",
     nameEn: "The Father",
-    donutTerms: "",
     titleLink: ["vk", "video-208448461_456239249"],
     id: "Fullmeter-Movie_The-Father",
     posterImage: "https://static.tildacdn.com/tild3065-3362-4266-a639-656162633833/photo.webp",
@@ -2174,7 +2129,6 @@ const fullmeterMovie = [
   {
     nameRu: "Охота",
     nameEn: "Jagten",
-    donutTerms: "",
     titleLink: ["vk", "video-208448461_456239251"],
     id: "Fullmeter-Movie_Jagten",
     posterImage: "https://static.tildacdn.com/tild3631-6130-4265-a333-373439356130/photo.webp",
@@ -2192,7 +2146,6 @@ const fullmeterMovie = [
   {
     nameRu: "Очень страшное кино",
     nameEn: "Scary Movie",
-    donutTerms: "",
     titleLink: ["boosty", "hiddenarchive/posts/8b139bed-708c-45bc-8bfc-78f4b25d0b94?share=post_link"],
     id: "Fullmeter-Movie_Scary-Movie",
     posterImage: "https://static.tildacdn.com/tild3930-3239-4633-b962-383433393662/__.webp",
@@ -2219,7 +2172,6 @@ const fullmeterMovie = [
   {
     nameRu: "Парк Юрского периода",
     nameEn: "Jurassic Park",
-    donutTerms: "",
     titleLink: ["vk", "video-208448461_456239289"],
     id: "Fullmeter-Movie_Jurassic-Park",
     posterImage: "https://static.tildacdn.com/tild3538-3337-4037-b837-323733336232/__.webp",
@@ -2279,7 +2231,6 @@ const fullmeterMovie = [
   {
     nameRu: "Планета Ка-Пэкс",
     nameEn: "K-PAX",
-    donutTerms: "",
     titleLink: ["boosty", "hiddenarchive/posts/bb8463dc-a5af-4ce1-ba5f-dce14841659a?t=16622&tmid=6e95f547-2b38-42d2-be1f-9bb6ad0ad6bc"],
     id: "Fullmeter-Movie_K-PAX",
     posterImage: "https://static.tildacdn.com/tild6235-6265-4631-b730-623432366237/_-.webp",
@@ -2288,7 +2239,6 @@ const fullmeterMovie = [
   {
     nameRu: "Планета страха",
     nameEn: "Planet Terror",
-    donutTerms: "",
     titleLink: ["boosty", "godenname/posts/7e08ec79-7b58-4b97-b5ee-55b36b60970a?t=1078&tmid=e1106a7c-2f18-45e9-b5c5-e35a419b1d59"],
     id: "Fullmeter-Movie_Planet-Terror",
     posterImage: "https://static.tildacdn.com/tild6363-6331-4634-b163-363364636165/_.webp",
@@ -2297,7 +2247,6 @@ const fullmeterMovie = [
   {
     nameRu: "Платформа",
     nameEn: "El hoyo",
-    donutTerms: "",
     titleLink: ["vk", "video-208448461_456239222"],
     id: "Fullmeter-Movie_El-hoyo",
     posterImage: "https://static.tildacdn.com/tild6165-3539-4366-b366-633334326433/photo.webp",
@@ -2306,7 +2255,6 @@ const fullmeterMovie = [
   {
     nameRu: "Плёнки из Поукипзи",
     nameEn: "The Poughkeepsie Tapes",
-    donutTerms: "",
     titleLink: ["boosty", "godenname/posts/68626da1-318c-4864-b5b9-e2e02d02c087?t=7614&tmid=692fd160-1792-4096-9174-822763a62490"],
     id: "Fullmeter-Movie_Poughkeepsie-Tapes",
     posterImage: "https://static.tildacdn.com/tild6132-3563-4562-a436-366636393361/__.webp",
@@ -2360,7 +2308,6 @@ const fullmeterMovie = [
   {
     nameRu: "Поезд в Пусан",
     nameEn: "Busanhaeng",
-    donutTerms: "",
     titleLink: ["vk", "video-208448461_456239287"],
     id: "Fullmeter-Movie_Busanhaeng",
     posterImage: "https://static.tildacdn.com/tild3363-3961-4563-a330-653362336264/__.webp",
@@ -2403,7 +2350,6 @@ const fullmeterMovie = [
   {
     nameRu: "После прочтения сжечь",
     nameEn: "Burn After Reading",
-    donutTerms: "",
     titleLink: ["boosty", "hiddenarchive/posts/1a4fafe3-c89e-4ecf-832d-f7a9584ca0c6?share=post_link"],
     id: "Fullmeter-Movie_Burn-After-Reading",
     posterImage: "https://static.tildacdn.com/tild3133-3637-4536-b664-666466363632/__.webp",
@@ -2511,7 +2457,6 @@ const fullmeterMovie = [
   {
     nameRu: "Психо",
     nameEn: "Psycho",
-    donutTerms: "",
     titleLink: ["boosty", "godenname/posts/d581a1ec-b7c5-4840-a9ca-d8a611f382fb?t=10848&tmid=93c769de-758b-435f-b41b-6ab48d4dc04c"],
     id: "Fullmeter-Movie_Psycho",
     posterImage: "https://static.tildacdn.com/tild3931-3363-4064-b233-313738333335/photo.webp",
@@ -2527,7 +2472,6 @@ const fullmeterMovie = [
   },
   {
     nameRu: "Пыль",
-    donutTerms: "",
     titleLink: ["vk", "video-208448461_456239303"],
     id: "Fullmeter-Movie_Dust",
     posterImage: "https://static.tildacdn.com/tild3534-3363-4139-a235-653836633264/photo.webp",
@@ -2563,7 +2507,6 @@ const fullmeterMovie = [
   {
     nameRu: "Реальные упыри",
     nameEn: "What We Do in the Shadows",
-    donutTerms: "",
     titleLink: ["boosty", "godenname/posts/c2d89cde-ea80-4311-a60a-3c2ac3410b26?t=15425&tmid=cfdca93a-e5fd-43bb-9bfb-fb4c02e596fb"],
     id: "Fullmeter-Movie_What-We-Do-in-the-Shadows",
     posterImage: "https://static.tildacdn.com/tild6165-3134-4635-b134-636531383234/_.webp",
@@ -2604,7 +2547,6 @@ const fullmeterMovie = [
   {
     nameRu: "Ритуал",
     nameEn: "The Ritual",
-    donutTerms: "",
     titleLink: ["boosty", "hiddenarchive/posts/81876b65-24dc-47e4-b8d2-fe690bfaacca?share=post_link"],
     id: "Fullmeter-Movie_The-Ritual",
     posterImage: "https://static.tildacdn.com/tild3632-3332-4235-a335-643536643939/photo.webp",
@@ -2631,7 +2573,6 @@ const fullmeterMovie = [
   {
     nameRu: "Рядом ревёт революция",
     nameEn: "RRR: Rise, Roar, Revolt",
-    donutTerms: "",
     titleLink: ["boosty", "hiddenarchive/posts/5dd46abf-426f-430c-83c4-2aa81240bd41?share=post_link"],
     id: "Fullmeter-Movie_Rise-Roar-Revolt",
     posterImage: "https://static.tildacdn.com/tild3734-6131-4134-a433-366366666565/__.webp",
@@ -2657,7 +2598,6 @@ const fullmeterMovie = [
   {
     nameRu: "Сатанинское танго",
     nameEn: "Sátántangó",
-    donutTerms: "",
     titleLink: ["vk", "video-208448461_456241755"],
     id: "Fullmeter-Movie_Satantango",
     posterImage: "https://static.tildacdn.com/tild3566-3433-4137-b838-316438613935/_.webp",
@@ -2684,7 +2624,6 @@ const fullmeterMovie = [
   {
     nameRu: "Синий бархат",
     nameEn: "Blue Velvet",
-    donutTerms: "",
     titleLink: ["vk", "video-208448461_456239308"],
     id: "Fullmeter-Movie_Blue-Velvet",
     posterImage: "https://static.tildacdn.com/tild6466-3136-4138-b834-373961353630/_.webp",
@@ -2711,7 +2650,6 @@ const fullmeterMovie = [
   {
     nameRu: "Скотт Пилигрим против всех",
     nameEn: "Scott Pilgrim vs. the World",
-    donutTerms: "",
     titleLink: ["vk", "video-208448461_456239621"],
     id: "Fullmeter-Movie_Scott-Pilgrim-vs-World",
     posterImage: "https://static.tildacdn.com/tild6631-6135-4237-b565-366230306361/___.webp",
@@ -2720,7 +2658,6 @@ const fullmeterMovie = [
   {
     nameRu: "Смертный приговор",
     nameEn: "Death Sentence",
-    donutTerms: "",
     titleLink: ["boosty", "godenname/posts/bc0604bd-67f8-4551-987f-ba0436723a6e?t=25655&tmid=1c63ade6-0838-4b35-a258-8d65ec0c0597"],
     id: "Fullmeter-Movie_Death-Sentence",
     posterImage: "https://static.tildacdn.com/tild3235-6133-4232-a430-373831363539/_.webp",
@@ -2737,7 +2674,6 @@ const fullmeterMovie = [
   {
     nameRu: "Собачья жизнь",
     nameEn: "A Dog’s Purpose",
-    donutTerms: "",
     titleLink: ["boosty", "godenname/posts/f072e32a-056a-43f2-859d-aa6baa82f422?t=23892&tmid=32dc0ac1-06cd-494b-abe0-68ef4b754386"],
     id: "Fullmeter-Movie_Dog-Purpose",
     posterImage: "https://static.tildacdn.com/tild3337-6634-4666-b364-343939343837/_.webp",
@@ -2791,7 +2727,6 @@ const fullmeterMovie = [
   {
     nameRu: "Список Шиндлера",
     nameEn: "Schindler’s List",
-    donutTerms: "",
     titleLink: ["vk", "video-208448461_456239237"],
     id: "Fullmeter-Movie_Schindler-List",
     posterImage: "https://static.tildacdn.com/tild3765-3765-4235-b033-393363313837/_.webp",
@@ -2800,7 +2735,6 @@ const fullmeterMovie = [
   {
     nameRu: "Сплит",
     nameEn: "Split",
-    donutTerms: "",
     titleLink: ["boosty", "godenname/posts/cb7f2fe7-2d62-4eec-9774-940e17f96b3b?t=781&tmid=ece50ea5-0f98-4e8f-b653-04ab3b66aaa6"],
     id: "Fullmeter-Movie_Split",
     posterImage: "https://static.tildacdn.com/tild6561-3964-4064-a566-656436343165/photo.webp",
@@ -2836,7 +2770,6 @@ const fullmeterMovie = [
   {
     nameRu: "Старикам тут не место",
     nameEn: "No Country for Old Men",
-    donutTerms: "",
     titleLink: ["vk", "video-208448461_456239315?t=9m0s"],
     id: "Fullmeter-Movie_No-Country-for-Old-Men",
     posterImage: "https://static.tildacdn.com/tild3730-3637-4661-a231-323161636262/___.webp",
@@ -2889,7 +2822,6 @@ const fullmeterMovie = [
   {
     nameRu: "Суррогаты",
     nameEn: "Surrogates",
-    donutTerms: "",
     titleLink: ["vk", "video-208448461_456239241"],
     id: "Fullmeter-Movie_Surrogates",
     posterImage: "https://static.tildacdn.com/tild3565-6639-4261-a563-646663303264/photo.webp",
@@ -2916,7 +2848,6 @@ const fullmeterMovie = [
   {
     nameRu: "С широко закрытыми глазами",
     nameEn: "Eyes Wide Shut",
-    donutTerms: "",
     titleLink: ["boosty", "hiddenarchive/posts/f3f4889d-ad68-4f8f-8486-f59abcc97b44?share=post_link"],
     id: "Fullmeter-Movie_Eyes-Wide-Shut",
     posterImage: "https://static.tildacdn.com/tild3039-3736-4664-b337-343831323233/___.webp",
@@ -2933,7 +2864,6 @@ const fullmeterMovie = [
   {
     nameRu: "Тайлер Рейк: Операция по спасению",
     nameEn: "Extraction",
-    donutTerms: "",
     titleLink: ["boosty", "godenname/posts/7818a553-25ef-4c7f-b11e-b3a48bde6a95?t=4450&tmid=340b050e-06e5-4b86-a9da-ae7b9a30d66e"],
     id: "Fullmeter-Movie_Extraction",
     posterImage: "https://static.tildacdn.com/tild3633-3332-4537-b037-356264333433/_.webp",
@@ -2966,7 +2896,6 @@ const fullmeterMovie = [
   {
     nameRu: "Танцующая в темноте",
     nameEn: "Dancer in the Dark",
-    donutTerms: "",
     titleLink: ["vk", "video-208448461_456239310"],
     id: "Fullmeter-Movie_Dancer-in-the-Dark",
     posterImage: "https://static.tildacdn.com/tild3032-3038-4237-b637-343163363763/__.webp",
@@ -2975,7 +2904,6 @@ const fullmeterMovie = [
   {
     nameRu: "Тебе конец!",
     nameEn: "You’re Next",
-    donutTerms: "",
     titleLink: ["vk", "video-208448461_456239233"],
     id: "Fullmeter-Movie_You-Next",
     posterImage: "https://static.tildacdn.com/tild3464-3666-4337-a361-353030616565/_.webp",
@@ -3045,7 +2973,6 @@ const fullmeterMovie = [
   {
     nameRu: "Тревожный вызов",
     nameEn: "The Call",
-    donutTerms: "",
     titleLink: ["vk", "video-208448461_456239244"],
     id: "Fullmeter-Movie_The-Call",
     posterImage: "https://static.tildacdn.com/tild3765-3464-4862-a437-373431383536/_.webp",
@@ -3063,7 +2990,6 @@ const fullmeterMovie = [
   {
     nameRu: "Треугольник",
     nameEn: "Triangle",
-    donutTerms: "",
     titleLink: ["vk", "video-208448461_456239227"],
     id: "Fullmeter-Movie_Triangle",
     posterImage: "https://static.tildacdn.com/tild3831-6133-4834-b238-303561626566/photo.webp",
@@ -3090,7 +3016,6 @@ const fullmeterMovie = [
   {
     nameRu: "Убийца",
     nameEn: "Sicario",
-    donutTerms: "",
     titleLink: ["boosty", "hiddenarchive/posts/bb20b4fb-8781-4b53-985b-ce933aa4b7e6?share=post_link"],
     id: "Fullmeter-Movie_Sicario",
     posterImage: "https://static.tildacdn.com/tild3038-6131-4333-a238-333637373832/photo.webp",
@@ -3121,7 +3046,7 @@ const fullmeterMovie = [
     cardType: "fullmeter-Movie",
   },
   {
-    nameRu: "Фантастическая четверка",
+    nameRu: "Фантастическая четверка&#1",
     nameEn: "Fantastic Four",
     titleStatus: "Сборник",
     id: "Fullmeter-Movie_Fantastic-Four",
@@ -3129,9 +3054,17 @@ const fullmeterMovie = [
     cardType: "fullmeter-Movie",
   },
   {
+    nameRu: "Фантастическая четвёрка&#2: Первые шаги",
+    nameEn: "The Fantastic Four: First Steps",
+    donutTerms: "donut-lvl-3",
+    titleLink: ["vk", "video-208448461_456241847?t=2h7m36s"],
+    id: "Fullmeter-Movie_Fantastic-Four-First-Steps",
+    posterImage: "https://static.tildacdn.com/tild3262-6365-4932-b137-653063313532/img.webp",
+    cardType: "fullmeter-Movie",
+  },
+  {
     nameRu: "Фарго",
     nameEn: "Fargo",
-    donutTerms: "",
     titleLink: ["boosty", "godenname/posts/b46ad881-2a49-482b-ae55-16ec0ae24e5b?t=17576&tmid=42e34935-5547-4922-abb9-8264ebe32545"],
     id: "Fullmeter-Movie_Fargo",
     posterImage: "https://static.tildacdn.com/tild3965-3432-4630-a232-623839326634/photo.webp",
@@ -3197,7 +3130,6 @@ const fullmeterMovie = [
   },
   {
     nameRu: "Хоттабыч",
-    donutTerms: "",
     titleLink: ["boosty", "hiddenarchive/posts/53b2f400-7fc1-4d4a-9e65-c1eb958d7238?t=840&tmid=84e5a898-a1be-4350-9ec0-6057df277040"],
     id: "Fullmeter-Movie_Hottabych",
     posterImage: "https://static.tildacdn.com/tild6632-6536-4234-b464-333138613436/photo.webp",
@@ -3206,7 +3138,6 @@ const fullmeterMovie = [
   {
     nameRu: "Хранители",
     nameEn: "Watchmen",
-    donutTerms: "",
     titleLink: ["vk", "video-208448461_456239230"],
     id: "Fullmeter-Movie_Watchmen",
     posterImage: "https://static.tildacdn.com/tild6364-6132-4133-b364-333365653865/photo.webp",
@@ -3360,7 +3291,6 @@ const fullmeterMovie = [
   {
     nameRu: "Эдвард руки-ножницы",
     nameEn: "Edward Scissorhands",
-    donutTerms: "",
     titleLink: ["vk", "video-208448461_456239623"],
     id: "Fullmeter-Movie_Edward-Scissorhands",
     posterImage: "https://static.tildacdn.com/tild6132-6564-4466-a236-653535636434/_-.webp",
@@ -3386,7 +3316,6 @@ const fullmeterMovie = [
   {
     nameRu: "Эффект бабочки",
     nameEn: "The Butterfly Effect",
-    donutTerms: "",
     titleLink: ["vk", "video-208448461_456239243"],
     id: "Fullmeter-Movie_The-Butterfly-Effect",
     posterImage: "https://static.tildacdn.com/tild3530-3630-4330-a165-386661343832/_.webp",
@@ -3430,7 +3359,6 @@ const fullmeterMovie = [
   {
     nameRu: "V - значит Вендетта",
     nameEn: "V for Vendetta",
-    donutTerms: "",
     titleLink: ["vk", "video-208448461_456239229"],
     id: "Fullmeter-Movie_V-for-Vendetta",
     posterImage: "https://static.tildacdn.com/tild6262-3338-4233-a633-613835323363/V_-__.webp",

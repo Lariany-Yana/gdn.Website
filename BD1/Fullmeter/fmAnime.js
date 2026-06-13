@@ -2,7 +2,6 @@ const fullmeterAnime = [
   {
     nameRu: "Актриса тысячелетия",
     nameEn: "Sennen Joyuu / Millennium Actress",
-    donutTerms: "",
     titleLink: ["vk", "video-208448461_456239283?t=10m9s"],
     id: "Fullmeter-Anime_Millennium-Actress",
     posterImage: "https://static.tildacdn.com/tild3466-3531-4438-b734-326136663731/img.webp",
@@ -45,7 +44,6 @@ const fullmeterAnime = [
   {
     nameRu: "Девочка, покорившая время",
     nameEn: "Toki wo kakeru shoujo",
-    donutTerms: "",
     titleLink: ["vk", "video-208448461_456239250"],
     id: "Fullmeter-Anime_Toki-wo-kakeru-shoujo",
     posterImage: "https://static.tildacdn.com/tild3732-3562-4162-a663-613035613935/img.webp",
@@ -63,7 +61,6 @@ const fullmeterAnime = [
   {
     nameRu: "Дитя погоды",
     nameEn: "Tenki no ko / Weathering with You",
-    donutTerms: "",
     titleLink: ["boosty", "hiddenarchive/posts/fe2a57e1-3e4c-4fcc-ac0a-7bd1f15afe7d?t=949&tmid=e9ae6db2-c267-4050-979f-f3a391488d13"],
     id: "Fullmeter-Anime_Tenki-no-ko",
     posterImage: "https://static.tildacdn.com/tild3636-3964-4735-b661-313439393531/img.webp",
@@ -89,7 +86,6 @@ const fullmeterAnime = [
   {
     nameRu: "Идеальная грусть",
     nameEn: "Perfect Blue",
-    donutTerms: "",
     titleLink: ["boosty", "hiddenarchive/posts/e05f3d90-c344-4b28-b928-c97bd4934daa?share=post_link"],
     id: "Fullmeter-Anime_Perfect-Blue",
     posterImage: "https://static.tildacdn.com/tild6664-3036-4164-b433-613931616636/img.webp",
@@ -116,7 +112,6 @@ const fullmeterAnime = [
   {
     nameRu: "Ковбой Бибоп: Достучаться до небес",
     nameEn: "Cowboy Bebop: Tengoku no Tobira",
-    donutTerms: "",
     titleLink: ["vk", "video-208448461_456239293"],
     id: "Fullmeter-Anime_Cowboy-Bebop-Tengoku-no-Tobira",
     posterImage: "https://static.tildacdn.com/tild6139-3639-4530-b232-376638383966/img.webp",
@@ -125,7 +120,6 @@ const fullmeterAnime = [
   {
     nameRu: "Конец Евангелиона || Евангелион неонового поколения",
     nameEn: "The End of Evangelion || Neon Genesis Evangelion",
-    donutTerms: "",
     titleLink: ["vk", "video-208448461_456239455"],
     id: "Fullmeter-Anime_The-End-of-Evangelion",
     posterImage: "https://static.tildacdn.com/tild6664-6635-4666-b665-653066646636/img.webp",
@@ -134,7 +128,6 @@ const fullmeterAnime = [
   {
     nameRu: "Красная черта",
     nameEn: "Redline",
-    donutTerms: "",
     titleLink: ["boosty", "hiddenarchive/posts/38d0e6bf-6619-4406-ac62-2803ed423c54?share=post_link"],
     id: "Fullmeter-Anime_Redline",
     posterImage: "https://static.tildacdn.com/tild3666-6665-4266-a662-643838653930/img.webp",
@@ -170,7 +163,6 @@ const fullmeterAnime = [
   {
     nameRu: "Могила светлячков",
     nameEn: "Hotaru no Haka",
-    donutTerms: "",
     titleLink: ["vk", "video-208448461_456239314"],
     id: "Fullmeter-Anime_Hotaru-no-Haka",
     posterImage: "https://static.tildacdn.com/tild3438-6561-4266-b530-323666616337/img.webp",
@@ -205,7 +197,6 @@ const fullmeterAnime = [
   {
     nameRu: "Оборотни",
     nameEn: "Jin-Rou",
-    donutTerms: "",
     titleLink: ["vk", "video-208448461_456239286"],
     id: "Fullmeter-Anime_Jin-Rou",
     posterImage: "https://static.tildacdn.com/tild3337-3565-4163-a536-663339626639/img.webp",
@@ -223,7 +214,6 @@ const fullmeterAnime = [
   {
     nameRu: "Паприка",
     nameEn: "Paprika",
-    donutTerms: "",
     titleLink: ["vk", "video-208448461_456239288"],
     id: "Fullmeter-Anime_Paprika",
     posterImage: "https://static.tildacdn.com/tild3239-3630-4561-a536-356237363834/img.webp",
@@ -232,7 +222,6 @@ const fullmeterAnime = [
   {
     nameRu: "Призрак в доспехах",
     nameEn: "Koukaku Kidoutai / Ghost in the Shell",
-    donutTerms: "",
     titleLink: ["vk", "video-208448461_456239252?t=13m20s"],
     id: "Fullmeter-Anime_Ghost-in-the-Shell",
     posterImage: "https://static.tildacdn.com/tild6232-3162-4162-b266-346339353937/img.webp",
@@ -241,7 +230,6 @@ const fullmeterAnime = [
   {
     nameRu: "Принцесса Мононоке",
     nameEn: "Mononoke Hime",
-    donutTerms: "",
     titleLink: ["vk", "video-208448461_456239291?t=11m36s"],
     id: "Fullmeter-Anime_Mononoke-Hime",
     posterImage: "https://static.tildacdn.com/tild3730-3132-4766-b561-633061313030/img.webp",
@@ -250,7 +238,6 @@ const fullmeterAnime = [
   {
     nameRu: "Пять сантиметров в секунду",
     nameEn: "Byousoku 5 Centimeter",
-    donutTerms: "",
     titleLink: ["boosty", "hiddenarchive/posts/3dfbed92-ec20-4a6a-80fa-37eb8a8cb4fb?t=7365&tmid=5ee64bc6-ce08-414f-9bb7-0b511eface6a"],
     id: "Fullmeter-Anime_Byousoku-5-Centimeter",
     posterImage: "https://static.tildacdn.com/tild6139-6535-4933-a563-663330626333/img.webp",
@@ -259,7 +246,6 @@ const fullmeterAnime = [
   {
     nameRu: "Сад изящных слов",
     nameEn: "Kotonoha no Niwa",
-    donutTerms: "",
     titleLink: ["boosty", "hiddenarchive/posts/d94f37be-723b-48b3-aee5-3e17abfb323e?share=success_publish_link"],
     id: "Fullmeter-Anime_Kotonoha-no-Niwa",
     posterImage: "https://static.tildacdn.com/tild3133-6539-4063-b338-303566626665/img.webp",
@@ -286,7 +272,6 @@ const fullmeterAnime = [
   {
     nameRu: "Твоё имя",
     nameEn: "Kimi no Na wa",
-    donutTerms: "",
     titleLink: ["boosty", "hiddenarchive/posts/87cbaa4c-ffdd-4c33-aa1d-d50ecc5826d7?share=post_link"],
     id: "Fullmeter-Anime_Kimi-no-Na-wa",
     posterImage: "https://static.tildacdn.com/tild6531-6431-4539-b564-313539383265/img.webp",
@@ -331,7 +316,6 @@ const fullmeterAnime = [
   {
     nameRu: "Форма голоса",
     nameEn: "Koe no Katachi",
-    donutTerms: "",
     titleLink: ["boosty", "hiddenarchive/posts/26357ba8-8be2-4465-8327-c6b5501c9415?share=post_link"],
     id: "Fullmeter-Anime_Koe-no-Katachi",
     posterImage: "https://static.tildacdn.com/tild3864-6138-4665-b566-333134663264/img.webp",
@@ -358,7 +342,6 @@ const fullmeterAnime = [
   {
     nameRu: "Этот глупый свин не понимает мечту девочки-мечтательницы",
     nameEn: "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai",
-    donutTerms: "",
     titleLink: ["boosty", "hiddenarchive/posts/aa90fcef-6d38-497e-9010-0aa61f2dfd7a?share=post_link"],
     id: "Fullmeter-Anime_Seishun-Buta-Yarou-wa-Yumemiru-Shoujo-no-Yume-wo-Minai",
     posterImage: "https://static.tildacdn.com/tild6231-3431-4135-b866-336534343266/img.webp",
@@ -367,7 +350,6 @@ const fullmeterAnime = [
   {
     nameRu: "Яйцо ангела",
     nameEn: "Tenshi no Tamago",
-    donutTerms: "",
     titleLink: ["vk", "video-208448461_456239305"],
     id: "Fullmeter-Anime_Tenshi-no-Tamago",
     posterImage: "https://static.tildacdn.com/tild3533-3239-4561-a531-393166303431/img.webp",

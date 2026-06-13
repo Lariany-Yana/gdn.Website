@@ -173,6 +173,20 @@ const ordersDatabase = [
       },
     ],
   },
+  {
+    nameRu: "Отец",
+    nameEn: "Oyaji",
+    orderRemark: "Манга ⨯ Прочитано: 1-15/25 Главы",
+    cardType: "order-during",
+    items: [
+      {
+        nickname: "Годнеслот",
+        slot: "1", // 1-15 Главы
+        date: "В уточнении",
+        was: "owe",
+      },
+    ],
+  },
   //#endregion
   //#region ~В очереди~
   {
@@ -1290,20 +1304,6 @@ const ordersDatabase = [
     ],
   },
   {
-    nameRu: "Фантастическая четвёрка: Первые шаги",
-    nameEn: "The Fantastic Four: First Steps",
-    orderRemark: "Фильм",
-    cardType: "order-waiting",
-    id: "order_The-Fantastic-Four-First-Steps",
-    items: [
-      {
-        nickname: "Nightmare336",
-        slot: "1",
-        date: "09.06.26",
-      },
-    ],
-  },
-  {
     nameRu: "Капитан Америка: Дивный новый мир",
     nameEn: "Captain America: Brave New World",
     orderRemark: "Фильм",
@@ -1581,6 +1581,20 @@ const ordersDatabase = [
   },
   //#endregion
   //#region ~Просмотренное~
+  {
+    nameRu: "Фантастическая четвёрка: Первые шаги",
+    nameEn: "The Fantastic Four: First Steps",
+    orderRemark: "Фильм",
+    cardType: "order-finished",
+    items: [
+      {
+        nickname: "Nightmare336",
+        slot: "1",
+        date: "09.06.26",
+        was: "was",
+      },
+    ],
+  },
   {
     nameRu: "Фантастическая четверка 2: Вторжение Серебряного серфера",
     nameEn: "Fantastic Four: Rise of the Silver Surfer",

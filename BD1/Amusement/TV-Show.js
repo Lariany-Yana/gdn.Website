@@ -3,7 +3,6 @@ const amusementTVShows = [
     nameRu: "Адская кухня",
     nameEn: "Hell's Kitchen",
     titleStatus: "Просмотрено: 1 Сезон 1-5/11 Эпизод",
-    donutTerms: "",
     id: "Amusement-TV-shows_Hell-Kitchen",
     posterImage: "https://static.tildacdn.com/tild3166-3631-4134-b363-323261393364/_.webp",
     cardType: "amusement-TV_Show",

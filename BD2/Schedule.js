@@ -45,8 +45,16 @@ const scheduleDatabase = [
   },
   // Пятница
   {
-    nameRu: "Стрим вполне вероятен :]",
-    scheduleRemark: "",
+    nameRu: "Отец",
+    nameEn: "Oyaji",
+    scheduleRemark: "Манга × 1-15 Главы",
+    scheduleType: "schedule-current",
+    date: "12.06.26",
+  },
+  {
+    nameRu: "Фантастическая четвёрка: Первые шаги",
+    nameEn: "The Fantastic Four: First Steps",
+    scheduleRemark: "Фильм",
     scheduleType: "schedule-current",
     date: "12.06.26",
   },

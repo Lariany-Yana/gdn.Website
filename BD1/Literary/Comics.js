@@ -22,7 +22,6 @@ const literatureComics = [
     nameRu: "Человек-Паук: Тень Паука",
     nameEn: "Spider-Man: The Spider's Shadow",
 		titleStatus: "Прочитано: До финала",
-    donutTerms: "",
     titleLink: ["boosty", "godenname/posts/ab37062e-7cb2-41e7-8f3c-b30d4432941c?t=5073&tmid=41cc8c96-4fb6-4b17-b098-71803eb13171"],
     id: "Literary-Comics_Spider-Shadow",
     posterImage: "https://static.tildacdn.com/tild3538-6137-4038-b739-383363623430/_Spider-Man_The_Spid.webp",
