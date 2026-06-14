@@ -66,8 +66,30 @@ const scheduleDatabase = [
   },
   // Воскресенье
   {
-    nameRu: "Стрим вполне вероятен :]",
-    scheduleRemark: "",
+    nameRu: "Одинокий замок в Зазеркалье",
+    nameEn: "Kagami no Kojou",
+    scheduleRemark: "Полнометражка × Начало в 14:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "14.06.26",
+  },
+  {
+    nameRu: "Отверженные",
+    nameEn: "Les Misérables",
+    scheduleRemark: "Фильм × Начало в 16:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "14.06.26",
+  },
+  {
+    nameRu: "Ван Пис",
+    nameEn: "One Piece",
+    scheduleRemark: "Манга × Начало в 18:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "14.06.26",
+  },
+  {
+    nameRu: "Капитан Америка: Дивный новый мир",
+    nameEn: "Captain America: Brave New World",
+    scheduleRemark: "Фильм × Начало в 29:00 по МСК",
     scheduleType: "schedule-current",
     date: "14.06.26",
   },
