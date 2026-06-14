@@ -89,7 +89,7 @@ const scheduleDatabase = [
   {
     nameRu: "Капитан Америка: Дивный новый мир",
     nameEn: "Captain America: Brave New World",
-    scheduleRemark: "Фильм × Начало в 29:00 по МСК",
+    scheduleRemark: "Фильм × Начало в 20:00 по МСК",
     scheduleType: "schedule-current",
     date: "14.06.26",
   },
