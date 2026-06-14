@@ -5,7 +5,7 @@ const fullmeterMovie = [
     donutTerms: "donut-lvl-3",
     titleLink: ["vk", "video-208448461_456241147?t=2h6m36s"],
     id: "Fullmeter-Movie_Intouchables",
-    posterImage: "https://static.tildacdn.com/tild6465-3164-4633-b761-363637303962/1_1.webp",
+    posterImage: "https://static.tildacdn.com/tild3737-3538-4437-b832-373333383631/img.webp",
     cardType: "fullmeter-Movie",
   },
   {
@@ -13,7 +13,7 @@ const fullmeterMovie = [
     nameEn: "12 Years a Slave",
     titleLink: ["boosty", "hiddenarchive/posts/62d1470d-e31d-4721-a13a-da3d2b65afcf?share=success_publish_link"],
     id: "Fullmeter-Movie_12-Years-a-Slave",
-    posterImage: "https://static.tildacdn.com/tild6461-6632-4134-b134-636438323836/12__.webp",
+    posterImage: "https://static.tildacdn.com/tild3935-6431-4834-a238-363632303134/img.webp",
     cardType: "fullmeter-Movie",
   },
   {
@@ -22,7 +22,7 @@ const fullmeterMovie = [
     donutTerms: "donut-lvl-2",
     titleLink: ["vk", "video-208448461_456240580?t=2h47m10s"],
     id: "Fullmeter-Movie_12-Monkeys",
-    posterImage: "https://static.tildacdn.com/tild3362-3830-4439-b464-343537316430/12_.webp",
+    posterImage: "https://static.tildacdn.com/tild3663-3262-4930-b734-643435326365/img.webp",
     cardType: "fullmeter-Movie",
   },
   {
@@ -31,7 +31,7 @@ const fullmeterMovie = [
     donutTerms: "donut-lvl-2",
     titleLink: ["vk", "video-208448461_456240741?t=15m10s"],
     id: "Fullmeter-Movie_12-Angry-Men",
-    posterImage: "https://static.tildacdn.com/tild3065-6236-4165-a131-376234613837/12__.webp",
+    posterImage: "https://static.tildacdn.com/tild6666-3133-4432-b164-633237393733/img.webp",
     cardType: "fullmeter-Movie",
   },
   {
@@ -39,7 +39,7 @@ const fullmeterMovie = [
     nameEn: "127 Hours",
     titleLost: "lost",
     id: "Fullmeter-Movie_127-Hours",
-    posterImage: "https://static.tildacdn.com/tild3939-6338-4662-b533-363361303464/_127_Hours.webp",
+    posterImage: "https://static.tildacdn.com/tild3934-3564-4439-b265-396664346433/img.webp",
     cardType: "fullmeter-Movie",
   },
   {
@@ -47,7 +47,7 @@ const fullmeterMovie = [
     nameEn: "100 Dinge",
     titleLink: ["boosty", "hiddenarchive/posts/68d25891-696a-4a22-be1a-72468e0aca0c?t=20152&tmid=1e374ec6-cb7c-4379-8913-8aa15a4f87d6"],
     id: "Fullmeter-Movie_100-Dinge",
-    posterImage: "https://static.tildacdn.com/tild3932-3233-4465-a435-323036323139/100____.webp",
+    posterImage: "https://static.tildacdn.com/tild6236-3262-4138-b133-393439653734/img.webp",
     cardType: "fullmeter-Movie",
   },
   {
@@ -55,7 +55,7 @@ const fullmeterMovie = [
     donutTerms: "donut-lvl-2",
     titleLink: ["vk", "video-208448461_456239940?t=12h45m0s"],
     id: "Fullmeter-Movie_300",
-    posterImage: "https://static.tildacdn.com/tild3566-3865-4634-a663-636133656334/300_.webp",
+    posterImage: "https://static.tildacdn.com/tild3139-6366-4137-b038-316237663739/img.webp",
     cardType: "fullmeter-Movie",
   },
   {
@@ -64,7 +64,7 @@ const fullmeterMovie = [
     donutTerms: "donut-lvl-3",
     titleLink: ["vk", "video-208448461_456241214?t=2m2s"],
     id: "Fullmeter-Movie_Days-of-Summer",
-    posterImage: "https://static.tildacdn.com/tild3665-3731-4963-b963-393330363965/500__.webp",
+    posterImage: "https://static.tildacdn.com/tild6461-3137-4132-a135-646461383431/img.webp",
     cardType: "fullmeter-Movie",
   },
   {
@@ -72,7 +72,7 @@ const fullmeterMovie = [
     donutTerms: "donut-lvl-2",
     titleLink: ["vk", "video-208448461_456239945?t=6h27m46s"],
     id: "Fullmeter-Movie_1408",
-    posterImage: "https://static.tildacdn.com/tild3334-3461-4431-b761-373534353639/1408.webp",
+    posterImage: "https://static.tildacdn.com/tild3831-3339-4562-b532-373533386531/img.webp",
     cardType: "fullmeter-Movie",
   },
   {
@@ -80,7 +80,7 @@ const fullmeterMovie = [
     donutTerms: "donut-lvl-2",
     titleLink: ["vk", "video-208448461_456240032?t=14m35s"],
     id: "Fullmeter-Movie_1917",
-    posterImage: "https://static.tildacdn.com/tild3632-3862-4831-a538-653433653631/1917.webp",
+    posterImage: "https://static.tildacdn.com/tild3537-3264-4238-b962-306463386233/img.webp",
     cardType: "fullmeter-Movie",
   },
   {
@@ -89,7 +89,7 @@ const fullmeterMovie = [
     donutTerms: "donut-lvl-3",
     titleLink: ["vk", "video-208448461_456241732?t=4h49m47s"],
     id: "Fullmeter-Movie_2001-A-Space-Odyssey",
-    posterImage: "https://static.tildacdn.com/tild6334-3037-4361-a633-303933613932/2001___.webp",
+    posterImage: "https://static.tildacdn.com/tild3438-6334-4433-a435-633837646439/img.webp",
     cardType: "fullmeter-Movie",
   },
   {
@@ -97,7 +97,7 @@ const fullmeterMovie = [
     donutTerms: "donut-lvl-2",
     titleLink: ["vk", "video-208448461_456240682?t=2h37m0s"],
     id: "Fullmeter-Movie_2012",
-    posterImage: "https://static.tildacdn.com/tild3537-3333-4662-b737-346665623234/2012.webp",
+    posterImage: "https://static.tildacdn.com/tild3066-3062-4134-b536-366238653835/img.webp",
     cardType: "fullmeter-Movie",
   },
   {
@@ -105,7 +105,7 @@ const fullmeterMovie = [
     nameEn: "Avatar",
     titleStatus: "Сборник",
     id: "Fullmeter-Movie_Avatar",
-    posterImage: "https://static.tildacdn.com/tild3366-3233-4439-b935-613431323035/photo.webp",
+    posterImage: "https://static.tildacdn.com/tild6461-6532-4461-b566-646563306364/img.webp",
     cardType: "fullmeter-Movie",
   },
   {
@@ -114,7 +114,7 @@ const fullmeterMovie = [
     donutTerms: "donut-lvl-3",
     titleLink: ["vk", "video-208448461_456241751?t=11m38s"],
     id: "Fullmeter-Movie_The-Aviator",
-    posterImage: "https://static.tildacdn.com/tild6336-3961-4464-b536-393835316530/photo.webp",
+    posterImage: "https://static.tildacdn.com/tild6330-3935-4235-a261-343463663337/img.webp",
     cardType: "fullmeter-Movie",
   },
   {
@@ -123,7 +123,7 @@ const fullmeterMovie = [
     donutTerms: "donut-lvl-1",
     titleLink: ["vk", "video-208448461_456239664?t=4h26m34s"],
     id: "Fullmeter-Movie_Guide-to-the-Galaxy",
-    posterImage: "https://static.tildacdn.com/tild6635-3333-4862-b439-303737313766/__.webp",
+    posterImage: "https://static.tildacdn.com/tild3732-3564-4565-b963-386130656236/img.webp",
     cardType: "fullmeter-Movie",
   },
   {
@@ -131,7 +131,7 @@ const fullmeterMovie = [
     nameEn: "Johnny English",
     titleStatus: "Сборник",
     id: "Fullmeter-Movie_Johnny-English",
-    posterImage: "https://static.tildacdn.com/tild6165-6566-4430-b064-616564333463/__.webp",
+    posterImage: "https://static.tildacdn.com/tild3438-3332-4430-a439-313238323936/img.webp",
     cardType: "fullmeter-Movie",
   },
   {
@@ -140,7 +140,7 @@ const fullmeterMovie = [
     donutTerms: "donut-lvl-3",
     titleLink: ["vk", "video-208448461_456240899?t=13m31s"],
     id: "Fullmeter-Movie_Devil-Advocate",
-    posterImage: "https://static.tildacdn.com/tild3564-6137-4934-b663-666638303632/_.webp",
+    posterImage: "https://static.tildacdn.com/tild6366-3332-4064-b833-623634343732/img.webp",
     cardType: "fullmeter-Movie",
   },
   {
@@ -149,7 +149,7 @@ const fullmeterMovie = [
     donutTerms: "donut-lvl-3",
     titleLink: ["vk", "video-208448461_456241814?t=5h43m5s"],
     id: "Fullmeter-Movie_Crank",
-    posterImage: "https://static.tildacdn.com/tild6238-3233-4135-a662-393265333532/photo.webp",
+    posterImage: "https://static.tildacdn.com/tild3037-6564-4930-a338-313136376361/img.webp",
     cardType: "fullmeter-Movie",
   },
   {
@@ -158,7 +158,7 @@ const fullmeterMovie = [
     donutTerms: "donut-lvl-2",
     titleLink: ["vk", "video-208448461_456240656?t=8h17m0s"],
     id: "Fullmeter-Movie_Bloody-Hell",
-    posterImage: "https://static.tildacdn.com/tild3663-3733-4238-a332-396331376664/_.webp",
+    posterImage: "https://static.tildacdn.com/tild6234-3738-4238-b065-366362616366/img.webp",
     cardType: "fullmeter-Movie",
   },
   {
@@ -166,7 +166,7 @@ const fullmeterMovie = [
     nameEn: "Alice in Wonderland",
     titleStatus: "Сборник",
     id: "Fullmeter-Movie_Alice-in-Wonderland",
-    posterImage: "https://static.tildacdn.com/tild6432-6664-4037-a135-313931333736/___.webp",
+    posterImage: "https://static.tildacdn.com/tild6538-3366-4261-b131-343738326436/img.webp",
     cardType: "fullmeter-Movie",
   },
   {
@@ -184,7 +184,7 @@ const fullmeterMovie = [
     donutTerms: "donut-lvl-3",
     titleLink: ["vk", "video-208448461_456241832?t=2h8m10s"],
     id: "Fullmeter-Movie_Anatomie-dune-chute",
-    posterImage: "https://static.tildacdn.com/tild3936-3635-4636-a232-313137636163/_Anatomie_dune_chute.webp",
+    posterImage: "https://static.tildacdn.com/tild6533-3530-4964-a639-643433323561/img.webp",
     cardType: "fullmeter-Movie",
   },
   {
@@ -193,7 +193,7 @@ const fullmeterMovie = [
     donutTerms: "donut-lvl-2",
     titleLink: ["vk", "video-208448461_456240738?t=3h4m20s"],
     id: "Fullmeter-Movie_Anna-and-the-Apocalypse",
-    posterImage: "https://static.tildacdn.com/tild3965-6664-4833-b038-386633616235/__.webp",
+    posterImage: "https://static.tildacdn.com/tild3338-6333-4466-b530-613164383937/img.webp",
     cardType: "fullmeter-Movie",
   },
   {
@@ -201,7 +201,7 @@ const fullmeterMovie = [
     nameEn: "Antichrist",
     titleLink: ["vk", "video-208448461_456239307"],
     id: "Fullmeter-Movie_Antichrist",
-    posterImage: "https://static.tildacdn.com/tild3462-3566-4731-b533-363631366231/photo.webp",
+    posterImage: "https://static.tildacdn.com/tild3462-3661-4130-b262-373534313131/img.webp",
     cardType: "fullmeter-Movie",
   },
   {
@@ -210,7 +210,7 @@ const fullmeterMovie = [
     donutTerms: "donut-lvl-2",
     titleLink: ["vk", "video-208448461_456239987?t=13m12s"],
     id: "Fullmeter-Movie_Upgrade",
-    posterImage: "https://static.tildacdn.com/tild3630-3334-4362-b362-656662633330/photo.webp",
+    posterImage: "https://static.tildacdn.com/tild3534-3765-4965-a165-306561323863/img.webp",
     cardType: "fullmeter-Movie",
   },
   {
@@ -219,16 +219,16 @@ const fullmeterMovie = [
     donutTerms: "donut-lvl-1",
     titleLink: ["vk", "video-208448461_456239471?t=12m39s"],
     id: "Fullmeter-Movie_Apocalypse-Now",
-    posterImage: "https://static.tildacdn.com/tild6233-6532-4965-b166-386330356134/_.webp",
+    posterImage: "https://static.tildacdn.com/tild3434-3763-4433-a532-326233326638/img.webp",
     cardType: "fullmeter-Movie",
   },
   {
-    nameRu: "Астерикс и Обеликс",
-    nameEn: "Astérix & Obélix",
+    nameRu: "Астерикс и Обеликс против Цезаря",
+    nameEn: "Astérix & Obélix contre César",
     donutTerms: "donut-lvl-2",
     titleLink: ["vk", "video-208448461_456240053?t=3h24m0s"],
     id: "Fullmeter-Movie_Asterix-and-Obelix",
-    posterImage: "https://static.tildacdn.com/tild3838-3739-4531-b763-336637616366/____.webp",
+    posterImage: "https://static.tildacdn.com/tild3335-3135-4561-a133-623532383564/img.webp",
     cardType: "fullmeter-Movie",
   },
   {
