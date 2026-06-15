@@ -353,36 +353,6 @@ const ordersDatabase = [
     ],
   },
   {
-    nameRu: "Одинокий замок в Зазеркалье",
-    nameEn: "Kagami no Kojou",
-    orderRemark: "Полнометражка",
-    personalOrder: "user_Izida",
-    cardType: "order-waiting",
-    id: "order_Kagami-no-Kojou",
-    items: [
-      {
-        nickname: "Izida-Sama",
-        slot: "1",
-        date: "21.03.25",
-      },
-    ],
-  },
-  {
-    nameRu: "Отверженные",
-    nameEn: "Les Misérables",
-    orderRemark: "Фильм",
-    personalOrder: "user_Misty",
-    cardType: "order-waiting",
-    id: "order_Les-Miserables",
-    items: [
-      {
-        nickname: "Мисти",
-        slot: "1",
-        date: "21.03.25",
-      },
-    ],
-  },
-  {
     nameRu: "Целитель Адамс",
     nameEn: "Patch Adams",
     orderRemark: "Фильм",
@@ -1581,6 +1551,34 @@ const ordersDatabase = [
   },
   //#endregion
   //#region ~Просмотренное~
+  {
+    nameRu: "Отверженные",
+    nameEn: "Les Misérables",
+    orderRemark: "Фильм",
+    cardType: "order-finished",
+    items: [
+      {
+        nickname: "Мисти",
+        slot: "1",
+        date: "21.03.25",
+        was: "was",
+      },
+    ],
+  },
+  {
+    nameRu: "Одинокий замок в Зазеркалье",
+    nameEn: "Kagami no Kojou",
+    orderRemark: "Полнометражка",
+    cardType: "order-finished",
+    items: [
+      {
+        nickname: "Izida-Sama",
+        slot: "1",
+        date: "21.03.25",
+        was: "was",
+      },
+    ],
+  },
   {
     nameRu: "Фантастическая четвёрка: Первые шаги",
     nameEn: "The Fantastic Four: First Steps",

@@ -9,75 +9,53 @@ const scheduleDatabase = [
     date: "00.06.26",
   },
 	*/
+  // Понедельник
   {
     nameRu: "Стрим невозможен :[",
     scheduleRemark: "",
     scheduleType: "schedule-current",
-    date: "08.06.26",
+    date: "15.06.26",
   },
   // Вторник
   {
-    nameRu: "Фантастическая четверка 2: Вторжение Серебряного серфера",
-    nameEn: "Fantastic Four: Rise of the Silver Surfer",
-    scheduleRemark: "Фильм",
+    nameRu: "Стрим вполне вероятен :]",
+    scheduleRemark: "",
     scheduleType: "schedule-current",
-    date: "09.06.26",
-  },
-  {
-    nameRu: "День рождения Годеня :[",
-    scheduleRemark: "Покер",
-    scheduleType: "schedule-current",
-    date: "09.06.26",
+    date: "16.06.26",
   },
   // Среда
   {
-    nameRu: "Стрим не состоялся :[",
+    nameRu: "Стрим маловероятен :|",
     scheduleRemark: "",
     scheduleType: "schedule-current",
-    date: "10.06.26",
+    date: "17.06.26",
   },
   // Четверг
   {
-    nameRu: "Стрим не состоялся :[",
+    nameRu: "Стрим маловероятен :|",
     scheduleRemark: "",
     scheduleType: "schedule-current",
-    date: "11.06.26",
+    date: "18.06.26",
   },
   // Пятница
   {
-    nameRu: "Отец",
-    nameEn: "Oyaji",
-    scheduleRemark: "Манга × 1-15 Главы",
+    nameRu: "Стрим вполне вероятен :]",
+    scheduleRemark: "",
     scheduleType: "schedule-current",
-    date: "12.06.26",
-  },
-  {
-    nameRu: "Фантастическая четвёрка: Первые шаги",
-    nameEn: "The Fantastic Four: First Steps",
-    scheduleRemark: "Фильм",
-    scheduleType: "schedule-current",
-    date: "12.06.26",
+    date: "19.06.26",
   },
   // Суббота
   {
     nameRu: "Стрим невозможен :[",
     scheduleType: "schedule-current",
-    date: "13.06.26",
+    date: "20.06.26",
   },
   // Воскресенье
   {
-    nameRu: "Одинокий замок в Зазеркалье",
-    nameEn: "Kagami no Kojou",
-    scheduleRemark: "Полнометражка × Архивируется",
+    nameRu: "Стрим вполне вероятен :]",
+    scheduleRemark: "",
     scheduleType: "schedule-current",
-    date: "14.06.26",
-  },
-  {
-    nameRu: "Отверженные",
-    nameEn: "Les Misérables",
-    scheduleRemark: "Фильм × Архивируется",
-    scheduleType: "schedule-current",
-    date: "14.06.26",
+    date: "21.06.26",
   },
   //#endregion
   //#region Старое
@@ -168,59 +146,79 @@ const scheduleDatabase = [
     scheduleType: "schedule-past",
     date: "07.06.26",
   },
-  //#endregion
-];
-
-/* ~ИЮНЬ 15-21~
   // Понедельник
   {
     nameRu: "Стрим невозможен :[",
     scheduleRemark: "",
-    scheduleType: "schedule-current",
-    date: "15.06.26",
+    scheduleType: "schedule-past",
+    date: "08.06.26",
   },
   // Вторник
   {
-    nameRu: "Стрим вполне вероятен :]",
-    scheduleRemark: "",
-    scheduleType: "schedule-current",
-    date: "16.06.26",
+    nameRu: "Фантастическая четверка 2: Вторжение Серебряного серфера",
+    nameEn: "Fantastic Four: Rise of the Silver Surfer",
+    scheduleRemark: "Фильм",
+    scheduleType: "schedule-past",
+    date: "09.06.26",
+  },
+  {
+    nameRu: "День рождения Годеня :[",
+    scheduleRemark: "Покер",
+    scheduleType: "schedule-past",
+    date: "09.06.26",
   },
   // Среда
   {
-    nameRu: "Стрим маловероятен :|",
+    nameRu: "Стрим не состоялся :[",
     scheduleRemark: "",
-    scheduleType: "schedule-current",
-    date: "17.06.26",
+    scheduleType: "schedule-past",
+    date: "10.06.26",
   },
   // Четверг
   {
-    nameRu: "Стрим маловероятен :|",
+    nameRu: "Стрим не состоялся :[",
     scheduleRemark: "",
-    scheduleType: "schedule-current",
-    date: "18.06.26",
+    scheduleType: "schedule-past",
+    date: "11.06.26",
   },
   // Пятница
   {
-    nameRu: "Стрим вполне вероятен :]",
-    scheduleRemark: "",
-    scheduleType: "schedule-current",
-    date: "19.06.26",
+    nameRu: "Отец",
+    nameEn: "Oyaji",
+    scheduleRemark: "Манга × 1-15 Главы",
+    scheduleType: "schedule-past",
+    date: "12.06.26",
+  },
+  {
+    nameRu: "Фантастическая четвёрка: Первые шаги",
+    nameEn: "The Fantastic Four: First Steps",
+    scheduleRemark: "Фильм",
+    scheduleType: "schedule-past",
+    date: "12.06.26",
   },
   // Суббота
   {
     nameRu: "Стрим невозможен :[",
-    scheduleType: "schedule-current",
-    date: "20.06.26",
+    scheduleType: "schedule-past",
+    date: "13.06.26",
   },
   // Воскресенье
   {
-    nameRu: "Стрим вполне вероятен :]",
-    scheduleRemark: "",
-    scheduleType: "schedule-current",
-    date: "21.06.26",
+    nameRu: "Одинокий замок в Зазеркалье",
+    nameEn: "Kagami no Kojou",
+    scheduleRemark: "Полнометражка",
+    scheduleType: "schedule-past",
+    date: "14.06.26",
   },
-*/
+  {
+    nameRu: "Отверженные",
+    nameEn: "Les Misérables",
+    scheduleRemark: "Фильм",
+    scheduleType: "schedule-past",
+    date: "14.06.26",
+  },
+  //#endregion
+];
 
 /* ~ИЮНЬ 22-28~
   // Понедельник

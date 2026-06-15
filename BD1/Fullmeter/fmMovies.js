@@ -2102,6 +2102,15 @@ const fullmeterMovie = [
     cardType: "fullmeter-Movie",
   },
   {
+    nameRu: "Отверженные",
+    nameEn: "Les Misérables",
+    donutTerms: "donut-lvl-3",
+    titleLink: ["vk", "video-208448461_456241848?t=2h43m17s"],
+    id: "Fullmeter-Movie_Les-Miserables",
+    posterImage: "https://static.tildacdn.com/tild3539-6163-4562-a234-663630383631/img.webp",
+    cardType: "fullmeter-Movie",
+  },
+  {
     nameRu: "Отель «Гранд Будапешт»",
     nameEn: "The Grand Budapest Hotel",
     titleLink: ["boosty", "hiddenarchive/posts/2b8d8884-fdf8-42f4-a6a6-edc4debe29ef?share=post_link"],

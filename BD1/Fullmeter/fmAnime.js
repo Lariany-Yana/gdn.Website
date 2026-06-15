@@ -203,6 +203,15 @@ const fullmeterAnime = [
     cardType: "fullmeter-Anime",
   },
   {
+    nameRu: "Одинокий замок в Зазеркалье",
+    nameEn: "Kagami no Kojou",
+    donutTerms: "donut-lvl-3",
+    titleLink: ["vk", "video-208448461_456241848?t=14m16s"],
+    id: "Fullmeter-Anime_Kagami-no-Kojou",
+    posterImage: "https://static.tildacdn.com/tild3239-3861-4638-b031-333436653033/img.webp",
+    cardType: "fullmeter-Anime",
+  },
+  {
     nameRu: "Орган геноцида",
     nameEn: "Gyakusatsu Kikan",
     donutTerms: "donut-lvl-3",
