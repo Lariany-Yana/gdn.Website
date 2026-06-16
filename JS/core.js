@@ -12,16 +12,9 @@ function initPopup(typeId) {
   if (!baseTemp || !contentTemp) return null;
 
   const clone = baseTemp.content.cloneNode(true);
-  const overlay = clone.querySelector(".popup-overlay");
   const popup = clone.querySelector(".popup");
   popup.id = "popup-" + typeId;
   popup.appendChild(contentTemp.content.cloneNode(true));
-
-  const exitBtn = popup.querySelector(".popup-exit");
-  if (exitBtn) exitBtn.onclick = () => overlay.remove();
-  overlay.onclick = (e) => {
-    if (e.target === overlay) overlay.remove();
-  };
 
   document.body.appendChild(clone);
   return popup;
@@ -102,27 +95,35 @@ class SiteEngine {
     const selector = this.config.containerId;
     this.main = document.querySelector(selector);
     this.searchInput = document.getElementById("searchInput");
-
     this.favKey = this.config.favKey;
-    this.favorites = JSON.parse(localStorage.getItem(this.favKey)) || [];
 
-    this.cleanupFavorites();
+    try {
+      const rawFavs = localStorage.getItem(this.favKey);
+      const parsed = rawFavs ? JSON.parse(rawFavs) : [];
+      this.favorites = Array.isArray(parsed) ? parsed : [];
+    } catch (e) {
+      this.favorites = [];
+    }
 
     if (this.config.database) {
       this.prepareSearchIndex();
     }
 
+    this.cleanupFavorites();
     this.bindEvents();
 
     this.activeTabKey = `${this.config.containerId}_session_tab`;
+    let savedTab = null;
+    try {
+      const rawTab = sessionStorage.getItem(this.activeTabKey);
+      savedTab = rawTab ? JSON.parse(rawTab) : null;
+    } catch (e) {
+      savedTab = null;
+    }
 
-    const savedTab = JSON.parse(sessionStorage.getItem(this.activeTabKey));
-
-    if (savedTab) {
+    if (savedTab && typeof savedTab === "object" && savedTab.id) {
       this.render(savedTab.id, savedTab.isStatic);
-
       const targetBtn = document.querySelector(savedTab.isStatic ? `.change-section[data-id="${savedTab.id}"]` : `.change-section[data-type="${savedTab.id}"]`);
-
       if (targetBtn) {
         document.querySelectorAll(".change-section").forEach((b) => b.classList.remove("active"));
         targetBtn.classList.add("active");
@@ -135,8 +136,8 @@ class SiteEngine {
   cleanupFavorites() {
     if (!this.config.database || this.favorites.length === 0) return;
 
-    const validIds = new Set(this.config.database.map((item) => String(item.id)));
-
+    const itemsSource = this.indexedData && this.indexedData.length > 0 ? this.indexedData : this.config.database;
+    const validIds = new Set(itemsSource.map((item) => String(item.id)));
     const filteredFavs = this.favorites.filter((favId) => validIds.has(favId));
 
     if (filteredFavs.length !== this.favorites.length) {
@@ -157,8 +158,6 @@ class SiteEngine {
       const template = document.getElementById(type);
       if (template) {
         this.main.appendChild(template.content.cloneNode(true));
-      } else {
-        console.error(`Шаблон ${type} не найден`);
       }
       return;
     }
@@ -182,7 +181,12 @@ class SiteEngine {
         currentGroup = key;
         const section = document.createElement("section");
         section.className = "card-section";
-        section.innerHTML = `<h2 class="card-section-name">${key}</h2>`;
+
+        const h2 = document.createElement("h2");
+        h2.className = "card-section-name";
+        h2.textContent = key;
+
+        section.appendChild(h2);
         currentContainer = document.createElement("div");
         currentContainer.className = "card-container";
         section.appendChild(currentContainer);
@@ -193,11 +197,11 @@ class SiteEngine {
 
     this.main.appendChild(fragment);
   }
-
   renderFavorites(container) {
     container.innerHTML = "";
 
-    const favItems = this.config.database.filter((item) => this.favorites.includes(String(item.id)));
+    const itemsSource = this.indexedData && this.indexedData.length > 0 ? this.indexedData : this.config.database;
+    const favItems = itemsSource.filter((item) => this.favorites.includes(String(item.id)));
 
     if (favItems.length === 0) {
       container.innerHTML = `<p>Список избранного пуст</p>`;
@@ -219,7 +223,6 @@ class SiteEngine {
       this.indexedData = this.config.getFlatDatabase(this.config.database);
     }
   }
-
   toggleFavorite(id) {
     if (!this.favorites) return;
     if (!id || String(id).trim() === "" || id === "undefined") return;
@@ -228,18 +231,19 @@ class SiteEngine {
     const index = this.favorites.indexOf(strId);
     let isNowFav = false;
 
+    const textAdded = this.config.favTextAdded || "В избранном";
+    const textDefault = this.config.favTextDefault || "В избранное";
+
     if (index === -1) {
       if (this.favorites.length >= 50) {
         const removedId = this.favorites.shift();
-
         const removedButtons = document.querySelectorAll(
-          `.title-card[id*="${removedId}"] .add-favorite, 
-           .order-card[id*="${removedId}"] .add-favorite,
+          `.title-card[id="${removedId}"] .add-favorite, 
+           .order-card[id="${removedId}"] .add-favorite,
            [data-id="${removedId}"] .add-favorite`,
         );
         removedButtons.forEach((btn) => {
-          const isOrder = btn.closest(".order-card") || (btn.closest("[id]") && btn.closest("[id]").id.startsWith("order"));
-          btn.textContent = isOrder ? "Отслеживать" : "В избранное";
+          btn.textContent = textDefault;
           btn.classList.remove("tracked");
         });
       }
@@ -254,16 +258,12 @@ class SiteEngine {
     localStorage.setItem(this.config.favKey, JSON.stringify(this.favorites));
 
     const allRelatedButtons = document.querySelectorAll(
-      `.title-card[id*="${strId}"] .add-favorite, 
-       .order-card[id*="${strId}"] .add-favorite,
+      `.title-card[id="${strId}"] .add-favorite, 
+       .order-card[id="${strId}"] .add-favorite,
        [data-id="${strId}"] .add-favorite`,
     );
 
     allRelatedButtons.forEach((btn) => {
-      const isOrder = btn.closest(".order-card") || (btn.closest("[id]") && btn.closest("[id]").id.startsWith("order"));
-      const textAdded = isOrder ? "Отслеживается" : "В избранном";
-      const textDefault = isOrder ? "Отслеживать" : "В избранное";
-
       if (isNowFav) {
         btn.textContent = textAdded;
         btn.classList.add("tracked");
@@ -278,11 +278,10 @@ class SiteEngine {
       const container = activeFavPopup.querySelector(".results-container");
       if (container) {
         if (!isNowFav) {
-          const cardInPopup = activeFavPopup.querySelector(`.title-card[id*="${strId}"], .order-card[id*="${strId}"], [data-id="${strId}"]`);
+          const cardInPopup = activeFavPopup.querySelector(`.title-card[id="${strId}"], .order-card[id="${strId}"], [data-id="${strId}"]`);
 
           if (cardInPopup) {
             cardInPopup.style.transition = "opacity 0.15s ease-in-out, transform 0.15s ease-in-out";
-
             cardInPopup.style.opacity = "0";
             cardInPopup.style.transform = "scale(0.9)";
 
@@ -320,12 +319,6 @@ class SiteEngine {
         this.renderFavorites(container);
       }
     }
-
-    overlay.onclick = (e) => {
-      if (e.target === overlay) overlay.remove();
-    };
-    const exitBtn = popup.querySelector(".popup-exit");
-    if (exitBtn) exitBtn.onclick = () => overlay.remove();
 
     document.body.appendChild(overlay);
   }
@@ -394,6 +387,32 @@ class SiteEngine {
 
       const id = card.id || card.getAttribute("data-id");
       this.toggleFavorite(id);
+    });
+
+    document.addEventListener("click", (e) => {
+      const nameRuBtn = e.target.closest(".order-card .name-ru");
+      if (nameRuBtn && nameRuBtn.dataset.isCopying !== "true") {
+        const textToCopy = nameRuBtn.textContent.trim();
+        if (!textToCopy) return;
+
+        nameRuBtn.dataset.isCopying = "true";
+        navigator.clipboard
+          .writeText(textToCopy)
+          .then(() => {
+            const originalText = textToCopy;
+            nameRuBtn.textContent = "Скопировано в буфер обмена";
+            nameRuBtn.classList.add("copied");
+
+            setTimeout(() => {
+              nameRuBtn.textContent = originalText;
+              nameRuBtn.classList.remove("copied");
+              nameRuBtn.dataset.isCopying = "false";
+            }, 1500);
+          })
+          .catch((err) => {
+            nameRuBtn.dataset.isCopying = "false";
+          });
+      }
     });
 
     if (!SiteEngine.globalKeydownBound) {
@@ -534,6 +553,12 @@ function animateCardAppearance(card) {
           syncSliderState(slider, currentWidth);
         }
       }, 10);
+    }
+    const isExitBtn = e.target.closest(".popup-exit");
+    const isOverlay = e.target.matches(".popup-overlay");
+
+    if (isExitBtn || isOverlay) {
+      closeAllPopups();
     }
   });
 })();

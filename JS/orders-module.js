@@ -74,7 +74,6 @@ const OrdersConfig = {
     if (order.cardType === "order-switch") {
       const template = document.getElementById("order-switch-template");
       if (!template) {
-        console.error("Шаблон order-switch-template не найден");
         return document.createElement("article");
       }
 
@@ -159,39 +158,6 @@ const OrdersConfig = {
         favBtn.classList.add("hidden");
       }
     }
-
-    const nameElements = card.querySelectorAll(".name-ru");
-
-    nameElements.forEach((element) => {
-      element.style.cursor = "copy";
-      let isCopying = false;
-
-      element.addEventListener("click", () => {
-        if (isCopying) return;
-
-        const textToCopy = element.textContent.trim();
-        if (!textToCopy) return;
-
-        isCopying = true;
-        navigator.clipboard
-          .writeText(textToCopy)
-          .then(() => {
-            const originalText = textToCopy;
-            element.textContent = "Скопировано в буфер обмена";
-            element.classList.add("copied");
-
-            setTimeout(() => {
-              element.textContent = originalText;
-              element.classList.remove("copied");
-              isCopying = false;
-            }, 1500);
-          })
-          .catch((err) => {
-            console.error("Ошибка копирования", err);
-            isCopying = false;
-          });
-      });
-    });
 
     return card;
   },

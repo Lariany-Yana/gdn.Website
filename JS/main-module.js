@@ -92,7 +92,12 @@ function renderSchedule() {
     keys.forEach((title) => {
       const section = document.createElement("section");
       section.className = "card-section";
-      section.innerHTML = `<h2 class="card-section-name">${title}</h2>`;
+
+      const h2 = document.createElement("h2");
+      h2.className = "card-section-name";
+      h2.textContent = title;
+
+      section.appendChild(h2);
 
       const cardWrap = document.createElement("div");
       cardWrap.className = "card-container";

@@ -1077,6 +1077,9 @@ button {
     flex-direction: column;
     gap: 5px;
     color: var(--RGB-accent);
+    .name-ru {
+      cursor: copy;
+    }
 
     .order-info {
       font-size: var(--TXT-size-order-info);
