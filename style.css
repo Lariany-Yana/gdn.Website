@@ -533,15 +533,10 @@ button {
             background-color: color-mix(in oklab, var(--IndianRed), black 10%) !important;
           }
         }
-
-        &.vk,
-        &.boosty {
-          flex: 1 1 auto;
-          min-width: max-content;
-        }
       }
-      &:has(button:is(.vk, .boosty)) {
-        button.add-favorite {
+
+      &:has(.vk, .boosty) {
+        button {
           flex: 1 1 auto;
           min-width: max-content;
         }
