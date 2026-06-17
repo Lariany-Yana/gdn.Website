@@ -512,8 +512,8 @@ button {
         &.watch {
           background-color: var(--branded-color);
           &[data-empty="true"] {
-            background-color: red;
-            pointer-events: none;
+            background-color: red !important;
+            pointer-events: none !important;
           }
 
           &.vk::after {
@@ -526,11 +526,24 @@ button {
             background-color: color-mix(in oklab, var(--branded-color), black 10%) !important;
           }
         }
+
         &.add-favorite {
           background-color: var(--IndianRed);
           &:hover {
             background-color: color-mix(in oklab, var(--IndianRed), black 10%) !important;
           }
+        }
+
+        &.vk,
+        &.boosty {
+          flex: 1 1 auto;
+          min-width: max-content;
+        }
+      }
+      &:has(button:is(.vk, .boosty)) {
+        button.add-favorite {
+          flex: 1 1 auto;
+          min-width: max-content;
         }
       }
     }
