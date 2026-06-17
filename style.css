@@ -270,7 +270,7 @@ button {
   width: min(400px, calc(100% - (var(--PDNG-extra) * 2)));
   opacity: var(--UI-opacity-unhover);
   transition: opacity var(--UI-transition-main) ease;
-  background: none;
+  background-color: var(--RGB-background);
   &:hover {
     opacity: 1;
   }
