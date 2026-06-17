@@ -1500,10 +1500,9 @@ details.schedule {
     cursor: pointer;
     list-style: none;
     margin-top: var(--PDNG-general);
-    margin-bottom: calc(var(--PDNG-general) * -1);
+    margin-bottom: calc(var(--PDNG-general) * -1) !important;
     transition: color var(--UI-transition-main);
     color: var(--RGB-accent);
-
     justify-self: center;
     font-size: var(--TXT-size-section-h2);
     min-height: 30px;
@@ -1517,6 +1516,14 @@ details.schedule {
 
     &:hover {
       color: light-dark(color-mix(in oklab, var(--RGB-accent), white 20%), color-mix(in oklab, var(--RGB-accent), black 20%)) !important;
+    }
+  }
+
+  .past-month > summary {
+    margin-bottom: calc(var(--PDNG-general) * -1);
+    &::before,
+    &::after {
+      content: "▪";
     }
   }
 }

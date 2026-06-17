@@ -72,6 +72,350 @@ const scheduleDatabase = [
   },
   //#endregion
   //#region Старое
+  // Пятница
+  {
+    nameRu: "Воин",
+    nameEn: "Warrior",
+    scheduleRemark: "Фильм",
+    scheduleType: "schedule-past",
+    date: "01.05.26",
+  },
+  {
+    nameRu: "Невероятное приключение ДжоДжо: Гонка «Стальной шар»",
+    nameEn: "Steel Ball Run: JoJo no Kimyou na Bouken",
+    scheduleRemark: "Аниме × 7 Сезон 1 Эпизод",
+    scheduleType: "schedule-past",
+    date: "01.05.26",
+  },
+  {
+    nameRu: "Омен 3: Последний конфликт",
+    nameEn: "The Final Conflict",
+    scheduleRemark: "Фильм",
+    scheduleType: "schedule-past",
+    date: "01.05.26",
+  },
+  // Суббота
+  {
+    nameRu: "Стрим невозможен :[",
+    scheduleType: "schedule-past",
+    date: "02.05.26",
+  },
+  // Воскресенье
+  {
+    nameRu: "Южный Парк",
+    nameEn: "South Park",
+    scheduleRemark: "Мультсериал × 2 Сезон 13-16 Эпизод",
+    scheduleType: "schedule-past",
+    date: "03.05.26",
+  },
+  {
+    nameRu: "Ван Пис",
+    nameEn: "One Piece",
+    scheduleRemark: "Аниме × 1 Сезон 1154-1157 Эпизод",
+    scheduleType: "schedule-past",
+    date: "03.05.26",
+  },
+  {
+    nameRu: "Сокол и Зимний Солдат",
+    nameEn: "The Falcon and the Winter Soldier",
+    scheduleRemark: "Сериал × 1 Сезон 1-2 Эпизод",
+    scheduleType: "schedule-past",
+    date: "03.05.26",
+  },
+  // Понедельник
+  {
+    nameRu: "Стрим невозможен :[",
+    scheduleType: "schedule-past",
+    date: "04.05.26",
+  },
+  // Вторник
+  {
+    nameRu: "Особняк «Красная роза»",
+    nameEn: "Rose Red",
+    scheduleRemark: "Сериал × 1 Сезон 1-3 Эпизод",
+    scheduleType: "schedule-past",
+    date: "05.05.26",
+  },
+  // Среда
+  {
+    nameRu: "Стрим не состоялся :[",
+    scheduleType: "schedule-past",
+    date: "06.05.26",
+  },
+  // Четверг
+  {
+    nameRu: "Твоя апрельская ложь",
+    nameEn: "Shigatsu wa Kimi no Uso",
+    scheduleRemark: "Аниме × 1 Сезон 5-10 Эпизод",
+    scheduleType: "schedule-past",
+    date: "07.05.26",
+  },
+  {
+    nameRu: "Впервые на экране",
+    nameEn: "Now Showing",
+    scheduleRemark: "Книга",
+    scheduleType: "schedule-past",
+    date: "07.05.26",
+  },
+  // Пятница
+  {
+    nameRu: "Стрим не состоялся :[",
+    scheduleType: "schedule-past",
+    date: "08.05.26",
+  },
+  // Суббота
+  {
+    nameRu: "Стрим невозможен :[",
+    scheduleType: "schedule-past",
+    date: "09.05.26",
+  },
+  // Воскресенье
+  {
+    nameRu: "Звёздные войны: Сказания джедаев",
+    nameEn: "Star Wars: Tales of the Jedi",
+    scheduleRemark: "Мультсериал × 1 Сезон 1-6 Эпизод",
+    scheduleType: "schedule-past",
+    date: "10.05.26",
+  },
+  {
+    nameRu: "Корпорация «Святые моторы»",
+    nameEn: "Holy Motors",
+    scheduleRemark: "Фильм",
+    scheduleType: "schedule-past",
+    date: "10.05.26",
+  },
+  {
+    nameRu: "Сопрано",
+    nameEn: "The Sopranos",
+    scheduleRemark: "Сериал × 3 Сезон 6-7 Эпизод",
+    scheduleType: "schedule-past",
+    date: "10.05.26",
+  },
+  // Понедельник
+  {
+    nameRu: "Стрим невозможен :[",
+    scheduleType: "schedule-past",
+    date: "11.05.26",
+  },
+  // Вторник
+  {
+    nameRu: "Моя геройская академия",
+    nameEn: "Boku no Hero Academia",
+    scheduleRemark: "Аниме × 7 Сезон 9-17 Эпизод",
+    scheduleType: "schedule-past",
+    date: "12.05.26",
+  },
+  // Среда
+  {
+    nameRu: "Стрим не состоялся :[",
+    scheduleType: "schedule-past",
+    date: "13.05.26",
+  },
+  // Четверг
+  {
+    nameRu: "Ван Пис",
+    nameEn: "One Piece",
+    scheduleRemark: "Манга × 1128-1134 Главы",
+    scheduleType: "schedule-past",
+    date: "14.05.26",
+  },
+  {
+    nameRu: "Анатомия падения",
+    nameEn: "Anatomie d'une chute",
+    scheduleRemark: "Фильм",
+    scheduleType: "schedule-past",
+    date: "14.05.26",
+  },
+  // Пятница
+  {
+    nameRu: "Ван Пис",
+    nameEn: "One Piece",
+    scheduleRemark: "Манга × 1135-1141 Главы",
+    scheduleType: "schedule-past",
+    date: "15.05.26",
+  },
+  {
+    nameRu: "Моя геройская академия",
+    nameEn: "Boku no Hero Academia",
+    scheduleRemark: "Аниме × 7 Сезон 18-21 Эпизод",
+    scheduleType: "schedule-past",
+    date: "15.05.26",
+  },
+  // Суббота
+  {
+    nameRu: "Стрим невозможен :[",
+    scheduleType: "schedule-past",
+    date: "16.05.26",
+  },
+  // Воскресенье
+  {
+    nameRu: "Для тебя, Бессмертный",
+    nameEn: "Fumetsu no Anata e",
+    scheduleRemark: "Аниме × 2 Сезон 5-8 Эпизод",
+    scheduleType: "schedule-past",
+    date: "17.05.26",
+  },
+  {
+    nameRu: "Декстер",
+    nameEn: "Dexter",
+    scheduleRemark: "Сериал × 7 Сезон 1-2 Эпизод",
+    scheduleType: "schedule-past",
+    date: "17.05.26",
+  },
+  // Понедельник
+  {
+    nameRu: "Стрим невозможен :[",
+    scheduleType: "schedule-past",
+    date: "18.05.26",
+  },
+  // Вторник
+  {
+    nameRu: "Стрим не состоялся :[",
+    scheduleType: "schedule-past",
+    date: "19.05.26",
+  },
+  // Среда
+  {
+    nameRu: "Твоя апрельская ложь",
+    nameEn: "Shigatsu wa Kimi no Uso",
+    scheduleRemark: "Аниме × 1 Сезон 11-14 Эпизод",
+    scheduleType: "schedule-past",
+    date: "20.05.26",
+  },
+  {
+    nameRu: "Сокол и Зимний Солдат",
+    nameEn: "The Falcon and the Winter Soldier",
+    scheduleRemark: "Сериал × 1 Сезон 3-4 Эпизод",
+    scheduleType: "schedule-past",
+    date: "20.05.26",
+  },
+  {
+    nameRu: "Южный Парк",
+    nameEn: "South Park",
+    scheduleRemark: "Мультсериал × 2 Сезон 17-18 Эпизод",
+    scheduleType: "schedule-past",
+    date: "20.05.26",
+  },
+  {
+    nameRu: "Южный Парк",
+    nameEn: "South Park",
+    scheduleRemark: "Мультсериал × 3 Сезон 1-2 Эпизод",
+    scheduleType: "schedule-past",
+    date: "20.05.26",
+  },
+  // Четверг
+  {
+    nameRu: "Стрим не состоялся :[",
+    scheduleType: "schedule-past",
+    date: "21.05.26",
+  },
+  // Пятница
+  {
+    nameRu: "Моя геройская академия",
+    nameEn: "Boku no Hero Academia",
+    scheduleRemark: "Аниме × 8 Сезон 1-11 Эпизод",
+    scheduleType: "schedule-past",
+    date: "22.05.26",
+  },
+  // Суббота
+  {
+    nameRu: "Стрим невозможен :[",
+    scheduleType: "schedule-past",
+    date: "23.05.26",
+  },
+  // Воскресенье
+  {
+    nameRu: "Моя геройская академия: Больше",
+    nameEn: "Boku no Hero Academia: More",
+    scheduleRemark: "Аниме × Спешл",
+    scheduleType: "schedule-past",
+    date: "24.05.26",
+  },
+  {
+    nameRu: "Бездна",
+    nameEn: "The Abyss",
+    scheduleRemark: "Фильм",
+    scheduleType: "schedule-past",
+    date: "24.05.26",
+  },
+  // Понедельник
+  {
+    nameRu: "Стрим невозможен :[",
+    scheduleType: "schedule-past",
+    date: "25.05.26",
+  },
+  // Вторник
+  {
+    nameRu: "Ван Пис",
+    nameEn: "One Piece",
+    scheduleRemark: "Манга × 1142-1149 Главы",
+    scheduleType: "schedule-past",
+    date: "26.05.26",
+  },
+  {
+    nameRu: "Твоя апрельская ложь",
+    nameEn: "Shigatsu wa Kimi no Uso",
+    scheduleRemark: "Аниме × 1 Сезон 15-22 Эпизод",
+    scheduleType: "schedule-past",
+    date: "26.05.26",
+  },
+  // Среда
+  {
+    nameRu: "Стрим не состоялся :[",
+    scheduleType: "schedule-past",
+    date: "27.05.26",
+  },
+  // Четверг
+  {
+    nameRu: "Декстер",
+    nameEn: "Dexter",
+    scheduleRemark: "Сериал × 7 Сезон 3-5 Эпизод",
+    scheduleType: "schedule-past",
+    date: "28.05.26",
+  },
+  {
+    nameRu: "Ван Пис",
+    nameEn: "One Piece",
+    scheduleRemark: "Манга × 1150-1155 Главы",
+    scheduleType: "schedule-past",
+    date: "28.05.26",
+  },
+  // Пятница
+  {
+    nameRu: "Сокол и Зимний Солдат",
+    nameEn: "The Falcon and the Winter Soldier",
+    scheduleRemark: "Сериал × 1 Сезон 5-6 Эпизод",
+    scheduleType: "schedule-past",
+    date: "29.05.26",
+  },
+  {
+    nameRu: "Южный Парк",
+    nameEn: "South Park",
+    scheduleRemark: "Мультсериал × 3 Сезон 3-6 Эпизод",
+    scheduleType: "schedule-past",
+    date: "29.05.26",
+  },
+  {
+    nameRu: "Фантастическая четверка",
+    nameEn: "Fantastic Four",
+    scheduleRemark: "Фильм",
+    scheduleType: "schedule-past",
+    date: "29.05.26",
+  },
+  // Суббота
+  {
+    nameRu: "Стрим невозможен :[",
+    scheduleType: "schedule-past",
+    date: "30.05.26",
+  },
+  // Воскресенье
+  {
+    nameRu: "Паук-Нуар",
+    nameEn: "Spider-Noir",
+    scheduleRemark: "Сериал × 1 Сезон 1-4 Эпизод",
+    scheduleType: "schedule-past",
+    date: "31.05.26",
+  },
 
   // Понедельник
   {

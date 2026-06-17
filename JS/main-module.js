@@ -42,6 +42,13 @@ const ScheduleUtils = {
     const capitalizedDay = dayName.charAt(0).toUpperCase() + dayName.slice(1);
     return `${capitalizedDay} ${dateStr}`;
   },
+
+  getMonthKey(dateStr) {
+    const date = this.parseDate(dateStr);
+    const monthName = date.toLocaleDateString("ru-RU", { month: "long" });
+    const capitalizedMonth = monthName.charAt(0).toUpperCase() + monthName.slice(1);
+    return `${capitalizedMonth} ${date.getFullYear()}`;
+  },
 };
 
 // =========================================================================
@@ -72,43 +79,59 @@ function renderSchedule() {
   pastCont.innerHTML = "";
 
   const sortedDb = [...scheduleDatabase].sort((a, b) => ScheduleUtils.parseDate(a.date) - ScheduleUtils.parseDate(b.date));
-
   const groups = { current: {}, past: {} };
 
   sortedDb.forEach((item) => {
-    const key = ScheduleUtils.getDayKey(item.date);
+    const dayKey = ScheduleUtils.getDayKey(item.date);
+
     if (item.scheduleType === "schedule-current") {
-      if (!groups.current[key]) groups.current[key] = [];
-      groups.current[key].push(item);
+      if (!groups.current[dayKey]) groups.current[dayKey] = [];
+      groups.current[dayKey].push(item);
     } else {
-      if (!groups.past[key]) groups.past[key] = [];
-      groups.past[key].push(item);
+      const monthKey = ScheduleUtils.getMonthKey(item.date);
+
+      if (!groups.past[monthKey]) groups.past[monthKey] = {};
+      if (!groups.past[monthKey][dayKey]) groups.past[monthKey][dayKey] = [];
+
+      groups.past[monthKey][dayKey].push(item);
     }
   });
 
-  const renderEcosystem = (data, targetContainer) => {
-    const keys = Object.keys(data);
+  const createDaySection = (dayTitle, items) => {
+    const section = document.createElement("section");
+    section.className = "card-section";
 
-    keys.forEach((title) => {
-      const section = document.createElement("section");
-      section.className = "card-section";
+    const h2 = document.createElement("h2");
+    h2.className = "card-section-name";
+    h2.textContent = dayTitle;
+    section.appendChild(h2);
 
-      const h2 = document.createElement("h2");
-      h2.className = "card-section-name";
-      h2.textContent = title;
+    const cardWrap = document.createElement("div");
+    cardWrap.className = "card-container";
 
-      section.appendChild(h2);
+    items.forEach((item) => cardWrap.appendChild(createScheduleCard(item)));
+    section.appendChild(cardWrap);
 
-      const cardWrap = document.createElement("div");
-      cardWrap.className = "card-container";
-
-      data[title].forEach((item) => cardWrap.appendChild(createScheduleCard(item)));
-
-      section.appendChild(cardWrap);
-      targetContainer.appendChild(section);
-    });
+    return section;
   };
 
-  renderEcosystem(groups.current, currentCont);
-  renderEcosystem(groups.past, pastCont);
+  Object.keys(groups.current).forEach((dayTitle) => {
+    currentCont.appendChild(createDaySection(dayTitle, groups.current[dayTitle]));
+  });
+
+  Object.keys(groups.past).forEach((monthTitle) => {
+    const details = document.createElement("details");
+    details.className = "past-month";
+
+    const summary = document.createElement("summary");
+    summary.textContent = monthTitle;
+    details.appendChild(summary);
+
+    const dayGroups = groups.past[monthTitle];
+    Object.keys(dayGroups).forEach((dayTitle) => {
+      details.appendChild(createDaySection(dayTitle, dayGroups[dayTitle]));
+    });
+
+    pastCont.appendChild(details);
+  });
 }
