@@ -12,21 +12,34 @@ const scheduleDatabase = [
   // Понедельник
   {
     nameRu: "Стрим невозможен :[",
-    scheduleRemark: "",
     scheduleType: "schedule-current",
     date: "15.06.26",
   },
   // Вторник
   {
-    nameRu: "Стрим вполне вероятен :]",
-    scheduleRemark: "",
+    nameRu: "Стрим не состоялся :[",
     scheduleType: "schedule-current",
     date: "16.06.26",
   },
   // Среда
   {
-    nameRu: "Стрим маловероятен :|",
-    scheduleRemark: "",
+    nameRu: "Отец",
+    nameEn: "Oyaji",
+    scheduleRemark: "Манга × Начало в 16:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "17.06.26",
+  },
+  {
+    nameRu: "Ван Пис",
+    nameEn: "One Piece",
+    scheduleRemark: "Манга × Начало в 18:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "17.06.26",
+  },
+  {
+    nameRu: "Капитан Америка: Дивный новый мир",
+    nameEn: "Captain America: Brave New World",
+    scheduleRemark: "Фильм × Начало в 20:00 по МСК",
     scheduleType: "schedule-current",
     date: "17.06.26",
   },
@@ -63,14 +76,12 @@ const scheduleDatabase = [
   // Понедельник
   {
     nameRu: "Стрим невозможен :[",
-    scheduleRemark: "",
     scheduleType: "schedule-past",
     date: "01.06.26",
   },
   // Вторник
   {
     nameRu: "Стрим не состоялся :[",
-    scheduleRemark: "",
     scheduleType: "schedule-past",
     date: "02.06.26",
   },
@@ -92,7 +103,6 @@ const scheduleDatabase = [
   // Четверг
   {
     nameRu: "Стрим не состоялся :[",
-    scheduleRemark: "",
     scheduleType: "schedule-past",
     date: "04.06.26",
   },
@@ -149,7 +159,6 @@ const scheduleDatabase = [
   // Понедельник
   {
     nameRu: "Стрим невозможен :[",
-    scheduleRemark: "",
     scheduleType: "schedule-past",
     date: "08.06.26",
   },
@@ -170,14 +179,12 @@ const scheduleDatabase = [
   // Среда
   {
     nameRu: "Стрим не состоялся :[",
-    scheduleRemark: "",
     scheduleType: "schedule-past",
     date: "10.06.26",
   },
   // Четверг
   {
     nameRu: "Стрим не состоялся :[",
-    scheduleRemark: "",
     scheduleType: "schedule-past",
     date: "11.06.26",
   },
@@ -224,7 +231,6 @@ const scheduleDatabase = [
   // Понедельник
   {
     nameRu: "Стрим невозможен :[",
-    scheduleRemark: "",
     scheduleType: "schedule-current",
     date: "22.06.26",
   },
