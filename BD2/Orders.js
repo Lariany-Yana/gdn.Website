@@ -18,6 +18,20 @@ const ordersDatabase = [
 
   //#region ~В процессе~
   {
+    nameRu: "Капитан Америка: Дивный новый мир",
+    nameEn: "Captain America: Brave New World",
+    orderRemark: "Фильм",
+    cardType: "order-during",
+    id: "order_Captain-America-Brave-New-World",
+    items: [
+      {
+        nickname: "Сулейка",
+        slot: "1",
+        date: "09.06.26",
+      },
+    ],
+  },
+  {
     nameRu: "Ван Пис",
     nameEn: "One Piece",
     orderRemark: "Аниме × В заказе: 1 Сезон 1158-1164 Эпизод",
@@ -39,7 +53,7 @@ const ordersDatabase = [
   {
     nameRu: "Ван Пис",
     nameEn: "One Piece",
-    orderRemark: "Манга ⨯ Прочитано: -2.25 Слота (1155-1171 Главы)",
+    orderRemark: "Манга ⨯ Прочитано: -3 Слота (1155-1181 Главы)",
     cardType: "order-during",
     id: "order_One-Piece-Manga",
     items: [
@@ -64,6 +78,12 @@ const ordersDatabase = [
       {
         nickname: "1155-1171 Главы",
         slot: "2.25", // 1155-1163 Главы
+        date: "В уточнении",
+        was: "owe",
+      },
+      {
+        nickname: "1172-1181 Главы",
+        slot: "0.75", // 1172-1181 Главы
         date: "В уточнении",
         was: "owe",
       },
@@ -176,12 +196,12 @@ const ordersDatabase = [
   {
     nameRu: "Отец",
     nameEn: "Oyaji",
-    orderRemark: "Манга ⨯ Прочитано: 1-15/25 Главы",
+    orderRemark: "Манга ⨯ Прочитано: 1-25/25 Главы",
     cardType: "order-during",
     items: [
       {
-        nickname: "Годнеслот",
-        slot: "1", // 1-15 Главы
+        nickname: "1-25 Главы",
+        slot: "1.5", // 1-25 Главы
         date: "В уточнении",
         was: "owe",
       },
@@ -1270,20 +1290,6 @@ const ordersDatabase = [
         nickname: "Izida-Sama",
         slot: "2",
         date: "06.06.26",
-      },
-    ],
-  },
-  {
-    nameRu: "Капитан Америка: Дивный новый мир",
-    nameEn: "Captain America: Brave New World",
-    orderRemark: "Фильм",
-    cardType: "order-waiting",
-    id: "order_Captain-America-Brave-New-World",
-    items: [
-      {
-        nickname: "Сулейка",
-        slot: "1",
-        date: "09.06.26",
       },
     ],
   },

@@ -225,9 +225,8 @@ const literatureManga = [
   {
     nameRu: "Отец",
     nameEn: "Oyaji",
-    titleStatus: "Прочитано: 1-15/25 Главы",
+    titleStatus: "Прочитано: До финала",
     donutTerms: "donut-lvl-3",
-    titleLink: ["vk", "video-208448461_456241847?t=19m25s"],
     id: "Literary-Manga_Oyaji",
     posterImage: "https://static.tildacdn.com/tild3436-3466-4865-a134-376637666165/img.webp",
     cardType: "literature-Manga",

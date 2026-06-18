@@ -804,6 +804,15 @@ const fullmeterMoviePopups = {
     },
     { pasteCard: "Series-Serials_The-Falcon-and-the-Winter-Soldier" },
     {
+    nameRu: "Капитан Америка: Дивный новый мир",
+    nameEn: "Captain America: Brave New World",
+      donutTerms: "donut-lvl-3",
+      titleLink: ["vk", "video-208448461_456241851?t=10m10s"],
+      id: "Fullmeter-Movie_MCU-Captain-America-Brave-New-World",
+      posterImage: "https://static.tildacdn.com/tild3330-6532-4136-a639-353562383735/img.webp",
+      cardType: "fullmeter-Movie",
+    },
+    {
       seasonName: "Вне Кинематографической вселенной",
       items: [],
     },

@@ -848,6 +848,23 @@ const literatureMangaPopups = {
       ],
     },
   ],
+  "Literary-Manga_Oyaji": [
+    {
+      seasonName: "",
+      items: [
+        {
+          title: "1-16 Главы",
+          source: "vk",
+          link: "video-208448461_456241847?t=19m25s",
+        },
+        {
+          title: "17-25 Главы",
+          source: "vk",
+          link: "video-208448461_456241849?t=10m53s",
+        },
+      ],
+    },
+  ],
   "Literary-Manga_Record-of-Ragnarok": [
     {
       seasonName: "",
