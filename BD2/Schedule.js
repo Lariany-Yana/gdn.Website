@@ -47,20 +47,13 @@ const scheduleDatabase = [
   {
     nameRu: "Декстер",
     nameEn: "Dexter",
-    scheduleRemark: "Сериал × Архивируется",
+    scheduleRemark: "Сериал × 7 Сезон 7-8 Эпизод",
     scheduleType: "schedule-current",
     date: "18.06.26",
   },
   {
     nameRu: "Goat: Мечтай по-крупному",
-    scheduleRemark: "Мультфильм × Архивируется",
-    scheduleType: "schedule-current",
-    date: "18.06.26",
-  },
-  {
-    nameRu: "Капитан Америка: Дивный новый мир",
-    nameEn: "Captain America: Brave New World",
-    scheduleRemark: "Досмотр × Архивируется",
+    scheduleRemark: "Мультфильм",
     scheduleType: "schedule-current",
     date: "18.06.26",
   },

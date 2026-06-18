@@ -18,20 +18,6 @@ const ordersDatabase = [
 
   //#region ~В процессе~
   {
-    nameRu: "Капитан Америка: Дивный новый мир",
-    nameEn: "Captain America: Brave New World",
-    orderRemark: "Фильм",
-    cardType: "order-during",
-    id: "order_Captain-America-Brave-New-World",
-    items: [
-      {
-        nickname: "Сулейка",
-        slot: "1",
-        date: "09.06.26",
-      },
-    ],
-  },
-  {
     nameRu: "Ван Пис",
     nameEn: "One Piece",
     orderRemark: "Аниме × В заказе: 1 Сезон 1158-1164 Эпизод",
@@ -92,7 +78,7 @@ const ordersDatabase = [
   {
     nameRu: "Декстер",
     nameEn: "Dexter",
-    orderRemark: "Сериал ⨯ Просмотрено: 7 Сезон 1-7/12 Эпизод",
+    orderRemark: "Сериал ⨯ Просмотрено: 7 Сезон 1-8/12 Эпизод",
     cardType: "order-during",
     id: "order_Dexter",
     items: [
@@ -115,8 +101,8 @@ const ordersDatabase = [
         was: "was",
       },
       {
-        nickname: "7с 7эп",
-        slot: "0.5", // 7 Сезон 7 Эпизод
+        nickname: "7с 7-8эп",
+        slot: "1", // 7 Сезон 7-8 Эпизод
         date: "В уточнении",
         was: "owe",
       },
@@ -304,20 +290,6 @@ const ordersDatabase = [
         nickname: "Статист",
         slot: "2", // 1 Сезон 5-12 Эпизод
         date: "26.08.24",
-      },
-    ],
-  },
-  {
-    nameRu: "Goat: Мечтай по-крупному",
-    orderRemark: "Мультфильм",
-    personalOrder: "user_Edwin",
-    cardType: "order-waiting",
-    id: "order_Goat",
-    items: [
-      {
-        nickname: "Статист",
-        slot: "1",
-        date: "27.09.24",
       },
     ],
   },
@@ -1557,6 +1529,34 @@ const ordersDatabase = [
   },
   //#endregion
   //#region ~Просмотренное~
+  {
+    nameRu: "Капитан Америка: Дивный новый мир",
+    nameEn: "Captain America: Brave New World",
+    orderRemark: "Фильм",
+    cardType: "order-finished",
+    items: [
+      {
+        nickname: "Сулейка",
+        slot: "1",
+        date: "09.06.26",
+        was: "was",
+      },
+    ],
+  },
+  {
+    nameRu: "Goat: Мечтай по-крупному",
+    orderRemark: "Мультфильм",
+    personalOrder: "user_Edwin",
+    cardType: "order-finished",
+    items: [
+      {
+        nickname: "Статист",
+        slot: "1",
+        date: "27.09.24",
+        was: "was",
+      },
+    ],
+  },
   {
     nameRu: "Отверженные",
     nameEn: "Les Misérables",

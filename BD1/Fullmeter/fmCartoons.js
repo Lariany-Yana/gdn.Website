@@ -540,4 +540,12 @@ const fullmeterCartoon = [
     posterImage: "https://static.tildacdn.com/tild3363-6433-4166-b339-613639643839/img.webp",
     cardType: "fullmeter-Cartoon",
   },
+  {
+    nameRu: "Goat: Мечтай по-крупному",
+    donutTerms: "donut-lvl-3",
+    titleLink: ["vk", "video-208448461_456241852?t=2h38m54s"],
+    id: "Fullmeter-Cartoon_Goat",
+    posterImage: "https://static.tildacdn.com/tild6337-6562-4566-b531-636564376439/img.webp",
+    cardType: "fullmeter-Cartoon",
+  },
 ];
