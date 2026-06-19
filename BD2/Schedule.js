@@ -59,22 +59,7 @@ const scheduleDatabase = [
   },
   // Пятница
   {
-    nameRu: "Удивительный цифровой цирк",
-    nameEn: "The Amazing Digital Circus",
-    scheduleRemark: "Мультсериал × Начало в 15:00 по МСК",
-    scheduleType: "schedule-current",
-    date: "19.06.26",
-  },
-  {
-    nameRu: "Рим",
-    nameEn: "Rome",
-    scheduleRemark: "Сериал × Начало в 19:00 по МСК",
-    scheduleType: "schedule-current",
-    date: "19.06.26",
-  },
-  {
-    nameRu: "Покер",
-    scheduleRemark: "Начало в 21:00 по МСК",
+    nameRu: "Стрим не состоялся :[",
     scheduleType: "schedule-current",
     date: "19.06.26",
   },
