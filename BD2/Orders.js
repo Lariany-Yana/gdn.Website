@@ -1444,6 +1444,21 @@ const ordersDatabase = [
     ],
   },
   {
+    nameRu: "Дневники вампира",
+    nameEn: "The Vampire Diaries",
+    orderRemark: "Сериал ⨯ Просмотрено: 2 Сезон 1/22 Эпизод",
+    cardType: "order-incomplete",
+    id: "order_The-Vampire-Diaries-2",
+    items: [
+      {
+        nickname: "Демон21",
+        slot: "0.5", // 2 Сезон 1 Эпизод
+        date: "06.05.25",
+        was: "was",
+      },
+    ],
+  },
+  {
     nameRu: "Игра в кальмара",
     nameEn: "Ojingeo geim",
     orderRemark: "Сериал ⨯ Просмотрено: 2 Сезон 1-2/7 Эпизод",
@@ -1514,16 +1529,6 @@ const ordersDatabase = [
     orderRemark_1: "Фильм > 1 Слот > Фильм",
     orderRemark_2: "Свап был 25.05.26 (Мисти)",
     personalOrder: "user_Misty",
-    cardType: "order-switch",
-    items: [],
-  },
-  {
-    nameRu_1: "Инуяшики",
-    nameEn_1: "Inuyashiki",
-    nameRu_2: "Сверхъестественное",
-    nameEn_2: "Supernatural",
-    orderRemark_1: "Аниме > 0.25 Слота > Сериал",
-    orderRemark_2: "Свап был 08.06.26 (Аноним)",
     cardType: "order-switch",
     items: [],
   },
@@ -1669,6 +1674,20 @@ const ordersDatabase = [
       },
     ],
   },
+  {
+    nameRu: "Особняк «Красная роза»",
+    nameEn: "Rose Red",
+    orderRemark: "Сериал ⨯ Просмотрено: 1 Сезон 1-3/3 Эпизод",
+    cardType: "order-finished",
+    items: [
+      {
+        nickname: "Твою мать!",
+        slot: "2", // 1 Сезон 1-3 Эпизод
+        date: "18.09.24",
+        was: "was",
+      },
+    ],
+  },
   //#region Сопрано
   {
     nameRu: "Сопрано",
@@ -1757,8 +1776,7 @@ const ordersDatabase = [
         was: "was",
       },
     ],
-  },
-  //#endregion
+  }, //#endregion
   //#region Южный Парк
   {
     nameRu: "Южный Парк",
@@ -1835,8 +1853,7 @@ const ordersDatabase = [
         was: "was",
       },
     ],
-  },
-  //#endregion
+  }, //#endregion
   //#region Декстер
   {
     nameRu: "Декстер",
@@ -2035,9 +2052,8 @@ const ordersDatabase = [
         was: "was",
       },
     ],
-  },
-  //#endregion
-  //#region Сверхи
+  }, //#endregion
+  //#region Сверхъестественное
   {
     nameRu: "Сверхъестественное",
     nameEn: "Supernatural",
@@ -2046,55 +2062,55 @@ const ordersDatabase = [
     items: [
       {
         nickname: "Твою мать!",
-        slot: "1",
+        slot: "1", // 5 Сезон 1-2 Эпизод
         date: "15.08.25",
         was: "was",
       },
       {
         nickname: "Твою мать!",
-        slot: "1",
+        slot: "1", // 5 Сезон 3-4 Эпизод
         date: "28.08.25",
         was: "was",
       },
       {
         nickname: "Твою мать!",
-        slot: "2",
+        slot: "2", // 5 Сезон 5-8 Эпизод
         date: "16.09.25",
         was: "was",
       },
       {
         nickname: "Твою мать!",
-        slot: "1",
+        slot: "1", // 5 Сезон 9-10 Эпизод
         date: "28.09.25",
         was: "was",
       },
       {
         nickname: "Твою мать!",
-        slot: "1",
+        slot: "1", // 5 Сезон 11-12 Эпизод
         date: "12.10.25",
         was: "was",
       },
       {
         nickname: "Твою мать!",
-        slot: "1",
+        slot: "1", // 5 Сезон 13-14 Эпизод
         date: "21.10.25",
         was: "was",
       },
       {
         nickname: "Твою мать!",
-        slot: "2",
+        slot: "2", // 5 Сезон 15-18 Эпизод
         date: "27.10.25",
         was: "was",
       },
       {
         nickname: "Твою мать!",
-        slot: "1",
+        slot: "1", // 5 Сезон 19-20 Эпизод
         date: "11.11.25",
         was: "was",
       },
       {
         nickname: "Твою мать!",
-        slot: "1",
+        slot: "1", // 5 Сезон 21-22 Эпизод
         date: "18.11.25",
         was: "was",
       },
@@ -2108,31 +2124,31 @@ const ordersDatabase = [
     items: [
       {
         nickname: "Твою мать!",
-        slot: "3",
+        slot: "3", // 4 Сезон 1-6 Эпизод
         date: "25.07.25",
         was: "was",
       },
       {
         nickname: "Твою мать!",
-        slot: "1",
+        slot: "1", // 4 Сезон 7-8 Эпизод
         date: "25.07.25",
         was: "was",
       },
       {
         nickname: "Твою мать!",
-        slot: "3",
+        slot: "3", // 4 Сезон 9-14 Эпизод
         date: "05.08.25",
         was: "was",
       },
       {
         nickname: "Твою мать!",
-        slot: "2",
+        slot: "2", // 4 Сезон 15-18 Эпизод
         date: "06.08.25",
         was: "was",
       },
       {
         nickname: "Твою мать!",
-        slot: "2",
+        slot: "2", // 4 Сезон 19-22 Эпизод
         date: "15.08.25",
         was: "was",
       },
@@ -2146,31 +2162,31 @@ const ordersDatabase = [
     items: [
       {
         nickname: "Твою мать!",
-        slot: "0.5",
+        slot: "0.5", // 3 Сезон 1 Эпизод
         date: "05.06.25",
         was: "was",
       },
       {
         nickname: "Твою мать!",
-        slot: "2",
+        slot: "2", // 3 Сезон 2-5 Эпизод
         date: "30.06.25",
         was: "was",
       },
       {
         nickname: "Твою мать!",
-        slot: "2",
+        slot: "2", // 3 Сезон 6-9 Эпизод
         date: "15.07.25",
         was: "was",
       },
       {
         nickname: "Твою мать!",
-        slot: "2.5",
+        slot: "2.5", // 3 Сезон 10-14 Эпизод
         date: "20.07.25",
         was: "was",
       },
       {
         nickname: "Твою мать!",
-        slot: "1",
+        slot: "1", // 3 Сезон 15-16 Эпизод
         date: "25.07.25",
         was: "was",
       },
@@ -2184,43 +2200,43 @@ const ordersDatabase = [
     items: [
       {
         nickname: "Твою мать!",
-        slot: "1",
+        slot: "1", // 2 Сезон 1-2 Эпизод
         date: "24.11.24",
         was: "was",
       },
       {
         nickname: "Твою мать!",
-        slot: "2.5",
+        slot: "2.5", // 2 Сезон 3-7 Эпизод
         date: "15.12.24",
         was: "was",
       },
       {
         nickname: "Твою мать!",
-        slot: "1",
+        slot: "1", // 2 Сезон 8-9 Эпизод
         date: "22.01.25",
         was: "was",
       },
       {
         nickname: "Твою мать!",
-        slot: "1",
+        slot: "1", // 2 Сезон 10-11 Эпизод
         date: "20.02.25",
         was: "was",
       },
       {
         nickname: "Твою мать!",
-        slot: "2",
+        slot: "2", // 2 Сезон 12-15 Эпизод
         date: "06.04.25",
         was: "was",
       },
       {
         nickname: "Твою мать!",
-        slot: "2",
+        slot: "2", // 2 Сезон 16-19 Эпизод
         date: "08.05.25",
         was: "was",
       },
       {
         nickname: "Твою мать!",
-        slot: "1.5",
+        slot: "1.5", // 2 Сезон 20-22 Эпизод
         date: "05.06.25",
         was: "was",
       },
@@ -2229,52 +2245,186 @@ const ordersDatabase = [
   {
     nameRu: "Сверхъестественное",
     nameEn: "Supernatural",
-    orderRemark: "Сериал, 1 Сезон 1-22/22 Эпизод",
+    orderRemark: "Сериал ⨯ Просмотрено: 1 Сезон 1-22/22 Эпизод",
     cardType: "order-finished",
     items: [
       {
         nickname: "Твою мать!",
-        slot: "3",
+        slot: "3", // 1 Сезон 1-6 Эпизод
         date: "10.05.24",
         was: "was",
       },
       {
         nickname: "Твою мать!",
-        slot: "2",
+        slot: "2", // 1 Сезон 7-10 Эпизод
         date: "15.06.24",
         was: "was",
       },
       {
         nickname: "Твою мать!",
-        slot: "1",
+        slot: "1", // 1 Сезон 11-12 Эпизод
         date: "16.08.24",
         was: "was",
       },
       {
         nickname: "Твою мать!",
-        slot: "1",
+        slot: "1", // 1 Сезон 13-14 Эпизод
         date: "11.09.24",
         was: "was",
       },
       {
         nickname: "Твою мать!",
-        slot: "2",
+        slot: "2", // 1 Сезон 15-18 Эпизод
         date: "18.10.24",
         was: "was",
       },
       {
         nickname: "Твою мать!",
-        slot: "1",
+        slot: "1", // 1 Сезон 19-20 Эпизод
         date: "01.11.24",
         was: "was",
       },
       {
         nickname: "Твою мать!",
-        slot: "1",
+        slot: "1", // 1 Сезон 21-22 Эпизод
         date: "09.11.24",
         was: "was",
       },
     ],
   }, //#endregion
+  //#region Дневники вампира
+  {
+    nameRu: "Дневники вампира",
+    nameEn: "The Vampire Diaries",
+    orderRemark: "Сериал ⨯ Просмотрено: 1 Сезон 1-22/22 Эпизод",
+    cardType: "order-finished",
+    items: [
+      {
+        nickname: "Твою мать!",
+        slot: "1.5", // 1 Сезон 1-3 Эпизод
+        date: "09.10.24",
+        was: "was",
+      },
+      {
+        nickname: "Твою мать!",
+        slot: "1", // 1 Сезон 4-5 Эпизод
+        date: "18.10.24",
+        was: "was",
+      },
+      {
+        nickname: "Твою мать!",
+        slot: "1", // 1 Сезон 6-7 Эпизод
+        date: "26.10.24",
+        was: "was",
+      },
+      {
+        nickname: "Твою мать!",
+        slot: "1", // 1 Сезон 8-9 Эпизод
+        date: "01.11.24",
+        was: "was",
+      },
+      {
+        nickname: "Твою мать!",
+        slot: "1", // 1 Сезон 10-11 Эпизод
+        date: "24.11.24",
+        was: "was",
+      },
+      {
+        nickname: "Твою мать!",
+        slot: "1", // 1 Сезон 12-13 Эпизод
+        date: "11.01.25",
+        was: "was",
+      },
+      {
+        nickname: "Твою мать!",
+        slot: "4.5", // 1 Сезон 14-22 Эпизод
+        date: "21.01.25",
+        was: "was",
+      },
+    ],
+  }, //#endregion
+  //#region Американская история ужасов
+  {
+    nameRu: "Американская история ужасов: Апокалипсис",
+    nameEn: "American Horror Story: Apocalypse",
+    orderRemark: "Сериал ⨯ Просмотрено: 8 Сезон 1-10/10 Эпизод",
+    cardType: "order-finished",
+    items: [
+      {
+        nickname: "Твою мать!",
+        slot: "5", // 1 Сезон 1-10 Эпизод
+        date: "25.12.24",
+        was: "was",
+      },
+    ],
+  },
+  {
+    nameRu: "Американская история ужасов: Отель",
+    nameEn: "American Horror Story: Hotel",
+    orderRemark: "Сериал ⨯ Просмотрено: 5 Сезон 1-12/12 Эпизод",
+    cardType: "order-finished",
+    items: [
+      {
+        nickname: "Твою мать!",
+        slot: "6", // 1 Сезон 1-12 Эпизод
+        date: "25.12.24",
+        was: "was",
+      },
+    ],
+  },
+  {
+    nameRu: "Американская история ужасов: Шабаш",
+    nameEn: "American Horror Story: Coven",
+    orderRemark: "Сериал ⨯ Просмотрено: 3 Сезон 1-13/13 Эпизод",
+    cardType: "order-finished",
+    items: [
+      {
+        nickname: "Твою мать!",
+        slot: "3.5", // 1 Сезон 1-7 Эпизод
+        date: "28.09.24",
+        was: "was",
+      },
+      {
+        nickname: "Твою мать!",
+        slot: "3", // 1 Сезон 8-13 Эпизод
+        date: "09.12.25",
+        was: "was",
+      },
+    ],
+  },
+  {
+    nameRu: "Американская история ужасов: Психбольница",
+    nameEn: "American Horror Story: Asylum",
+    orderRemark: "Сериал ⨯ Просмотрено: 2 Сезон 1-13/13 Эпизод",
+    cardType: "order-finished",
+    items: [
+      {
+        nickname: "Твою мать!",
+        slot: "2", // 1 Сезон 1-4 Эпизод
+        date: "18.05.24",
+        was: "was",
+      },
+      {
+        nickname: "Твою мать!",
+        slot: "4.5", // 1 Сезон 5-13 Эпизод
+        date: "08.06.24",
+        was: "was",
+      },
+    ],
+  },
+  {
+    nameRu: "Американская история ужасов: Дом-убийца",
+    nameEn: "American Horror Story: Murder House",
+    orderRemark: "Сериал ⨯ Просмотрено: 1 Сезон 1-12/12 Эпизод",
+    cardType: "order-finished",
+    items: [
+      {
+        nickname: "Твою мать!",
+        slot: "6", // 1 Сезон 1-12 Эпизод
+        date: "09.12.23",
+        was: "was",
+      },
+    ],
+  },
   //#endregion
 ];

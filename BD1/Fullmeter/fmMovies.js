@@ -2665,6 +2665,15 @@ const fullmeterMovie = [
     cardType: "fullmeter-Movie",
   },
   {
+    nameRu: "Славные парни",
+    nameEn: "Goodfellas",
+		titleStatus: "Первая половина утеряна",
+    titleLink: ["vk", "video-208448461_456241101?t=1m6s"],
+    id: "Fullmeter-Movie_Goodfellas",
+    posterImage: "https://static.tildacdn.com/tild6465-3934-4461-a166-396335623433/img.webp",
+    cardType: "fullmeter-Movie",
+  },
+  {
     nameRu: "Смертный приговор",
     nameEn: "Death Sentence",
     titleLink: ["boosty", "godenname/posts/bc0604bd-67f8-4551-987f-ba0436723a6e?t=25655&tmid=1c63ade6-0838-4b35-a258-8d65ec0c0597"],
@@ -3110,6 +3119,14 @@ const fullmeterMovie = [
     titleLink: ["vk", "video-208448461_456240206?t=2h53m55s"],
     id: "Fullmeter-Movie_Hardcore-Henry",
     posterImage: "https://static.tildacdn.com/tild3837-3061-4433-b262-666436376465/photo.webp",
+    cardType: "fullmeter-Movie",
+  },
+  {
+    nameRu: "Хешер",
+    nameEn: "Hesher",
+    titleLost: "lost",
+    id: "Fullmeter-Movie_Hesher",
+    posterImage: "https://static.tildacdn.com/tild3630-3536-4031-b031-343037643161/img.webp",
     cardType: "fullmeter-Movie",
   },
   {

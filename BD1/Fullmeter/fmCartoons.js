@@ -276,6 +276,15 @@ const fullmeterCartoon = [
     cardType: "fullmeter-Cartoon",
   },
   {
+    nameRu: "Лоракс",
+    nameEn: "The Lorax",
+    donutTerms: "donut-lvl-3",
+    titleLink: ["vk", "video-208448461_456241536?t=2h5m30s"],
+    id: "Fullmeter-Cartoon_The-Lorax",
+    posterImage: "https://static.tildacdn.com/tild6666-3631-4663-a130-653932366138/img.webp",
+    cardType: "fullmeter-Cartoon",
+  },
+  {
     nameRu: "Мадагаскар",
     nameEn: "Madagascar",
     titleStatus: "Сборник",
@@ -445,6 +454,14 @@ const fullmeterCartoon = [
     titleStatus: "Сборник",
     id: "Fullmeter-Cartoon_Cars",
     posterImage: "https://static.tildacdn.com/tild3835-3063-4630-a239-346434363532/img.webp",
+    cardType: "fullmeter-Cartoon",
+  },
+  {
+    nameRu: "Темный рыцарь: Возрождение легенды",
+    nameEn: "Batman: The Dark Knight Returns",
+    titleLost: "lost",
+    id: "Fullmeter-Cartoon_Batman-The-Dark-Knight-Returns",
+    posterImage: "https://static.tildacdn.com/tild3737-3930-4233-b262-633265613837/img.webp",
     cardType: "fullmeter-Cartoon",
   },
   {
