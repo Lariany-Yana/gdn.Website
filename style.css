@@ -582,6 +582,7 @@ button {
 .vk,
 .boosty,
 .yandex {
+  cursor: alias !important;
   transition: background-color var(--UI-transition-extra) ease;
   &:hover {
     background-color: color-mix(in oklab, var(--branded-color), black 10%) !important;
@@ -737,7 +738,6 @@ button {
           word-break: break-word;
           flex: 1 1 auto;
           min-width: 0;
-          cursor: alias;
           transition: background-color var(--UI-transition-extra) ease;
           &.lost {
             background-color: DimGrey !important;

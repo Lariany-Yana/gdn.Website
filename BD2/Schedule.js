@@ -84,7 +84,7 @@ const scheduleDatabase = [
   {
     nameRu: "Стрим невозможен :[",
     scheduleType: "schedule-past",
-    date: "00.04.26",
+    date: "00.02.26",
   },
   // Вторник
   {
@@ -92,7 +92,7 @@ const scheduleDatabase = [
     nameEn: "Название",
     scheduleRemark: "Тип × Серии",
     scheduleType: "schedule-past",
-    date: "00.04.26",
+    date: "00.02.26",
   },
   // Среда
   {
@@ -100,7 +100,7 @@ const scheduleDatabase = [
     nameEn: "Название",
     scheduleRemark: "Тип × Серии",
     scheduleType: "schedule-past",
-    date: "00.04.26",
+    date: "00.02.26",
   },
   // Четверг
   {
@@ -108,7 +108,7 @@ const scheduleDatabase = [
     nameEn: "Название",
     scheduleRemark: "Тип × Серии",
     scheduleType: "schedule-past",
-    date: "00.04.26",
+    date: "00.02.26",
   },
   // Пятница
   {
@@ -116,13 +116,13 @@ const scheduleDatabase = [
     nameEn: "Название",
     scheduleRemark: "Тип × Серии",
     scheduleType: "schedule-past",
-    date: "00.04.26",
+    date: "00.02.26",
   },
 	// Суббота
   {
     nameRu: "Стрим невозможен :[",
     scheduleType: "schedule-past",
-    date: "00.04.26",
+    date: "00.02.26",
   },
   // Воскресенье
   {
@@ -130,9 +130,692 @@ const scheduleDatabase = [
     nameEn: "Название",
     scheduleRemark: "Тип × Серии",
     scheduleType: "schedule-past",
-    date: "00.04.26",
+    date: "00.02.26",
   },*/
 
+  // Воскресенье
+  {
+    nameRu: "Half-Life: Alyx",
+    scheduleRemark: "Игра",
+    scheduleType: "schedule-past",
+    date: "01.02.26",
+  },
+  {
+    nameRu: "Моя геройская академия",
+    nameEn: "Boku no Hero Academia",
+    scheduleRemark: "Аниме × 4 Сезон 15-25 Эпизод",
+    scheduleType: "schedule-past",
+    date: "01.02.26",
+  },
+	// Понедельник
+  {
+    nameRu: "Стрим невозможен :[",
+    scheduleType: "schedule-past",
+    date: "02.02.26",
+  },
+  // Вторник
+  {
+    nameRu: "Сопрано",
+    nameEn: "The Sopranos",
+    scheduleRemark: "Сериал × 2 Сезон 3-6 Эпизод",
+    scheduleType: "schedule-past",
+    date: "03.02.26",
+  },
+  // Среда
+  {
+    nameRu: "Дандадан",
+    nameEn: "Dandadan",
+    scheduleRemark: "Аниме × 1 Сезон 10-12 Эпизод",
+    scheduleType: "schedule-past",
+    date: "04.02.26",
+  },
+  {
+    nameRu: "Южный Парк",
+    nameEn: "South Park",
+    scheduleRemark: "Мультсериал × 1 Сезон 1-5 Эпизод",
+    scheduleType: "schedule-past",
+    date: "04.02.26",
+  },
+  // Четверг
+  {
+    nameRu: "Клинок, рассекающий демонов",
+    nameEn: "Kimetsu no Yaiba: Hashira Geiko-hen",
+    scheduleRemark: "Аниме × 4 Сезон 1-8 Эпизод",
+    scheduleType: "schedule-past",
+    date: "05.02.26",
+  },
+  // Пятница
+  {
+    nameRu: "Мастер вздрочки Куросава",
+    nameEn: "Onanie Master Kurosawa",
+    scheduleRemark: "Манга × 24-33 Главы",
+    scheduleType: "schedule-past",
+    date: "06.02.26",
+  },
+  {
+    nameRu: "Американская история ужасов",
+    nameEn: "American Horror Story: Hotel",
+    scheduleRemark: "Сериал × 5 Сезон 3-4 Эпизод",
+    scheduleType: "schedule-past",
+    date: "06.02.26",
+  },
+  {
+    nameRu: "Дандадан",
+    nameEn: "Dandadan",
+    scheduleRemark: "Аниме × 2 Сезон 1-4 Эпизод",
+    scheduleType: "schedule-past",
+    date: "06.02.26",
+  },
+	// Суббота
+  {
+    nameRu: "Стрим невозможен :[",
+    scheduleType: "schedule-past",
+    date: "07.02.26",
+  },
+  // Воскресенье
+  {
+    nameRu: "Убийцы цветочной луны",
+    nameEn: "Killers of the Flower Moon",
+    scheduleRemark: "Фильм",
+    scheduleType: "schedule-past",
+    date: "08.02.26",
+  },
+	// Понедельник
+  {
+    nameRu: "Стрим невозможен :[",
+    scheduleType: "schedule-past",
+    date: "09.02.26",
+  },
+  // Вторник
+  {
+    nameRu: "Атомный лес",
+    scheduleRemark: "Мультсериал × 1 Сезон 1-4 Эпизод",
+    scheduleType: "schedule-past",
+    date: "10.02.26",
+  },
+  {
+    nameRu: "Дандадан",
+    nameEn: "Dandadan",
+    scheduleRemark: "Аниме × 2 Сезон 5-12 Эпизод",
+    scheduleType: "schedule-past",
+    date: "10.02.26",
+  },
+  // Среда
+  {
+    nameRu: "Атомный лес",
+    scheduleRemark: "Мультсериал × 1 Сезон 5-8 Эпизод",
+    scheduleType: "schedule-past",
+    date: "11.02.26",
+  },
+  {
+    nameRu: "Американская история ужасов",
+    nameEn: "American Horror Story: Hotel",
+    scheduleRemark: "Сериал × 5 Сезон 5-6 Эпизод",
+    scheduleType: "schedule-past",
+    date: "11.02.26",
+  },
+  {
+    nameRu: "Декстер",
+    nameEn: "Dexter",
+    scheduleRemark: "Сериал × 5 Сезон 9-10 Эпизод",
+    scheduleType: "schedule-past",
+    date: "11.02.26",
+  },
+  // Четверг
+  {
+    nameRu: "Принц Галактики",
+    scheduleRemark: "Мультсериал × 1 Сезон 1-4 Эпизод",
+    scheduleType: "schedule-past",
+    date: "12.02.26",
+  },
+  {
+    nameRu: "Декстер",
+    nameEn: "Dexter",
+    scheduleRemark: "Сериал × 5 Сезон 11-12 Эпизод",
+    scheduleType: "schedule-past",
+    date: "12.02.26",
+  },
+  {
+    nameRu: "Южный Парк",
+    nameEn: "South Park",
+    scheduleRemark: "Мультсериал × 1 Сезон 7-10 Эпизод",
+    scheduleType: "schedule-past",
+    date: "12.02.26",
+  },
+  {
+    nameRu: "Покер",
+    scheduleType: "schedule-past",
+    date: "12.02.26",
+  },
+  // Пятница
+  {
+    nameRu: "Стрим не состоялся :[",
+    scheduleType: "schedule-past",
+    date: "13.02.26",
+  },
+	// Суббота
+  {
+    nameRu: "Стрим невозможен :[",
+    scheduleType: "schedule-past",
+    date: "14.02.26",
+  },
+  // Воскресенье
+  {
+    nameRu: "Стрим не состоялся :[",
+    scheduleType: "schedule-past",
+    date: "15.02.26",
+  },
+	// Понедельник
+  {
+    nameRu: "Американская история ужасов",
+    nameEn: "American Horror Story: Hotel",
+    scheduleRemark: "Сериал × 5 Сезон 7-8 Эпизод",
+    scheduleType: "schedule-past",
+    date: "16.02.26",
+  },
+  {
+    nameRu: "Machinarium",
+    scheduleRemark: "Игра",
+    scheduleType: "schedule-past",
+    date: "16.02.26",
+  },
+  {
+    nameRu: "Троя",
+    nameEn: "Troy",
+    scheduleRemark: "Фильм",
+    scheduleType: "schedule-past",
+    date: "16.02.26",
+  },
+  // Вторник
+  {
+    nameRu: "Machinarium",
+    scheduleRemark: "Игра",
+    scheduleType: "schedule-past",
+    date: "17.02.26",
+  },
+  {
+    nameRu: "Покер",
+    scheduleRemark: "Тип × Серии",
+    scheduleType: "schedule-past",
+    date: "17.02.26",
+  },
+  // Среда
+  {
+    nameRu: "Американская история ужасов",
+    nameEn: "American Horror Story: Hotel",
+    scheduleRemark: "Сериал × 5 Сезон 11-12 Эпизод",
+    scheduleType: "schedule-past",
+    date: "18.02.26",
+  },
+  {
+    nameRu: "Machinarium",
+    scheduleRemark: "Игра",
+    scheduleType: "schedule-past",
+    date: "18.02.26",
+  },
+  {
+    nameRu: "Покер",
+    scheduleType: "schedule-past",
+    date: "18.02.26",
+  },
+  // Четверг
+  {
+    nameRu: "Кромешная тьма",
+    nameEn: "Pitch Black",
+    scheduleRemark: "Фильм",
+    scheduleType: "schedule-past",
+    date: "19.02.26",
+  },
+  // Пятница
+  {
+    nameRu: "Стрим не состоялся :[",
+    scheduleType: "schedule-past",
+    date: "20.02.26",
+  },
+	// Суббота
+  {
+    nameRu: "Стрим невозможен :[",
+    scheduleType: "schedule-past",
+    date: "21.02.26",
+  },
+  // Воскресенье
+  {
+    nameRu: "Моя геройская академия",
+    nameEn: "Boku no Hero Academia",
+    scheduleRemark: "Аниме × 5 Сезон 1-11 Эпизод",
+    scheduleType: "schedule-past",
+    date: "22.02.26",
+  },
+	// Понедельник
+  {
+    nameRu: "Немыслимое",
+    nameEn: "Unthinkable",
+    scheduleRemark: "Фильм",
+    scheduleType: "schedule-past",
+    date: "23.02.26",
+  },
+  {
+    nameRu: "Иван Васильевич меняет профессию",
+    scheduleRemark: "Фильм",
+    scheduleType: "schedule-past",
+    date: "23.02.26",
+  },
+  {
+    nameRu: "Джуманджи",
+    nameEn: "Jumanji",
+    scheduleRemark: "Фильм",
+    scheduleType: "schedule-past",
+    date: "23.02.26",
+  },
+  // Вторник
+  {
+    nameRu: "Стрим не состоялся :[",
+    scheduleType: "schedule-past",
+    date: "24.02.26",
+  },
+  // Среда
+  {
+    nameRu: "Союз Серокрылых",
+    nameEn: "Haibane Renmei",
+    scheduleRemark: "Аниме × 1 Сезон 1-13 Эпизод",
+    scheduleType: "schedule-past",
+    date: "25.02.26",
+  },
+  {
+    nameRu: "С широко закрытыми глазами",
+    nameEn: "Eyes Wide Shut",
+    scheduleRemark: "Фильм",
+    scheduleType: "schedule-past",
+    date: "25.02.26",
+  },
+  // Четверг
+  {
+    nameRu: "Выходной день Ферриса Бьюллера",
+    nameEn: "Ferris Bueller's Day Off",
+    scheduleRemark: "Фильм",
+    scheduleType: "schedule-past",
+    date: "26.02.26",
+  },
+  {
+    nameRu: "Чёрный клевер: Меч короля магов",
+    nameEn: "Black Clover: Mahou Tei no Ken",
+    scheduleRemark: "Полнометражка",
+    scheduleType: "schedule-past",
+    date: "26.02.26",
+  },
+  {
+    nameRu: "Хроники Риддика",
+    nameEn: "The Chronicles of Riddick",
+    scheduleRemark: "Фильм",
+    scheduleType: "schedule-past",
+    date: "26.02.26",
+  },
+  // Пятница
+  {
+    nameRu: "Стрим не состоялся :[",
+    scheduleType: "schedule-past",
+    date: "27.02.26",
+  },
+	// Суббота
+  {
+    nameRu: "Стрим невозможен :[",
+    scheduleType: "schedule-past",
+    date: "28.02.26",
+  },
+  // Воскресенье
+  {
+    nameRu: "Инуяшики",
+    nameEn: "Inuyashiki",
+    scheduleRemark: "Аниме × 1 Сезон 1-4 Эпизод",
+    scheduleType: "schedule-past",
+    date: "01.03.26",
+  },
+  {
+    nameRu: "Для тебя, Бессмертный",
+    nameEn: "Fumetsu no Anata e",
+    scheduleRemark: "Аниме × 2 Сезон 1-4 Эпизод",
+    scheduleType: "schedule-past",
+    date: "01.03.26",
+  },
+  {
+    nameRu: "Белая птица",
+    nameEn: "White Bird",
+    scheduleRemark: "Фильм",
+    scheduleType: "schedule-past",
+    date: "01.03.26",
+  },
+  // Понедельник
+  {
+    nameRu: "Стрим невозможен :[",
+    scheduleType: "schedule-past",
+    date: "02.03.26",
+  },
+  // Вторник
+  {
+    nameRu: "Стрим не состоялся :[",
+    scheduleType: "schedule-past",
+    date: "03.03.26",
+  },
+  // Среда
+  {
+    nameRu: "Американская история ужасов",
+    nameEn: "American Horror Story: Hotel",
+    scheduleRemark: "Сериал × 5 Сезон 11-12 Эпизод",
+    scheduleType: "schedule-past",
+    date: "04.03.26",
+  },
+  {
+    nameRu: "Декстер",
+    nameEn: "Dexter",
+    scheduleRemark: "Сериал × 6 Сезон 1-2 Эпизод",
+    scheduleType: "schedule-past",
+    date: "04.03.26",
+  },
+  {
+    nameRu: "Сопрано",
+    nameEn: "The Sopranos",
+    scheduleRemark: "Сериал × 2 Сезон 7-8 Эпизод",
+    scheduleType: "schedule-past",
+    date: "04.03.26",
+  },
+  // Четверг
+  {
+    nameRu: "Моя геройская академия",
+    nameEn: "Boku no Hero Academia",
+    scheduleRemark: "Аниме × 5 Сезон 12-23 Эпизод",
+    scheduleType: "schedule-past",
+    date: "05.03.26",
+  },
+  // Пятница
+  {
+    nameRu: "Сопрано",
+    nameEn: "The Sopranos",
+    scheduleRemark: "Сериал × 2 Сезон 9-13 Эпизод",
+    scheduleType: "schedule-past",
+    date: "06.03.26",
+  },
+  // Суббота
+  {
+    nameRu: "Стрим невозможен :[",
+    scheduleType: "schedule-past",
+    date: "07.03.26",
+  },
+  // Воскресенье
+  {
+    nameRu: "Шестое чувство",
+    nameEn: "The Sixth Sense",
+    scheduleRemark: "Фильм",
+    scheduleType: "schedule-past",
+    date: "08.03.26",
+  },
+  {
+    nameRu: "Риддик",
+    nameEn: "Riddick",
+    scheduleRemark: "Фильм",
+    scheduleType: "schedule-past",
+    date: "08.03.26",
+  },
+  {
+    nameRu: "Южный Парк",
+    nameEn: "South Park",
+    scheduleRemark: "Мультсериал × 1 Сезон 6, 11-13 Эпизод",
+    scheduleType: "schedule-past",
+    date: "08.03.26",
+  },
+  // Понедельник
+  {
+    nameRu: "Стрим невозможен :[",
+    scheduleType: "schedule-past",
+    date: "09.03.26",
+  },
+  // Вторник
+  {
+    nameRu: "Стрим не состоялся :[",
+    scheduleType: "schedule-past",
+    date: "10.03.26",
+  },
+  // Среда
+  {
+    nameRu: "Соучастник",
+    nameEn: "Collateral",
+    scheduleRemark: "Фильм",
+    scheduleType: "schedule-past",
+    date: "11.03.26",
+  },
+  {
+    nameRu: "Южный Парк",
+    nameEn: "South Park",
+    scheduleRemark: "Мультсериал × 2 Сезон 1-4 Эпизод",
+    scheduleType: "schedule-past",
+    date: "11.03.26",
+  },
+  // Четверг
+  {
+    nameRu: "Стрим не состоялся :[",
+    scheduleType: "schedule-past",
+    date: "12.03.26",
+  },
+  // Пятница
+  {
+    nameRu: "Очень страшное кино",
+    nameEn: "Scary Movie",
+    scheduleRemark: "Фильм",
+    scheduleType: "schedule-past",
+    date: "13.03.26",
+  },
+  {
+    nameRu: "Моя геройская академия",
+    nameEn: "Boku no Hero Academia",
+    scheduleRemark: "Аниме × 5 Сезон 24-25 Эпизод",
+    scheduleType: "schedule-past",
+    date: "13.03.26",
+  },
+  {
+    nameRu: "Моя геройская академия",
+    nameEn: "Boku no Hero Academia",
+    scheduleRemark: "Аниме × 6 Сезон 1-10 Эпизод",
+    scheduleType: "schedule-past",
+    date: "13.03.26",
+  },
+  // Суббота
+  {
+    nameRu: "Стрим невозможен :[",
+    scheduleType: "schedule-past",
+    date: "14.03.26",
+  },
+  // Воскресенье
+  {
+    nameRu: "У меня нет любовницы! (А может и есть?!)",
+    nameEn: "Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri!",
+    scheduleRemark: "Аниме × 1 Сезон 1-4 Эпизод",
+    scheduleType: "schedule-past",
+    date: "15.03.26",
+  },
+  {
+    nameRu: "Турбо-пацан",
+    nameEn: "Turbo Kid",
+    scheduleRemark: "Фильм",
+    scheduleType: "schedule-past",
+    date: "15.03.26",
+  },
+  {
+    nameRu: "Ван Пис. Большой куш",
+    nameEn: "One Piece",
+    scheduleRemark: "Сериал × 2 Сезон 1-3 Эпизод",
+    scheduleType: "schedule-past",
+    date: "15.03.26",
+  },
+  // Понедельник
+  {
+    nameRu: "Стрим невозможен :[",
+    scheduleType: "schedule-past",
+    date: "16.03.26",
+  },
+  // Вторник
+  {
+    nameRu: "Планета сокровищ",
+    nameEn: "Treasure Planet",
+    scheduleRemark: "Мультфильм",
+    scheduleType: "schedule-past",
+    date: "17.03.26",
+  },
+  {
+    nameRu: "Декстер",
+    nameEn: "Dexter",
+    scheduleRemark: "Сериал × 6 Сезон 3-4 Эпизод",
+    scheduleType: "schedule-past",
+    date: "17.03.26",
+  },
+  // Среда
+  {
+    nameRu: "Американская история ужасов",
+    nameEn: "American Horror Story: Apocalypse",
+    scheduleRemark: "Сериал × 8 Сезон 1-2 Эпизод",
+    scheduleType: "schedule-past",
+    date: "18.03.26",
+  },
+  {
+    nameRu: "Ох уж этот экстрасенс Сайки Кусуо!",
+    nameEn: "Saiki Kusuo no Ψ-nan",
+    scheduleRemark: "Аниме × 1 Сезон 9-12 Эпизод",
+    scheduleType: "schedule-past",
+    date: "18.03.26",
+  },
+  {
+    nameRu: "Омен",
+    nameEn: "The Omen",
+    scheduleRemark: "Фильм",
+    scheduleType: "schedule-past",
+    date: "18.03.26",
+  },
+  // Четверг
+  {
+    nameRu: "Сопрано",
+    nameEn: "The Sopranos",
+    scheduleRemark: "Сериал × 3 Сезон 1-2 Эпизод",
+    scheduleType: "schedule-past",
+    date: "19.03.26",
+  },
+  {
+    nameRu: "Южный Парк",
+    nameEn: "South Park",
+    scheduleRemark: "Мультсериал × 2 Сезон 5-8 Эпизод",
+    scheduleType: "schedule-past",
+    date: "19.03.26",
+  },
+  {
+    nameRu: "CODA: Ребёнок глухих родителей",
+    scheduleRemark: "Фильм",
+    scheduleType: "schedule-past",
+    date: "19.03.26",
+  },
+  // Пятница
+  {
+    nameRu: "Стрим не состоялся :[",
+    scheduleType: "schedule-past",
+    date: "20.03.26",
+  },
+  // Суббота
+  {
+    nameRu: "Стрим невозможен :[",
+    scheduleType: "schedule-past",
+    date: "21.03.26",
+  },
+  // Воскресенье
+  {
+    nameRu: "Моя геройская академия",
+    nameEn: "Boku no Hero Academia",
+    scheduleRemark: "Аниме × 6 Сезон 11-25 Эпизод",
+    scheduleType: "schedule-past",
+    date: "22.03.26",
+  },
+  // Понедельник
+  {
+    nameRu: "Стрим невозможен :[",
+    scheduleType: "schedule-past",
+    date: "23.03.26",
+  },
+  // Вторник
+  {
+    nameRu: "Стрим не состоялся :[",
+    scheduleType: "schedule-past",
+    date: "24.03.26",
+  },
+  // Среда
+  {
+    nameRu: "Американская история ужасов",
+    nameEn: "American Horror Story: Apocalypse",
+    scheduleRemark: "Сериал × 8 Сезон 3-4 Эпизод",
+    scheduleType: "schedule-past",
+    date: "25.03.26",
+  },
+  {
+    nameRu: "Киберслав",
+    scheduleRemark: "Мультсериал × 1 Сезон 1-4 Эпизод",
+    scheduleType: "schedule-past",
+    date: "25.03.26",
+  },
+  {
+    nameRu: "Ван Пис. Большой куш",
+    nameEn: "One Piece",
+    scheduleRemark: "Сериал × 2 Сезон 4-7 Эпизод",
+    scheduleType: "schedule-past",
+    date: "25.03.26",
+  },
+  // Четверг
+  {
+    nameRu: "Звёздные войны: Войны клонов",
+    nameEn: "Star Wars: The Clone Wars",
+    scheduleRemark: "Мультсериал × 5 Сезон 5-12 Эпизод",
+    scheduleType: "schedule-past",
+    date: "26.03.26",
+  },
+  // Пятница
+  {
+    nameRu: "Звёздные войны: Войны клонов",
+    nameEn: "Star Wars: The Clone Wars",
+    scheduleRemark: "Мультсериал × 5 Сезон 13-20 Эпизод",
+    scheduleType: "schedule-past",
+    date: "27.03.26",
+  },
+  {
+    nameRu: "Slay the Princess",
+    scheduleRemark: "Игра",
+    scheduleType: "schedule-past",
+    date: "27.03.26",
+  },
+  // Суббота
+  {
+    nameRu: "Стрим невозможен :[",
+    scheduleType: "schedule-past",
+    date: "28.03.26",
+  },
+  // Воскресенье
+  {
+    nameRu: "Slay the Princess",
+    scheduleRemark: "Игра",
+    scheduleType: "schedule-past",
+    date: "29.03.26",
+  },
+  {
+    nameRu: "Звёздные войны: Войны клонов",
+    nameEn: "Star Wars: The Clone Wars",
+    scheduleRemark: "Мультсериал × 6 Сезон 1-7 Эпизод",
+    scheduleType: "schedule-past",
+    date: "29.03.26",
+  },
+  // Понедельник
+  {
+    nameRu: "Стрим невозможен :[",
+    scheduleType: "schedule-past",
+    date: "30.03.26",
+  },
+  // Вторник
+  {
+    nameRu: "Стрим не состоялся :[",
+    scheduleType: "schedule-past",
+    date: "31.03.26",
+  },
   // Среда
   {
     nameRu: "Стрим не состоялся :[",
@@ -240,7 +923,7 @@ const scheduleDatabase = [
   {
     nameRu: "Декстер",
     nameEn: "Dexter",
-    scheduleRemark: "Сериал × 6 Сезон 6-7 Эпизод",
+    scheduleRemark: "Сериал × 6 Сезон 5-6 Эпизод",
     scheduleType: "schedule-past",
     date: "09.04.26",
   },

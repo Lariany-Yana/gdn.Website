@@ -820,6 +820,7 @@ const fullmeterMoviePopups = {
     { pasteCard: "Fullmeter-Cartoon_Spider-Man" },
     { pasteCard: "Series-Serials_Moon-Knight" },
     { pasteCard: "Series-Cartoon_What-If" },
+    { pasteCard: "Fullmeter-Movie_Blade" },
     { pasteCard: "Fullmeter-Movie_Fantastic-Four" },
     { pasteCard: "Series-Serials_Spider-Noir" },
     { pasteCard: "Fullmeter-Movie_Fantastic-Four-First-Steps" },

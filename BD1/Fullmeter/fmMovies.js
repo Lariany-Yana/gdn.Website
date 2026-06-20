@@ -2639,6 +2639,14 @@ const fullmeterMovie = [
     cardType: "fullmeter-Movie",
   },
   {
+    nameRu: "Сияние",
+    nameEn: "The Shining",
+    titleLost: "lost",
+    id: "Fullmeter-Movie_The-Shining",
+    posterImage: "https://static.tildacdn.com/tild3332-3236-4637-b061-303430636262/img.webp",
+    cardType: "fullmeter-Movie",
+  },
+  {
     nameRu: "Сквозь горизонт",
     nameEn: "Event Horizon",
     donutTerms: "donut-lvl-3",
@@ -2667,7 +2675,7 @@ const fullmeterMovie = [
   {
     nameRu: "Славные парни",
     nameEn: "Goodfellas",
-		titleStatus: "Первая половина утеряна",
+    titleStatus: "Первая половина утеряна",
     titleLink: ["vk", "video-208448461_456241101?t=1m6s"],
     id: "Fullmeter-Movie_Goodfellas",
     posterImage: "https://static.tildacdn.com/tild6465-3934-4461-a166-396335623433/img.webp",
