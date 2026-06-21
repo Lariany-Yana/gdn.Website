@@ -9,76 +9,56 @@ const scheduleDatabase = [
     date: "00.06.26",
   },
 	*/
+  //#endregion
   // Понедельник
   {
     nameRu: "Стрим невозможен :[",
     scheduleType: "schedule-current",
-    date: "15.06.26",
+    date: "22.06.26",
   },
   // Вторник
   {
-    nameRu: "Стрим не состоялся :[",
+    nameRu: "Стрим вполне вероятен :]",
+    scheduleRemark: "",
     scheduleType: "schedule-current",
-    date: "16.06.26",
+    date: "23.06.26",
   },
   // Среда
   {
-    nameRu: "Отец",
-    nameEn: "Oyaji",
-    scheduleRemark: "Манга × 17-25 Главы",
+    nameRu: "Стрим маловероятен :|",
+    scheduleRemark: "",
     scheduleType: "schedule-current",
-    date: "17.06.26",
-  },
-  {
-    nameRu: "Ван Пис",
-    nameEn: "One Piece",
-    scheduleRemark: "Манга × 1172-1181 Главы",
-    scheduleType: "schedule-current",
-    date: "17.06.26",
-  },
-  {
-    nameRu: "Капитан Америка: Дивный новый мир",
-    nameEn: "Captain America: Brave New World",
-    scheduleRemark: "Фильм",
-    scheduleType: "schedule-current",
-    date: "17.06.26",
+    date: "24.06.26",
   },
   // Четверг
   {
-    nameRu: "Декстер",
-    nameEn: "Dexter",
-    scheduleRemark: "Сериал × 7 Сезон 7-8 Эпизод",
+    nameRu: "Стрим маловероятен :|",
+    scheduleRemark: "",
     scheduleType: "schedule-current",
-    date: "18.06.26",
-  },
-  {
-    nameRu: "Goat: Мечтай по-крупному",
-    scheduleRemark: "Мультфильм",
-    scheduleType: "schedule-current",
-    date: "18.06.26",
+    date: "25.06.26",
   },
   // Пятница
   {
-    nameRu: "Стрим не состоялся :[",
+    nameRu: "Стрим вполне вероятен :]",
+    scheduleRemark: "",
     scheduleType: "schedule-current",
-    date: "19.06.26",
+    date: "26.06.26",
   },
   // Суббота
   {
     nameRu: "Стрим невозможен :[",
     scheduleType: "schedule-current",
-    date: "20.06.26",
+    date: "27.06.26",
   },
   // Воскресенье
   {
     nameRu: "Стрим вполне вероятен :]",
     scheduleRemark: "",
     scheduleType: "schedule-current",
-    date: "21.06.26",
+    date: "28.06.26",
   },
-  //#endregion
-  //#region Старое
 
+  //#region Старое
   /* ШАБЛОН Старое
 	// Понедельник
   {
@@ -147,7 +127,7 @@ const scheduleDatabase = [
     scheduleType: "schedule-past",
     date: "01.02.26",
   },
-	// Понедельник
+  // Понедельник
   {
     nameRu: "Стрим невозможен :[",
     scheduleType: "schedule-past",
@@ -206,7 +186,7 @@ const scheduleDatabase = [
     scheduleType: "schedule-past",
     date: "06.02.26",
   },
-	// Суббота
+  // Суббота
   {
     nameRu: "Стрим невозможен :[",
     scheduleType: "schedule-past",
@@ -220,7 +200,7 @@ const scheduleDatabase = [
     scheduleType: "schedule-past",
     date: "08.02.26",
   },
-	// Понедельник
+  // Понедельник
   {
     nameRu: "Стрим невозможен :[",
     scheduleType: "schedule-past",
@@ -293,7 +273,7 @@ const scheduleDatabase = [
     scheduleType: "schedule-past",
     date: "13.02.26",
   },
-	// Суббота
+  // Суббота
   {
     nameRu: "Стрим невозможен :[",
     scheduleType: "schedule-past",
@@ -305,7 +285,7 @@ const scheduleDatabase = [
     scheduleType: "schedule-past",
     date: "15.02.26",
   },
-	// Понедельник
+  // Понедельник
   {
     nameRu: "Американская история ужасов",
     nameEn: "American Horror Story: Hotel",
@@ -372,7 +352,7 @@ const scheduleDatabase = [
     scheduleType: "schedule-past",
     date: "20.02.26",
   },
-	// Суббота
+  // Суббота
   {
     nameRu: "Стрим невозможен :[",
     scheduleType: "schedule-past",
@@ -386,7 +366,7 @@ const scheduleDatabase = [
     scheduleType: "schedule-past",
     date: "22.02.26",
   },
-	// Понедельник
+  // Понедельник
   {
     nameRu: "Немыслимое",
     nameEn: "Unthinkable",
@@ -456,7 +436,7 @@ const scheduleDatabase = [
     scheduleType: "schedule-past",
     date: "27.02.26",
   },
-	// Суббота
+  // Суббота
   {
     nameRu: "Стрим невозможен :[",
     scheduleType: "schedule-past",
@@ -1625,55 +1605,71 @@ const scheduleDatabase = [
     scheduleType: "schedule-past",
     date: "14.06.26",
   },
-  //#endregion
-];
-
-/* ~ИЮНЬ 22-28~
   // Понедельник
   {
     nameRu: "Стрим невозможен :[",
-    scheduleType: "schedule-current",
-    date: "22.06.26",
+    scheduleType: "schedule-past",
+    date: "15.06.26",
   },
   // Вторник
   {
-    nameRu: "Стрим вполне вероятен :]",
-    scheduleRemark: "",
-    scheduleType: "schedule-current",
-    date: "23.06.26",
+    nameRu: "Стрим не состоялся :[",
+    scheduleType: "schedule-past",
+    date: "16.06.26",
   },
   // Среда
   {
-    nameRu: "Стрим маловероятен :|",
-    scheduleRemark: "",
-    scheduleType: "schedule-current",
-    date: "24.06.26",
+    nameRu: "Отец",
+    nameEn: "Oyaji",
+    scheduleRemark: "Манга × 17-25 Главы",
+    scheduleType: "schedule-past",
+    date: "17.06.26",
+  },
+  {
+    nameRu: "Ван Пис",
+    nameEn: "One Piece",
+    scheduleRemark: "Манга × 1172-1181 Главы",
+    scheduleType: "schedule-past",
+    date: "17.06.26",
+  },
+  {
+    nameRu: "Капитан Америка: Дивный новый мир",
+    nameEn: "Captain America: Brave New World",
+    scheduleRemark: "Фильм",
+    scheduleType: "schedule-past",
+    date: "17.06.26",
   },
   // Четверг
   {
-    nameRu: "Стрим маловероятен :|",
-    scheduleRemark: "",
-    scheduleType: "schedule-current",
-    date: "25.06.26",
+    nameRu: "Декстер",
+    nameEn: "Dexter",
+    scheduleRemark: "Сериал × 7 Сезон 7-8 Эпизод",
+    scheduleType: "schedule-past",
+    date: "18.06.26",
+  },
+  {
+    nameRu: "Goat: Мечтай по-крупному",
+    scheduleRemark: "Мультфильм",
+    scheduleType: "schedule-past",
+    date: "18.06.26",
   },
   // Пятница
   {
-    nameRu: "Стрим вполне вероятен :]",
-    scheduleRemark: "",
-    scheduleType: "schedule-current",
-    date: "26.06.26",
+    nameRu: "Стрим не состоялся :[",
+    scheduleType: "schedule-past",
+    date: "19.06.26",
   },
   // Суббота
   {
     nameRu: "Стрим невозможен :[",
-    scheduleType: "schedule-current",
-    date: "27.06.26",
+    scheduleType: "schedule-past",
+    date: "20.06.26",
   },
   // Воскресенье
   {
-    nameRu: "Стрим вполне вероятен :]",
-    scheduleRemark: "",
-    scheduleType: "schedule-current",
-    date: "28.06.26",
+    nameRu: "Стрим не состоялся :[",
+    scheduleType: "schedule-past",
+    date: "21.06.26",
   },
-*/
+  //#endregion
+];
