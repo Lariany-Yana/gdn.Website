@@ -869,22 +869,21 @@ const ordersDatabase = [
     ],
   },
   {
-    nameRu: "Сверхъестественное",
-    nameEn: "Supernatural",
-    orderRemark: "Сериал × В заказе: 6 Сезон 1-4/22 Эпизод",
-    personalOrder: "user_Katya",
+    nameRu: "Магическая битва: Смертельная миграция",
+    nameEn: "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen",
+    orderRemark: "Аниме × В заказе: 3 Сезон 1-12/12 Эпизод",
     cardType: "order-waiting",
-    id: "order_Supernatural-6",
+    id: "order_007",
     items: [
       {
-        nickname: "Аноним",
-        slot: "0.25",
-        date: "15.03.25",
+        nickname: "Твою мать!",
+        slot: "2", // 3 Сезон 1-8 Эпизод
+        date: "02.12.25",
       },
       {
-        nickname: "Твою мать!",
-        slot: "2", // 6 Сезон 1-4 Эпизод
-        date: "02.12.25",
+        nickname: "Сулейка",
+        slot: "1", // 3 Сезон 9-12 Эпизод
+        date: "28.05.26",
       },
     ],
   },
@@ -1239,19 +1238,6 @@ const ordersDatabase = [
     ],
   },
   {
-    nameRu: "Магическая битва",
-    nameEn: "Jujutsu Kaisen",
-    cardType: "order-waiting",
-    id: "order_007",
-    items: [
-      {
-        nickname: "Сулейка",
-        slot: "1",
-        date: "28.05.26",
-      },
-    ],
-  },
-  {
     nameRu: "Crusader Kings III",
     orderRemark: "Игра",
     personalOrder: "user_Izida",
@@ -1491,6 +1477,17 @@ const ordersDatabase = [
   },
   //#endregion
   //#region ~Свапы~
+  {
+    nameRu_1: "Сверхъестественное",
+    nameEn_1: "Supernatural",
+    nameRu_2: "Магическая битва: Смертельная миграция",
+    nameEn_2: "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen",
+    orderRemark_1: "Сериал > 2 Слота > Аниме",
+    orderRemark_2: "Свап был 23.06.26 (Твою мать!)",
+    personalOrder: "user_Katya",
+    cardType: "order-switch",
+    items: [],
+  },
   {
     nameRu_1: "Need for Speed: Underground",
     nameRu_2: "Заклятие (Пересмотр пересмотра)",
