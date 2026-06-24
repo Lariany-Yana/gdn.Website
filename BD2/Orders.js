@@ -1548,7 +1548,6 @@ const ordersDatabase = [
   {
     nameRu: "Goat: Мечтай по-крупному",
     orderRemark: "Мультфильм",
-    personalOrder: "user_Edwin",
     cardType: "order-finished",
     items: [
       {
