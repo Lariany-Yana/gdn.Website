@@ -40,14 +40,21 @@ const scheduleDatabase = [
   {
     nameRu: "Викинги",
     nameEn: "Vikings",
-    scheduleRemark: "Сериал × Начало в 16:00 по МСК",
+    scheduleRemark: "Сериал × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "26.06.26",
+  },
+  {
+    nameRu: "Удивительный цифровой цирк",
+    nameEn: "The Amazing Digital Circus",
+    scheduleRemark: "Мультсериал × Начало в 18:00 по МСК",
     scheduleType: "schedule-current",
     date: "26.06.26",
   },
   {
     nameRu: "Рим",
     nameEn: "Rome",
-    scheduleRemark: "Сериал × Начало в 20:00 по МСК",
+    scheduleRemark: "Сериал × Начало в 19:00 по МСК",
     scheduleType: "schedule-current",
     date: "26.06.26",
   },
