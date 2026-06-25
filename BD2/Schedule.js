@@ -24,22 +24,30 @@ const scheduleDatabase = [
   },
   // Среда
   {
-    nameRu: "Стрим маловероятен :|",
-    scheduleRemark: "",
+    nameRu: "Стрим не состоялся :[",
     scheduleType: "schedule-current",
     date: "24.06.26",
   },
   // Четверг
   {
-    nameRu: "Стрим маловероятен :|",
-    scheduleRemark: "",
+    nameRu: "Удивительный цифровой цирк",
+    nameEn: "The Amazing Digital Circus",
+    scheduleRemark: "Мультсериал × Начало в 16:00 по МСК",
     scheduleType: "schedule-current",
     date: "25.06.26",
   },
   // Пятница
   {
-    nameRu: "Стрим вполне вероятен :]",
-    scheduleRemark: "",
+    nameRu: "Викинги",
+    nameEn: "Vikings",
+    scheduleRemark: "Сериал × Начало в 16:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "26.06.26",
+  },
+  {
+    nameRu: "Рим",
+    nameEn: "Rome",
+    scheduleRemark: "Сериал × Начало в 20:00 по МСК",
     scheduleType: "schedule-current",
     date: "26.06.26",
   },
@@ -51,8 +59,22 @@ const scheduleDatabase = [
   },
   // Воскресенье
   {
-    nameRu: "Стрим вполне вероятен :]",
-    scheduleRemark: "",
+    nameRu: "Ещё вчера",
+    nameEn: "Omohide poro poro",
+    scheduleRemark: "Полнометражка × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "28.06.26",
+  },
+  {
+    nameRu: "GTA Vice City: The Next-Gen Edition",
+    scheduleRemark: "Игра × Начало в 17:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "28.06.26",
+  },
+  {
+    nameRu: "В лес, где мерцают светлячки",
+    nameEn: "Hotarubi no Mori e",
+    scheduleRemark: "Полнометражка × Начало в 19:00 по МСК",
     scheduleType: "schedule-current",
     date: "28.06.26",
   },
