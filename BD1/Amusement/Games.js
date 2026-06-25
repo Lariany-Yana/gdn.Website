@@ -61,7 +61,7 @@ const amusementGames = [
     nameRu: "Choo-Choo Charles",
     titleStatus: "Наиграно: До финала",
     donutTerms: "donut-lvl-2",
-    titleLink: ["vk", "video-208448461_456240639?t=8h23m33s"],
+    titleLink: ["vk", "video-208448461_456239971?t=5h20m11s"],
     id: "Amusement-Games_Choo-Choo-Charles",
     posterImage: "https://static.tildacdn.com/tild3830-3165-4534-a431-396437643335/Choo-Choo_Charles.webp",
     cardType: "amusement-Game",
