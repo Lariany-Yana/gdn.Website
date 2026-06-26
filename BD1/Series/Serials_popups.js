@@ -451,6 +451,16 @@ const seriesSerialsPopups = {
         },
       ],
     },
+    {
+      seasonName: "3 Сезон",
+      items: [
+        {
+          title: "1 Эпизод",
+          source: "vk",
+          link: "video-208448461_456241856?t=26m58s",
+        },
+      ],
+    },
   ],
   "Series-Serials_Breaking-Bad": [
     {
@@ -3310,6 +3320,18 @@ const seriesSerialsPopups = {
           title: "7-10 Эпизод",
           source: "vk",
           link: "video-208448461_456240034?t=11m59s",
+        },
+      ],
+    },
+  ],
+  "Series-Serials_Rome": [
+    {
+      seasonName: "1 Сезон",
+      items: [
+        {
+          title: "1-2 Эпизод",
+          source: "vk",
+          link: "video-208448461_456241856?t=3h35m13s",
         },
       ],
     },

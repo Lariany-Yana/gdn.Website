@@ -90,7 +90,7 @@ const seriesSerials = [
   {
     nameRu: "Викинги",
     nameEn: "Vikings",
-    titleStatus: "Просмотрено: 2 Сезона",
+    titleStatus: "Просмотрено: 1-2 Сезон, 3 Сезон 1/10 Эпизод",
     donutTerms: "donut-lvl-3",
     id: "Series-Serials_Vikings",
     posterImage: "https://static.tildacdn.com/tild3661-3234-4966-b865-396236623565/photo.webp",
@@ -512,6 +512,15 @@ const seriesSerials = [
     donutTerms: "donut-lvl-2",
     id: "Series-Serials_The-Wire",
     posterImage: "https://static.tildacdn.com/tild3362-3635-4634-b339-343666343130/photo.webp",
+    cardType: "series-Serial",
+  },
+  {
+    nameRu: "Рим",
+    nameEn: "Rome",
+    titleStatus: "Просмотрено: 1 Сезон 1-2/12 Эпизод",
+    donutTerms: "donut-lvl-3",
+    id: "Series-Serials_Rome",
+    posterImage: "https://static.tildacdn.com/tild3362-3139-4838-b139-373436313134/img.webp",
     cardType: "series-Serial",
   },
   {

@@ -350,7 +350,7 @@ const seriesCartoons = [
   {
     nameRu: "Удивительный цифровой цирк",
     nameEn: "The Amazing Digital Circus",
-    titleStatus: "Просмотрено: 1 Сезон 1-7/9 Эпизод",
+    titleStatus: "Просмотрено: 1 Сезон 1-9/9 Эпизод",
     donutTerms: "donut-lvl-3",
     id: "Series-Cartoon_The-Amazing-Digital-Circus",
     posterImage: "https://static.tildacdn.com/tild3834-3633-4166-a430-353637616465/img.webp",

@@ -18,15 +18,15 @@ const ordersDatabase = [
 
   //#region ~В процессе~
   {
-    nameRu: "Удивительный цифровой цирк",
-    nameEn: "The Amazing Digital Circus",
-    orderRemark: "Мультсериал × Просмотрено: 1 Сезон 1-7/9 Эпизод",
+    nameRu: "Викинги",
+    nameEn: "Vikings",
+    orderRemark: "Сериал × Просмотрено: 3 Сезон 1/10 Эпизод",
     cardType: "order-during",
-    id: "order_The-Amazing-Digital-Circus",
+    id: "order_Vikings-3",
     items: [
       {
-        nickname: "1с 1-7эп",
-        slot: "2", // 1-7 Эпизод
+        nickname: "1с 1эп",
+        slot: "0.5", // 1 Эпизод
         date: "В уточнении",
         was: "owe",
       },
@@ -429,14 +429,20 @@ const ordersDatabase = [
   {
     nameRu: "Рим",
     nameEn: "Rome",
-    orderRemark: "Сериал × В заказе: 1 Сезон 1-12/12 Эпизод",
+    orderRemark: "Сериал × В заказе: 1 Сезон 3-12/12 Эпизод",
     personalOrder: "user_Misty",
     cardType: "order-waiting",
     id: "order_Rome-1",
     items: [
       {
         nickname: "Мисти",
-        slot: "2", // 1 Сезон 1-4 Эпизод
+        slot: "1", // 1 Сезон 1-2 Эпизод
+        date: "18.05.25",
+        was: "was",
+      },
+      {
+        nickname: "Мисти",
+        slot: "1", // 1 Сезон 3-4 Эпизод
         date: "18.05.25",
       },
       {
@@ -1546,6 +1552,20 @@ const ordersDatabase = [
   },
   //#endregion
   //#region ~Просмотренное~
+  {
+    nameRu: "Удивительный цифровой цирк",
+    nameEn: "The Amazing Digital Circus",
+    orderRemark: "Мультсериал × Просмотрено: 1 Сезон 1-9/9 Эпизод",
+    cardType: "order-finished",
+    items: [
+      {
+        nickname: "1с 1-9эп",
+        slot: "2.5", // 1-9 Эпизод
+        date: "В уточнении",
+        was: "owe",
+      },
+    ],
+  },
   {
     nameRu: "Капитан Америка: Дивный новый мир",
     nameEn: "Captain America: Brave New World",
