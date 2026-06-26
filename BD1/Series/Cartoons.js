@@ -348,6 +348,15 @@ const seriesCartoons = [
     cardType: "series-Cartoon",
   },
   {
+    nameRu: "Удивительный цифровой цирк",
+    nameEn: "The Amazing Digital Circus",
+    titleStatus: "Просмотрено: 1 Сезон 1-7/9 Эпизод",
+    donutTerms: "donut-lvl-3",
+    id: "Series-Cartoon_The-Amazing-Digital-Circus",
+    posterImage: "https://static.tildacdn.com/tild3834-3633-4166-a430-353637616465/img.webp",
+    cardType: "series-Cartoon",
+  },
+  {
     nameRu: "Халк против Люди-Икс",
     nameEn: "Hulk vs",
     titleStatus: "Просмотрено: 1-2/2 Эпизод",

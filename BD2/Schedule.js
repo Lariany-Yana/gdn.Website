@@ -32,7 +32,7 @@ const scheduleDatabase = [
   {
     nameRu: "Удивительный цифровой цирк",
     nameEn: "The Amazing Digital Circus",
-    scheduleRemark: "Мультсериал × Начало в 16:00 по МСК",
+    scheduleRemark: "Мультсериал × 1 Сезон 1-7 Эпизод",
     scheduleType: "schedule-current",
     date: "25.06.26",
   },

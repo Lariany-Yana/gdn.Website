@@ -1666,6 +1666,18 @@ const seriesCartoonsPopups = {
       ],
     },
   ],
+  "Series-Cartoon_The-Amazing-Digital-Circus": [
+    {
+      seasonName: "1 Сезон",
+      items: [
+        {
+          title: "1-7 Эпизод",
+          source: "vk",
+          link: "video-208448461_456241855?t=5m21s",
+        },
+      ],
+    },
+  ],
   "Series-Cartoon_Scavengers-Reign": [
     {
       seasonName: "1 Сезон",

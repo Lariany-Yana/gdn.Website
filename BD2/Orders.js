@@ -18,6 +18,21 @@ const ordersDatabase = [
 
   //#region ~В процессе~
   {
+    nameRu: "Удивительный цифровой цирк",
+    nameEn: "The Amazing Digital Circus",
+    orderRemark: "Мультсериал × Просмотрено: 1 Сезон 1-7/9 Эпизод",
+    cardType: "order-during",
+    id: "order_The-Amazing-Digital-Circus",
+    items: [
+      {
+        nickname: "1с 1-7эп",
+        slot: "2", // 1-7 Эпизод
+        date: "В уточнении",
+        was: "owe",
+      },
+    ],
+  },
+  {
     nameRu: "Ван Пис",
     nameEn: "One Piece",
     orderRemark: "Аниме × В заказе: 1 Сезон 1158-1164 Эпизод",
