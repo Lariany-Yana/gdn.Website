@@ -83,6 +83,7 @@ class SiteEngine {
   constructor(config) {
     this.config = config;
     this.indexedData = [];
+    this.alphabetObserver = null;
 
     if (document.readyState === "loading") {
       document.addEventListener("DOMContentLoaded", () => this.init());
@@ -159,6 +160,7 @@ class SiteEngine {
       if (template) {
         this.main.appendChild(template.content.cloneNode(true));
       }
+      setTimeout(() => this.updateAlphabetNavigation(), 50);
       return;
     }
 
@@ -167,6 +169,7 @@ class SiteEngine {
     const filtered = this.config.database.filter((item) => item.cardType === type);
     if (filtered.length === 0) {
       this.main.innerHTML = `<div class="empty-state">Список пуст</div>`;
+      setTimeout(() => this.updateAlphabetNavigation(), 50);
       return;
     }
 
@@ -196,7 +199,9 @@ class SiteEngine {
     });
 
     this.main.appendChild(fragment);
+    setTimeout(() => this.updateAlphabetNavigation(), 50);
   }
+
   renderFavorites(container) {
     container.innerHTML = "";
 
@@ -223,6 +228,7 @@ class SiteEngine {
       this.indexedData = this.config.getFlatDatabase(this.config.database);
     }
   }
+
   toggleFavorite(id) {
     if (!this.favorites) return;
     if (!id || String(id).trim() === "" || id === "undefined") return;
@@ -421,6 +427,127 @@ class SiteEngine {
       });
       SiteEngine.globalKeydownBound = true;
     }
+  }
+
+  // =======================================================================
+  // Интегрированный метод: Алфавитная навигация
+  // =======================================================================
+  updateAlphabetNavigation() {
+    const alphabetContainer = document.querySelector(".alphabet");
+    if (!alphabetContainer) return;
+
+    alphabetContainer.innerHTML = "";
+    if (this.alphabetObserver) {
+      this.alphabetObserver.disconnect();
+    }
+
+    const scrollContainer = document.querySelector(".window");
+    const mainContainer = this.main;
+
+    if (!scrollContainer || !mainContainer) return;
+
+    const sections = mainContainer.querySelectorAll(".card-section");
+    if (sections.length === 0) return;
+
+    const fragment = document.createDocumentFragment();
+    const sectionMap = new Map();
+
+    sections.forEach((section) => {
+      const header = section.querySelector(".card-section-name");
+      if (!header) return;
+
+      const letter = header.textContent.trim().toUpperCase();
+      if (!letter) return;
+
+      if (!section.id) {
+        section.id = `anchor-${letter}-${Math.random().toString(36).substr(2, 5)}`;
+      }
+
+      const btn = document.createElement("button");
+      btn.className = "letter";
+      btn.textContent = letter;
+      btn.dataset.anchor = section.id;
+
+      btn.addEventListener("click", (e) => {
+        e.preventDefault();
+        section.scrollIntoView({ behavior: "smooth", block: "start" });
+      });
+
+      fragment.appendChild(btn);
+      sectionMap.set(section.id, btn);
+    });
+
+    alphabetContainer.appendChild(fragment);
+
+    const activeSectionsInViewport = new Set();
+    const visibleHeadersInViewport = new Set();
+
+    const renderActiveStates = () => {
+      let baseActiveId = null;
+
+      if (activeSectionsInViewport.size > 0) {
+        baseActiveId = Array.from(activeSectionsInViewport)[0];
+      }
+
+      alphabetContainer.querySelectorAll(".letter").forEach((b) => b.classList.remove("active"));
+
+      if (baseActiveId) {
+        const baseBtn = sectionMap.get(baseActiveId);
+        if (baseBtn) baseBtn.classList.add("active");
+      }
+
+      visibleHeadersInViewport.forEach((headerId) => {
+        const extraBtn = sectionMap.get(headerId);
+        if (extraBtn) {
+          extraBtn.classList.add("active");
+        }
+      });
+
+      const activeButtons = alphabetContainer.querySelectorAll(".letter.active");
+
+      if (activeButtons.length > 0) {
+        const lastActiveBtn = activeButtons[activeButtons.length - 1];
+        lastActiveBtn.scrollIntoView({ behavior: "smooth", block: "nearest" });
+      }
+    };
+
+    const observerOptions = {
+      root: scrollContainer,
+      rootMargin: "0px 0px -40% 0px",
+      threshold: 0,
+    };
+
+    this.alphabetObserver = new IntersectionObserver((entries) => {
+      entries.forEach((entry) => {
+        const target = entry.target;
+
+        if (target.classList.contains("card-section")) {
+          if (entry.isIntersecting) {
+            activeSectionsInViewport.add(target.id);
+          } else {
+            activeSectionsInViewport.delete(target.id);
+          }
+        } else if (target.classList.contains("card-section-name")) {
+          const parentSectionId = target.closest(".card-section").id;
+          if (entry.isIntersecting) {
+            visibleHeadersInViewport.add(parentSectionId);
+          } else {
+            visibleHeadersInViewport.delete(parentSectionId);
+          }
+        }
+      });
+
+      renderActiveStates();
+    }, observerOptions);
+
+    sections.forEach((section) => {
+      this.alphabetObserver.observe(section);
+
+      const header = section.querySelector(".card-section-name");
+      if (header) {
+        this.alphabetObserver.observe(header);
+      }
+    });
   }
 }
 

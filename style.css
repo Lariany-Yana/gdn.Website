@@ -355,6 +355,57 @@ button {
   align-items: stretch;
 }
 
+.alphabet {
+  z-index: 25;
+  position: fixed;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 5px;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto 0;
+  min-height: 0;
+  width: 40px;
+  height: fit-content;
+  max-height: calc(var(--WIN-height) - (var(--PDNG-general) * 2));
+  padding: 10px;
+  box-sizing: border-box;
+  border: 1px var(--WIN-border-color) solid;
+  border-left: none;
+  border-radius: 0 var(--BDR-radius-extra) var(--BDR-radius-extra) 0;
+  background-color: var(--RGB-background);
+
+  .letter {
+    aspect-ratio: 1/1;
+    cursor: pointer;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: var(--TXT-size-tab);
+    color: var(--RGB-regular);
+    background: none;
+    box-sizing: border-box;
+    border: var(--BDR-size) transparent solid;
+    border-radius: 15%;
+    transition: color var(--UI-transition-main) ease;
+    &:hover {
+      color: light-dark(color-mix(in oklab, var(--RGB-regular), white 20%), color-mix(in oklab, var(--RGB-regular), black 20%)) !important;
+    }
+
+    &.active {
+      color: var(--RGB-accent);
+      border: 1px var(--RGB-accent) solid !important;
+
+      &:hover {
+        color: light-dark(color-mix(in oklab, var(--RGB-accent), white 20%), color-mix(in oklab, var(--RGB-accent), black 20%)) !important;
+      }
+    }
+  }
+}
+
 /* Карточка-тайтл */
 .title-card {
   flex: 1 1 var(--WIN-width);
@@ -1586,6 +1637,15 @@ details.schedule {
   .search-header {
     height: calc(var(--UI-letterbox) - (var(--PDNG-extra) * 2)) !important;
     margin: var(--PDNG-extra) !important;
+  }
+  body:has(.window#titles) .alphabet {
+    scrollbar-width: none !important;
+    overflow-y: scroll !important;
+    width: 30px !important;
+    max-height: 50vh !important;
+    .letter {
+      scroll-margin: 15px 0;
+    }
   }
 }
 
