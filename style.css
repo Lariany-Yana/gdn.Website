@@ -1105,8 +1105,8 @@ button {
         animation: pulse 1.5s ease infinite;
       }
       &:not(.online) {
-        pointer-events: none !important;
-        filter: grayscale(1);
+        filter: grayscale(1) !important;
+        cursor: not-allowed !important;
       }
     }
 
@@ -1116,7 +1116,6 @@ button {
     }
 
     &:hover {
-      filter: none !important;
       animation: none !important;
       background-color: light-dark(color-mix(in oklab, var(--RGB-regular), white 10%), color-mix(in oklab, var(--RGB-regular), black 10%)) !important;
     }
