@@ -2,7 +2,12 @@
 // Глобальные утилиты для управления попапами
 // =========================================================================
 function closeAllPopups() {
-  document.querySelectorAll(".popup-overlay").forEach((el) => el.remove());
+  document.querySelectorAll(".popup-overlay").forEach((el) => {
+    const iframe = el.querySelector("iframe");
+    if (iframe) iframe.src = "";
+
+    el.remove();
+  });
 }
 
 function initPopup(typeId) {
@@ -421,12 +426,18 @@ class SiteEngine {
       }
     });
 
-    if (!SiteEngine.globalKeydownBound) {
-      document.addEventListener("keydown", (e) => {
-        if (e.key === "Escape") closeAllPopups();
-      });
-      SiteEngine.globalKeydownBound = true;
-    }
+    document.addEventListener("keydown", (e) => {
+      if (e.key === "Escape") {
+        const playerOverlay = document.querySelector(".popup-overlay.player-overlay");
+        if (playerOverlay) {
+          const iframe = playerOverlay.querySelector("iframe");
+          if (iframe) iframe.src = "";
+          playerOverlay.remove();
+        } else {
+          closeAllPopups();
+        }
+      }
+    });
   }
 
   // =======================================================================

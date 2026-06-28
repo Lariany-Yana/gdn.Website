@@ -12,6 +12,8 @@ const SRC_PREFIX = {
   vk: "https://vk.com/",
 };
 
+const DISABLE_PLAYER = true;
+
 //prettier-ignore
 const cardDatabase = [
 	...seriesAnime,
@@ -158,45 +160,111 @@ function createTitleCard(item) {
     applyDonutTerms(item.donutTerms, clone.querySelector(".donut"), card);
   }
 
+  // =========================================================================
+  // Логика кнопки просмотра (watchBtn) с учетом флага DISABLE_PLAYER
+  // =========================================================================
   const watchBtn = clone.querySelector(".watch");
+
+  // ИЗМЕНЕНО: Если DISABLE_PLAYER равен true, hasPlayer принудительно становится false
+  const hasPlayer = !DISABLE_PLAYER && Array.isArray(item.player) && item.player.length === 5;
   const linkData = item.titleLink;
 
-  if (Array.isArray(linkData) && linkData.length >= 2) {
+  if (hasPlayer) {
+    const [source, oid, id, hash, time] = item.player;
+
+    if (source) {
+      watchBtn.classList.add(source);
+    }
+    watchBtn.classList.add("iframe");
+
+    const embedUrl = `https://vk.com/video_ext.php?oid=${oid}&id=${id}&hash=${hash}&t=${time}`;
+
+    watchBtn.onclick = (e) => {
+      e.preventDefault();
+      openPlayerPopup(embedUrl);
+    };
+  } else if (Array.isArray(linkData) && linkData.length >= 2) {
     const [linkType, linkUrl] = linkData;
 
     if (linkType) {
       watchBtn.classList.add(linkType);
     }
 
-    watchBtn.onclick = () => {
+    watchBtn.onclick = (e) => {
       if (linkUrl?.trim()) {
         const prefix = SRC_PREFIX[linkType] || "";
         const finalUrl = prefix ? `${prefix}${linkUrl}` : linkUrl;
-
         window.open(finalUrl, "_blank");
       } else {
+        e.preventDefault();
         openPopup(item.id);
       }
     };
   } else {
-    watchBtn.onclick = () => {
+    watchBtn.onclick = (e) => {
       if (typeof linkData === "string" && linkData.trim()) {
         window.open(linkData, "_blank");
       } else {
+        e.preventDefault();
         openPopup(item.id);
       }
     };
   }
 
+  // =========================================================================
+  // Проверка на ошибку
+  // =========================================================================
   const hasLink = Array.isArray(linkData) ? !!linkData[1]?.trim() : !!linkData?.trim();
   const hasPopup = !!popupDatabase[item.id];
 
-  if (!hasLink && !hasPopup) {
+  if (!hasPlayer && !hasLink && !hasPopup) {
     watchBtn.setAttribute("data-empty", "true");
     watchBtn.textContent = "ERROR";
   }
 
   return clone;
+}
+
+function openPlayerPopup(videoUrl) {
+  if (!videoUrl) return;
+
+  const template = document.getElementById("Player");
+  if (!template) {
+    console.error("Шаблон #Player не найден");
+    return;
+  }
+
+  const overlay = document.createElement("div");
+  overlay.className = "popup-overlay player-overlay";
+
+  const clone = template.content.cloneNode(true);
+  const iframe = clone.querySelector("iframe");
+  if (iframe) {
+    iframe.src = videoUrl;
+  }
+
+  const destroyPlayer = () => {
+    if (iframe) iframe.src = "";
+    overlay.remove();
+  };
+
+  const exitBtn = clone.querySelector(".player-exit");
+  if (exitBtn) {
+    exitBtn.onclick = (e) => {
+      e.stopPropagation();
+      destroyPlayer();
+    };
+  }
+
+  overlay.onclick = (e) => {
+    if (e.target === overlay) {
+      e.stopPropagation();
+      destroyPlayer();
+    }
+  };
+
+  overlay.appendChild(clone);
+  document.body.appendChild(overlay);
 }
 
 function openPopup(id) {
@@ -276,15 +344,49 @@ function openPopup(id) {
       epContainer.className = "episodes-container";
 
       targetEntry.items.forEach((ep) => {
+        const hasPlayer = !DISABLE_PLAYER && Array.isArray(ep.player) && ep.player.length === 5;
+        const linkData = ep.titleLink;
+
+        let linkType = "";
+        let linkUrl = "";
+        let hasLink = false;
+
+        if (Array.isArray(linkData) && linkData.length >= 2) {
+          linkType = linkData[0];
+          linkUrl = linkData[1];
+          hasLink = !!linkUrl?.trim();
+        } else if (typeof linkData === "string" && linkData.trim() !== "") {
+          linkUrl = linkData;
+          hasLink = true;
+        }
+
+        const actualSource = hasPlayer ? ep.player[0] : linkType;
+
         const a = document.createElement("a");
-        a.className = `episode-button ${ep.source} ${ep.lost ? "lost" : ""}`;
 
-        const prefix = SRC_PREFIX[ep.source] || "";
+        const sourceClass = actualSource ? ` ${actualSource}` : "";
+        const lostClass = ep.lost ? " lost" : "";
+        a.className = `episode-button${sourceClass}${lostClass}`;
 
-        a.href = prefix ? `${prefix}${ep.link}` : ep.link;
+        const span = document.createElement("span");
+        span.textContent = ep.title;
+        a.appendChild(span);
 
-        a.target = "_blank";
-        a.innerHTML = `<span>${ep.title}</span>`;
+        if (hasPlayer && !hasLink) {
+          const [source, oid, id, hash, time] = ep.player;
+          const embedUrl = `https://vk.com/video_ext.php?oid=${oid}&id=${id}&hash=${hash}&t=${time}`;
+
+          a.href = "javascript:void(0);";
+          a.onclick = (e) => {
+            e.preventDefault();
+            openPlayerPopup(embedUrl);
+          };
+        } else {
+          const prefix = SRC_PREFIX[linkType] || "";
+          a.href = hasLink ? (prefix ? `${prefix}${linkUrl}` : linkUrl) : "javascript:void(0);";
+          if (hasLink) a.target = "_blank";
+        }
+
         epContainer.appendChild(a);
       });
 

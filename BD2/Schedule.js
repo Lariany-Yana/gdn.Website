@@ -86,6 +86,519 @@ const scheduleDatabase = [
     date: "28.06.26",
   },
 
+  //#region Июль
+  /* ШАБЛОН
+  // Понедельник
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "29.06.26",
+  },
+  // Вторник
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "30.06.26",
+  },
+  // Среда
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "01.07.26",
+  },
+  // Четверг
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "02.07.26",
+  },
+  // Пятница
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "03.07.26",
+  },
+  // Суббота
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "04.07.26",
+  },
+  // Воскресенье
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "05.07.26",
+  },
+  // Понедельник
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "06.07.26",
+  },
+  // Вторник
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "07.07.26",
+  },
+  // Среда
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "08.07.26",
+  },
+  // Четверг
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "09.07.26",
+  },
+  // Пятница
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "10.07.26",
+  },
+  // Суббота
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "11.07.26",
+  },
+  // Воскресенье
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "12.07.26",
+  },
+  // Понедельник
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "13.07.26",
+  },
+  // Вторник
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "14.07.26",
+  },
+  // Среда
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "15.07.26",
+  },
+  // Четверг
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "16.07.26",
+  },
+  // Пятница
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "17.07.26",
+  },
+  // Суббота
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "18.07.26",
+  },
+  // Воскресенье
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "19.07.26",
+  },
+  // Понедельник
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "20.07.26",
+  },
+  // Вторник
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "21.07.26",
+  },
+  // Среда
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "22.07.26",
+  },
+  // Четверг
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "23.07.26",
+  },
+  // Пятница
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "24.07.26",
+  },
+  // Суббота
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "25.07.26",
+  },
+  // Воскресенье
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "26.07.26",
+  },
+  // Понедельник
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "27.07.26",
+  },
+  // Вторник
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "28.07.26",
+  },
+  // Среда
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "29.07.26",
+  },
+  // Четверг
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "30.07.26",
+  },
+  // Пятница
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "31.07.26",
+  },
+  // Суббота
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "01.08.26",
+  },
+  // Воскресенье
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "02.08.26",
+  },
+	*/
+  //#endregion
+  //#region Август
+  /* ШАБЛОН
+  // Понедельник
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "03.08.26",
+  },
+  // Вторник
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "04.08.26",
+  },
+  // Среда
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "05.08.26",
+  },
+  // Четверг
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "06.08.26",
+  },
+  // Пятница
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "07.08.26",
+  },
+  // Суббота
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "08.08.26",
+  },
+  // Воскресенье
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "09.08.26",
+  },
+  // Понедельник
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "10.08.26",
+  },
+  // Вторник
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "11.08.26",
+  },
+  // Среда
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "12.08.26",
+  },
+  // Четверг
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "13.08.26",
+  },
+  // Пятница
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "14.08.26",
+  },
+  // Суббота
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "15.08.26",
+  },
+  // Воскресенье
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "16.08.26",
+  },
+  // Понедельник
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "17.08.26",
+  },
+  // Вторник
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "18.08.26",
+  },
+  // Среда
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "19.08.26",
+  },
+  // Четверг
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "20.08.26",
+  },
+  // Пятница
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "21.08.26",
+  },
+  // Суббота
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "22.08.26",
+  },
+  // Воскресенье
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "23.08.26",
+  },
+  // Понедельник
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "24.08.26",
+  },
+  // Вторник
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "25.08.26",
+  },
+  // Среда
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "26.08.26",
+  },
+  // Четверг
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "27.08.26",
+  },
+  // Пятница
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "28.08.26",
+  },
+  // Суббота
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "29.08.26",
+  },
+  // Воскресенье
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "30.08.26",
+  },
+	*/
+  //#endregion
+
   //#region Старое
   /* ШАБЛОН Старое
 	// Понедельник

@@ -573,6 +573,13 @@ button {
           &.boosty::after {
             content: " на Бусти";
           }
+
+          &.iframe.vk::after {
+            content: " из ВК";
+          }
+          &.iframe.boosty::after {
+            content: " из Бусти";
+          }
           &:hover {
             background-color: color-mix(in oklab, var(--branded-color), black 10%) !important;
           }
@@ -1671,4 +1678,85 @@ details.schedule {
   100% {
     left: 150%;
   }
+}
+
+/* Плеер β */
+.popup-overlay {
+  position: fixed;
+  z-index: 1000;
+  inset: 0;
+  margin-top: var(--UI-letterbox);
+  height: var(--POPUP-height);
+  width: 100%;
+  box-sizing: content-box;
+  padding-bottom: var(--UI-letterbox);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  backdrop-filter: var(--BLUR-main);
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.popup-overlay.player-overlay {
+  position: fixed;
+  z-index: 2000 !important;
+  inset: 0;
+  height: 100vh;
+  width: 100vw;
+  box-sizing: border-box;
+  margin: 0 !important;
+  padding: var(--PDNG-general);
+  display: flex;
+  flex-direction: column !important;
+  align-items: center;
+  justify-content: center;
+  backdrop-filter: var(--BLUR-main);
+  margin: 0 !important;
+  padding: var(--PDNG-general) !important;
+  backdrop-filter: var(--BLUR-main);
+  background-color: transparent !important;
+}
+.popup-overlay.player-overlay .player-exit {
+  cursor: pointer;
+  border: none;
+  background-color: var(--RGB-background);
+  text-align: center;
+  border-radius: var(--BDR-radius-extra) var(--BDR-radius-extra) 0 0;
+  padding: var(--PDNG-button);
+  text-align: center;
+  box-sizing: border-box;
+  font-size: var(--TXT-size-normal);
+  color: var(--RGB-regular);
+  will-change: transform;
+  border: 1px var(--RGB-regular) solid;
+  border-bottom: none;
+  @supports (corner-shape: bevel) {
+    & {
+      border-radius: calc(var(--BDR-radius-extra) / 2) calc(var(--BDR-radius-extra) / 2) 0 0;
+      corner-shape: bevel;
+    }
+  }
+
+  &::after {
+    content: "Закрыть плеер";
+    justify-self: center;
+    text-transform: uppercase;
+    cursor: pointer;
+    color: inherit;
+    transition: color var(--UI-transition-extra) ease;
+  }
+  &:hover {
+    color: light-dark(color-mix(in oklab, var(--RGB-regular), white 20%), color-mix(in oklab, var(--RGB-regular), black 20%)) !important;
+  }
+}
+
+.popup-overlay.player-overlay iframe {
+  display: block;
+  width: min(800px, 100%);
+  aspect-ratio: 16/9;
+  box-sizing: border-box;
+  background-color: var(--RGB-background);
+  border: none !important; /* Убираем проблемный border */
+  outline: 1px var(--RGB-regular) solid; /* Заменяем на outline */
+  outline-offset: -1px; /* Принудительно загоняем рамку внутрь на 1px */
 }
