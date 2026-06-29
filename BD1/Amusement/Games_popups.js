@@ -80,143 +80,147 @@ const amusementGamesPopups = {
         {
           title: "1 Эпизод",
           titleLink: ["vk", "video-208448461_456240049?t=14m59s"],
-          player: ["vk", "-208448461", "456240049", "hash", "0h14m59s"],
+          player: ["vk", "-208448461", "456240049", "64966d5da21cd40c", "0h14m59s"],
         },
         {
           title: "2 Эпизод",
           titleLink: ["vk", "video-208448461_456240057?t=25m38s"],
-          player: ["vk", "-208448461", "456240057", "hash", "0h25m38s"],
+          player: ["vk", "-208448461", "456240057", "45c569ed4e3c704f", "0h25m38s"],
         },
         {
           title: "3 Эпизод",
           titleLink: ["vk", "video-208448461_456240077?t=3m29s"],
-          player: ["vk", "-208448461", "456240077", "hash", "0h3m29s"],
+          player: ["vk", "-208448461", "456240077", "c336361c4f7f2774", "0h3m29s"],
         },
         {
           title: "4 Эпизод",
           titleLink: ["vk", "video-208448461_456240091?t=18m54s"],
-          player: ["vk", "-208448461", "456240091", "hash", "0h18m54s"],
+          player: ["vk", "-208448461", "456240091", "e85bc5b44cbc329b", "0h18m54s"],
         },
         {
           title: "5 Эпизод",
           titleLink: ["vk", "video-208448461_456240093?t=1m2s"],
-          player: ["vk", "-208448461", "456240093", "hash", "0h1m2s"],
+          player: ["vk", "-208448461", "456240093", "ea918bc58207d942", "0h1m2s"],
         },
         {
           title: "6 Эпизод",
           titleLink: ["vk", "video-208448461_456240092?t=11m46s"],
-          player: ["vk", "-208448461", "456240092", "hash", "0h11m46s"],
+          player: ["vk", "-208448461", "456240092", "318b139e19f60e4d", "0h11m46s"],
         },
         {
           title: "7 Эпизод",
           titleLink: ["vk", "video-208448461_456240106?t=13m22s"],
-          player: ["vk", "-208448461", "456240106", "hash", "0h13m22s"],
+          player: ["vk", "-208448461", "456240106", "36cf050aab1290a3", "0h13m22s"],
         },
         {
           title: "8 Эпизод",
           titleLink: ["vk", "video-208448461_456240163?t=12m1s"],
-          player: ["vk", "-208448461", "456240163", "hash", "0h12m1s"],
+          player: ["vk", "-208448461", "456240163", "7a9486de00aa931b", "0h12m1s"],
         },
         {
           title: "9 Эпизод",
           titleLink: ["vk", "video-208448461_456240239?t=1h6m52s"],
-          player: ["vk", "-208448461", "456240239", "hash", "1h6m52s"],
+          player: ["vk", "-208448461", "456240239", "8de2f8c0e30f8728", "1h6m52s"],
         },
         {
           title: "10 Эпизод",
           titleLink: ["vk", "video-208448461_456240255?t=12m57s"],
-          player: ["vk", "-208448461", "456240255", "hash", "0h12m57s"],
+          player: ["vk", "-208448461", "456240255", "6300d4fab0dadfc3", "0h12m57s"],
         },
         {
           title: "11 Эпизод",
           titleLink: ["vk", "video-208448461_456240407?t=12m10s"],
-          player: ["vk", "-208448461", "456240407", "hash", "0h12m10s"],
+          player: ["vk", "-208448461", "456240407", "eeccd1f5ec95376f", "0h12m10s"],
         },
         {
           title: "12 Эпизод",
           titleLink: ["vk", "video-208448461_456240374?t=13m53s"],
-          player: ["vk", "-208448461", "456240374", "hash", "0h13m53s"],
+          player: ["vk", "-208448461", "456240374", "86a8a9226b4127ac", "0h13m53s"],
         },
         {
           title: "13 Эпизод",
           titleLink: ["vk", "video-208448461_456240477?t=4m0s"],
-          player: ["vk", "-208448461", "456240477", "hash", "0h4m0s"],
+          player: ["vk", "-208448461", "456240477", "5c5042dee4df1482", "0h4m0s"],
         },
         {
           title: "14 Эпизод",
           titleLink: ["vk", "video-208448461_456240523"],
+          player: ["vk", "-208448461", "456240523", "9a4d58603410bd9c", "0h0m0s"],
         },
         {
           title: "15 Эпизод",
           titleLink: ["vk", "video-208448461_456240568?t=1m52s"],
-          player: ["vk", "-208448461", "456240568", "hash", "0h1m52s"],
+          player: ["vk", "-208448461", "456240568", "06f6de844f1f89e7", "0h1m52s"],
         },
         {
           title: "16 Эпизод",
           titleLink: ["vk", "video-208448461_456240573?t=2m40s"],
-          player: ["vk", "-208448461", "456240573", "hash", "0h2m40s"],
+          player: ["vk", "-208448461", "456240573", "d19705c014a20464", "0h2m40s"],
         },
         {
           title: "17 Эпизод",
           titleLink: ["vk", "video-208448461_456240597"],
+          player: ["vk", "-208448461", "456240597", "2c63f341c331ab05", "0h0m0s"],
         },
         {
           title: "18 Эпизод",
           titleLink: ["vk", "video-208448461_456240612"],
+          player: ["vk", "-208448461", "456240612", "d40c1b7e2acbc416", "0h0m0s"],
         },
         {
           title: "19 Эпизод",
           titleLink: ["vk", "video-208448461_456240639?t=4h10m30s"],
-          player: ["vk", "-208448461", "456240639", "hash", "4h10m30s"],
+          player: ["vk", "-208448461", "456240639", "3a2a0643bc9929ea", "4h10m30s"],
         },
         {
           title: "20 Эпизод",
           titleLink: ["vk", "video-208448461_456240656?t=6h9m31s"],
-          player: ["vk", "-208448461", "456240656", "hash", "6h9m31s"],
+          player: ["vk", "-208448461", "456240656", "912be0f8eb108476", "6h9m31s"],
         },
         {
           title: "21 Эпизод",
           titleLink: ["vk", "video-208448461_456240665?t=8m59s"],
-          player: ["vk", "-208448461", "456240665", "hash", "0h8m59s"],
+          player: ["vk", "-208448461", "456240665", "271ae48fdfad843c", "0h8m59s"],
         },
         {
           title: "22 Эпизод",
           titleLink: ["vk", "video-208448461_456240672?t=11m0s"],
-          player: ["vk", "-208448461", "456240672", "hash", "0h11m0s"],
+          player: ["vk", "-208448461", "456240672", "6e9d067c2f36ee1a", "0h11m0s"],
         },
         {
           title: "23 Эпизод",
           titleLink: ["vk", "video-208448461_456240689?t=4m"],
-          player: ["vk", "-208448461", "456240689", "hash", "4m"],
+          player: ["vk", "-208448461", "456240689", "4197b5474b9f8663", "4m"],
         },
         {
           title: "24 Эпизод",
           titleLink: ["vk", "video-208448461_456240701?t=24m4s"],
-          player: ["vk", "-208448461", "456240701", "hash", "0h24m4s"],
+          player: ["vk", "-208448461", "456240701", "68cc8010bc821440", "0h24m4s"],
         },
         {
           title: "25 Эпизод",
           titleLink: ["vk", "video-208448461_456240718?t=8m1s"],
-          player: ["vk", "-208448461", "456240718", "hash", "0h8m1s"],
+          player: ["vk", "-208448461", "456240718", "6c050217915a01f9", "0h8m1s"],
         },
         {
           title: "26 Эпизод",
           titleLink: ["vk", "video-208448461_456240719"],
+          player: ["vk", "-208448461", "456240719", "90399c53b8654b23", "0h0m0s"],
         },
         {
           title: "27 Эпизод",
           titleLink: ["vk", "video-208448461_456240730?t=10m36s"],
-          player: ["vk", "-208448461", "456240730", "hash", "0h10m36s"],
+          player: ["vk", "-208448461", "456240730", "ae475856b25a8ff8", "0h10m36s"],
         },
         {
           title: "28 Эпизод",
           titleLink: ["vk", "video-208448461_456240733?t=4m59s"],
-          player: ["vk", "-208448461", "456240733", "hash", "0h4m59s"],
+          player: ["vk", "-208448461", "456240733", "ce0adfe990174ddd", "0h4m59s"],
         },
         {
           title: "29 Эпизод",
           titleLink: ["vk", "video-208448461_456240743?t=5m52s"],
-          player: ["vk", "-208448461", "456240743", "hash", "0h5m52s"],
+          player: ["vk", "-208448461", "456240743", "e87c5d9c824e847a", "0h5m52s"],
         },
       ],
     },
@@ -264,6 +268,7 @@ const amusementGamesPopups = {
         {
           title: "2 Эпизод",
           titleLink: ["vk", "video-208448461_456241117"],
+          player: ["vk", "-208448461", "456241117", "hash", "0h0m0s"],
         },
       ],
     },
@@ -368,14 +373,17 @@ const amusementGamesPopups = {
         {
           title: "1 Эпизод",
           titleLink: ["vk", "video-208448461_456241359"],
+          player: ["vk", "-208448461", "456241359", "hash", "0h0m0s"],
         },
         {
           title: "2 Эпизод",
           titleLink: ["vk", "video-208448461_456241360"],
+          player: ["vk", "-208448461", "456241360", "hash", "0h0m0s"],
         },
         {
           title: "3 Эпизод",
           titleLink: ["vk", "video-208448461_456241361"],
+          player: ["vk", "-208448461", "456241361", "hash", "0h0m0s"],
         },
         {
           title: "4-5 Эпизод",
@@ -384,26 +392,32 @@ const amusementGamesPopups = {
         {
           title: "6 Эпизод",
           titleLink: ["vk", "video-208448461_456241362"],
+          player: ["vk", "-208448461", "456241362", "hash", "0h0m0s"],
         },
         {
           title: "7 Эпизод",
           titleLink: ["vk", "video-208448461_456241363"],
+          player: ["vk", "-208448461", "456241363", "hash", "0h0m0s"],
         },
         {
           title: "8 Эпизод",
           titleLink: ["vk", "video-208448461_456241364"],
+          player: ["vk", "-208448461", "456241364", "hash", "0h0m0s"],
         },
         {
           title: "9 Эпизод",
           titleLink: ["vk", "video-208448461_456241365"],
+          player: ["vk", "-208448461", "456241365", "hash", "0h0m0s"],
         },
         {
           title: "10 Эпизод",
           titleLink: ["vk", "video-208448461_456241366"],
+          player: ["vk", "-208448461", "456241366", "hash", "0h0m0s"],
         },
         {
           title: "11 Эпизод",
           titleLink: ["vk", "video-208448461_456241367"],
+          player: ["vk", "-208448461", "456241367", "hash", "0h0m0s"],
         },
         {
           title: "12 Эпизод",
@@ -412,10 +426,12 @@ const amusementGamesPopups = {
         {
           title: "13 Эпизод",
           titleLink: ["vk", "video-208448461_456241368"],
+          player: ["vk", "-208448461", "456241368", "hash", "0h0m0s"],
         },
         {
           title: "14 Эпизод",
           titleLink: ["vk", "video-208448461_456241369"],
+          player: ["vk", "-208448461", "456241369", "hash", "0h0m0s"],
         },
         {
           title: "15-16 Эпизод",
@@ -553,18 +569,22 @@ const amusementGamesPopups = {
         {
           title: "1 Эпизод",
           titleLink: ["vk", "video-208448461_456240950"],
+          player: ["vk", "-208448461", "456240950", "hash", "0h0m0s"],
         },
         {
           title: "2 Эпизод",
           titleLink: ["vk", "video-208448461_456240951"],
+          player: ["vk", "-208448461", "456240951", "hash", "0h0m0s"],
         },
         {
           title: "3 Эпизод",
           titleLink: ["vk", "video-208448461_456240952"],
+          player: ["vk", "-208448461", "456240952", "hash", "0h0m0s"],
         },
         {
           title: "4 Эпизод",
           titleLink: ["vk", "video-208448461_456240953"],
+          player: ["vk", "-208448461", "456240953", "hash", "0h0m0s"],
         },
       ],
     },
@@ -608,6 +628,7 @@ const amusementGamesPopups = {
         {
           title: "1 Эпизод",
           titleLink: ["vk", "video-208448461_456239055"],
+          player: ["vk", "-208448461", "456239055", "hash", "0h0m0s"],
         },
         {
           title: "2 Эпизод",
@@ -654,6 +675,7 @@ const amusementGamesPopups = {
         {
           title: "1 Эпизод",
           titleLink: ["vk", "video-208448461_456240012"],
+          player: ["vk", "-208448461", "456240012", "hash", "0h0m0s"],
         },
         {
           title: "2 Эпизод",
@@ -1012,6 +1034,7 @@ const amusementGamesPopups = {
         {
           title: "6 Эпизод",
           titleLink: ["vk", "video-208448461_456241573"],
+          player: ["vk", "-208448461", "456241573", "hash", "0h0m0s"],
         },
         {
           title: "7 Эпизод",
@@ -1798,10 +1821,12 @@ const amusementGamesPopups = {
         {
           title: "3 Эпизод",
           titleLink: ["vk", "video-208448461_456241282"],
+          player: ["vk", "-208448461", "456241282", "hash", "0h0m0s"],
         },
         {
           title: "4 Эпизод",
           titleLink: ["vk", "video-208448461_456241287"],
+          player: ["vk", "-208448461", "456241287", "hash", "0h0m0s"],
         },
         {
           title: "5 Эпизод",
@@ -2007,6 +2032,7 @@ const amusementGamesPopups = {
         {
           title: "3 Эпизод",
           titleLink: ["vk", "video-208448461_456241353"],
+          player: ["vk", "-208448461", "456241353", "hash", "0h0m0s"],
         },
         {
           title: "4 Эпизод",
@@ -2120,6 +2146,7 @@ const amusementGamesPopups = {
         {
           title: "2 Эпизод",
           titleLink: ["vk", "video-208448461_456241639"],
+          player: ["vk", "-208448461", "456241639", "hash", "0h0m0s"],
         },
         {
           title: "3 Эпизод",

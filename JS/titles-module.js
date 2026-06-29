@@ -388,7 +388,6 @@ function openPopup(id) {
         } else {
           a.href = "javascript:void(0);";
           a.onclick = (e) => e.preventDefault();
-          a.style.opacity = "0.5";
         }
 
         epContainer.appendChild(a);
