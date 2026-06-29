@@ -372,7 +372,7 @@ function openPopup(id) {
         span.textContent = ep.title;
         a.appendChild(span);
 
-        if (hasPlayer && !hasLink) {
+        if (hasPlayer) {
           const [source, oid, id, hash, time] = ep.player;
           const embedUrl = `https://vk.com/video_ext.php?oid=${oid}&id=${id}&hash=${hash}&t=${time}`;
 
@@ -381,10 +381,14 @@ function openPopup(id) {
             e.preventDefault();
             openPlayerPopup(embedUrl);
           };
-        } else {
+        } else if (hasLink) {
           const prefix = SRC_PREFIX[linkType] || "";
-          a.href = hasLink ? (prefix ? `${prefix}${linkUrl}` : linkUrl) : "javascript:void(0);";
-          if (hasLink) a.target = "_blank";
+          a.href = prefix ? `${prefix}${linkUrl}` : linkUrl;
+          a.target = "_blank";
+        } else {
+          a.href = "javascript:void(0);";
+          a.onclick = (e) => e.preventDefault();
+          a.style.opacity = "0.5";
         }
 
         epContainer.appendChild(a);
