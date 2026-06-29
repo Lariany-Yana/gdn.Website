@@ -5,7 +5,7 @@ const literatureManhwaPopups = {
       items: [
         {
           title: "1-11 Главы",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "12-38 Главы",

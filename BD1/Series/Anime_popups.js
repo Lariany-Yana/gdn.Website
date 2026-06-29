@@ -64,7 +64,7 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "5-7 Эпизод",
@@ -187,7 +187,7 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-8 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "9-13 Эпизод",
@@ -263,7 +263,7 @@ const seriesAnimePopups = {
         },
         {
           title: "14-26 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
       ],
     },
@@ -297,7 +297,7 @@ const seriesAnimePopups = {
         },
         {
           title: "5-8 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "9-12 Эпизод",
@@ -313,7 +313,7 @@ const seriesAnimePopups = {
         },
         {
           title: "21-25 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
       ],
     },
@@ -521,7 +521,7 @@ const seriesAnimePopups = {
         },
         {
           title: "23-26 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
       ],
     },
@@ -540,7 +540,7 @@ const seriesAnimePopups = {
         },
         {
           title: "13-19 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "20-25 Эпизод",
@@ -571,7 +571,7 @@ const seriesAnimePopups = {
         },
         {
           title: "25-118 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "119-121 Эпизод",
@@ -603,7 +603,7 @@ const seriesAnimePopups = {
         },
         {
           title: "194-243 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "244-254 Эпизод",
@@ -611,7 +611,7 @@ const seriesAnimePopups = {
         },
         {
           title: "255-342 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "343-347 Эпизод",
@@ -669,7 +669,7 @@ const seriesAnimePopups = {
         },
         {
           title: "6-10 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
       ],
     },
@@ -678,11 +678,11 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-12 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "Багровая легенда",
-          source: "lost",
+          lost: "lost",
         },
       ],
     },
@@ -716,7 +716,7 @@ const seriesAnimePopups = {
         },
         {
           title: "3-5 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
       ],
     },
@@ -821,7 +821,7 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-12 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "13-17 Эпизод",
@@ -833,7 +833,7 @@ const seriesAnimePopups = {
         },
         {
           title: "22-25 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "26-29 Эпизод",
@@ -905,7 +905,7 @@ const seriesAnimePopups = {
         },
         {
           title: "131-143 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "144-152 Эпизод",
@@ -921,7 +921,7 @@ const seriesAnimePopups = {
         },
         {
           title: "170-173 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "174-181 Эпизод",
@@ -965,7 +965,7 @@ const seriesAnimePopups = {
         },
         {
           title: "290-300 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "301-314 Эпизод",
@@ -1009,7 +1009,7 @@ const seriesAnimePopups = {
         },
         {
           title: "434-437 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "438-447 Эпизод",
@@ -1065,7 +1065,7 @@ const seriesAnimePopups = {
         },
         {
           title: "526-527 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "528-532 Эпизод",
@@ -1109,7 +1109,7 @@ const seriesAnimePopups = {
         },
         {
           title: "588 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "589 Эпизод",
@@ -1117,7 +1117,7 @@ const seriesAnimePopups = {
         },
         {
           title: "590 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "591 Эпизод",
@@ -1129,7 +1129,7 @@ const seriesAnimePopups = {
         },
         {
           title: "592-594 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "595-599 Эпизод",
@@ -1217,7 +1217,7 @@ const seriesAnimePopups = {
         },
         {
           title: "747-750 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "751-759 Эпизод",
@@ -1225,7 +1225,7 @@ const seriesAnimePopups = {
         },
         {
           title: "760-761 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "762-768 Эпизод",
@@ -1333,7 +1333,7 @@ const seriesAnimePopups = {
         },
         {
           title: "878-889 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "Манга: 903-908 Главы",
@@ -1369,7 +1369,7 @@ const seriesAnimePopups = {
         },
         {
           title: "918-924 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "925 Эпизод",
@@ -1413,7 +1413,7 @@ const seriesAnimePopups = {
         },
         {
           title: "958-968 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "969-972 Эпизод",
@@ -1740,7 +1740,7 @@ const seriesAnimePopups = {
         },
         {
           title: "14-19 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "20-25 Эпизод",
@@ -1770,7 +1770,7 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "5-8 Эпизод",
@@ -1855,7 +1855,7 @@ const seriesAnimePopups = {
         },
         {
           title: "13-24 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
       ],
     },
@@ -1932,7 +1932,7 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-2 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "3-5 Эпизод",
@@ -1940,7 +1940,7 @@ const seriesAnimePopups = {
         },
         {
           title: "6-9 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "10-13 Эпизод",
@@ -1968,7 +1968,7 @@ const seriesAnimePopups = {
         },
         {
           title: "31-37 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "38-42 Эпизод",
@@ -2016,7 +2016,7 @@ const seriesAnimePopups = {
         },
         {
           title: "86-89 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "90-93 Эпизод",
@@ -2080,7 +2080,7 @@ const seriesAnimePopups = {
         },
         {
           title: "176-180 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "181-190 Эпизод",
@@ -2113,7 +2113,7 @@ const seriesAnimePopups = {
         },
         {
           title: "19-22 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "23-25 Эпизод",
@@ -2284,7 +2284,7 @@ const seriesAnimePopups = {
         },
         {
           title: "9 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "10-12 Эпизод",
@@ -2412,7 +2412,7 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-8 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "9-12 Эпизод",
@@ -2618,7 +2618,7 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "5-7 Эпизод",
@@ -2626,7 +2626,7 @@ const seriesAnimePopups = {
         },
         {
           title: "8-25 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
       ],
     },
@@ -2749,7 +2749,7 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-9 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "10-13 Эпизод",
@@ -2814,7 +2814,7 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-8 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "9-12 Эпизод",
@@ -2822,7 +2822,7 @@ const seriesAnimePopups = {
         },
         {
           title: "13-16 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "17-19 Эпизод",
@@ -2886,7 +2886,7 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "5-8 Эпизод",
@@ -3076,7 +3076,7 @@ const seriesAnimePopups = {
         },
         {
           title: "5-9 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "10-13 Эпизод",
@@ -3191,7 +3191,7 @@ const seriesAnimePopups = {
         },
         {
           title: "11-15 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "16-26 Эпизод",
@@ -3222,7 +3222,7 @@ const seriesAnimePopups = {
         },
         {
           title: "22-26 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
       ],
     },
@@ -3297,7 +3297,7 @@ const seriesAnimePopups = {
         },
         {
           title: "16-19 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "20-21 Эпизод",
@@ -3493,7 +3493,7 @@ const seriesAnimePopups = {
         },
         {
           title: "5-12 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "13-16 Эпизод",
@@ -3501,7 +3501,7 @@ const seriesAnimePopups = {
         },
         {
           title: "17-20 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "21-24 Эпизод",
@@ -3577,7 +3577,7 @@ const seriesAnimePopups = {
         },
         {
           title: "100-110 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
       ],
     },
@@ -3652,7 +3652,7 @@ const seriesAnimePopups = {
         },
         {
           title: "15-16 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "17 Эпизод",
@@ -3697,7 +3697,7 @@ const seriesAnimePopups = {
         },
         {
           title: "14-17 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "18-20 Эпизод",
@@ -4208,7 +4208,7 @@ const seriesAnimePopups = {
         },
         {
           title: "4-6 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
       ],
     },
@@ -4283,7 +4283,7 @@ const seriesAnimePopups = {
         },
         {
           title: "21-22 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "23-26 Эпизод",
@@ -4322,7 +4322,7 @@ const seriesAnimePopups = {
         },
         {
           title: "8-12 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
       ],
     },
@@ -4972,7 +4972,7 @@ const seriesAnimePopups = {
         },
         {
           title: "17-37 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "38-41 Эпизод",
@@ -5079,7 +5079,7 @@ const seriesAnimePopups = {
         },
         {
           title: "136-219 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "220 Эпизод",
@@ -5124,7 +5124,7 @@ const seriesAnimePopups = {
         },
         {
           title: "53-57 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "58 Эпизод",
@@ -5148,7 +5148,7 @@ const seriesAnimePopups = {
         },
         {
           title: "89-116 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "117-119 Эпизод",
@@ -5168,7 +5168,7 @@ const seriesAnimePopups = {
         },
         {
           title: "134-218 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "219-222 Эпизод",
@@ -5268,7 +5268,7 @@ const seriesAnimePopups = {
         },
         {
           title: "480-499 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "Последний",
@@ -5693,7 +5693,7 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-12 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
       ],
     },
@@ -5833,7 +5833,7 @@ const seriesAnimePopups = {
         },
         {
           title: "7-9 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "10 Эпизод",
@@ -5957,7 +5957,7 @@ const seriesAnimePopups = {
         },
         {
           title: "21-22 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "23-30 Эпизод",
@@ -6166,11 +6166,11 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-6 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "7-10 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "11-16 Эпизод",
@@ -6178,7 +6178,7 @@ const seriesAnimePopups = {
         },
         {
           title: "17-24 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "24 Эпизод",
@@ -6457,7 +6457,7 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "5-8 Эпизод",
@@ -6527,7 +6527,7 @@ const seriesAnimePopups = {
       items: [
         {
           title: "23, 93 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "93 2/2 Эпизод",
@@ -6566,7 +6566,7 @@ const seriesAnimePopups = {
         },
         {
           title: "13-16 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "17-18 Эпизод",
@@ -6687,7 +6687,7 @@ const seriesAnimePopups = {
         },
         {
           title: "9-24 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
       ],
     },
@@ -6754,7 +6754,7 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-8 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "9-12 Эпизод",
@@ -6900,7 +6900,7 @@ const seriesAnimePopups = {
         },
         {
           title: "28-33 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "34-37 Эпизод",
@@ -6928,7 +6928,7 @@ const seriesAnimePopups = {
         },
         {
           title: "55-58 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "59-64 Эпизод",
@@ -7069,7 +7069,7 @@ const seriesAnimePopups = {
         },
         {
           title: "17-20 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "21-25 Эпизод",
@@ -7162,7 +7162,7 @@ const seriesAnimePopups = {
         },
         {
           title: "88-95 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "96-100 Эпизод",
@@ -7259,7 +7259,7 @@ const seriesAnimePopups = {
         },
         {
           title: "5-12 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "13-18 Эпизод",
@@ -7278,7 +7278,7 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "5-8 Эпизод",
@@ -7320,7 +7320,7 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-6 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "7-10 Эпизод",
@@ -7343,7 +7343,7 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-10 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "11-16 Эпизод",
@@ -7375,7 +7375,7 @@ const seriesAnimePopups = {
         },
         {
           title: "37-40 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "41-44 Эпизод",
@@ -7391,7 +7391,7 @@ const seriesAnimePopups = {
         },
         {
           title: "53-56 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "57-60 Эпизод",
@@ -7526,7 +7526,7 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-5 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "6-9 Эпизод",
@@ -7625,7 +7625,7 @@ const seriesAnimePopups = {
         },
         {
           title: "16-18 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "19-22 Эпизод",
@@ -7982,7 +7982,7 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "5-8 Эпизод",
@@ -8005,7 +8005,7 @@ const seriesAnimePopups = {
         },
         {
           title: "5-8 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "9-12 Эпизод",
@@ -8029,7 +8029,7 @@ const seriesAnimePopups = {
         },
         {
           title: "11-13 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
       ],
     },
@@ -8040,7 +8040,7 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-25 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
       ],
     },
@@ -8073,7 +8073,7 @@ const seriesAnimePopups = {
         },
         {
           title: "22-25 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
       ],
     },

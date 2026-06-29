@@ -5,7 +5,7 @@ const literatureMangaPopups = {
       items: [
         {
           title: "1-11 Главы",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "12-38 Главы",
@@ -40,7 +40,7 @@ const literatureMangaPopups = {
         },
         {
           title: "6-14 Главы",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "14-29 Главы",
@@ -52,7 +52,7 @@ const literatureMangaPopups = {
         },
         {
           title: "42-59 Главы",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "60-73 Главы",
@@ -80,7 +80,7 @@ const literatureMangaPopups = {
         },
         {
           title: "166-180 Главы",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "181-189 Главы",
@@ -183,7 +183,7 @@ const literatureMangaPopups = {
       items: [
         {
           title: "125-129 Главы",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "130-134 Главы",
@@ -253,7 +253,7 @@ const literatureMangaPopups = {
       items: [
         {
           title: "1-8 Главы",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "9-16.5 Главы",
@@ -261,7 +261,7 @@ const literatureMangaPopups = {
         },
         {
           title: "17-25 Главы",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "26-45 Главы",
@@ -303,7 +303,7 @@ const literatureMangaPopups = {
         },
         {
           title: "12-15.5 Главы",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "16-23.5 Главы",
@@ -319,7 +319,7 @@ const literatureMangaPopups = {
         },
         {
           title: "44-49.5 Главы",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "50-55.5 Главы",
@@ -350,7 +350,7 @@ const literatureMangaPopups = {
       items: [
         {
           title: "1-17 Главы",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "18-44 Главы",
@@ -602,7 +602,7 @@ const literatureMangaPopups = {
         },
         {
           title: "28-39 Главы",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "40-44 Главы",
@@ -645,7 +645,7 @@ const literatureMangaPopups = {
       items: [
         {
           title: "38-63 Главы",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "64-75 Главы",
@@ -712,7 +712,7 @@ const literatureMangaPopups = {
         },
         {
           title: "61-83 Главы",
-          source: "lost",
+          lost: "lost",
         },
       ],
     },
@@ -946,7 +946,7 @@ const literatureMangaPopups = {
         },
         {
           title: "86-108 Главы",
-          source: "lost",
+          lost: "lost",
         },
       ],
     },
@@ -1016,7 +1016,7 @@ const literatureMangaPopups = {
         },
         {
           title: "141-173 Главы",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "174-184 Главы",
@@ -1024,7 +1024,7 @@ const literatureMangaPopups = {
         },
         {
           title: "185-195 Главы",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "196-206 Главы",

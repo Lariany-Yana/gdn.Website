@@ -320,7 +320,7 @@ const seriesSerialsPopups = {
         },
         {
           title: "4-5 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "6 Эпизод",
@@ -421,7 +421,7 @@ const seriesSerialsPopups = {
         },
         {
           title: "3-4 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "5-9 Эпизод",
@@ -454,7 +454,7 @@ const seriesSerialsPopups = {
         },
         {
           title: "9-11 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "12-13 Эпизод",
@@ -644,7 +644,7 @@ const seriesSerialsPopups = {
       items: [
         {
           title: "1-2 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "3-5 Эпизод",
@@ -906,7 +906,7 @@ const seriesSerialsPopups = {
         },
         {
           title: "5-7 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "8-9 Эпизод",
@@ -954,7 +954,7 @@ const seriesSerialsPopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "5-10 Эпизод",
@@ -962,7 +962,7 @@ const seriesSerialsPopups = {
         },
         {
           title: "11-13 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
       ],
     },
@@ -983,7 +983,7 @@ const seriesSerialsPopups = {
         },
         {
           title: "4 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "5-6 Эпизод",
@@ -1012,7 +1012,7 @@ const seriesSerialsPopups = {
       items: [
         {
           title: "1 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "2-3 Эпизод",
@@ -1045,7 +1045,7 @@ const seriesSerialsPopups = {
         },
         {
           title: "3 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "4-5 Эпизод",
@@ -1086,7 +1086,7 @@ const seriesSerialsPopups = {
         },
         {
           title: "3-4 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "5-6 Эпизод",
@@ -1242,7 +1242,7 @@ const seriesSerialsPopups = {
         },
         {
           title: "9-12 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "13 Эпизод",
@@ -1515,7 +1515,7 @@ const seriesSerialsPopups = {
         },
         {
           title: "3-5 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "6-7 Эпизод",
@@ -2467,7 +2467,7 @@ const seriesSerialsPopups = {
       items: [
         {
           title: "1-2 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "2 Эпизод",
@@ -2492,7 +2492,7 @@ const seriesSerialsPopups = {
       items: [
         {
           title: "1-2 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "3-4 Эпизод",
@@ -2504,7 +2504,7 @@ const seriesSerialsPopups = {
         },
         {
           title: "6 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "7-8 Эпизод",
@@ -2621,7 +2621,7 @@ const seriesSerialsPopups = {
         },
         {
           title: "5-6 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "7 Эпизод",
@@ -2629,7 +2629,7 @@ const seriesSerialsPopups = {
         },
         {
           title: "8 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
       ],
     },
@@ -2661,7 +2661,7 @@ const seriesSerialsPopups = {
         },
         {
           title: "5-6 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "7-8 Эпизод",
@@ -2857,7 +2857,7 @@ const seriesSerialsPopups = {
         },
         {
           title: "12-14 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "14-16 Эпизод",
@@ -3078,7 +3078,7 @@ const seriesSerialsPopups = {
         },
         {
           title: "7 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "8-10 Эпизод",
@@ -3200,7 +3200,7 @@ const seriesSerialsPopups = {
         },
         {
           title: "5-6 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "7-8 Эпизод",
@@ -3372,7 +3372,7 @@ const seriesSerialsPopups = {
         },
         {
           title: "3-5 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "6-8 Эпизод",
@@ -3387,7 +3387,7 @@ const seriesSerialsPopups = {
       items: [
         {
           title: "1-2 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "3-4 Эпизод",
@@ -3623,7 +3623,7 @@ const seriesSerialsPopups = {
       items: [
         {
           title: "1-3 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "4-6 Эпизод",

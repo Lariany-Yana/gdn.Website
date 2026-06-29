@@ -93,7 +93,7 @@ const seriesCartoonsPopups = {
       items: [
         {
           title: "1-9 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "9-16 Эпизод",
@@ -139,7 +139,7 @@ const seriesCartoonsPopups = {
         },
         {
           title: "3-10 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "11-18 Эпизод",
@@ -226,7 +226,7 @@ const seriesCartoonsPopups = {
         },
         {
           title: "28-35 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "36-43 Эпизод",
@@ -277,7 +277,7 @@ const seriesCartoonsPopups = {
       items: [
         {
           title: "1-9 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "10-14 Эпизод",
@@ -362,7 +362,7 @@ const seriesCartoonsPopups = {
       items: [
         {
           title: "1-7 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "8-25 Эпизод",
@@ -379,7 +379,7 @@ const seriesCartoonsPopups = {
         },
         {
           title: "8-10 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "11-32 Эпизод",
@@ -521,7 +521,7 @@ const seriesCartoonsPopups = {
         },
         {
           title: "5-12 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "13-16 Эпизод",
@@ -739,7 +739,7 @@ const seriesCartoonsPopups = {
         },
         {
           title: "15-22 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
       ],
     },
@@ -764,7 +764,7 @@ const seriesCartoonsPopups = {
         },
         {
           title: "15-22 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
       ],
     },
@@ -993,7 +993,7 @@ const seriesCartoonsPopups = {
       items: [
         {
           title: "1-3 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "4-8 Эпизод",
@@ -1080,7 +1080,7 @@ const seriesCartoonsPopups = {
         },
         {
           title: "5 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "6-8 Эпизод",
@@ -1103,7 +1103,7 @@ const seriesCartoonsPopups = {
         },
         {
           title: "21-30 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "31-40 Эпизод",
@@ -1131,7 +1131,7 @@ const seriesCartoonsPopups = {
         },
         {
           title: "101-110 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "111-120 Эпизод",
@@ -1139,7 +1139,7 @@ const seriesCartoonsPopups = {
         },
         {
           title: "121-130 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "131-160 Эпизод",
@@ -1151,7 +1151,7 @@ const seriesCartoonsPopups = {
         },
         {
           title: "171-180 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "181-190 Эпизод",
@@ -1238,7 +1238,7 @@ const seriesCartoonsPopups = {
         },
         {
           title: "24-26 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
       ],
     },
@@ -1247,7 +1247,7 @@ const seriesCartoonsPopups = {
       items: [
         {
           title: "1-3 Эпизод",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "4-5 Эпизод",

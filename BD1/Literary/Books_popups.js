@@ -33,7 +33,7 @@ const literatureBooksPopups = {
         },
         {
           title: "23-28 Главы",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "4-5 Интерлюдии",

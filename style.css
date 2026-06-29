@@ -1729,6 +1729,7 @@ details.schedule {
   will-change: transform;
   border: 1px var(--RGB-regular) solid;
   border-bottom: none;
+	margin-bottom: -2px;
   @supports (corner-shape: bevel) {
     & {
       border-radius: calc(var(--BDR-radius-extra) / 2) calc(var(--BDR-radius-extra) / 2) 0 0;
@@ -1750,12 +1751,12 @@ details.schedule {
 }
 
 .popup-overlay.player-overlay iframe {
+	z-index: 3;
   display: block;
   width: min(800px, 100%);
   aspect-ratio: 16/9;
   box-sizing: border-box;
   background-color: var(--RGB-background);
-  border: none !important; /* Убираем проблемный border */
-  outline: 1px var(--RGB-regular) solid; /* Заменяем на outline */
-  outline-offset: -1px; /* Принудительно загоняем рамку внутрь на 1px */
+  border: none !important;
+  outline: 1px var(--RGB-regular) solid;
 }

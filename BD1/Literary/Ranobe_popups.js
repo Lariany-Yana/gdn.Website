@@ -44,7 +44,7 @@ const literatureRanobePopups = {
       items: [
         {
           title: "1-2 Главы",
-          source: "lost",
+          lost: "lost",
         },
         {
           title: "3-6 Главы",
