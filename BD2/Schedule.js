@@ -14,141 +14,65 @@ const scheduleDatabase = [
   {
     nameRu: "Стрим невозможен :[",
     scheduleType: "schedule-current",
-    date: "22.06.26",
+    date: "29.06.26",
   },
   // Вторник
   {
-    nameRu: "Стрим не состоялся :[",
+    nameRu: "Декстер",
+    nameEn: "Dexter",
+    scheduleRemark: "Сериал × Начало в 16:00 по МСК",
     scheduleType: "schedule-current",
-    date: "23.06.26",
+    date: "30.06.26",
+  },
+  {
+    nameRu: "Слоты Вару",
+    scheduleRemark: "Мультфильмы × Начало в 18:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "30.06.26",
+  },
+  {
+    nameRu: "Южный Парк",
+    nameEn: "South Park",
+    scheduleRemark: "Мультсериал × Начало в 20:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "30.06.26",
   },
   // Среда
   {
-    nameRu: "Стрим не состоялся :[",
+    nameRu: "Стрим вполне вероятен :]",
     scheduleType: "schedule-current",
-    date: "24.06.26",
+    date: "01.07.26",
   },
   // Четверг
   {
-    nameRu: "Удивительный цифровой цирк",
-    nameEn: "The Amazing Digital Circus",
-    scheduleRemark: "Мультсериал × 1 Сезон 1-7 Эпизод",
+    nameRu: "Стрим маловероятен :|",
     scheduleType: "schedule-current",
-    date: "25.06.26",
+    date: "02.07.26",
   },
   // Пятница
   {
-    nameRu: "Викинги",
-    nameEn: "Vikings",
-    scheduleRemark: "Сериал × 3 Сезон 1 Эпизод",
+    nameRu: "Стрим вполне вероятен :]",
     scheduleType: "schedule-current",
-    date: "26.06.26",
-  },
-  {
-    nameRu: "Удивительный цифровой цирк",
-    nameEn: "The Amazing Digital Circus",
-    scheduleRemark: "Мультсериал × 1 Сезон 8-9 Эпизод",
-    scheduleType: "schedule-current",
-    date: "26.06.26",
-  },
-  {
-    nameRu: "Рим",
-    nameEn: "Rome",
-    scheduleRemark: "Сериал × 1 Сезон 1-2 Эпизод",
-    scheduleType: "schedule-current",
-    date: "26.06.26",
+    date: "03.07.26",
   },
   // Суббота
   {
     nameRu: "Стрим невозможен :[",
     scheduleType: "schedule-current",
-    date: "27.06.26",
+    date: "04.07.26",
   },
   // Воскресенье
   {
-    nameRu: "Ещё вчера",
-    nameEn: "Omohide poro poro",
-    scheduleRemark: "Полнометражка × Начало в 15:00 по МСК",
+    nameRu: "Стрим вполне вероятен :]",
     scheduleType: "schedule-current",
-    date: "28.06.26",
-  },
-  {
-    nameRu: "GTA Vice City: The Next-Gen Edition",
-    scheduleRemark: "Игра × Начало в 17:00 по МСК",
-    scheduleType: "schedule-current",
-    date: "28.06.26",
-  },
-  {
-    nameRu: "В лес, где мерцают светлячки",
-    nameEn: "Hotarubi no Mori e",
-    scheduleRemark: "Полнометражка × Начало в 19:00 по МСК",
-    scheduleType: "schedule-current",
-    date: "28.06.26",
+    date: "05.07.26",
   },
 
   //#region Июль
   /* ШАБЛОН
   // Понедельник
   {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
-    scheduleType: "schedule-current",
-    date: "29.06.26",
-  },
-  // Вторник
-  {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
-    scheduleType: "schedule-current",
-    date: "30.06.26",
-  },
-  // Среда
-  {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
-    scheduleType: "schedule-current",
-    date: "01.07.26",
-  },
-  // Четверг
-  {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
-    scheduleType: "schedule-current",
-    date: "02.07.26",
-  },
-  // Пятница
-  {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
-    scheduleType: "schedule-current",
-    date: "03.07.26",
-  },
-  // Суббота
-  {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
-    scheduleType: "schedule-current",
-    date: "04.07.26",
-  },
-  // Воскресенье
-  {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
-    scheduleType: "schedule-current",
-    date: "05.07.26",
-  },
-  // Понедельник
-  {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
+    nameRu: "Стрим невозможен :[",
     scheduleType: "schedule-current",
     date: "06.07.26",
   },
@@ -186,9 +110,7 @@ const scheduleDatabase = [
   },
   // Суббота
   {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
+    nameRu: "Стрим невозможен :[",
     scheduleType: "schedule-current",
     date: "11.07.26",
   },
@@ -202,9 +124,7 @@ const scheduleDatabase = [
   },
   // Понедельник
   {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
+    nameRu: "Стрим невозможен :[",
     scheduleType: "schedule-current",
     date: "13.07.26",
   },
@@ -242,9 +162,7 @@ const scheduleDatabase = [
   },
   // Суббота
   {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
+    nameRu: "Стрим невозможен :[",
     scheduleType: "schedule-current",
     date: "18.07.26",
   },
@@ -258,9 +176,7 @@ const scheduleDatabase = [
   },
   // Понедельник
   {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
+    nameRu: "Стрим невозможен :[",
     scheduleType: "schedule-current",
     date: "20.07.26",
   },
@@ -298,9 +214,7 @@ const scheduleDatabase = [
   },
   // Суббота
   {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
+    nameRu: "Стрим невозможен :[",
     scheduleType: "schedule-current",
     date: "25.07.26",
   },
@@ -314,9 +228,7 @@ const scheduleDatabase = [
   },
   // Понедельник
   {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
+    nameRu: "Стрим невозможен :[",
     scheduleType: "schedule-current",
     date: "27.07.26",
   },
@@ -354,9 +266,7 @@ const scheduleDatabase = [
   },
   // Суббота
   {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
+    nameRu: "Стрим невозможен :[",
     scheduleType: "schedule-current",
     date: "01.08.26",
   },
@@ -374,9 +284,7 @@ const scheduleDatabase = [
   /* ШАБЛОН
   // Понедельник
   {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
+    nameRu: "Стрим невозможен :[",
     scheduleType: "schedule-current",
     date: "03.08.26",
   },
@@ -414,9 +322,7 @@ const scheduleDatabase = [
   },
   // Суббота
   {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
+    nameRu: "Стрим невозможен :[",
     scheduleType: "schedule-current",
     date: "08.08.26",
   },
@@ -430,9 +336,7 @@ const scheduleDatabase = [
   },
   // Понедельник
   {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
+    nameRu: "Стрим невозможен :[",
     scheduleType: "schedule-current",
     date: "10.08.26",
   },
@@ -470,9 +374,7 @@ const scheduleDatabase = [
   },
   // Суббота
   {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
+    nameRu: "Стрим невозможен :[",
     scheduleType: "schedule-current",
     date: "15.08.26",
   },
@@ -486,9 +388,7 @@ const scheduleDatabase = [
   },
   // Понедельник
   {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
+    nameRu: "Стрим невозможен :[",
     scheduleType: "schedule-current",
     date: "17.08.26",
   },
@@ -526,9 +426,7 @@ const scheduleDatabase = [
   },
   // Суббота
   {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
+    nameRu: "Стрим невозможен :[",
     scheduleType: "schedule-current",
     date: "22.08.26",
   },
@@ -542,9 +440,7 @@ const scheduleDatabase = [
   },
   // Понедельник
   {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
+    nameRu: "Стрим невозможен :[",
     scheduleType: "schedule-current",
     date: "24.08.26",
   },
@@ -582,9 +478,7 @@ const scheduleDatabase = [
   },
   // Суббота
   {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
+    nameRu: "Стрим невозможен :[",
     scheduleType: "schedule-current",
     date: "29.08.26",
   },
@@ -2211,6 +2105,80 @@ const scheduleDatabase = [
     nameRu: "Стрим не состоялся :[",
     scheduleType: "schedule-past",
     date: "21.06.26",
+  },
+  // Понедельник
+  {
+    nameRu: "Стрим невозможен :[",
+    scheduleType: "schedule-past",
+    date: "22.06.26",
+  },
+  // Вторник
+  {
+    nameRu: "Стрим не состоялся :[",
+    scheduleType: "schedule-past",
+    date: "23.06.26",
+  },
+  // Среда
+  {
+    nameRu: "Стрим не состоялся :[",
+    scheduleType: "schedule-past",
+    date: "24.06.26",
+  },
+  // Четверг
+  {
+    nameRu: "Удивительный цифровой цирк",
+    nameEn: "The Amazing Digital Circus",
+    scheduleRemark: "Мультсериал × 1 Сезон 1-7 Эпизод",
+    scheduleType: "schedule-past",
+    date: "25.06.26",
+  },
+  // Пятница
+  {
+    nameRu: "Викинги",
+    nameEn: "Vikings",
+    scheduleRemark: "Сериал × 3 Сезон 1 Эпизод",
+    scheduleType: "schedule-past",
+    date: "26.06.26",
+  },
+  {
+    nameRu: "Удивительный цифровой цирк",
+    nameEn: "The Amazing Digital Circus",
+    scheduleRemark: "Мультсериал × 1 Сезон 8-9 Эпизод",
+    scheduleType: "schedule-past",
+    date: "26.06.26",
+  },
+  {
+    nameRu: "Рим",
+    nameEn: "Rome",
+    scheduleRemark: "Сериал × 1 Сезон 1-2 Эпизод",
+    scheduleType: "schedule-past",
+    date: "26.06.26",
+  },
+  // Суббота
+  {
+    nameRu: "Стрим невозможен :[",
+    scheduleType: "schedule-past",
+    date: "27.06.26",
+  },
+  // Воскресенье
+  {
+    nameRu: "Ещё вчера",
+    nameEn: "Omohide poro poro",
+    scheduleRemark: "Полнометражка",
+    scheduleType: "schedule-past",
+    date: "28.06.26",
+  },
+  {
+    nameRu: "Покер",
+    scheduleType: "schedule-past",
+    date: "28.06.26",
+  },
+  {
+    nameRu: "В лес, где мерцают светлячки",
+    nameEn: "Hotarubi no Mori e",
+    scheduleRemark: "Полнометражка",
+    scheduleType: "schedule-past",
+    date: "28.06.26",
   },
   //#endregion
 ];

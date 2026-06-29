@@ -17,6 +17,15 @@ const fullmeterAnime = [
     cardType: "fullmeter-Anime",
   },
   {
+    nameRu: "В лес, где мерцают светлячки",
+    nameEn: "Hotarubi no Mori e",
+    donutTerms: "donut-lvl-3",
+    titleLink: ["vk", "video-208448461_456241857?t=4h41m33s"],
+    id: "Fullmeter-Anime_Hotarubi-no-Mori-e",
+    posterImage: "https://static.tildacdn.com/tild6136-6436-4436-b665-343038393366/img.webp",
+    cardType: "fullmeter-Anime",
+  },
+  {
     nameRu: "Всё, что нужно этой звезде",
     nameEn: "I Byeol-e Pil-yohan / Lost in Starlight",
     donutTerms: "donut-lvl-3",
@@ -72,6 +81,15 @@ const fullmeterAnime = [
     titleStatus: "Сборник",
     id: "Fullmeter-Anime_Evangelion-Shin",
     posterImage: "https://static.tildacdn.com/tild3835-6136-4566-b430-653536303837/img.webp",
+    cardType: "fullmeter-Anime",
+  },
+  {
+    nameRu: "Ещё вчера",
+    nameEn: "Omohide poro poro",
+    donutTerms: "donut-lvl-3",
+    titleLink: ["vk", "video-208448461_456241857?t=2m36s"],
+    id: "Fullmeter-Anime_Omohide-poro-poro",
+    posterImage: "https://static.tildacdn.com/tild3332-3961-4033-b735-343464323136/img.webp",
     cardType: "fullmeter-Anime",
   },
   {

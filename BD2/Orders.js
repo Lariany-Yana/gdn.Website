@@ -241,21 +241,6 @@ const ordersDatabase = [
     ],
   },
   {
-    nameRu: "В лес, где мерцают светлячки",
-    nameEn: "Hotarubi no Mori e",
-    orderRemark: "Полнометражка",
-    personalOrder: "user_Edwin",
-    cardType: "order-waiting",
-    id: "order_Hotarubi-no-Mori-e",
-    items: [
-      {
-        nickname: "Статист",
-        slot: "0.5",
-        date: "05.03.24",
-      },
-    ],
-  },
-  {
     nameRu: "Need for Speed: Most Wanted (2005)",
     orderRemark: "Игра",
     personalOrder: "user_Edwin",
@@ -395,21 +380,6 @@ const ordersDatabase = [
         nickname: "Podserty",
         slot: "2", // 1 Сезон 17-12 Эпизод
         date: "06.08.25",
-      },
-    ],
-  },
-  {
-    nameRu: "Ещё вчера",
-    nameEn: "Omohide poro poro",
-    orderRemark: "Полнометражка",
-    personalOrder: "user_Izida",
-    cardType: "order-waiting",
-    id: "order_Omohide-poro-poro",
-    items: [
-      {
-        nickname: "Izida-Sama",
-        slot: "1",
-        date: "30.03.25",
       },
     ],
   },
@@ -1552,6 +1522,34 @@ const ordersDatabase = [
   },
   //#endregion
   //#region ~Просмотренное~
+  {
+    nameRu: "В лес, где мерцают светлячки",
+    nameEn: "Hotarubi no Mori e",
+    orderRemark: "Полнометражка",
+    cardType: "order-finished",
+    items: [
+      {
+        nickname: "Статист",
+        slot: "0.5",
+        date: "05.03.24",
+        was: "was",
+      },
+    ],
+  },
+  {
+    nameRu: "Ещё вчера",
+    nameEn: "Omohide poro poro",
+    orderRemark: "Полнометражка",
+    cardType: "order-finished",
+    items: [
+      {
+        nickname: "Izida-Sama",
+        slot: "1",
+        date: "30.03.25",
+        was: "was",
+      },
+    ],
+  },
   {
     nameRu: "Удивительный цифровой цирк",
     nameEn: "The Amazing Digital Circus",
