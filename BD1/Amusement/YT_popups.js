@@ -5,15 +5,15 @@ const amusementYouTubePopups = {
       items: [
         {
           title: "собрал ЦАРЬ ПК ЗА 300 тысяч",
-          titleLink: ["vk", "video-208448461_456241515?t=11m52s"],
+          titleLink: ["vk", "456241515?t=11m52s"],
         },
         {
           title: "Арена. Ремастер",
-          titleLink: ["vk", "video-208448461_456241515?t=1h17m45s"],
+          titleLink: ["vk", "456241515?t=1h17m45s"],
         },
         {
           title: "История любви",
-          titleLink: ["vk", "video-208448461_456241515?t=2h35m49s"],
+          titleLink: ["vk", "456241515?t=2h35m49s"],
         },
       ],
     },
@@ -24,31 +24,31 @@ const amusementYouTubePopups = {
       items: [
         {
           title: "Интерстеллар спустя 10 лет. Режиссёрская версия Кипа Торна. Объяснение концовки. Наука за кадром",
-          titleLink: ["vk", "video-208448461_456241557?t=6m18s"],
+          titleLink: ["vk", "456241557?t=6m18s"],
         },
         {
           title: "Настоящего не существует",
-          titleLink: ["vk", "video-208448461_456241622?t=11m58s"],
+          titleLink: ["vk", "456241622?t=11m58s"],
         },
         {
           title: "Почему физики считают, что тень скрывает целые миры и рушит наши представления о времени?",
-          titleLink: ["vk", "video-208448461_456241622?t=1h34m6s"],
+          titleLink: ["vk", "456241622?t=1h34m6s"],
         },
         {
           title: "Главная загадка Природы",
-          titleLink: ["vk", "video-208448461_456241633?t=12m30s"],
+          titleLink: ["vk", "456241633?t=12m30s"],
         },
         {
           title: "Возможно, у нас есть выбор",
-          titleLink: ["vk", "video-208448461_456241641?t=13m20s"],
+          titleLink: ["vk", "456241641?t=13m20s"],
         },
         {
           title: "Чужаки изнутри",
-          titleLink: ["vk", "video-208448461_456241662?t=1h42m27s"],
+          titleLink: ["vk", "456241662?t=1h42m27s"],
         },
         {
           title: "С нашей эволюцией что-то не так",
-          titleLink: ["vk", "video-208448461_456241756?t=11m29s"],
+          titleLink: ["vk", "456241756?t=11m29s"],
         },
       ],
     },
@@ -59,11 +59,11 @@ const amusementYouTubePopups = {
       items: [
         {
           title: "Провожу кастинг Кавказца на роль Модели [РЖЕКИЧ/10]",
-          titleLink: ["vk", "video-208448461_456240776?t=1h59m45s"],
+          titleLink: ["vk", "456240776?t=1h59m45s"],
         },
         {
           title: "Янг Впопес, Вассерман и Плосковер установили НАСТОЯЩУЮ форму земли",
-          titleLink: ["vk", "video-208448461_456241228?t=10m0s"],
+          titleLink: ["vk", "456241228?t=10m0s"],
         },
       ],
     },
@@ -74,11 +74,11 @@ const amusementYouTubePopups = {
       items: [
         {
           title: "CИБИРСКИЙ ПОТРОШИТЕЛЬ",
-          titleLink: ["vk", "video-208448461_456240721?t=8h13m30s"],
+          titleLink: ["vk", "456240721?t=8h13m30s"],
         },
         {
           title: "ДЕЛО ГОЛОВКИНА",
-          titleLink: ["vk", "video-208448461_456241144?t=14m16s"],
+          titleLink: ["vk", "456241144?t=14m16s"],
         },
       ],
     },
@@ -89,15 +89,15 @@ const amusementYouTubePopups = {
       items: [
         {
           title: "God of War",
-          titleLink: ["vk", "video-208448461_456240846?t=13m26s"],
+          titleLink: ["vk", "456240846?t=13m26s"],
         },
         {
           title: "God of War II",
-          titleLink: ["vk", "video-208448461_456240859?t=13m1s"],
+          titleLink: ["vk", "456240859?t=13m1s"],
         },
         {
           title: "God of War III",
-          titleLink: ["vk", "video-208448461_456240859?t=3h1m42s"],
+          titleLink: ["vk", "456240859?t=3h1m42s"],
         },
       ],
     },
@@ -108,19 +108,19 @@ const amusementYouTubePopups = {
       items: [
         {
           title: "17 миллионов зрителей смотрели как человек сходит с ума | Nasubi",
-          titleLink: ["vk", "video-208448461_456240443?t=14m1s"],
+          titleLink: ["vk", "456240443?t=14m1s"],
         },
         {
           title: "Нил Брин - Человек снимающий хуже Александра Невского",
-          titleLink: ["vk", "video-208448461_456240666?t=1h29m10s"],
+          titleLink: ["vk", "456240666?t=1h29m10s"],
         },
         {
           title: "Самый безумный Пранк в истории Телевидения!",
-          titleLink: ["vk", "video-208448461_456241407?t=4m35s"],
+          titleLink: ["vk", "456241407?t=4m35s"],
         },
         {
           title: "Настоящий Гений Пранков - Нейтан Филдер",
-          titleLink: ["vk", "video-208448461_456241407?t=4m35s"],
+          titleLink: ["vk", "456241407?t=4m35s"],
         },
       ],
     },
@@ -131,7 +131,7 @@ const amusementYouTubePopups = {
       items: [
         {
           title: "#4 НЕ ДИКИЙ ДИКИЙ ЗАПАД",
-          titleLink: ["vk", "video-208448461_456240666?t=2h57m15s"],
+          titleLink: ["vk", "456240666?t=2h57m15s"],
         },
       ],
     },
@@ -140,11 +140,11 @@ const amusementYouTubePopups = {
       items: [
         {
           title: "ГЛАВНАЯ ТАЙНА РАСКРЫТА",
-          titleLink: ["vk", "video-208448461_456240736?t=1h37m1s"],
+          titleLink: ["vk", "456240736?t=1h37m1s"],
         },
         {
           title: "ПРИШЕЛЬЦЫ СРЕДИ НАС",
-          titleLink: ["vk", "video-208448461_456241198?t=2m53s"],
+          titleLink: ["vk", "456241198?t=2m53s"],
         },
         {
           title: "ТАЙНОЕ МИРОВОЕ ПРАВИТЕЛЬСТВО",
@@ -159,11 +159,11 @@ const amusementYouTubePopups = {
       items: [
         {
           title: "Из ЧЕГО состоит ВСЁ? 4 закона ВСЕЛЕННОЙ",
-          titleLink: ["vk", "video-208448461_456241662?t=13m48s"],
+          titleLink: ["vk", "456241662?t=13m48s"],
         },
         {
           title: "СУПЕРСИММЕТРИЯ vs MУЛЬТИВСЕЛЕННАЯ. БОЛЬШОЙ АДРОННЫЙ КОЛЛАЙДЕР",
-          titleLink: ["vk", "video-208448461_456241662?t=58m54s"],
+          titleLink: ["vk", "456241662?t=58m54s"],
         },
       ],
     },

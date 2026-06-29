@@ -11,47 +11,47 @@ const amusementPokerPopups = {
       items: [
         {
           title: "28 Июня",
-          titleLink: ["vk", "video-208448461_456241857?t=2h53m23s"],
+          titleLink: ["vk", "456241857?t=2h53m23s"],
         },
         {
           title: "9 Июня",
-          titleLink: ["vk", "video-208448461_456241846?t=2h11m2s"],
+          titleLink: ["vk", "456241846?t=2h11m2s"],
         },
         {
           title: "28 Мая",
-          titleLink: ["vk", "video-208448461_456241839?t=4m41s"],
+          titleLink: ["vk", "456241839?t=4m41s"],
         },
         {
           title: "18 Февраля",
-          titleLink: ["vk", "video-208448461_456241776?t=3h14m34s"],
+          titleLink: ["vk", "456241776?t=3h14m34s"],
         },
         {
           title: "17 Февраля",
-          titleLink: ["vk", "video-208448461_456241775?t=2h16m24s"],
+          titleLink: ["vk", "456241775?t=2h16m24s"],
         },
         {
           title: "12 Февраля",
-          titleLink: ["vk", "video-208448461_456241772?t=4h13m21s"],
+          titleLink: ["vk", "456241772?t=4h13m21s"],
         },
         {
           title: "21 Января",
-          titleLink: ["vk", "video-208448461_456241748?t=4h26m40s"],
+          titleLink: ["vk", "456241748?t=4h26m40s"],
         },
         {
           title: "19 Января",
-          titleLink: ["vk", "video-208448461_456241747?t=11s"],
+          titleLink: ["vk", "456241747?t=11s"],
         },
         {
           title: "13 Января",
-          titleLink: ["vk", "video-208448461_456241746?t=10m51s"],
+          titleLink: ["vk", "456241746?t=10m51s"],
         },
         {
           title: "11 Января",
-          titleLink: ["vk", "video-208448461_456241744?t=3h43m16s"],
+          titleLink: ["vk", "456241744?t=3h43m16s"],
         },
         {
           title: "6 Января",
-          titleLink: ["vk", "video-208448461_456241740?t=7h16m42s"],
+          titleLink: ["vk", "456241740?t=7h16m42s"],
         },
       ],
     },
@@ -68,43 +68,43 @@ const amusementPokerPopups = {
         },
         {
           title: "14 Декабря",
-          titleLink: ["vk", "video-208448461_456241726"],
+          titleLink: ["vk", "456241726"],
         },
         {
           title: "11 Декабря",
-          titleLink: ["boosty", "hiddenarchive/posts/298f44ae-90d1-41a2-9fbe-3477b5404a97?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/298f44ae-90d1-41a2-9fbe-3477b5404a97"],
         },
         {
           title: "2 Октября",
-          titleLink: ["vk", "video-208448461_456241668?t=6m11s"],
+          titleLink: ["vk", "456241668?t=6m11s"],
         },
         {
           title: "11 Августа",
-          titleLink: ["vk", "video-208448461_456241627?t=9m45s"],
+          titleLink: ["vk", "456241627?t=9m45s"],
         },
         {
           title: "15 Июля",
-          titleLink: ["vk", "video-208448461_456241600?t=15m0s"],
+          titleLink: ["vk", "456241600?t=15m0s"],
         },
         {
           title: "9 Июля",
-          titleLink: ["vk", "video-208448461_456241598?t=5h54m37s"],
+          titleLink: ["vk", "456241598?t=5h54m37s"],
         },
         {
           title: "27 Мая",
-          titleLink: ["vk", "video-208448461_456241557?t=6m11s"],
+          titleLink: ["vk", "456241557?t=6m11s"],
         },
         {
           title: "8 Мая",
-          titleLink: ["vk", "video-208448461_456241537?t=1h7m45s"],
+          titleLink: ["vk", "456241537?t=1h7m45s"],
         },
         {
           title: "15 Января",
-          titleLink: ["vk", "video-208448461_456241441?t=52m1s"],
+          titleLink: ["vk", "456241441?t=52m1s"],
         },
         {
           title: "10 Января",
-          titleLink: ["vk", "video-208448461_456241434?t=1h22m6s"],
+          titleLink: ["vk", "456241434?t=1h22m6s"],
         },
       ],
     },
@@ -113,99 +113,99 @@ const amusementPokerPopups = {
       items: [
         {
           title: "21 Декабря",
-          titleLink: ["vk", "video-208448461_456241414?t=10m32s"],
+          titleLink: ["vk", "456241414?t=10m32s"],
         },
         {
           title: "19 Декабря",
-          titleLink: ["vk", "video-208448461_456241410?t=2h17m36s"],
+          titleLink: ["vk", "456241410?t=2h17m36s"],
         },
         {
           title: "17 Декабря",
-          titleLink: ["vk", "video-208448461_456241407?t=19m7s"],
+          titleLink: ["vk", "456241407?t=19m7s"],
         },
         {
           title: "8 Декабря",
-          titleLink: ["vk", "video-208448461_456241387?t=11m55s"],
+          titleLink: ["vk", "456241387?t=11m55s"],
         },
         {
           title: "23 Октября",
-          titleLink: ["vk", "video-208448461_456241307?t=10m0s"],
+          titleLink: ["vk", "456241307?t=10m0s"],
         },
         {
           title: "22 Октября",
-          titleLink: ["vk", "video-208448461_456241305?t=10m15s"],
+          titleLink: ["vk", "456241305?t=10m15s"],
         },
         {
           title: "19 Октября",
-          titleLink: ["vk", "video-208448461_456241302?t=3m19s"],
+          titleLink: ["vk", "456241302?t=3m19s"],
         },
         {
           title: "12 Октября",
-          titleLink: ["vk", "video-208448461_456241293"],
+          titleLink: ["vk", "456241293"],
         },
         {
           title: "28 Сентября",
-          titleLink: ["vk", "video-208448461_456241269?t=8m49s"],
+          titleLink: ["vk", "456241269?t=8m49s"],
         },
         {
           title: "25 Сентября",
-          titleLink: ["vk", "video-208448461_456241267?t=7m41s"],
+          titleLink: ["vk", "456241267?t=7m41s"],
         },
         {
           title: "19 Сентября",
-          titleLink: ["vk", "video-208448461_456241259?t=10m55s"],
+          titleLink: ["vk", "456241259?t=10m55s"],
         },
         {
           title: "18 Сентября",
-          titleLink: ["vk", "video-208448461_456241257?t=15m5s"],
+          titleLink: ["vk", "456241257?t=15m5s"],
         },
         {
           title: "12 Сентября",
-          titleLink: ["vk", "video-208448461_456241242?t=10m21s"],
+          titleLink: ["vk", "456241242?t=10m21s"],
         },
         {
           title: "11 Сентября",
-          titleLink: ["vk", "video-208448461_456241240?t=30m25s"],
+          titleLink: ["vk", "456241240?t=30m25s"],
         },
         {
           title: "8 Сентября",
-          titleLink: ["vk", "video-208448461_456241286"],
+          titleLink: ["vk", "456241286"],
         },
         {
           title: "3 Сентября",
-          titleLink: ["vk", "video-208448461_456241235?t=13m33s"],
+          titleLink: ["vk", "456241235?t=13m33s"],
         },
         {
           title: "2 Сентября",
-          titleLink: ["vk", "video-208448461_456241233?t=8m56s"],
+          titleLink: ["vk", "456241233?t=8m56s"],
         },
         {
           title: "29 Августа",
-          titleLink: ["vk", "video-208448461_456241223?t=1m50s"],
+          titleLink: ["vk", "456241223?t=1m50s"],
         },
         {
           title: "28 Августа",
-          titleLink: ["vk", "video-208448461_456241220?t=7m30s"],
+          titleLink: ["vk", "456241220?t=7m30s"],
         },
         {
           title: "26 Августа",
-          titleLink: ["vk", "video-208448461_456241216"],
+          titleLink: ["vk", "456241216"],
         },
         {
           title: "24 Августа",
-          titleLink: ["vk", "video-208448461_456241209?t=1h19m12s"],
+          titleLink: ["vk", "456241209?t=1h19m12s"],
         },
         {
           title: "14 Августа",
-          titleLink: ["vk", "video-208448461_456241201?t=27m1s"],
+          titleLink: ["vk", "456241201?t=27m1s"],
         },
         {
           title: "8 Января",
-          titleLink: ["vk", "video-208448461_456240784?t=2m18s"],
+          titleLink: ["vk", "456240784?t=2m18s"],
         },
         {
           title: "6 Января",
-          titleLink: ["vk", "video-208448461_456240776?t=10m58s"],
+          titleLink: ["vk", "456240776?t=10m58s"],
         },
       ],
     },
@@ -214,83 +214,83 @@ const amusementPokerPopups = {
       items: [
         {
           title: "22 Декабря",
-          titleLink: ["vk", "video-208448461_456240736?t=16m42s"],
+          titleLink: ["vk", "456240736?t=16m42s"],
         },
         {
           title: "28 Ноября",
-          titleLink: ["vk", "video-208448461_456240689?t=7h22m50s"],
+          titleLink: ["vk", "456240689?t=7h22m50s"],
         },
         {
           title: "19 Ноября",
-          titleLink: ["vk", "video-208448461_456240672?t=3h53m0s"],
+          titleLink: ["vk", "456240672?t=3h53m0s"],
         },
         {
           title: "15 Ноября",
-          titleLink: ["vk", "video-208448461_456240666?t=2h37m40s"],
+          titleLink: ["vk", "456240666?t=2h37m40s"],
         },
         {
           title: "8 Ноября",
-          titleLink: ["vk", "video-208448461_456240639?t=10h21m20s"],
+          titleLink: ["vk", "456240639?t=10h21m20s"],
         },
         {
           title: "15 Октября",
-          titleLink: ["vk", "video-208448461_456240527?t=10m20s"],
+          titleLink: ["vk", "456240527?t=10m20s"],
         },
         {
           title: "14 Октября",
-          titleLink: ["vk", "video-208448461_456240524?t=8m40s"],
+          titleLink: ["vk", "456240524?t=8m40s"],
         },
         {
           title: "12 Октября",
-          titleLink: ["vk", "video-208448461_456240503?t=19m32s"],
+          titleLink: ["vk", "456240503?t=19m32s"],
         },
         {
           title: "9 Октября",
-          titleLink: ["vk", "video-208448461_456240443"],
+          titleLink: ["vk", "456240443"],
         },
         {
           title: "8 Октября",
-          titleLink: ["vk", "video-208448461_456240427?t=6h8m30s"],
+          titleLink: ["vk", "456240427?t=6h8m30s"],
         },
         {
           title: "28 Сентября",
-          titleLink: ["vk", "video-208448461_456240246?t=2h28m53s"],
+          titleLink: ["vk", "456240246?t=2h28m53s"],
         },
         {
           title: "24 Июля",
-          titleLink: ["vk", "video-208448461_456240021?t=10m20s"],
+          titleLink: ["vk", "456240021?t=10m20s"],
         },
         {
           title: "23 Июля",
-          titleLink: ["vk", "video-208448461_456240020?t=9m31s"],
+          titleLink: ["vk", "456240020?t=9m31s"],
         },
         {
           title: "22 Июля",
-          titleLink: ["vk", "video-208448461_456240018?t=8m36s"],
+          titleLink: ["vk", "456240018?t=8m36s"],
         },
         {
           title: "19 Июля",
-          titleLink: ["vk", "video-208448461_456240014?t=7h43m0s"],
+          titleLink: ["vk", "456240014?t=7h43m0s"],
         },
         {
           title: "18 Июля",
-          titleLink: ["vk", "video-208448461_456240011?t=6h24m20s"],
+          titleLink: ["vk", "456240011?t=6h24m20s"],
         },
         {
           title: "17 Июля",
-          titleLink: ["vk", "video-208448461_456240010?t=10m34s"],
+          titleLink: ["vk", "456240010?t=10m34s"],
         },
         {
           title: "11 Июля",
-          titleLink: ["vk", "video-208448461_456240004?t=8h27m1s"],
+          titleLink: ["vk", "456240004?t=8h27m1s"],
         },
         {
           title: "10 Июля",
-          titleLink: ["vk", "video-208448461_456240003?t=9m56s"],
+          titleLink: ["vk", "456240003?t=9m56s"],
         },
         {
           title: "5 Мая",
-          titleLink: ["vk", "video-208448461_456239934?t=16m46s"],
+          titleLink: ["vk", "456239934?t=16m46s"],
         },
       ],
     },

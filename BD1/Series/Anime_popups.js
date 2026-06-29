@@ -5,15 +5,15 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456239476?t=4h47m45s"],
+          titleLink: ["vk", "456239476?t=4h47m45s"],
         },
         {
           title: "5-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456239482?t=4h54m30s"],
+          titleLink: ["vk", "456239482?t=4h54m30s"],
         },
         {
           title: "9-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456239502?t=24m45s"],
+          titleLink: ["vk", "456239502?t=24m45s"],
         },
       ],
     },
@@ -24,15 +24,15 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456239575?t=16m18s"],
+          titleLink: ["vk", "456239575?t=16m18s"],
         },
         {
           title: "5-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456239654?t=2h29m16s"],
+          titleLink: ["vk", "456239654?t=2h29m16s"],
         },
         {
           title: "9-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456239669?t=2h5m11s"],
+          titleLink: ["vk", "456239669?t=2h5m11s"],
         },
       ],
     },
@@ -43,19 +43,19 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-6 Эпизод",
-          titleLink: ["vk", "video-208448461_456240293"],
+          titleLink: ["vk", "456240293"],
         },
         {
           title: "7-10 Эпизод",
-          titleLink: ["vk", "video-208448461_456240295"],
+          titleLink: ["vk", "456240295"],
         },
         {
           title: "11-14 Эпизод",
-          titleLink: ["vk", "video-208448461_456240296"],
+          titleLink: ["vk", "456240296"],
         },
         {
           title: "15-20 Эпизод",
-          titleLink: ["vk", "video-208448461_456240297"],
+          titleLink: ["vk", "456240297"],
         },
       ],
     },
@@ -68,23 +68,23 @@ const seriesAnimePopups = {
         },
         {
           title: "5-7 Эпизод",
-          titleLink: ["vk", "video-208448461_456240298"],
+          titleLink: ["vk", "456240298"],
         },
         {
           title: "8-9 Эпизод",
-          titleLink: ["vk", "video-208448461_456240299"],
+          titleLink: ["vk", "456240299"],
         },
         {
           title: "10-13 Эпизод",
-          titleLink: ["vk", "video-208448461_456240301"],
+          titleLink: ["vk", "456240301"],
         },
         {
           title: "14-15 Эпизод",
-          titleLink: ["vk", "video-208448461_456240302"],
+          titleLink: ["vk", "456240302"],
         },
         {
           title: "16-20 Эпизод",
-          titleLink: ["vk", "video-208448461_456240303"],
+          titleLink: ["vk", "456240303"],
         },
       ],
     },
@@ -93,23 +93,23 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-2 Эпизод",
-          titleLink: ["vk", "video-208448461_456240304"],
+          titleLink: ["vk", "456240304"],
         },
         {
           title: "3-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456240292"],
+          titleLink: ["vk", "456240292"],
         },
         {
           title: "9-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456240305"],
+          titleLink: ["vk", "456240305"],
         },
         {
           title: "13-17 Эпизод",
-          titleLink: ["vk", "video-208448461_456240306"],
+          titleLink: ["vk", "456240306"],
         },
         {
           title: "18-21 Эпизод",
-          titleLink: ["vk", "video-208448461_456240307"],
+          titleLink: ["vk", "456240307"],
         },
       ],
     },
@@ -120,19 +120,19 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1 Эпизод",
-          titleLink: ["vk", "video-208448461_456240314"],
+          titleLink: ["vk", "456240314"],
         },
         {
           title: "2-5 Эпизод",
-          titleLink: ["vk", "video-208448461_456240308"],
+          titleLink: ["vk", "456240308"],
         },
         {
           title: "6-7 Эпизод",
-          titleLink: ["vk", "video-208448461_456240309"],
+          titleLink: ["vk", "456240309"],
         },
         {
           title: "8-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456240310"],
+          titleLink: ["vk", "456240310"],
         },
       ],
     },
@@ -141,23 +141,23 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-2 Эпизод",
-          titleLink: ["vk", "video-208448461_456240311"],
+          titleLink: ["vk", "456240311"],
         },
         {
           title: "3-5 Эпизод",
-          titleLink: ["vk", "video-208448461_456240312"],
+          titleLink: ["vk", "456240312"],
         },
         {
           title: "6-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456240319"],
+          titleLink: ["vk", "456240319"],
         },
         {
           title: "9-10 Эпизод",
-          titleLink: ["vk", "video-208448461_456240315"],
+          titleLink: ["vk", "456240315"],
         },
         {
           title: "11-14 Эпизод",
-          titleLink: ["vk", "video-208448461_456240316"],
+          titleLink: ["vk", "456240316"],
         },
       ],
     },
@@ -166,19 +166,19 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-3 Эпизод",
-          titleLink: ["vk", "video-208448461_456240317"],
+          titleLink: ["vk", "456240317"],
         },
         {
           title: "4 Эпизод",
-          titleLink: ["vk", "video-208448461_456240318"],
+          titleLink: ["vk", "456240318"],
         },
         {
           title: "5-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456240319"],
+          titleLink: ["vk", "456240319"],
         },
         {
           title: "9-13 Эпизод",
-          titleLink: ["vk", "video-208448461_456240320"],
+          titleLink: ["vk", "456240320"],
         },
       ],
     },
@@ -191,7 +191,7 @@ const seriesAnimePopups = {
         },
         {
           title: "9-13 Эпизод",
-          titleLink: ["vk", "video-208448461_456239787?t=4h55m48s"],
+          titleLink: ["vk", "456239787?t=4h55m48s"],
         },
       ],
     },
@@ -202,15 +202,15 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-5 Эпизод",
-          titleLink: ["vk", "video-208448461_456240625"],
+          titleLink: ["vk", "456240625"],
         },
         {
           title: "5.5-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456240626"],
+          titleLink: ["vk", "456240626"],
         },
         {
           title: "9-11 Эпизод",
-          titleLink: ["vk", "video-208448461_456240628"],
+          titleLink: ["vk", "456240628"],
         },
       ],
     },
@@ -219,19 +219,19 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456240246?t=15m4s"],
+          titleLink: ["vk", "456240246?t=15m4s"],
         },
         {
           title: "5-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456240572?t=6h21m"],
+          titleLink: ["vk", "456240572?t=6h21m"],
         },
         {
           title: "9 Эпизод",
-          titleLink: ["vk", "video-208448461_456240574?t=7h11m35s"],
+          titleLink: ["vk", "456240574?t=7h11m35s"],
         },
         {
           title: "9-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456240580?t=15m0s"],
+          titleLink: ["vk", "456240580?t=15m0s"],
         },
       ],
     },
@@ -240,7 +240,7 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-6 Эпизод",
-          titleLink: ["vk", "video-208448461_456241478?t=4h8m49s"],
+          titleLink: ["vk", "456241478?t=4h8m49s"],
         },
       ],
     },
@@ -251,15 +251,15 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-3 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/6c25d1b7-1a24-47be-8ba2-7f481f3cd656?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/6c25d1b7-1a24-47be-8ba2-7f481f3cd656"],
         },
         {
           title: "4-7 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/9169e27d-1a8b-4ad0-8adf-20c455efb1f8?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/9169e27d-1a8b-4ad0-8adf-20c455efb1f8"],
         },
         {
           title: "8-13 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/71150599-4465-4333-a4b4-d8d9379767d2?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/71150599-4465-4333-a4b4-d8d9379767d2"],
         },
         {
           title: "14-26 Эпизод",
@@ -274,15 +274,15 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456239256"],
+          titleLink: ["vk", "456239256"],
         },
         {
           title: "5-7 Эпизод",
-          titleLink: ["vk", "video-208448461_456239258"],
+          titleLink: ["vk", "456239258"],
         },
         {
           title: "8-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456239265"],
+          titleLink: ["vk", "456239265"],
         },
       ],
     },
@@ -293,7 +293,7 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456240870"],
+          titleLink: ["vk", "456240870"],
         },
         {
           title: "5-8 Эпизод",
@@ -301,15 +301,15 @@ const seriesAnimePopups = {
         },
         {
           title: "9-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456240871"],
+          titleLink: ["vk", "456240871"],
         },
         {
           title: "13-16 Эпизод",
-          titleLink: ["vk", "video-208448461_456240872"],
+          titleLink: ["vk", "456240872"],
         },
         {
           title: "17-20 Эпизод",
-          titleLink: ["vk", "video-208448461_456240873"],
+          titleLink: ["vk", "456240873"],
         },
         {
           title: "21-25 Эпизод",
@@ -324,35 +324,35 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["boosty", "godenname/posts/a8078399-3c8c-4c77-ae85-7dd0aa5ffd30?share=post_link"],
+          titleLink: ["boosty", "godenname/posts/a8078399-3c8c-4c77-ae85-7dd0aa5ffd30"],
         },
         {
           title: "1-4 Эпизод - пересмотр",
-          titleLink: ["vk", "video-208448461_456241001?t=1h55m22s"],
+          titleLink: ["vk", "456241001?t=1h55m22s"],
         },
         {
           title: "5-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456241001?t=3h56m39s"],
+          titleLink: ["vk", "456241001?t=3h56m39s"],
         },
         {
           title: "9 Эпизод",
-          titleLink: ["vk", "video-208448461_456241035?t=8h25m20s"],
+          titleLink: ["vk", "456241035?t=8h25m20s"],
         },
         {
           title: "9-13 Эпизод",
-          titleLink: ["vk", "video-208448461_456241036?t=0s"],
+          titleLink: ["vk", "456241036?t=0s"],
         },
         {
           title: "14-21 Эпизод",
-          titleLink: ["vk", "video-208448461_456241114?t=4h11m38s"],
+          titleLink: ["vk", "456241114?t=4h11m38s"],
         },
         {
           title: "22-22.5 Эпизод",
-          titleLink: ["vk", "video-208448461_456241121?t=14m15s"],
+          titleLink: ["vk", "456241121?t=14m15s"],
         },
         {
           title: "23-25 Эпизод",
-          titleLink: ["vk", "video-208448461_456241129?t=11m54s"],
+          titleLink: ["vk", "456241129?t=11m54s"],
         },
       ],
     },
@@ -361,15 +361,15 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456241377?t=12m10s"],
+          titleLink: ["vk", "456241377?t=12m10s"],
         },
         {
           title: "9-18 Эпизод",
-          titleLink: ["vk", "video-208448461_456241417?t=13m0s"],
+          titleLink: ["vk", "456241417?t=13m0s"],
         },
         {
           title: "19-25 Эпизод",
-          titleLink: ["vk", "video-208448461_456241427?t=1m32s"],
+          titleLink: ["vk", "456241427?t=1m32s"],
         },
       ],
     },
@@ -378,23 +378,23 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456241439?t=6h23m0s"],
+          titleLink: ["vk", "456241439?t=6h23m0s"],
         },
         {
           title: "4-7, 16.5 Эпизод",
-          titleLink: ["vk", "video-208448461_456241442?t=5h13m41s"],
+          titleLink: ["vk", "456241442?t=5h13m41s"],
         },
         {
           title: "8-16 Эпизод",
-          titleLink: ["vk", "video-208448461_456241455?t=4h42m28s"],
+          titleLink: ["vk", "456241455?t=4h42m28s"],
         },
         {
           title: "17 Эпизод",
-          titleLink: ["vk", "video-208448461_456241476?t=4h20m19s"],
+          titleLink: ["vk", "456241476?t=4h20m19s"],
         },
         {
           title: "18-25 Эпизод",
-          titleLink: ["vk", "video-208448461_456241485?t=11m44s"],
+          titleLink: ["vk", "456241485?t=11m44s"],
         },
       ],
     },
@@ -403,7 +403,7 @@ const seriesAnimePopups = {
       items: [
         {
           title: "Последняя игра",
-          titleLink: ["vk", "video-208448461_456241665?t=2h18m30s"],
+          titleLink: ["vk", "456241665?t=2h18m30s"],
         },
       ],
     },
@@ -414,35 +414,35 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-2 Эпизод",
-          titleLink: ["vk", "video-208448461_456239353"],
+          titleLink: ["vk", "456239353"],
         },
         {
           title: "3 Эпизод",
-          titleLink: ["vk", "video-208448461_456239354"],
+          titleLink: ["vk", "456239354"],
         },
         {
           title: "4-5 Эпизод",
-          titleLink: ["vk", "video-208448461_456239355"],
+          titleLink: ["vk", "456239355"],
         },
         {
           title: "6-7 Эпизод",
-          titleLink: ["vk", "video-208448461_456239356"],
+          titleLink: ["vk", "456239356"],
         },
         {
           title: "8 Эпизод",
-          titleLink: ["vk", "video-208448461_456239357"],
+          titleLink: ["vk", "456239357"],
         },
         {
           title: "9-10 Эпизод",
-          titleLink: ["vk", "video-208448461_456239358"],
+          titleLink: ["vk", "456239358"],
         },
         {
           title: "11 Эпизод",
-          titleLink: ["vk", "video-208448461_456239359"],
+          titleLink: ["vk", "456239359"],
         },
         {
           title: "12-13 Эпизод",
-          titleLink: ["vk", "video-208448461_456239360"],
+          titleLink: ["vk", "456239360"],
         },
       ],
     },
@@ -453,19 +453,19 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-2 Эпизод",
-          titleLink: ["vk", "video-208448461_456240486"],
+          titleLink: ["vk", "456240486"],
         },
         {
           title: "3-6 Эпизод",
-          titleLink: ["vk", "video-208448461_456240487"],
+          titleLink: ["vk", "456240487"],
         },
         {
           title: "7-10 Эпизод",
-          titleLink: ["vk", "video-208448461_456240488"],
+          titleLink: ["vk", "456240488"],
         },
         {
           title: "11-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456240489"],
+          titleLink: ["vk", "456240489"],
         },
       ],
     },
@@ -474,19 +474,19 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-2 Эпизод",
-          titleLink: ["vk", "video-208448461_456240489?t=1h2m41s"],
+          titleLink: ["vk", "456240489?t=1h2m41s"],
         },
         {
           title: "3-5 Эпизод",
-          titleLink: ["vk", "video-208448461_456240490"],
+          titleLink: ["vk", "456240490"],
         },
         {
           title: "6-9 Эпизод",
-          titleLink: ["vk", "video-208448461_456240491"],
+          titleLink: ["vk", "456240491"],
         },
         {
           title: "10-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456240492"],
+          titleLink: ["vk", "456240492"],
         },
       ],
     },
@@ -497,27 +497,27 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-3 Эпизод",
-          titleLink: ["vk", "video-208448461_456240272"],
+          titleLink: ["vk", "456240272"],
         },
         {
           title: "4-5 Эпизод",
-          titleLink: ["vk", "video-208448461_456240278"],
+          titleLink: ["vk", "456240278"],
         },
         {
           title: "6-7 Эпизод",
-          titleLink: ["vk", "video-208448461_456240279"],
+          titleLink: ["vk", "456240279"],
         },
         {
           title: "8-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456240280"],
+          titleLink: ["vk", "456240280"],
         },
         {
           title: "13-18 Эпизод",
-          titleLink: ["vk", "video-208448461_456240281"],
+          titleLink: ["vk", "456240281"],
         },
         {
           title: "19-22 Эпизод",
-          titleLink: ["vk", "video-208448461_456240282"],
+          titleLink: ["vk", "456240282"],
         },
         {
           title: "23-26 Эпизод",
@@ -532,11 +532,11 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-5 Эпизод",
-          titleLink: ["vk", "video-208448461_456239503"],
+          titleLink: ["vk", "456239503"],
         },
         {
           title: "6-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456239504"],
+          titleLink: ["vk", "456239504"],
         },
         {
           title: "13-19 Эпизод",
@@ -544,7 +544,7 @@ const seriesAnimePopups = {
         },
         {
           title: "20-25 Эпизод",
-          titleLink: ["vk", "video-208448461_456239505"],
+          titleLink: ["vk", "456239505"],
         },
       ],
     },
@@ -555,19 +555,19 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-7 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/4ff05a05-6db1-4110-b95f-49aa68d1c761?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/4ff05a05-6db1-4110-b95f-49aa68d1c761"],
         },
         {
           title: "8-12 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/1ddfac4e-041d-4d7f-8c62-5dbc6e2e72ce?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/1ddfac4e-041d-4d7f-8c62-5dbc6e2e72ce"],
         },
         {
           title: "13-18 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/5e0a92df-1708-41d6-98f5-a5fa224c0ffd?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/5e0a92df-1708-41d6-98f5-a5fa224c0ffd"],
         },
         {
           title: "18-24 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/9cf39245-6460-4bca-9e1c-b94e520e9e42?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/9cf39245-6460-4bca-9e1c-b94e520e9e42"],
         },
         {
           title: "25-118 Эпизод",
@@ -575,31 +575,31 @@ const seriesAnimePopups = {
         },
         {
           title: "119-121 Эпизод",
-          titleLink: ["vk", "video-208448461_456240322"],
+          titleLink: ["vk", "456240322"],
         },
         {
           title: "121-138 Эпизод",
-          titleLink: ["vk", "video-208448461_456240323"],
+          titleLink: ["vk", "456240323"],
         },
         {
           title: "138-141 Эпизод",
-          titleLink: ["vk", "video-208448461_456240324"],
+          titleLink: ["vk", "456240324"],
         },
         {
           title: "141-142 Эпизод",
-          titleLink: ["vk", "video-208448461_456240325"],
+          titleLink: ["vk", "456240325"],
         },
         {
           title: "143-152 Эпизод",
-          titleLink: ["vk", "video-208448461_456240326"],
+          titleLink: ["vk", "456240326"],
         },
         {
           title: "153-160 Эпизод",
-          titleLink: ["vk", "video-208448461_456240327"],
+          titleLink: ["vk", "456240327"],
         },
         {
           title: "161-193 Эпизод",
-          titleLink: ["vk", "video-208448461_456240328"],
+          titleLink: ["vk", "456240328"],
         },
         {
           title: "194-243 Эпизод",
@@ -607,7 +607,7 @@ const seriesAnimePopups = {
         },
         {
           title: "244-254 Эпизод",
-          titleLink: ["vk", "video-208448461_456240473"],
+          titleLink: ["vk", "456240473"],
         },
         {
           title: "255-342 Эпизод",
@@ -615,15 +615,15 @@ const seriesAnimePopups = {
         },
         {
           title: "343-347 Эпизод",
-          titleLink: ["vk", "video-208448461_456240474"],
+          titleLink: ["vk", "456240474"],
         },
         {
           title: "348-358 Эпизод",
-          titleLink: ["vk", "video-208448461_456240475"],
+          titleLink: ["vk", "456240475"],
         },
         {
           title: "359-366 Эпизод",
-          titleLink: ["vk", "video-208448461_456240476"],
+          titleLink: ["vk", "456240476"],
         },
       ],
     },
@@ -632,7 +632,7 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-13 Эпизод",
-          titleLink: ["vk", "video-208448461_456239796?t=20m5s"],
+          titleLink: ["vk", "456239796?t=20m5s"],
         },
       ],
     },
@@ -641,7 +641,7 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-13 Эпизод",
-          titleLink: ["vk", "video-208448461_456240703?t=4m6s"],
+          titleLink: ["vk", "456240703?t=4m6s"],
         },
       ],
     },
@@ -650,11 +650,11 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-5 Эпизод",
-          titleLink: ["vk", "video-208448461_456241548?t=12m0s"],
+          titleLink: ["vk", "456241548?t=12m0s"],
         },
         {
           title: "6-14 Эпизод",
-          titleLink: ["vk", "video-208448461_456241560?t=2h12m59s"],
+          titleLink: ["vk", "456241560?t=2h12m59s"],
         },
       ],
     },
@@ -665,7 +665,7 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-5 Эпизод",
-          titleLink: ["vk", "video-208448461_456239510"],
+          titleLink: ["vk", "456239510"],
         },
         {
           title: "6-10 Эпизод",
@@ -693,15 +693,15 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456240653"],
+          titleLink: ["vk", "456240653"],
         },
         {
           title: "5-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456240654"],
+          titleLink: ["vk", "456240654"],
         },
         {
           title: "9-13 Эпизод",
-          titleLink: ["vk", "video-208448461_456240655"],
+          titleLink: ["vk", "456240655"],
         },
       ],
     },
@@ -712,7 +712,7 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-2 Эпизод",
-          titleLink: ["vk", "video-208448461_456241172?t=2h37m48s"],
+          titleLink: ["vk", "456241172?t=2h37m48s"],
         },
         {
           title: "3-5 Эпизод",
@@ -727,7 +727,7 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456241691?t=11m18s"],
+          titleLink: ["vk", "456241691?t=11m18s"],
         },
       ],
     },
@@ -738,15 +738,15 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-7 Эпизод",
-          titleLink: ["vk", "video-208448461_456241660?t=12m11s"],
+          titleLink: ["vk", "456241660?t=12m11s"],
         },
         {
           title: "8-15 Эпизод",
-          titleLink: ["vk", "video-208448461_456241664?t=12m8s"],
+          titleLink: ["vk", "456241664?t=12m8s"],
         },
         {
           title: "16-24 Эпизод",
-          titleLink: ["vk", "video-208448461_456241673?t=14m54s"],
+          titleLink: ["vk", "456241673?t=14m54s"],
         },
       ],
     },
@@ -757,15 +757,15 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-6 Эпизод",
-          titleLink: ["vk", "video-208448461_456240624"],
+          titleLink: ["vk", "456240624"],
         },
         {
           title: "7-10 Эпизод",
-          titleLink: ["vk", "video-208448461_456240627"],
+          titleLink: ["vk", "456240627"],
         },
         {
           title: "11-13 Эпизод",
-          titleLink: ["vk", "video-208448461_456240629"],
+          titleLink: ["vk", "456240629"],
         },
       ],
     },
@@ -774,7 +774,7 @@ const seriesAnimePopups = {
       items: [
         {
           title: "Когда-нибудь я пойму значение слова «любовь»",
-          titleLink: ["vk", "video-208448461_456240629?t=1h29m44s"],
+          titleLink: ["vk", "456240629?t=1h29m44s"],
         },
       ],
     },
@@ -785,15 +785,15 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-3 Эпизод",
-          titleLink: ["vk", "video-208448461_456239346"],
+          titleLink: ["vk", "456239346"],
         },
         {
           title: "4-6 Эпизод",
-          titleLink: ["vk", "video-208448461_456239348"],
+          titleLink: ["vk", "456239348"],
         },
         {
           title: "7-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456239349"],
+          titleLink: ["vk", "456239349"],
         },
       ],
     },
@@ -802,15 +802,15 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456239350"],
+          titleLink: ["vk", "456239350"],
         },
         {
           title: "5 Эпизод",
-          titleLink: ["vk", "video-208448461_456239351"],
+          titleLink: ["vk", "456239351"],
         },
         {
           title: "6-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456239352"],
+          titleLink: ["vk", "456239352"],
         },
       ],
     },
@@ -825,11 +825,11 @@ const seriesAnimePopups = {
         },
         {
           title: "13-17 Эпизод",
-          titleLink: ["vk", "video-208448461_456240204"],
+          titleLink: ["vk", "456240204"],
         },
         {
           title: "18-21 Эпизод",
-          titleLink: ["vk", "video-208448461_456240205"],
+          titleLink: ["vk", "456240205"],
         },
         {
           title: "22-25 Эпизод",
@@ -837,71 +837,71 @@ const seriesAnimePopups = {
         },
         {
           title: "26-29 Эпизод",
-          titleLink: ["vk", "video-208448461_456240238"],
+          titleLink: ["vk", "456240238"],
         },
         {
           title: "30-31 Эпизод",
-          titleLink: ["vk", "video-208448461_456240209"],
+          titleLink: ["vk", "456240209"],
         },
         {
           title: "32-36 Эпизод",
-          titleLink: ["vk", "video-208448461_456240210"],
+          titleLink: ["vk", "456240210"],
         },
         {
           title: "37-42 Эпизод",
-          titleLink: ["vk", "video-208448461_456240211"],
+          titleLink: ["vk", "456240211"],
         },
         {
           title: "43-48 Эпизод",
-          titleLink: ["vk", "video-208448461_456240212"],
+          titleLink: ["vk", "456240212"],
         },
         {
           title: "49-52 Эпизод",
-          titleLink: ["vk", "video-208448461_456240213"],
+          titleLink: ["vk", "456240213"],
         },
         {
           title: "53-65 Эпизод",
-          titleLink: ["vk", "video-208448461_456240214"],
+          titleLink: ["vk", "456240214"],
         },
         {
           title: "66 Эпизод",
-          titleLink: ["vk", "video-208448461_456240215"],
+          titleLink: ["vk", "456240215"],
         },
         {
           title: "67-70 Эпизод",
-          titleLink: ["vk", "video-208448461_456240216"],
+          titleLink: ["vk", "456240216"],
         },
         {
           title: "71-75 Эпизод",
-          titleLink: ["vk", "video-208448461_456240217"],
+          titleLink: ["vk", "456240217"],
         },
         {
           title: "76-79 Эпизод",
-          titleLink: ["vk", "video-208448461_456240218"],
+          titleLink: ["vk", "456240218"],
         },
         {
           title: "80-83 Эпизод",
-          titleLink: ["vk", "video-208448461_456240220"],
+          titleLink: ["vk", "456240220"],
         },
         {
           title: "84 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/44de45dc-302d-483a-8ce6-523dc2f1254a?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/44de45dc-302d-483a-8ce6-523dc2f1254a"],
         },
         {
           title: "85-88 Эпизод",
-          titleLink: ["vk", "video-208448461_456240222"],
+          titleLink: ["vk", "456240222"],
         },
         {
           title: "89-103 Эпизод",
-          titleLink: ["vk", "video-208448461_456240244"],
+          titleLink: ["vk", "456240244"],
         },
         {
           title: "104-116 Эпизод",
-          titleLink: ["vk", "video-208448461_456240235"],
+          titleLink: ["vk", "456240235"],
         },
         {
           title: "116-130 Эпизод",
-          titleLink: ["vk", "video-208448461_456240245"],
+          titleLink: ["vk", "456240245"],
         },
         {
           title: "131-143 Эпизод",
@@ -909,15 +909,15 @@ const seriesAnimePopups = {
         },
         {
           title: "144-152 Эпизод",
-          titleLink: ["vk", "video-208448461_456240223"],
+          titleLink: ["vk", "456240223"],
         },
         {
           title: "153-163 Эпизод",
-          titleLink: ["vk", "video-208448461_456240236"],
+          titleLink: ["vk", "456240236"],
         },
         {
           title: "164-169 Эпизод",
-          titleLink: ["vk", "video-208448461_456240224"],
+          titleLink: ["vk", "456240224"],
         },
         {
           title: "170-173 Эпизод",
@@ -925,43 +925,43 @@ const seriesAnimePopups = {
         },
         {
           title: "174-181 Эпизод",
-          titleLink: ["vk", "video-208448461_456240208"],
+          titleLink: ["vk", "456240208"],
         },
         {
           title: "181-195 Эпизод",
-          titleLink: ["vk", "video-208448461_456240242"],
+          titleLink: ["vk", "456240242"],
         },
         {
           title: "196-203 Эпизод",
-          titleLink: ["vk", "video-208448461_456240219"],
+          titleLink: ["vk", "456240219"],
         },
         {
           title: "204-233 Эпизод",
-          titleLink: ["vk", "video-208448461_456240241"],
+          titleLink: ["vk", "456240241"],
         },
         {
           title: "234-242 Эпизод",
-          titleLink: ["vk", "video-208448461_456240232"],
+          titleLink: ["vk", "456240232"],
         },
         {
           title: "243-250 Эпизод",
-          titleLink: ["vk", "video-208448461_456240233"],
+          titleLink: ["vk", "456240233"],
         },
         {
           title: "251-263 Эпизод",
-          titleLink: ["vk", "video-208448461_456240243"],
+          titleLink: ["vk", "456240243"],
         },
         {
           title: "264-276 Эпизод",
-          titleLink: ["vk", "video-208448461_456240234"],
+          titleLink: ["vk", "456240234"],
         },
         {
           title: "Барон Омацури и секретный остров",
-          titleLink: ["vk", "video-208448461_456240225"],
+          titleLink: ["vk", "456240225"],
         },
         {
           title: "276-289 Эпизод",
-          titleLink: ["vk", "video-208448461_456240247?t=12m51s"],
+          titleLink: ["vk", "456240247?t=12m51s"],
         },
         {
           title: "290-300 Эпизод",
@@ -969,43 +969,43 @@ const seriesAnimePopups = {
         },
         {
           title: "301-314 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/f74a5f6d-7a00-4c01-a133-66da328dd05d?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/f74a5f6d-7a00-4c01-a133-66da328dd05d"],
         },
         {
           title: "315-324 Эпизод",
-          titleLink: ["vk", "video-208448461_456240252?t=14m46s"],
+          titleLink: ["vk", "456240252?t=14m46s"],
         },
         {
           title: "325-338 Эпизод",
-          titleLink: ["vk", "video-208448461_456240252?t=3h30m52s"],
+          titleLink: ["vk", "456240252?t=3h30m52s"],
         },
         {
           title: "339-350 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/b3eeb4c0-008f-478c-96d9-88dc503b5272?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/b3eeb4c0-008f-478c-96d9-88dc503b5272"],
         },
         {
           title: "351-360 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/40b423dc-43db-41ee-b9d5-70141b494b3e?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/40b423dc-43db-41ee-b9d5-70141b494b3e"],
         },
         {
           title: "361-370 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/424b8932-ec1e-4eff-b760-1d08fbe68c07?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/424b8932-ec1e-4eff-b760-1d08fbe68c07"],
         },
         {
           title: "371-385 Эпизод",
-          titleLink: ["vk", "video-208448461_456240251?t=12m56s"],
+          titleLink: ["vk", "456240251?t=12m56s"],
         },
         {
           title: "386-397 Эпизод",
-          titleLink: ["vk", "video-208448461_456239030?t=2h53m10s"],
+          titleLink: ["vk", "456239030?t=2h53m10s"],
         },
         {
           title: "398-417 Эпизод",
-          titleLink: ["vk", "video-208448461_456239022?t=12m30s"],
+          titleLink: ["vk", "456239022?t=12m30s"],
         },
         {
           title: "418-433 Эпизод",
-          titleLink: ["vk", "video-208448461_456239038?t=13m40s"],
+          titleLink: ["vk", "456239038?t=13m40s"],
         },
         {
           title: "434-437 Эпизод",
@@ -1013,55 +1013,55 @@ const seriesAnimePopups = {
         },
         {
           title: "438-447 Эпизод",
-          titleLink: ["vk", "video-208448461_456239082?t=12m50s"],
+          titleLink: ["vk", "456239082?t=12m50s"],
         },
         {
           title: "448-449 Эпизод",
-          titleLink: ["vk", "video-208448461_456239134?t=15m10s"],
+          titleLink: ["vk", "456239134?t=15m10s"],
         },
         {
           title: "Жестокий мир",
-          titleLink: ["vk", "video-208448461_456239134?t=1h32m41s"],
+          titleLink: ["vk", "456239134?t=1h32m41s"],
         },
         {
           title: "450-452 Эпизод",
-          titleLink: ["vk", "video-208448461_456239134?t=3h59m7s"],
+          titleLink: ["vk", "456239134?t=3h59m7s"],
         },
         {
           title: "453-465 Эпизод",
-          titleLink: ["vk", "video-208448461_456239185?t=18m20s"],
+          titleLink: ["vk", "456239185?t=18m20s"],
         },
         {
           title: "466-475 Эпизод",
-          titleLink: ["vk", "video-208448461_456239202?t=14m20s"],
+          titleLink: ["vk", "456239202?t=14m20s"],
         },
         {
           title: "476-484 Эпизод",
-          titleLink: ["vk", "video-208448461_456239343?t=1h59m30s"],
+          titleLink: ["vk", "456239343?t=1h59m30s"],
         },
         {
           title: "485-498 Эпизод",
-          titleLink: ["vk", "video-208448461_456239470?t=16m40s"],
+          titleLink: ["vk", "456239470?t=16m40s"],
         },
         {
           title: "499-509 Эпизод",
-          titleLink: ["vk", "video-208448461_456239490?t=7h13m10s"],
+          titleLink: ["vk", "456239490?t=7h13m10s"],
         },
         {
           title: "510 Эпизод",
-          titleLink: ["vk", "video-208448461_456239491?t=9h40m2s"],
+          titleLink: ["vk", "456239491?t=9h40m2s"],
         },
         {
           title: "511 Эпизод",
-          titleLink: ["vk", "video-208448461_456239524?t=6h58m14s"],
+          titleLink: ["vk", "456239524?t=6h58m14s"],
         },
         {
           title: "512-519 Эпизод",
-          titleLink: ["vk", "video-208448461_456239553?t=6h6m30s"],
+          titleLink: ["vk", "456239553?t=6h6m30s"],
         },
         {
           title: "520-525 Эпизод",
-          titleLink: ["vk", "video-208448461_456239565?t=28m40s"],
+          titleLink: ["vk", "456239565?t=28m40s"],
         },
         {
           title: "526-527 Эпизод",
@@ -1069,43 +1069,43 @@ const seriesAnimePopups = {
         },
         {
           title: "528-532 Эпизод",
-          titleLink: ["vk", "video-208448461_456239583?t=2m20s"],
+          titleLink: ["vk", "456239583?t=2m20s"],
         },
         {
           title: "533-542 Эпизод",
-          titleLink: ["vk", "video-208448461_456239597?t=2h17m30s"],
+          titleLink: ["vk", "456239597?t=2h17m30s"],
         },
         {
           title: "543-547 Эпизод",
-          titleLink: ["vk", "video-208448461_456239683?t=16m30s"],
+          titleLink: ["vk", "456239683?t=16m30s"],
         },
         {
           title: "548-550 Эпизод",
-          titleLink: ["vk", "video-208448461_456239685?t=15m30s"],
+          titleLink: ["vk", "456239685?t=15m30s"],
         },
         {
           title: "551-560 Эпизод",
-          titleLink: ["vk", "video-208448461_456239692?t=2h11m30s"],
+          titleLink: ["vk", "456239692?t=2h11m30s"],
         },
         {
           title: "561-567 Эпизод",
-          titleLink: ["vk", "video-208448461_456239718?t=5s"],
+          titleLink: ["vk", "456239718?t=5s"],
         },
         {
           title: "568-572 Эпизод",
-          titleLink: ["vk", "video-208448461_456239747?t=3h51m25s"],
+          titleLink: ["vk", "456239747?t=3h51m25s"],
         },
         {
           title: "573-581 Эпизод",
-          titleLink: ["vk", "video-208448461_456239776?t=1h53m0s"],
+          titleLink: ["vk", "456239776?t=1h53m0s"],
         },
         {
           title: "582-585 Эпизод",
-          titleLink: ["vk", "video-208448461_456239817?t=5m52s"],
+          titleLink: ["vk", "456239817?t=5m52s"],
         },
         {
           title: "586-587 Эпизод",
-          titleLink: ["vk", "video-208448461_456239807?t=6m2s"],
+          titleLink: ["vk", "456239807?t=6m2s"],
         },
         {
           title: "588 Эпизод",
@@ -1113,7 +1113,7 @@ const seriesAnimePopups = {
         },
         {
           title: "589 Эпизод",
-          titleLink: ["vk", "video-208448461_456239808?t=1m50s"],
+          titleLink: ["vk", "456239808?t=1m50s"],
         },
         {
           title: "590 Эпизод",
@@ -1121,11 +1121,11 @@ const seriesAnimePopups = {
         },
         {
           title: "591 Эпизод",
-          titleLink: ["vk", "video-208448461_456239809?t=3m49s"],
+          titleLink: ["vk", "456239809?t=3m49s"],
         },
         {
           title: "Зефир",
-          titleLink: ["vk", "video-208448461_456239810?t=1m32s"],
+          titleLink: ["vk", "456239810?t=1m32s"],
         },
         {
           title: "592-594 Эпизод",
@@ -1133,87 +1133,87 @@ const seriesAnimePopups = {
         },
         {
           title: "595-599 Эпизод",
-          titleLink: ["vk", "video-208448461_456239913?t=2h59m31s"],
+          titleLink: ["vk", "456239913?t=2h59m31s"],
         },
         {
           title: "600-605 Эпизод",
-          titleLink: ["vk", "video-208448461_456239929?t=1h54m15s"],
+          titleLink: ["vk", "456239929?t=1h54m15s"],
         },
         {
           title: "606-612 Эпизод",
-          titleLink: ["vk", "video-208448461_456239940?t=14m35s"],
+          titleLink: ["vk", "456239940?t=14m35s"],
         },
         {
           title: "613-618 Эпизод",
-          titleLink: ["vk", "video-208448461_456239957?t=13m40s"],
+          titleLink: ["vk", "456239957?t=13m40s"],
         },
         {
           title: "619-628 Эпизод",
-          titleLink: ["vk", "video-208448461_456239966?t=8h44m54s"],
+          titleLink: ["vk", "456239966?t=8h44m54s"],
         },
         {
           title: "629-633 Эпизод",
-          titleLink: ["vk", "video-208448461_456239980?t=6h24m50s"],
+          titleLink: ["vk", "456239980?t=6h24m50s"],
         },
         {
           title: "634-643 Эпизод",
-          titleLink: ["vk", "video-208448461_456239987?t=7h33m1s"],
+          titleLink: ["vk", "456239987?t=7h33m1s"],
         },
         {
           title: "644-652 Эпизод",
-          titleLink: ["vk", "video-208448461_456239995?t=2h14m21s"],
+          titleLink: ["vk", "456239995?t=2h14m21s"],
         },
         {
           title: "653-660 Эпизод",
-          titleLink: ["boosty", "godenname/posts/ab37062e-7cb2-41e7-8f3c-b30d4432941c?share=post_link"],
+          titleLink: ["boosty", "godenname/posts/ab37062e-7cb2-41e7-8f3c-b30d4432941c"],
         },
         {
           title: "661-674 Эпизод",
-          titleLink: ["vk", "video-208448461_456240005?t=12m25s"],
+          titleLink: ["vk", "456240005?t=12m25s"],
         },
         {
           title: "675-678 Эпизод",
-          titleLink: ["vk", "video-208448461_456240011?t=17m46s"],
+          titleLink: ["vk", "456240011?t=17m46s"],
         },
         {
           title: "679-682 Эпизод",
-          titleLink: ["boosty", "godenname/posts/0bb44e3d-d9a2-4b0e-a81c-727c908091c4?share=post_link"],
+          titleLink: ["boosty", "godenname/posts/0bb44e3d-d9a2-4b0e-a81c-727c908091c4"],
         },
         {
           title: "683-697 Эпизод",
-          titleLink: ["vk", "video-208448461_456240059?t=17m32s"],
+          titleLink: ["vk", "456240059?t=17m32s"],
         },
         {
           title: "698-700 Эпизод",
-          titleLink: ["vk", "video-208448461_456240059?t=9h10m7s"],
+          titleLink: ["vk", "456240059?t=9h10m7s"],
         },
         {
           title: "701-710 Эпизод",
-          titleLink: ["vk", "video-208448461_456240098?t=49m37s"],
+          titleLink: ["vk", "456240098?t=49m37s"],
         },
         {
           title: "711-717 Эпизод",
-          titleLink: ["vk", "video-208448461_456240207?t=13m15s"],
+          titleLink: ["vk", "456240207?t=13m15s"],
         },
         {
           title: "717-726 Эпизод",
-          titleLink: ["vk", "video-208448461_456240440"],
+          titleLink: ["vk", "456240440"],
         },
         {
           title: "727-733 Эпизод",
-          titleLink: ["vk", "video-208448461_456240559"],
+          titleLink: ["vk", "456240559"],
         },
         {
           title: "734-739 Эпизод",
-          titleLink: ["vk", "video-208448461_456240658"],
+          titleLink: ["vk", "456240658"],
         },
         {
           title: "740-746 Эпизод",
-          titleLink: ["vk", "video-208448461_456240692?t=5m57s"],
+          titleLink: ["vk", "456240692?t=5m57s"],
         },
         {
           title: "Золото",
-          titleLink: ["boosty", "hiddenarchive/posts/1189b864-2113-41d1-8843-1af44a7302cb?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/1189b864-2113-41d1-8843-1af44a7302cb"],
         },
         {
           title: "747-750 Эпизод",
@@ -1221,7 +1221,7 @@ const seriesAnimePopups = {
         },
         {
           title: "751-759 Эпизод",
-          titleLink: ["vk", "video-208448461_456240723?t=13m25s"],
+          titleLink: ["vk", "456240723?t=13m25s"],
         },
         {
           title: "760-761 Эпизод",
@@ -1229,107 +1229,107 @@ const seriesAnimePopups = {
         },
         {
           title: "762-768 Эпизод",
-          titleLink: ["vk", "video-208448461_456240745?t=1m35s"],
+          titleLink: ["vk", "456240745?t=1m35s"],
         },
         {
           title: "769 Эпизод",
-          titleLink: ["vk", "video-208448461_456240749?t=5h31m25s"],
+          titleLink: ["vk", "456240749?t=5h31m25s"],
         },
         {
           title: "769-772 Эпизод",
-          titleLink: ["vk", "video-208448461_456240750?t=1m45s"],
+          titleLink: ["vk", "456240750?t=1m45s"],
         },
         {
           title: "773-776 Эпизод",
-          titleLink: ["vk", "video-208448461_456240783?t=4m41s"],
+          titleLink: ["vk", "456240783?t=4m41s"],
         },
         {
           title: "777-779 Эпизод",
-          titleLink: ["vk", "video-208448461_456240795?t=1m35s"],
+          titleLink: ["vk", "456240795?t=1m35s"],
         },
         {
           title: "779-785 Эпизод",
-          titleLink: ["vk", "video-208448461_456240800?t=15m42s"],
+          titleLink: ["vk", "456240800?t=15m42s"],
         },
         {
           title: "786-789 Эпизод",
-          titleLink: ["vk", "video-208448461_456240809?t=2m27s"],
+          titleLink: ["vk", "456240809?t=2m27s"],
         },
         {
           title: "790-793 Эпизод",
-          titleLink: ["boosty", "godenname/posts/47c49471-af44-4fcc-92cb-3bf9287a09ed?share=post_link"],
+          titleLink: ["boosty", "godenname/posts/47c49471-af44-4fcc-92cb-3bf9287a09ed"],
         },
         {
           title: "794-797 Эпизод",
-          titleLink: ["boosty", "godenname/posts/8ed24bb7-2efd-4678-83b7-fb30cd3167a6?share=post_link"],
+          titleLink: ["boosty", "godenname/posts/8ed24bb7-2efd-4678-83b7-fb30cd3167a6"],
         },
         {
           title: "798-801 Эпизод",
-          titleLink: ["vk", "video-208448461_456240827?t=5m2s"],
+          titleLink: ["vk", "456240827?t=5m2s"],
         },
         {
           title: "802-809 Эпизод",
-          titleLink: ["vk", "video-208448461_456240835?t=14m48s"],
+          titleLink: ["vk", "456240835?t=14m48s"],
         },
         {
           title: "810-813 Эпизод",
-          titleLink: ["vk", "video-208448461_456240865?t=14m32s"],
+          titleLink: ["vk", "456240865?t=14m32s"],
         },
         {
           title: "814-817 Эпизод",
-          titleLink: ["vk", "video-208448461_456240898?t=3m13s"],
+          titleLink: ["vk", "456240898?t=3m13s"],
         },
         {
           title: "818-827 Эпизод",
-          titleLink: ["vk", "video-208448461_456240934?t=14m5s"],
+          titleLink: ["vk", "456240934?t=14m5s"],
         },
         {
           title: "828-831 Эпизод",
-          titleLink: ["vk", "video-208448461_456240963?t=2h12m47s"],
+          titleLink: ["vk", "456240963?t=2h12m47s"],
         },
         {
           title: "832-835 Эпизод",
-          titleLink: ["vk", "video-208448461_456240974?t=19m53s"],
+          titleLink: ["vk", "456240974?t=19m53s"],
         },
         {
           title: "836-839 Эпизод",
-          titleLink: ["vk", "video-208448461_456240974?t=2h13m56s"],
+          titleLink: ["vk", "456240974?t=2h13m56s"],
         },
         {
           title: "840-841 Эпизод",
-          titleLink: ["vk", "video-208448461_456240974?t=4h26m26s"],
+          titleLink: ["vk", "456240974?t=4h26m26s"],
         },
         {
           title: "842-845 Эпизод",
-          titleLink: ["vk", "video-208448461_456241094?t=18m7s"],
+          titleLink: ["vk", "456241094?t=18m7s"],
         },
         {
           title: "846-851 Эпизод",
-          titleLink: ["vk", "video-208448461_456241094?t=2h21m35s"],
+          titleLink: ["vk", "456241094?t=2h21m35s"],
         },
         {
           title: "852-855 Эпизод",
-          titleLink: ["vk", "video-208448461_456241130?t=16m56s"],
+          titleLink: ["vk", "456241130?t=16m56s"],
         },
         {
           title: "856-859 Эпизод",
-          titleLink: ["vk", "video-208448461_456241130?t=2h19m22s"],
+          titleLink: ["vk", "456241130?t=2h19m22s"],
         },
         {
           title: "860-864 Эпизод",
-          titleLink: ["vk", "video-208448461_456241130?t=4h13m44s"],
+          titleLink: ["vk", "456241130?t=4h13m44s"],
         },
         {
           title: "865-871 Эпизод",
-          titleLink: ["vk", "video-208448461_456241130?t=6h36m47s"],
+          titleLink: ["vk", "456241130?t=6h36m47s"],
         },
         {
           title: "872-875 Эпизод",
-          titleLink: ["vk", "video-208448461_456241130?t=9h50m21s"],
+          titleLink: ["vk", "456241130?t=9h50m21s"],
         },
         {
           title: "876-877 Эпизод",
-          titleLink: ["vk", "video-208448461_456241130?t=11h39m52s"],
+          titleLink: ["vk", "456241130?t=11h39m52s"],
         },
         {
           title: "878-889 Эпизод",
@@ -1337,35 +1337,35 @@ const seriesAnimePopups = {
         },
         {
           title: "Манга: 903-908 Главы",
-          titleLink: ["vk", "video-208448461_456241146?t=14m8s"],
+          titleLink: ["vk", "456241146?t=14m8s"],
         },
         {
           title: "890-893 Эпизод",
-          titleLink: ["vk", "video-208448461_456241146?t=1h52m58s"],
+          titleLink: ["vk", "456241146?t=1h52m58s"],
         },
         {
           title: "894-902 Эпизод",
-          titleLink: ["vk", "video-208448461_456241156?t=22m0s"],
+          titleLink: ["vk", "456241156?t=22m0s"],
         },
         {
           title: "903-905 Эпизод",
-          titleLink: ["vk", "video-208448461_456241159?t=4h10m30s"],
+          titleLink: ["vk", "456241159?t=4h10m30s"],
         },
         {
           title: "906-910 Эпизод",
-          titleLink: ["vk", "video-208448461_456241159?t=2h5m41s"],
+          titleLink: ["vk", "456241159?t=2h5m41s"],
         },
         {
           title: "911-917 Эпизод",
-          titleLink: ["vk", "video-208448461_456241159?t=13m52s"],
+          titleLink: ["vk", "456241159?t=13m52s"],
         },
         {
           title: "Манга: 925-930 Главы",
-          titleLink: ["vk", "video-208448461_456241167?t=21m0s"],
+          titleLink: ["vk", "456241167?t=21m0s"],
         },
         {
           title: "Манга: 930 Глава",
-          titleLink: ["vk", "video-208448461_456241167?t=1h27m44s"],
+          titleLink: ["vk", "456241167?t=1h27m44s"],
         },
         {
           title: "918-924 Эпизод",
@@ -1373,43 +1373,43 @@ const seriesAnimePopups = {
         },
         {
           title: "925 Эпизод",
-          titleLink: ["vk", "video-208448461_456241167?t=1h38m17s"],
+          titleLink: ["vk", "456241167?t=1h38m17s"],
         },
         {
           title: "931-936 Эпизод",
-          titleLink: ["vk", "video-208448461_456241168?t=15m33s"],
+          titleLink: ["vk", "456241168?t=15m33s"],
         },
         {
           title: "933 Эпизод",
-          titleLink: ["vk", "video-208448461_456241168?t=1h21m4s"],
+          titleLink: ["vk", "456241168?t=1h21m4s"],
         },
         {
           title: "Манга: 938 Глава",
-          titleLink: ["vk", "video-208448461_456241181?t=14m54s"],
+          titleLink: ["vk", "456241181?t=14m54s"],
         },
         {
           title: "936-939 Эпизод",
-          titleLink: ["vk", "video-208448461_456241181?t=40m24s"],
+          titleLink: ["vk", "456241181?t=40m24s"],
         },
         {
           title: "940-943 Эпизод",
-          titleLink: ["vk", "video-208448461_456241181?t=2h24m0s"],
+          titleLink: ["vk", "456241181?t=2h24m0s"],
         },
         {
           title: "944-948 Эпизод",
-          titleLink: ["vk", "video-208448461_456241181?t=4h17m56s"],
+          titleLink: ["vk", "456241181?t=4h17m56s"],
         },
         {
           title: "949-951 Эпизод",
-          titleLink: ["vk", "video-208448461_456241183?t=4h22m35s"],
+          titleLink: ["vk", "456241183?t=4h22m35s"],
         },
         {
           title: "952-957 Эпизод",
-          titleLink: ["vk", "video-208448461_456241183?t=4h22m35s"],
+          titleLink: ["vk", "456241183?t=4h22m35s"],
         },
         {
           title: "958 Эпизод",
-          titleLink: ["vk", "video-208448461_456241188?t=31m15s"],
+          titleLink: ["vk", "456241188?t=31m15s"],
         },
         {
           title: "958-968 Эпизод",
@@ -1417,83 +1417,83 @@ const seriesAnimePopups = {
         },
         {
           title: "969-972 Эпизод",
-          titleLink: ["vk", "video-208448461_456241203?t=13m52s"],
+          titleLink: ["vk", "456241203?t=13m52s"],
         },
         {
           title: "973-974 Эпизод",
-          titleLink: ["vk", "video-208448461_456241203?t=2h10m57s"],
+          titleLink: ["vk", "456241203?t=2h10m57s"],
         },
         {
           title: "975 Эпизод",
-          titleLink: ["vk", "video-208448461_456241203?t=3h11m50s"],
+          titleLink: ["vk", "456241203?t=3h11m50s"],
         },
         {
           title: "976-979 Эпизод",
-          titleLink: ["vk", "video-208448461_456241215?t=12m4s"],
+          titleLink: ["vk", "456241215?t=12m4s"],
         },
         {
           title: "980-983 Эпизод",
-          titleLink: ["vk", "video-208448461_456241215?t=2h10m40s"],
+          titleLink: ["vk", "456241215?t=2h10m40s"],
         },
         {
           title: "984-987 Эпизод",
-          titleLink: ["vk", "video-208448461_456241215?t=4h16m22s"],
+          titleLink: ["vk", "456241215?t=4h16m22s"],
         },
         {
           title: "988-989 Эпизод",
-          titleLink: ["vk", "video-208448461_456241215?t=6h3m45s"],
+          titleLink: ["vk", "456241215?t=6h3m45s"],
         },
         {
           title: "990-993 Эпизод",
-          titleLink: ["vk", "video-208448461_456241219?t=11m45s"],
+          titleLink: ["vk", "456241219?t=11m45s"],
         },
         {
           title: "994-995 Эпизод",
-          titleLink: ["vk", "video-208448461_456241219?t=1h55m30s"],
+          titleLink: ["vk", "456241219?t=1h55m30s"],
         },
         {
           title: "996-1000 Эпизод",
-          titleLink: ["vk", "video-208448461_456241221?t=15m11s"],
+          titleLink: ["vk", "456241221?t=15m11s"],
         },
         {
           title: "1001-1004 Эпизод",
-          titleLink: ["vk", "video-208448461_456241221?t=2h30m45s"],
+          titleLink: ["vk", "456241221?t=2h30m45s"],
         },
         {
           title: "Бегство",
-          titleLink: ["vk", "video-208448461_456241230?t=12m41s"],
+          titleLink: ["vk", "456241230?t=12m41s"],
         },
         {
           title: "1005-1009 Эпизод",
-          titleLink: ["vk", "video-208448461_456241247?t=1h10m19s"],
+          titleLink: ["vk", "456241247?t=1h10m19s"],
         },
         {
           title: "1010-1011 Эпизод",
-          titleLink: ["vk", "video-208448461_456241230?t=2h37m23s"],
+          titleLink: ["vk", "456241230?t=2h37m23s"],
         },
         {
           title: "1011-1015 Эпизод",
-          titleLink: ["vk", "video-208448461_456241248?t=1m2s"],
+          titleLink: ["vk", "456241248?t=1m2s"],
         },
         {
           title: "1016-1033 Эпизод",
-          titleLink: ["vk", "video-208448461_456241276?t=11m45s"],
+          titleLink: ["vk", "456241276?t=11m45s"],
         },
         {
           title: "1034-1041 Эпизод",
-          titleLink: ["vk", "video-208448461_456241279?t=14m3s"],
+          titleLink: ["vk", "456241279?t=14m3s"],
         },
         {
           title: "1042-1049 Эпизод",
-          titleLink: ["vk", "video-208448461_456241280?t=15m59s"],
+          titleLink: ["vk", "456241280?t=15m59s"],
         },
         {
           title: "1049-1050 Эпизод",
-          titleLink: ["vk", "video-208448461_456241291?t=18m16s"],
+          titleLink: ["vk", "456241291?t=18m16s"],
         },
         {
           title: "1051-1069 Эпизод",
-          titleLink: ["vk", "video-208448461_456241292?t=2m8s"],
+          titleLink: ["vk", "456241292?t=2m8s"],
         },
         {
           title: "1070-1075 Эпизод",
@@ -1501,19 +1501,19 @@ const seriesAnimePopups = {
         },
         {
           title: "1075-1089 Эпизод",
-          titleLink: ["vk", "video-208448461_456241296?t=15m9s"],
+          titleLink: ["vk", "456241296?t=15m9s"],
         },
         {
           title: "1090-1103 Эпизод",
-          titleLink: ["vk", "video-208448461_456241322?t=14m0s"],
+          titleLink: ["vk", "456241322?t=14m0s"],
         },
         {
           title: "1103-1114 Эпизод",
-          titleLink: ["vk", "video-208448461_456241323?t=4h33m19s"],
+          titleLink: ["vk", "456241323?t=4h33m19s"],
         },
         {
           title: "Письмо фаната",
-          titleLink: ["vk", "video-208448461_456241322?t=2h10m16s"],
+          titleLink: ["vk", "456241322?t=2h10m16s"],
         },
         {
           title: "Сто три милости - проклятие дракона",
@@ -1521,71 +1521,71 @@ const seriesAnimePopups = {
         },
         {
           title: "Красный",
-          titleLink: ["vk", "video-208448461_456241477?t=2h9m30s"],
+          titleLink: ["vk", "456241477?t=2h9m30s"],
         },
         {
           title: "1115-1122 Эпизод",
-          titleLink: ["vk", "video-208448461_456241492?t=2h19m54s"],
+          titleLink: ["vk", "456241492?t=2h19m54s"],
         },
         {
           title: "1123-1124 Эпизод",
-          titleLink: ["vk", "video-208448461_456241561?t=6h14m40s"],
+          titleLink: ["vk", "456241561?t=6h14m40s"],
         },
         {
           title: "1124-1132 Эпизод",
-          titleLink: ["vk", "video-208448461_456241577?t=15m33s"],
+          titleLink: ["vk", "456241577?t=15m33s"],
         },
         {
           title: "1133-1136 Эпизод",
-          titleLink: ["vk", "video-208448461_456241817?t=14m54s"],
+          titleLink: ["vk", "456241817?t=14m54s"],
         },
         {
           title: "1137-1141 Эпизод",
-          titleLink: ["vk", "video-208448461_456241818?t=12m27s"],
+          titleLink: ["vk", "456241818?t=12m27s"],
         },
         {
           title: "1142-1145 Эпизод",
-          titleLink: ["vk", "video-208448461_456241820?t=13m19s"],
+          titleLink: ["vk", "456241820?t=13m19s"],
         },
         {
           title: "1146-1149 Эпизод",
-          titleLink: ["vk", "video-208448461_456241821?t=13m11s"],
+          titleLink: ["vk", "456241821?t=13m11s"],
         },
         {
           title: "1150-1153 Эпизод",
-          titleLink: ["vk", "video-208448461_456241822?t=4h20m48s"],
+          titleLink: ["vk", "456241822?t=4h20m48s"],
         },
         {
           title: "1154-1157 Эпизод",
-          titleLink: ["vk", "video-208448461_456241826?t=2h18m29s"],
+          titleLink: ["vk", "456241826?t=2h18m29s"],
         },
         {
           title: "Манга: 1128-1134 Главы",
-          titleLink: ["vk", "video-208448461_456241832?t=14m17s"],
+          titleLink: ["vk", "456241832?t=14m17s"],
         },
         {
           title: "Манга: 1135-1141 Главы",
-          titleLink: ["vk", "video-208448461_456241833?t=13m45s"],
+          titleLink: ["vk", "456241833?t=13m45s"],
         },
         {
           title: "Манга: 1142-1149 Главы",
-          titleLink: ["vk", "video-208448461_456241838?t=16m9s"],
+          titleLink: ["vk", "456241838?t=16m9s"],
         },
         {
           title: "Манга: 1150-1155 Главы",
-          titleLink: ["vk", "video-208448461_456241840?t=2h41m49s"],
+          titleLink: ["vk", "456241840?t=2h41m49s"],
         },
         {
           title: "Манга: 1156-1163 Главы",
-          titleLink: ["vk", "video-208448461_456241843?t=11m9s"],
+          titleLink: ["vk", "456241843?t=11m9s"],
         },
         {
           title: "Манга: 1164-1171 Главы",
-          titleLink: ["vk", "video-208448461_456241844?t=3m8s"],
+          titleLink: ["vk", "456241844?t=3m8s"],
         },
         {
           title: "Манга: 1172-1181 Главы",
-          titleLink: ["vk", "video-208448461_456241849?t=1h33m28s"],
+          titleLink: ["vk", "456241849?t=1h33m28s"],
         },
       ],
     },
@@ -1596,27 +1596,27 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1 Эпизод",
-          titleLink: ["vk", "video-208448461_456239427"],
+          titleLink: ["vk", "456239427"],
         },
         {
           title: "2-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456239428"],
+          titleLink: ["vk", "456239428"],
         },
         {
           title: "5-6 Эпизод",
-          titleLink: ["vk", "video-208448461_456239429"],
+          titleLink: ["vk", "456239429"],
         },
         {
           title: "7-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456239430"],
+          titleLink: ["vk", "456239430"],
         },
         {
           title: "9-10 Эпизод",
-          titleLink: ["vk", "video-208448461_456239431"],
+          titleLink: ["vk", "456239431"],
         },
         {
           title: "11-13 Эпизод",
-          titleLink: ["vk", "video-208448461_456239432"],
+          titleLink: ["vk", "456239432"],
         },
       ],
     },
@@ -1627,11 +1627,11 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456240011?t=2h17m43s"],
+          titleLink: ["vk", "456240011?t=2h17m43s"],
         },
         {
           title: "5-9 Эпизод",
-          titleLink: ["vk", "video-208448461_456240016?t=5h47m45s"],
+          titleLink: ["vk", "456240016?t=5h47m45s"],
         },
         {
           title: "10-13 Эпизод",
@@ -1639,11 +1639,11 @@ const seriesAnimePopups = {
         },
         {
           title: "14-16 Эпизод",
-          titleLink: ["vk", "video-208448461_456240030?t=15m18s"],
+          titleLink: ["vk", "456240030?t=15m18s"],
         },
         {
           title: "17-22 Эпизод",
-          titleLink: ["vk", "video-208448461_456240042?t=13m56s"],
+          titleLink: ["vk", "456240042?t=13m56s"],
         },
       ],
     },
@@ -1654,11 +1654,11 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456240774?t=59m50s"],
+          titleLink: ["vk", "456240774?t=59m50s"],
         },
         {
           title: "5-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456240782?t=12m45s"],
+          titleLink: ["vk", "456240782?t=12m45s"],
         },
       ],
     },
@@ -1669,23 +1669,23 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456239696"],
+          titleLink: ["vk", "456239696"],
         },
         {
           title: "5-7 Эпизод",
-          titleLink: ["vk", "video-208448461_456239709?t=2h50s"],
+          titleLink: ["vk", "456239709?t=2h50s"],
         },
         {
           title: "8-11 Эпизод",
-          titleLink: ["vk", "video-208448461_456239723?t=2h5m20s"],
+          titleLink: ["vk", "456239723?t=2h5m20s"],
         },
         {
           title: "12-14 Эпизод",
-          titleLink: ["vk", "video-208448461_456239746?t=13m0s"],
+          titleLink: ["vk", "456239746?t=13m0s"],
         },
         {
           title: "15-25 Эпизод",
-          titleLink: ["vk", "video-208448461_456239754?t=13m0s"],
+          titleLink: ["vk", "456239754?t=13m0s"],
         },
       ],
     },
@@ -1694,19 +1694,19 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-6 Эпизод",
-          titleLink: ["vk", "video-208448461_456239787?t=7h48m31s"],
+          titleLink: ["vk", "456239787?t=7h48m31s"],
         },
         {
           title: "7-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456239797?t=3h17m5s"],
+          titleLink: ["vk", "456239797?t=3h17m5s"],
         },
         {
           title: "13-19 Эпизод",
-          titleLink: ["vk", "video-208448461_456239833?t=14m15s"],
+          titleLink: ["vk", "456239833?t=14m15s"],
         },
         {
           title: "20-25 Эпизод",
-          titleLink: ["vk", "video-208448461_456239855?t=3h31m52s"],
+          titleLink: ["vk", "456239855?t=3h31m52s"],
         },
       ],
     },
@@ -1715,11 +1715,11 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-6 Эпизод",
-          titleLink: ["vk", "video-208448461_456239878?t=13m31s"],
+          titleLink: ["vk", "456239878?t=13m31s"],
         },
         {
           title: "7-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456239901?t=5h18m53s"],
+          titleLink: ["vk", "456239901?t=5h18m53s"],
         },
       ],
     },
@@ -1728,7 +1728,7 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456240014?t=4h13m43s"],
+          titleLink: ["vk", "456240014?t=4h13m43s"],
         },
         {
           title: "8-13 Эпизод",
@@ -1744,7 +1744,7 @@ const seriesAnimePopups = {
         },
         {
           title: "20-25 Эпизод",
-          titleLink: ["vk", "video-208448461_456240078?t=2h29m53s"],
+          titleLink: ["vk", "456240078?t=2h29m53s"],
         },
       ],
     },
@@ -1755,11 +1755,11 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456240636"],
+          titleLink: ["vk", "456240636"],
         },
         {
           title: "5-6 Эпизод",
-          titleLink: ["vk", "video-208448461_456240638"],
+          titleLink: ["vk", "456240638"],
         },
       ],
     },
@@ -1774,15 +1774,15 @@ const seriesAnimePopups = {
         },
         {
           title: "5-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456240646"],
+          titleLink: ["vk", "456240646"],
         },
         {
           title: "9-13 Эпизод",
-          titleLink: ["vk", "video-208448461_456240648"],
+          titleLink: ["vk", "456240648"],
         },
         {
           title: "13 Эпизод",
-          titleLink: ["vk", "video-208448461_456240649"],
+          titleLink: ["vk", "456240649"],
         },
       ],
     },
@@ -1793,19 +1793,19 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-2 Эпизод",
-          titleLink: ["vk", "video-208448461_456240365"],
+          titleLink: ["vk", "456240365"],
         },
         {
           title: "3-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456240366"],
+          titleLink: ["vk", "456240366"],
         },
         {
           title: "5-6 Эпизод",
-          titleLink: ["vk", "video-208448461_456240381"],
+          titleLink: ["vk", "456240381"],
         },
         {
           title: "7-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456240368"],
+          titleLink: ["vk", "456240368"],
         },
       ],
     },
@@ -1816,11 +1816,11 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-5 Эпизод",
-          titleLink: ["vk", "video-208448461_456241697?t=4h7m51s"],
+          titleLink: ["vk", "456241697?t=4h7m51s"],
         },
         {
           title: "6-9 Эпизод",
-          titleLink: ["vk", "video-208448461_456241701?t=2h8m54s"],
+          titleLink: ["vk", "456241701?t=2h8m54s"],
         },
         {
           title: "10-13 Эпизод",
@@ -1828,11 +1828,11 @@ const seriesAnimePopups = {
         },
         {
           title: "14-17 Эпизод",
-          titleLink: ["vk", "video-208448461_456241742?t=4m40s"],
+          titleLink: ["vk", "456241742?t=4m40s"],
         },
         {
           title: "18-20 Эпизод",
-          titleLink: ["vk", "video-208448461_456241749?t=12m30s"],
+          titleLink: ["vk", "456241749?t=12m30s"],
         },
       ],
     },
@@ -1843,15 +1843,15 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456240530"],
+          titleLink: ["vk", "456240530"],
         },
         {
           title: "5-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456240533"],
+          titleLink: ["vk", "456240533"],
         },
         {
           title: "9-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456240535"],
+          titleLink: ["vk", "456240535"],
         },
         {
           title: "13-24 Эпизод",
@@ -1866,11 +1866,11 @@ const seriesAnimePopups = {
       items: [
         {
           title: "0-3 Эпизод",
-          titleLink: ["vk", "video-208448461_456240529"],
+          titleLink: ["vk", "456240529"],
         },
         {
           title: "4-6 Эпизод",
-          titleLink: ["vk", "video-208448461_456240532"],
+          titleLink: ["vk", "456240532"],
         },
       ],
     },
@@ -1881,15 +1881,15 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456240354"],
+          titleLink: ["vk", "456240354"],
         },
         {
           title: "5-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456240355"],
+          titleLink: ["vk", "456240355"],
         },
         {
           title: "9-11 Эпизод",
-          titleLink: ["vk", "video-208448461_456240356"],
+          titleLink: ["vk", "456240356"],
         },
       ],
     },
@@ -1900,15 +1900,15 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456240410"],
+          titleLink: ["vk", "456240410"],
         },
         {
           title: "5-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456240411"],
+          titleLink: ["vk", "456240411"],
         },
         {
           title: "9-13 Эпизод",
-          titleLink: ["vk", "video-208448461_456240412"],
+          titleLink: ["vk", "456240412"],
         },
       ],
     },
@@ -1917,11 +1917,11 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456240413"],
+          titleLink: ["vk", "456240413"],
         },
         {
           title: "5-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456240414"],
+          titleLink: ["vk", "456240414"],
         },
       ],
     },
@@ -1936,7 +1936,7 @@ const seriesAnimePopups = {
         },
         {
           title: "3-5 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/2e2bbb18-8776-4af5-b4e0-55b4e271819a?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/2e2bbb18-8776-4af5-b4e0-55b4e271819a"],
         },
         {
           title: "6-9 Эпизод",
@@ -1944,27 +1944,27 @@ const seriesAnimePopups = {
         },
         {
           title: "10-13 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/ffaa29a4-bee6-402a-9f66-f3a5af511de1?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/ffaa29a4-bee6-402a-9f66-f3a5af511de1"],
         },
         {
           title: "13 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/7b8e1601-1621-4f7c-a84f-d9c459fa62a8?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/7b8e1601-1621-4f7c-a84f-d9c459fa62a8"],
         },
         {
           title: "14-18 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/b90ed403-0b55-4af9-a0a5-eaea0bc0fb09?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/b90ed403-0b55-4af9-a0a5-eaea0bc0fb09"],
         },
         {
           title: "19-22 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/77c087a1-4711-476f-9723-8daa31c97a71?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/77c087a1-4711-476f-9723-8daa31c97a71"],
         },
         {
           title: "23-26 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/baf7189d-7e05-4575-b3b1-f336f1ea7e19?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/baf7189d-7e05-4575-b3b1-f336f1ea7e19"],
         },
         {
           title: "27-30 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/82720f5d-150c-4488-8d09-5e8eea49bbd8?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/82720f5d-150c-4488-8d09-5e8eea49bbd8"],
         },
         {
           title: "31-37 Эпизод",
@@ -1972,47 +1972,47 @@ const seriesAnimePopups = {
         },
         {
           title: "38-42 Эпизод",
-          titleLink: ["vk", "video-208448461_456239034?t=4h8m10s"],
+          titleLink: ["vk", "456239034?t=4h8m10s"],
         },
         {
           title: "43-46 Эпизод",
-          titleLink: ["vk", "video-208448461_456239057?t=6h7m35s"],
+          titleLink: ["vk", "456239057?t=6h7m35s"],
         },
         {
           title: "47-50 Эпизод",
-          titleLink: ["vk", "video-208448461_456239080?t=6h45m20s"],
+          titleLink: ["vk", "456239080?t=6h45m20s"],
         },
         {
           title: "51-54 Эпизод",
-          titleLink: ["vk", "video-208448461_456239106?t=2h15m30s"],
+          titleLink: ["vk", "456239106?t=2h15m30s"],
         },
         {
           title: "55-57 Эпизод",
-          titleLink: ["vk", "video-208448461_456239148?t=5h42m40s"],
+          titleLink: ["vk", "456239148?t=5h42m40s"],
         },
         {
           title: "Сказание о Бэнидзакуре",
-          titleLink: ["vk", "video-208448461_456239192?t=6h44m38s"],
+          titleLink: ["vk", "456239192?t=6h44m38s"],
         },
         {
           title: "62-64 Эпизод",
-          titleLink: ["vk", "video-208448461_456239337?t=6h27m34s"],
+          titleLink: ["vk", "456239337?t=6h27m34s"],
         },
         {
           title: "65-72 Эпизод",
-          titleLink: ["vk", "video-208448461_456239464?t=16m28s"],
+          titleLink: ["vk", "456239464?t=16m28s"],
         },
         {
           title: "73-76 Эпизод",
-          titleLink: ["vk", "video-208448461_456239473?t=5h40m0s"],
+          titleLink: ["vk", "456239473?t=5h40m0s"],
         },
         {
           title: "77-81 Эпизод",
-          titleLink: ["vk", "video-208448461_456239480?t=6h28m50s"],
+          titleLink: ["vk", "456239480?t=6h28m50s"],
         },
         {
           title: "82-85 Эпизод",
-          titleLink: ["vk", "video-208448461_456239497?t=2h44m5s"],
+          titleLink: ["vk", "456239497?t=2h44m5s"],
         },
         {
           title: "86-89 Эпизод",
@@ -2020,63 +2020,63 @@ const seriesAnimePopups = {
         },
         {
           title: "90-93 Эпизод",
-          titleLink: ["vk", "video-208448461_456239533?t=12m45s"],
+          titleLink: ["vk", "456239533?t=12m45s"],
         },
         {
           title: "94-100 Эпизод",
-          titleLink: ["vk", "video-208448461_456239545?t=4h15m12s"],
+          titleLink: ["vk", "456239545?t=4h15m12s"],
         },
         {
           title: "101-108 Эпизод",
-          titleLink: ["vk", "video-208448461_456239556?t=4h42s"],
+          titleLink: ["vk", "456239556?t=4h42s"],
         },
         {
           title: "109-114 Эпизод",
-          titleLink: ["vk", "video-208448461_456239575?t=2h14m35s"],
+          titleLink: ["vk", "456239575?t=2h14m35s"],
         },
         {
           title: "115-120 Эпизод",
-          titleLink: ["vk", "video-208448461_456239582?t=26m9s"],
+          titleLink: ["vk", "456239582?t=26m9s"],
         },
         {
           title: "121-124 Эпизод",
-          titleLink: ["vk", "video-208448461_456239587?t=2h54m57s"],
+          titleLink: ["vk", "456239587?t=2h54m57s"],
         },
         {
           title: "125-130 Эпизод",
-          titleLink: ["vk", "video-208448461_456239599?t=2h53m2s"],
+          titleLink: ["vk", "456239599?t=2h53m2s"],
         },
         {
           title: "131-138 Эпизод",
-          titleLink: ["vk", "video-208448461_456239614?t=12m29s"],
+          titleLink: ["vk", "456239614?t=12m29s"],
         },
         {
           title: "139-146 Эпизод",
-          titleLink: ["vk", "video-208448461_456239633?t=13m56s"],
+          titleLink: ["vk", "456239633?t=13m56s"],
         },
         {
           title: "147-150 Эпизод",
-          titleLink: ["vk", "video-208448461_456239641?t=4h55m28s"],
+          titleLink: ["vk", "456239641?t=4h55m28s"],
         },
         {
           title: "151-155 Эпизод",
-          titleLink: ["vk", "video-208448461_456239657?t=2h14m46s"],
+          titleLink: ["vk", "456239657?t=2h14m46s"],
         },
         {
           title: "156-163 Эпизод",
-          titleLink: ["vk", "video-208448461_456239677?t=2h34m50s"],
+          titleLink: ["vk", "456239677?t=2h34m50s"],
         },
         {
           title: "164-169 Эпизод",
-          titleLink: ["vk", "video-208448461_456239695?t=2h24m1s"],
+          titleLink: ["vk", "456239695?t=2h24m1s"],
         },
         {
           title: "170-171 Эпизод",
-          titleLink: ["vk", "video-208448461_456239694?t=3m35s"],
+          titleLink: ["vk", "456239694?t=3m35s"],
         },
         {
           title: "172-175 Эпизод",
-          titleLink: ["vk", "video-208448461_456239719"],
+          titleLink: ["vk", "456239719"],
         },
         {
           title: "176-180 Эпизод",
@@ -2084,11 +2084,11 @@ const seriesAnimePopups = {
         },
         {
           title: "181-190 Эпизод",
-          titleLink: ["vk", "video-208448461_456239735?t=5h47m30s"],
+          titleLink: ["vk", "456239735?t=5h47m30s"],
         },
         {
           title: "191-201 Эпизод",
-          titleLink: ["vk", "video-208448461_456239736?t=13m49s"],
+          titleLink: ["vk", "456239736?t=13m49s"],
         },
       ],
     },
@@ -2097,19 +2097,19 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456239748?t=3h14m25s"],
+          titleLink: ["vk", "456239748?t=3h14m25s"],
         },
         {
           title: "5-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456239786?t=2m10s"],
+          titleLink: ["vk", "456239786?t=2m10s"],
         },
         {
           title: "9-14 Эпизод",
-          titleLink: ["vk", "video-208448461_456239797?t=14m45s"],
+          titleLink: ["vk", "456239797?t=14m45s"],
         },
         {
           title: "15-18 Эпизод",
-          titleLink: ["vk", "video-208448461_456240435"],
+          titleLink: ["vk", "456240435"],
         },
         {
           title: "19-22 Эпизод",
@@ -2117,23 +2117,23 @@ const seriesAnimePopups = {
         },
         {
           title: "23-25 Эпизод",
-          titleLink: ["vk", "video-208448461_456239872?t=5h24m47s"],
+          titleLink: ["vk", "456239872?t=5h24m47s"],
         },
         {
           title: "26-29 Эпизод",
-          titleLink: ["vk", "video-208448461_456239883?t=11m23s"],
+          titleLink: ["vk", "456239883?t=11m23s"],
         },
         {
           title: "30-39 Эпизод",
-          titleLink: ["vk", "video-208448461_456239901?t=13m30s"],
+          titleLink: ["vk", "456239901?t=13m30s"],
         },
         {
           title: "40-46 Эпизод",
-          titleLink: ["vk", "video-208448461_456239914?t=4h27m56s"],
+          titleLink: ["vk", "456239914?t=4h27m56s"],
         },
         {
           title: "47-51 Эпизод",
-          titleLink: ["vk", "video-208448461_456239931?t=4h43m46s"],
+          titleLink: ["vk", "456239931?t=4h43m46s"],
         },
       ],
     },
@@ -2146,7 +2146,7 @@ const seriesAnimePopups = {
         },
         {
           title: "10-13 Эпизод",
-          titleLink: ["vk", "video-208448461_456239962?t=2h3m35s"],
+          titleLink: ["vk", "456239962?t=2h3m35s"],
         },
         {
           title: "Ёродзуя навсегда!",
@@ -2159,7 +2159,7 @@ const seriesAnimePopups = {
       items: [
         {
           title: "Джамп Феста 2014",
-          titleLink: ["vk", "video-208448461_456239975?t=7h6m46s"],
+          titleLink: ["vk", "456239975?t=7h6m46s"],
         },
       ],
     },
@@ -2168,19 +2168,19 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-3 Эпизод",
-          titleLink: ["vk", "video-208448461_456239975?t=7h35m37s"],
+          titleLink: ["vk", "456239975?t=7h35m37s"],
         },
         {
           title: "4-7 Эпизод",
-          titleLink: ["vk", "video-208448461_456239983?t=7h1m24s"],
+          titleLink: ["vk", "456239983?t=7h1m24s"],
         },
         {
           title: "8-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456239997?t=7h29m11s"],
+          titleLink: ["vk", "456239997?t=7h29m11s"],
         },
         {
           title: "13-16 Эпизод",
-          titleLink: ["vk", "video-208448461_456240006?t=5h46m0s"],
+          titleLink: ["vk", "456240006?t=5h46m0s"],
         },
         {
           title: "17 Эпизод",
@@ -2188,43 +2188,43 @@ const seriesAnimePopups = {
         },
         {
           title: "17-22 Эпизод",
-          titleLink: ["vk", "video-208448461_456240031?t=13m46s"],
+          titleLink: ["vk", "456240031?t=13m46s"],
         },
         {
           title: "21-24 Эпизод",
-          titleLink: ["vk", "video-208448461_456240031?t=2h14m15s"],
+          titleLink: ["vk", "456240031?t=2h14m15s"],
         },
         {
           title: "25-28 Эпизод",
-          titleLink: ["vk", "video-208448461_456240048?t=7h6m9s"],
+          titleLink: ["vk", "456240048?t=7h6m9s"],
         },
         {
           title: "29-32 Эпизод",
-          titleLink: ["vk", "video-208448461_456240048?t=9h5m49s"],
+          titleLink: ["vk", "456240048?t=9h5m49s"],
         },
         {
           title: "33-34 Эпизод",
-          titleLink: ["vk", "video-208448461_456240080?t=1h59m21s"],
+          titleLink: ["vk", "456240080?t=1h59m21s"],
         },
         {
           title: "35-37 Эпизод",
-          titleLink: ["vk", "video-208448461_456240099?t=2h16m17s"],
+          titleLink: ["vk", "456240099?t=2h16m17s"],
         },
         {
           title: "38-40 Эпизод",
-          titleLink: ["vk", "video-208448461_456240099?t=3h41m33s"],
+          titleLink: ["vk", "456240099?t=3h41m33s"],
         },
         {
           title: "41-42 Эпизод",
-          titleLink: ["vk", "video-208448461_456240099?t=5h15m21s"],
+          titleLink: ["vk", "456240099?t=5h15m21s"],
         },
         {
           title: "43-45 Эпизод",
-          titleLink: ["vk", "video-208448461_456240374?t=4h17m30s"],
+          titleLink: ["vk", "456240374?t=4h17m30s"],
         },
         {
           title: "46-51 Эпизод",
-          titleLink: ["vk", "video-208448461_456240374?t=5h47m30s"],
+          titleLink: ["vk", "456240374?t=5h47m30s"],
         },
       ],
     },
@@ -2233,11 +2233,11 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-6 Эпизод",
-          titleLink: ["vk", "video-208448461_456240607?t=1m4s"],
+          titleLink: ["vk", "456240607?t=1m4s"],
         },
         {
           title: "7-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456240650?t=21m51s"],
+          titleLink: ["vk", "456240650?t=21m51s"],
         },
       ],
     },
@@ -2246,11 +2246,11 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-5 Эпизод",
-          titleLink: ["vk", "video-208448461_456240080?t=4h14m0s"],
+          titleLink: ["vk", "456240080?t=4h14m0s"],
         },
         {
           title: "6-13 Эпизод",
-          titleLink: ["vk", "video-208448461_456240098?t=5h31m13s"],
+          titleLink: ["vk", "456240098?t=5h31m13s"],
         },
       ],
     },
@@ -2259,15 +2259,15 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456240775?t=23m25s"],
+          titleLink: ["vk", "456240775?t=23m25s"],
         },
         {
           title: "5-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456240788?t=12m45s"],
+          titleLink: ["vk", "456240788?t=12m45s"],
         },
         {
           title: "9-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456240816?t=12m53s"],
+          titleLink: ["vk", "456240816?t=12m53s"],
         },
       ],
     },
@@ -2276,11 +2276,11 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456240829?t=8m15s"],
+          titleLink: ["vk", "456240829?t=8m15s"],
         },
         {
           title: "5-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456240829?t=2h5m10s"],
+          titleLink: ["vk", "456240829?t=2h5m10s"],
         },
         {
           title: "9 Эпизод",
@@ -2288,11 +2288,11 @@ const seriesAnimePopups = {
         },
         {
           title: "10-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456240843?t=1m32s"],
+          titleLink: ["vk", "456240843?t=1m32s"],
         },
         {
           title: "13-14 Эпизод",
-          titleLink: ["vk", "video-208448461_456240855?t=26m31s"],
+          titleLink: ["vk", "456240855?t=26m31s"],
         },
       ],
     },
@@ -2301,7 +2301,7 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-2 Эпизод",
-          titleLink: ["vk", "video-208448461_456240864?t=8m57s"],
+          titleLink: ["vk", "456240864?t=8m57s"],
         },
       ],
     },
@@ -2310,7 +2310,7 @@ const seriesAnimePopups = {
       items: [
         {
           title: "Финал",
-          titleLink: ["vk", "video-208448461_456240864?t=1h26m30s"],
+          titleLink: ["vk", "456240864?t=1h26m30s"],
         },
       ],
     },
@@ -2319,7 +2319,7 @@ const seriesAnimePopups = {
       items: [
         {
           title: "Серебряная душа и золотые шары: Почему «Гинтама» стала самой популярной современной комедийной мангой",
-          titleLink: ["vk", "video-208448461_456240855?t=26m31s"],
+          titleLink: ["vk", "456240855?t=26m31s"],
         },
       ],
     },
@@ -2330,11 +2330,11 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-10 Эпизод",
-          titleLink: ["vk", "video-208448461_456240422"],
+          titleLink: ["vk", "456240422"],
         },
         {
           title: "11-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456240423"],
+          titleLink: ["vk", "456240423"],
         },
       ],
     },
@@ -2343,19 +2343,19 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-2 Эпизод",
-          titleLink: ["vk", "video-208448461_456240478"],
+          titleLink: ["vk", "456240478"],
         },
         {
           title: "3-6 Эпизод",
-          titleLink: ["vk", "video-208448461_456240479"],
+          titleLink: ["vk", "456240479"],
         },
         {
           title: "7-10 Эпизод",
-          titleLink: ["vk", "video-208448461_456240481"],
+          titleLink: ["vk", "456240481"],
         },
         {
           title: "11-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456240482"],
+          titleLink: ["vk", "456240482"],
         },
       ],
     },
@@ -2366,11 +2366,11 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-16 Эпизод",
-          titleLink: ["vk", "video-208448461_456241283?t=3h5m31s"],
+          titleLink: ["vk", "456241283?t=3h5m31s"],
         },
         {
           title: "17-24 Эпизод",
-          titleLink: ["vk", "video-208448461_456241290?t=4h11m0s"],
+          titleLink: ["vk", "456241290?t=4h11m0s"],
         },
       ],
     },
@@ -2381,27 +2381,27 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456239257"],
+          titleLink: ["vk", "456239257"],
         },
         {
           title: "5-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456239260"],
+          titleLink: ["vk", "456239260"],
         },
         {
           title: "9-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456239264"],
+          titleLink: ["vk", "456239264"],
         },
         {
           title: "13-16 Эпизод",
-          titleLink: ["vk", "video-208448461_456239268"],
+          titleLink: ["vk", "456239268"],
         },
         {
           title: "17-20 Эпизод",
-          titleLink: ["vk", "video-208448461_456239271"],
+          titleLink: ["vk", "456239271"],
         },
         {
           title: "21-24 Эпизод",
-          titleLink: ["vk", "video-208448461_456239274"],
+          titleLink: ["vk", "456239274"],
         },
       ],
     },
@@ -2416,19 +2416,19 @@ const seriesAnimePopups = {
         },
         {
           title: "9-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456240417"],
+          titleLink: ["vk", "456240417"],
         },
         {
           title: "13-17 Эпизод",
-          titleLink: ["vk", "video-208448461_456240418"],
+          titleLink: ["vk", "456240418"],
         },
         {
           title: "18-21 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/c55ac583-e1ff-425e-a3b5-ce7a2936ddb1?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/c55ac583-e1ff-425e-a3b5-ce7a2936ddb1"],
         },
         {
           title: "22-26 Эпизод",
-          titleLink: ["vk", "video-208448461_456240420"],
+          titleLink: ["vk", "456240420"],
         },
       ],
     },
@@ -2439,19 +2439,19 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456241344?t=12m13s"],
+          titleLink: ["vk", "456241344?t=12m13s"],
         },
         {
           title: "5-7 Эпизод",
-          titleLink: ["vk", "video-208448461_456241418?t=7h20m34s"],
+          titleLink: ["vk", "456241418?t=7h20m34s"],
         },
         {
           title: "8-9 Эпизод",
-          titleLink: ["vk", "video-208448461_456241749?t=3h41m45s"],
+          titleLink: ["vk", "456241749?t=3h41m45s"],
         },
         {
           title: "10-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456241762?t=11m44s"],
+          titleLink: ["vk", "456241762?t=11m44s"],
         },
       ],
     },
@@ -2460,11 +2460,11 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456241765?t=2h26m5s"],
+          titleLink: ["vk", "456241765?t=2h26m5s"],
         },
         {
           title: "5-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456241768?t=10m56s"],
+          titleLink: ["vk", "456241768?t=10m56s"],
         },
       ],
     },
@@ -2475,7 +2475,7 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-2 Эпизод",
-          titleLink: ["vk", "video-208448461_456239680?t=7m50s"],
+          titleLink: ["vk", "456239680?t=7m50s"],
         },
       ],
     },
@@ -2486,11 +2486,11 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-2 Эпизод",
-          titleLink: ["vk", "video-208448461_456239515?t=4h50m33s"],
+          titleLink: ["vk", "456239515?t=4h50m33s"],
         },
         {
           title: "3-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456239518?t=3m16s"],
+          titleLink: ["vk", "456239518?t=3m16s"],
         },
       ],
     },
@@ -2501,43 +2501,43 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1 Эпизод",
-          titleLink: ["vk", "video-208448461_456239433"],
+          titleLink: ["vk", "456239433"],
         },
         {
           title: "2 Эпизод",
-          titleLink: ["vk", "video-208448461_456239434"],
+          titleLink: ["vk", "456239434"],
         },
         {
           title: "3 Эпизод",
-          titleLink: ["vk", "video-208448461_456239435"],
+          titleLink: ["vk", "456239435"],
         },
         {
           title: "4 Эпизод",
-          titleLink: ["vk", "video-208448461_456239436"],
+          titleLink: ["vk", "456239436"],
         },
         {
           title: "5 Эпизод",
-          titleLink: ["vk", "video-208448461_456239437"],
+          titleLink: ["vk", "456239437"],
         },
         {
           title: "6-7 Эпизод",
-          titleLink: ["vk", "video-208448461_456239438"],
+          titleLink: ["vk", "456239438"],
         },
         {
           title: "8-9 Эпизод",
-          titleLink: ["vk", "video-208448461_456239439"],
+          titleLink: ["vk", "456239439"],
         },
         {
           title: "10 Эпизод",
-          titleLink: ["vk", "video-208448461_456239440"],
+          titleLink: ["vk", "456239440"],
         },
         {
           title: "11-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456239441"],
+          titleLink: ["vk", "456239441"],
         },
         {
           title: "13-20 Эпизод",
-          titleLink: ["vk", "video-208448461_456239936"],
+          titleLink: ["vk", "456239936"],
         },
       ],
     },
@@ -2546,11 +2546,11 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456241783?t=1m32s"],
+          titleLink: ["vk", "456241783?t=1m32s"],
         },
         {
           title: "5-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456241834?t=13m11s"],
+          titleLink: ["vk", "456241834?t=13m11s"],
         },
       ],
     },
@@ -2561,19 +2561,19 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456241477?t=10m36s"],
+          titleLink: ["vk", "456241477?t=10m36s"],
         },
         {
           title: "5-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456241479?t=11m52s"],
+          titleLink: ["vk", "456241479?t=11m52s"],
         },
         {
           title: "13-22 Эпизод",
-          titleLink: ["vk", "video-208448461_456241488?t=14m34s"],
+          titleLink: ["vk", "456241488?t=14m34s"],
         },
         {
           title: "23 Эпизод",
-          titleLink: ["vk", "video-208448461_456241493?t=11m45s"],
+          titleLink: ["vk", "456241493?t=11m45s"],
         },
       ],
     },
@@ -2582,15 +2582,15 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-9 Эпизод",
-          titleLink: ["vk", "video-208448461_456241493?t=42m35s"],
+          titleLink: ["vk", "456241493?t=42m35s"],
         },
         {
           title: "10-13 Эпизод",
-          titleLink: ["vk", "video-208448461_456241496?t=14m23s"],
+          titleLink: ["vk", "456241496?t=14m23s"],
         },
         {
           title: "14-21 Эпизод",
-          titleLink: ["vk", "video-208448461_456241506?t=2h9m0s"],
+          titleLink: ["vk", "456241506?t=2h9m0s"],
         },
       ],
     },
@@ -2599,15 +2599,15 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-10 Эпизод",
-          titleLink: ["vk", "video-208448461_456241513?t=11m45s"],
+          titleLink: ["vk", "456241513?t=11m45s"],
         },
         {
           title: "11-17 Эпизод",
-          titleLink: ["vk", "video-208448461_456241518?t=11m30s"],
+          titleLink: ["vk", "456241518?t=11m30s"],
         },
         {
           title: "18-21 Эпизод",
-          titleLink: ["vk", "video-208448461_456241521?t=11m15s"],
+          titleLink: ["vk", "456241521?t=11m15s"],
         },
       ],
     },
@@ -2622,7 +2622,7 @@ const seriesAnimePopups = {
         },
         {
           title: "5-7 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/33f9fc6c-d679-41e3-a914-d4f6690786c9?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/33f9fc6c-d679-41e3-a914-d4f6690786c9"],
         },
         {
           title: "8-25 Эпизод",
@@ -2637,31 +2637,31 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-2 Эпизод",
-          titleLink: ["vk", "video-208448461_456240421"],
+          titleLink: ["vk", "456240421"],
         },
         {
           title: "3-6 Эпизод",
-          titleLink: ["vk", "video-208448461_456240332"],
+          titleLink: ["vk", "456240332"],
         },
         {
           title: "7-11 Эпизод",
-          titleLink: ["vk", "video-208448461_456240334"],
+          titleLink: ["vk", "456240334"],
         },
         {
           title: "12-15 Эпизод",
-          titleLink: ["vk", "video-208448461_456240335"],
+          titleLink: ["vk", "456240335"],
         },
         {
           title: "16-19 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/1070a781-489e-44b3-b217-1ba440056cfd?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/1070a781-489e-44b3-b217-1ba440056cfd"],
         },
         {
           title: "20-21 Эпизод",
-          titleLink: ["vk", "video-208448461_456240337"],
+          titleLink: ["vk", "456240337"],
         },
         {
           title: "22-24 Эпизод",
-          titleLink: ["vk", "video-208448461_456240338"],
+          titleLink: ["vk", "456240338"],
         },
       ],
     },
@@ -2670,19 +2670,19 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456240339"],
+          titleLink: ["vk", "456240339"],
         },
         {
           title: "5-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456240340"],
+          titleLink: ["vk", "456240340"],
         },
         {
           title: "9-11 Эпизод",
-          titleLink: ["vk", "video-208448461_456240341"],
+          titleLink: ["vk", "456240341"],
         },
         {
           title: "Рюсуй",
-          titleLink: ["vk", "video-208448461_456239899?t=10m35s"],
+          titleLink: ["vk", "456239899?t=10m35s"],
         },
       ],
     },
@@ -2693,39 +2693,39 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-2 Эпизод",
-          titleLink: ["vk", "video-208448461_456239443"],
+          titleLink: ["vk", "456239443"],
         },
         {
           title: "3 Эпизод",
-          titleLink: ["vk", "video-208448461_456239444"],
+          titleLink: ["vk", "456239444"],
         },
         {
           title: "4 Эпизод",
-          titleLink: ["vk", "video-208448461_456239445"],
+          titleLink: ["vk", "456239445"],
         },
         {
           title: "5 Эпизод",
-          titleLink: ["vk", "video-208448461_456239446"],
+          titleLink: ["vk", "456239446"],
         },
         {
           title: "6 Эпизод",
-          titleLink: ["vk", "video-208448461_456239442"],
+          titleLink: ["vk", "456239442"],
         },
         {
           title: "7-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456239447"],
+          titleLink: ["vk", "456239447"],
         },
         {
           title: "9-10 Эпизод",
-          titleLink: ["vk", "video-208448461_456239448"],
+          titleLink: ["vk", "456239448"],
         },
         {
           title: "11 Эпизод",
-          titleLink: ["vk", "video-208448461_456239449"],
+          titleLink: ["vk", "456239449"],
         },
         {
           title: "12-13 Эпизод",
-          titleLink: ["vk", "video-208448461_456239450"],
+          titleLink: ["vk", "456239450"],
         },
       ],
     },
@@ -2734,11 +2734,11 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456239631?t=2h41m45s"],
+          titleLink: ["vk", "456239631?t=2h41m45s"],
         },
         {
           title: "9-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456239641?t=2h36m19s"],
+          titleLink: ["vk", "456239641?t=2h36m19s"],
         },
       ],
     },
@@ -2753,19 +2753,19 @@ const seriesAnimePopups = {
         },
         {
           title: "10-13 Эпизод",
-          titleLink: ["vk", "video-208448461_456240402"],
+          titleLink: ["vk", "456240402"],
         },
         {
           title: "14-18 Эпизод",
-          titleLink: ["vk", "video-208448461_456240403"],
+          titleLink: ["vk", "456240403"],
         },
         {
           title: "19-20 Эпизод",
-          titleLink: ["vk", "video-208448461_456240404"],
+          titleLink: ["vk", "456240404"],
         },
         {
           title: "21-24 Эпизод",
-          titleLink: ["vk", "video-208448461_456240405"],
+          titleLink: ["vk", "456240405"],
         },
       ],
     },
@@ -2776,11 +2776,11 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456239506"],
+          titleLink: ["vk", "456239506"],
         },
         {
           title: "5-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456239507"],
+          titleLink: ["vk", "456239507"],
         },
       ],
     },
@@ -2791,19 +2791,19 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/71c305c5-4ef2-4241-b375-26aac8789565?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/71c305c5-4ef2-4241-b375-26aac8789565"],
         },
         {
           title: "2-3 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/62a298b5-ce57-4667-a7a3-33c9233b6cd5?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/62a298b5-ce57-4667-a7a3-33c9233b6cd5"],
         },
         {
           title: "4 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/1ef2da9a-2195-43a3-a8a6-fd4b5e7438af?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/1ef2da9a-2195-43a3-a8a6-fd4b5e7438af"],
         },
         {
           title: "5-6 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/6adef81a-3386-44dd-9b74-a4769f5e6439?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/6adef81a-3386-44dd-9b74-a4769f5e6439"],
         },
       ],
     },
@@ -2818,7 +2818,7 @@ const seriesAnimePopups = {
         },
         {
           title: "9-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456240375"],
+          titleLink: ["vk", "456240375"],
         },
         {
           title: "13-16 Эпизод",
@@ -2826,11 +2826,11 @@ const seriesAnimePopups = {
         },
         {
           title: "17-19 Эпизод",
-          titleLink: ["vk", "video-208448461_456240376"],
+          titleLink: ["vk", "456240376"],
         },
         {
           title: "20-25 Эпизод",
-          titleLink: ["vk", "video-208448461_456240342"],
+          titleLink: ["vk", "456240342"],
         },
       ],
     },
@@ -2839,15 +2839,15 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456240343"],
+          titleLink: ["vk", "456240343"],
         },
         {
           title: "5-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456240344"],
+          titleLink: ["vk", "456240344"],
         },
         {
           title: "9-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456240345"],
+          titleLink: ["vk", "456240345"],
         },
       ],
     },
@@ -2858,23 +2858,23 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-6 Эпизод",
-          titleLink: ["vk", "video-208448461_456239456"],
+          titleLink: ["vk", "456239456"],
         },
         {
           title: "7-11 Эпизод",
-          titleLink: ["vk", "video-208448461_456239457"],
+          titleLink: ["vk", "456239457"],
         },
         {
           title: "12-16 Эпизод",
-          titleLink: ["vk", "video-208448461_456239458"],
+          titleLink: ["vk", "456239458"],
         },
         {
           title: "17-22 Эпизод",
-          titleLink: ["vk", "video-208448461_456239459"],
+          titleLink: ["vk", "456239459"],
         },
         {
           title: "23-26 Эпизод",
-          titleLink: ["vk", "video-208448461_456239460"],
+          titleLink: ["vk", "456239460"],
         },
       ],
     },
@@ -2890,11 +2890,11 @@ const seriesAnimePopups = {
         },
         {
           title: "5-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456240728?t=12m30s"],
+          titleLink: ["vk", "456240728?t=12m30s"],
         },
         {
           title: "9-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456240745?t=3h23m0s"],
+          titleLink: ["vk", "456240745?t=3h23m0s"],
         },
       ],
     },
@@ -2905,15 +2905,15 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456239273"],
+          titleLink: ["vk", "456239273"],
         },
         {
           title: "5-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456239275"],
+          titleLink: ["vk", "456239275"],
         },
         {
           title: "9-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456239253"],
+          titleLink: ["vk", "456239253"],
         },
       ],
     },
@@ -2922,15 +2922,15 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-3 Эпизод",
-          titleLink: ["vk", "video-208448461_456239253?t=2h20m19s"],
+          titleLink: ["vk", "456239253?t=2h20m19s"],
         },
         {
           title: "4-7 Эпизод",
-          titleLink: ["vk", "video-208448461_456239276?t=14m17s"],
+          titleLink: ["vk", "456239276?t=14m17s"],
         },
         {
           title: "8-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456239278?t=10m11s"],
+          titleLink: ["vk", "456239278?t=10m11s"],
         },
       ],
     },
@@ -2939,11 +2939,11 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456239279?t=20m1s"],
+          titleLink: ["vk", "456239279?t=20m1s"],
         },
         {
           title: "5-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456239262?t=5m53s"],
+          titleLink: ["vk", "456239262?t=5m53s"],
         },
       ],
     },
@@ -2954,11 +2954,11 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-2 Эпизод",
-          titleLink: ["vk", "video-208448461_456240383?t=9m37s"],
+          titleLink: ["vk", "456240383?t=9m37s"],
         },
         {
           title: "3-6 Эпизод",
-          titleLink: ["vk", "video-208448461_456240384?t=11m47s"],
+          titleLink: ["vk", "456240384?t=11m47s"],
         },
       ],
     },
@@ -2969,15 +2969,15 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456241634?t=7h59m1s"],
+          titleLink: ["vk", "456241634?t=7h59m1s"],
         },
         {
           title: "5-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456241656?t=11m16s"],
+          titleLink: ["vk", "456241656?t=11m16s"],
         },
         {
           title: "9-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456241666?t=2h27m53s"],
+          titleLink: ["vk", "456241666?t=2h27m53s"],
         },
       ],
     },
@@ -2988,11 +2988,11 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-6 Эпизод",
-          titleLink: ["vk", "video-208448461_456241325"],
+          titleLink: ["vk", "456241325"],
         },
         {
           title: "7-15 Эпизод",
-          titleLink: ["vk", "video-208448461_456241326"],
+          titleLink: ["vk", "456241326"],
         },
       ],
     },
@@ -3003,19 +3003,19 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456240549"],
+          titleLink: ["vk", "456240549"],
         },
         {
           title: "5-6 Эпизод",
-          titleLink: ["vk", "video-208448461_456240550"],
+          titleLink: ["vk", "456240550"],
         },
         {
           title: "7-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456240551"],
+          titleLink: ["vk", "456240551"],
         },
         {
           title: "9-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456240552"],
+          titleLink: ["vk", "456240552"],
         },
       ],
     },
@@ -3026,31 +3026,31 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-2 Эпизод",
-          titleLink: ["vk", "video-208448461_456239177"],
+          titleLink: ["vk", "456239177"],
         },
         {
           title: "3-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456239178"],
+          titleLink: ["vk", "456239178"],
         },
         {
           title: "5-6 Эпизод",
-          titleLink: ["vk", "video-208448461_456239180"],
+          titleLink: ["vk", "456239180"],
         },
         {
           title: "7 Эпизод",
-          titleLink: ["vk", "video-208448461_456239181"],
+          titleLink: ["vk", "456239181"],
         },
         {
           title: "8-9 Эпизод",
-          titleLink: ["vk", "video-208448461_456239182"],
+          titleLink: ["vk", "456239182"],
         },
         {
           title: "10 Эпизод",
-          titleLink: ["vk", "video-208448461_456239183"],
+          titleLink: ["vk", "456239183"],
         },
         {
           title: "11-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456239184"],
+          titleLink: ["vk", "456239184"],
         },
       ],
     },
@@ -3061,7 +3061,7 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456241155?t=16m13s"],
+          titleLink: ["vk", "456241155?t=16m13s"],
         },
       ],
     },
@@ -3072,7 +3072,7 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456240495"],
+          titleLink: ["vk", "456240495"],
         },
         {
           title: "5-9 Эпизод",
@@ -3080,19 +3080,19 @@ const seriesAnimePopups = {
         },
         {
           title: "10-13 Эпизод",
-          titleLink: ["vk", "video-208448461_456240496"],
+          titleLink: ["vk", "456240496"],
         },
         {
           title: "14-17 Эпизод",
-          titleLink: ["vk", "video-208448461_456240493"],
+          titleLink: ["vk", "456240493"],
         },
         {
           title: "18-21 Эпизод",
-          titleLink: ["vk", "video-208448461_456240497"],
+          titleLink: ["vk", "456240497"],
         },
         {
           title: "22-26 Эпизод",
-          titleLink: ["vk", "video-208448461_456240498"],
+          titleLink: ["vk", "456240498"],
         },
       ],
     },
@@ -3101,23 +3101,23 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456240499"],
+          titleLink: ["vk", "456240499"],
         },
         {
           title: "5-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456240500"],
+          titleLink: ["vk", "456240500"],
         },
         {
           title: "9-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456240494"],
+          titleLink: ["vk", "456240494"],
         },
         {
           title: "13-20 Эпизод",
-          titleLink: ["vk", "video-208448461_456240501"],
+          titleLink: ["vk", "456240501"],
         },
         {
           title: "21-26 Эпизод",
-          titleLink: ["vk", "video-208448461_456240502"],
+          titleLink: ["vk", "456240502"],
         },
       ],
     },
@@ -3128,15 +3128,15 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-2 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/c707e23f-36a3-4d90-b4b4-46e55d884a9d?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/c707e23f-36a3-4d90-b4b4-46e55d884a9d"],
         },
         {
           title: "3-6 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/aeee614c-dabd-468c-aaef-b6e59992074c?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/aeee614c-dabd-468c-aaef-b6e59992074c"],
         },
         {
           title: "7-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456240247?t=4h6m17s"],
+          titleLink: ["vk", "456240247?t=4h6m17s"],
         },
       ],
     },
@@ -3145,15 +3145,15 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/2e7c52eb-d4e2-40c2-b56c-12246d9f3f96?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/2e7c52eb-d4e2-40c2-b56c-12246d9f3f96"],
         },
         {
           title: "5-7 Эпизод",
-          titleLink: ["vk", "video-208448461_456240252?t=6h49m12s"],
+          titleLink: ["vk", "456240252?t=6h49m12s"],
         },
         {
           title: "8-12 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/a28ad66a-c5d4-40b9-8190-ba6104a75098?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/a28ad66a-c5d4-40b9-8190-ba6104a75098"],
         },
       ],
     },
@@ -3164,11 +3164,11 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-6 Эпизод",
-          titleLink: ["vk", "video-208448461_456239601?t=18m17s"],
+          titleLink: ["vk", "456239601?t=18m17s"],
         },
         {
           title: "7-10 Эпизод",
-          titleLink: ["vk", "video-208448461_456239615?t=4h36m47s"],
+          titleLink: ["vk", "456239615?t=4h36m47s"],
         },
       ],
     },
@@ -3179,15 +3179,15 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-2 Эпизод",
-          titleLink: ["vk", "video-208448461_456240576?t=10m20s"],
+          titleLink: ["vk", "456240576?t=10m20s"],
         },
         {
           title: "3-6 Эпизод",
-          titleLink: ["vk", "video-208448461_456240577?t=6m19s"],
+          titleLink: ["vk", "456240577?t=6m19s"],
         },
         {
           title: "7-10 Эпизод",
-          titleLink: ["vk", "video-208448461_456240578?t=11m45s"],
+          titleLink: ["vk", "456240578?t=11m45s"],
         },
         {
           title: "11-15 Эпизод",
@@ -3195,7 +3195,7 @@ const seriesAnimePopups = {
         },
         {
           title: "16-26 Эпизод",
-          titleLink: ["vk", "video-208448461_456240579?t=11m22s"],
+          titleLink: ["vk", "456240579?t=11m22s"],
         },
       ],
     },
@@ -3206,19 +3206,19 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-6 Эпизод",
-          titleLink: ["vk", "video-208448461_456240261"],
+          titleLink: ["vk", "456240261"],
         },
         {
           title: "6-7 Эпизод",
-          titleLink: ["vk", "video-208448461_456240262"],
+          titleLink: ["vk", "456240262"],
         },
         {
           title: "7-9 Эпизод",
-          titleLink: ["vk", "video-208448461_456240263"],
+          titleLink: ["vk", "456240263"],
         },
         {
           title: "10-21 Эпизод",
-          titleLink: ["vk", "video-208448461_456240265"],
+          titleLink: ["vk", "456240265"],
         },
         {
           title: "22-26 Эпизод",
@@ -3231,7 +3231,7 @@ const seriesAnimePopups = {
       items: [
         {
           title: "Бесконечный поезд",
-          titleLink: ["vk", "video-208448461_456239302"],
+          titleLink: ["vk", "456239302"],
         },
       ],
     },
@@ -3240,11 +3240,11 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-3 Эпизод",
-          titleLink: ["vk", "video-208448461_456239635?t=4h23m59s"],
+          titleLink: ["vk", "456239635?t=4h23m59s"],
         },
         {
           title: "4-11 Эпизод",
-          titleLink: ["vk", "video-208448461_456239649?t=13m17s"],
+          titleLink: ["vk", "456239649?t=13m17s"],
         },
       ],
     },
@@ -3253,11 +3253,11 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-5 Эпизод",
-          titleLink: ["vk", "video-208448461_456240260?t=7h57m0s"],
+          titleLink: ["vk", "456240260?t=7h57m0s"],
         },
         {
           title: "6-11 Эпизод",
-          titleLink: ["vk", "video-208448461_456240598?t=1h50m21s"],
+          titleLink: ["vk", "456240598?t=1h50m21s"],
         },
       ],
     },
@@ -3266,7 +3266,7 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456241763?t=12m34s"],
+          titleLink: ["vk", "456241763?t=12m34s"],
         },
       ],
     },
@@ -3277,23 +3277,23 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-2 Эпизод",
-          titleLink: ["vk", "video-208448461_456240284"],
+          titleLink: ["vk", "456240284"],
         },
         {
           title: "3-6 Эпизод",
-          titleLink: ["vk", "video-208448461_456240285"],
+          titleLink: ["vk", "456240285"],
         },
         {
           title: "7-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456240286"],
+          titleLink: ["vk", "456240286"],
         },
         {
           title: "9-11 Эпизод",
-          titleLink: ["vk", "video-208448461_456240287"],
+          titleLink: ["vk", "456240287"],
         },
         {
           title: "12-15 Эпизод",
-          titleLink: ["vk", "video-208448461_456240288"],
+          titleLink: ["vk", "456240288"],
         },
         {
           title: "16-19 Эпизод",
@@ -3301,15 +3301,15 @@ const seriesAnimePopups = {
         },
         {
           title: "20-21 Эпизод",
-          titleLink: ["vk", "video-208448461_456240289"],
+          titleLink: ["vk", "456240289"],
         },
         {
           title: "22-23 Эпизод",
-          titleLink: ["vk", "video-208448461_456240290"],
+          titleLink: ["vk", "456240290"],
         },
         {
           title: "24-26 Эпизод",
-          titleLink: ["vk", "video-208448461_456240291"],
+          titleLink: ["vk", "456240291"],
         },
       ],
     },
@@ -3321,23 +3321,23 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456239034?t=1h59m37s"],
+          titleLink: ["vk", "456239034?t=1h59m37s"],
         },
         {
           title: "5-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456239058?t=1h58m3s"],
+          titleLink: ["vk", "456239058?t=1h58m3s"],
         },
         {
           title: "9-13 Эпизод",
-          titleLink: ["vk", "video-208448461_456239083?t=5m10s"],
+          titleLink: ["vk", "456239083?t=5m10s"],
         },
         {
           title: "14-17 Эпизод",
-          titleLink: ["vk", "video-208448461_456239128?t=4h57m0s"],
+          titleLink: ["vk", "456239128?t=4h57m0s"],
         },
         {
           title: "18-26 Эпизод",
-          titleLink: ["vk", "video-208448461_456239336?t=4h44m1s"],
+          titleLink: ["vk", "456239336?t=4h44m1s"],
         },
       ],
     },
@@ -3346,19 +3346,19 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456239423?t=7m19s"],
+          titleLink: ["vk", "456239423?t=7m19s"],
         },
         {
           title: "5-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456239466?t=4m36s"],
+          titleLink: ["vk", "456239466?t=4m36s"],
         },
         {
           title: "9-13 Эпизод",
-          titleLink: ["vk", "video-208448461_456239476?t=7m20s"],
+          titleLink: ["vk", "456239476?t=7m20s"],
         },
         {
           title: "14-24 Эпизод",
-          titleLink: ["vk", "video-208448461_456239501?t=8m55s"],
+          titleLink: ["vk", "456239501?t=8m55s"],
         },
       ],
     },
@@ -3369,19 +3369,19 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456240193"],
+          titleLink: ["vk", "456240193"],
         },
         {
           title: "5-9 Эпизод",
-          titleLink: ["vk", "video-208448461_456240194"],
+          titleLink: ["vk", "456240194"],
         },
         {
           title: "10 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/8a14e821-e6a4-409b-9bde-78471a4865e3?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/8a14e821-e6a4-409b-9bde-78471a4865e3"],
         },
         {
           title: "11-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456240199"],
+          titleLink: ["vk", "456240199"],
         },
       ],
     },
@@ -3392,35 +3392,35 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456240377?t=12m50s"],
+          titleLink: ["vk", "456240377?t=12m50s"],
         },
         {
           title: "5-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456240378"],
+          titleLink: ["vk", "456240378"],
         },
         {
           title: "9-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456240379?t=13m22s"],
+          titleLink: ["vk", "456240379?t=13m22s"],
         },
         {
           title: "13-15 Эпизод",
-          titleLink: ["vk", "video-208448461_456240369"],
+          titleLink: ["vk", "456240369"],
         },
         {
           title: "16-18 Эпизод",
-          titleLink: ["vk", "video-208448461_456240370?t=3m4s"],
+          titleLink: ["vk", "456240370?t=3m4s"],
         },
         {
           title: "19-20 Эпизод",
-          titleLink: ["vk", "video-208448461_456240371"],
+          titleLink: ["vk", "456240371"],
         },
         {
           title: "21-23 Эпизод",
-          titleLink: ["vk", "video-208448461_456240372?t=3m19s"],
+          titleLink: ["vk", "456240372?t=3m19s"],
         },
         {
           title: "24-25 Эпизод",
-          titleLink: ["vk", "video-208448461_456240373"],
+          titleLink: ["vk", "456240373"],
         },
       ],
     },
@@ -3431,23 +3431,23 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456241678?t=1m24s"],
+          titleLink: ["vk", "456241678?t=1m24s"],
         },
         {
           title: "5-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456241692?t=12m10s"],
+          titleLink: ["vk", "456241692?t=12m10s"],
         },
         {
           title: "9-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456241699?t=8m2s"],
+          titleLink: ["vk", "456241699?t=8m2s"],
         },
         {
           title: "13-15 Эпизод",
-          titleLink: ["vk", "video-208448461_456241741?t=11m36s"],
+          titleLink: ["vk", "456241741?t=11m36s"],
         },
         {
           title: "16 Эпизод",
-          titleLink: ["vk", "video-208448461_456241743?t=12m28s"],
+          titleLink: ["vk", "456241743?t=12m28s"],
         },
       ],
     },
@@ -3458,27 +3458,27 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1 Эпизод",
-          titleLink: ["vk", "video-208448461_456240428"],
+          titleLink: ["vk", "456240428"],
         },
         {
           title: "2-5 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/d20a526e-d610-4726-b971-7bc6eedb3f28?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/d20a526e-d610-4726-b971-7bc6eedb3f28"],
         },
         {
           title: "6-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456240430"],
+          titleLink: ["vk", "456240430"],
         },
         {
           title: "9-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456240431"],
+          titleLink: ["vk", "456240431"],
         },
         {
           title: "13-16 Эпизод",
-          titleLink: ["vk", "video-208448461_456240432"],
+          titleLink: ["vk", "456240432"],
         },
         {
           title: "17-19 Эпизод",
-          titleLink: ["vk", "video-208448461_456240433"],
+          titleLink: ["vk", "456240433"],
         },
       ],
     },
@@ -3489,7 +3489,7 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456240525"],
+          titleLink: ["vk", "456240525"],
         },
         {
           title: "5-12 Эпизод",
@@ -3497,7 +3497,7 @@ const seriesAnimePopups = {
         },
         {
           title: "13-16 Эпизод",
-          titleLink: ["vk", "video-208448461_456240526"],
+          titleLink: ["vk", "456240526"],
         },
         {
           title: "17-20 Эпизод",
@@ -3505,75 +3505,75 @@ const seriesAnimePopups = {
         },
         {
           title: "21-24 Эпизод",
-          titleLink: ["vk", "video-208448461_456240504?t=12m4s"],
+          titleLink: ["vk", "456240504?t=12m4s"],
         },
         {
           title: "25-29 Эпизод",
-          titleLink: ["vk", "video-208448461_456240505?t=5m54s"],
+          titleLink: ["vk", "456240505?t=5m54s"],
         },
         {
           title: "30-33 Эпизод",
-          titleLink: ["vk", "video-208448461_456240506"],
+          titleLink: ["vk", "456240506"],
         },
         {
           title: "34-37 Эпизод",
-          titleLink: ["vk", "video-208448461_456240507?t=8m12s"],
+          titleLink: ["vk", "456240507?t=8m12s"],
         },
         {
           title: "38-41 Эпизод",
-          titleLink: ["vk", "video-208448461_456240508"],
+          titleLink: ["vk", "456240508"],
         },
         {
           title: "42-45 Эпизод",
-          titleLink: ["vk", "video-208448461_456240509"],
+          titleLink: ["vk", "456240509"],
         },
         {
           title: "46-49 Эпизод",
-          titleLink: ["vk", "video-208448461_456240510"],
+          titleLink: ["vk", "456240510"],
         },
         {
           title: "50-54 Эпизод",
-          titleLink: ["vk", "video-208448461_456240511"],
+          titleLink: ["vk", "456240511"],
         },
         {
           title: "55-58 Эпизод",
-          titleLink: ["vk", "video-208448461_456240512"],
+          titleLink: ["vk", "456240512"],
         },
         {
           title: "59-62 Эпизод",
-          titleLink: ["vk", "video-208448461_456240518"],
+          titleLink: ["vk", "456240518"],
         },
         {
           title: "63-64 Эпизод",
-          titleLink: ["vk", "video-208448461_456240513"],
+          titleLink: ["vk", "456240513"],
         },
         {
           title: "64-66 Эпизод",
-          titleLink: ["vk", "video-208448461_456240514"],
+          titleLink: ["vk", "456240514"],
         },
         {
           title: "67-70 Эпизод",
-          titleLink: ["vk", "video-208448461_456240519"],
+          titleLink: ["vk", "456240519"],
         },
         {
           title: "71-74 Эпизод",
-          titleLink: ["vk", "video-208448461_456240515"],
+          titleLink: ["vk", "456240515"],
         },
         {
           title: "75-82 Эпизод",
-          titleLink: ["vk", "video-208448461_456240516"],
+          titleLink: ["vk", "456240516"],
         },
         {
           title: "83-87 Эпизод",
-          titleLink: ["vk", "video-208448461_456240517"],
+          titleLink: ["vk", "456240517"],
         },
         {
           title: "88-91 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/dd03bf80-0a52-4518-968c-b0886d19d6cd?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/dd03bf80-0a52-4518-968c-b0886d19d6cd"],
         },
         {
           title: "91-99 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/6e2d0b6f-0c89-4686-a798-8830a6bf08fb?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/6e2d0b6f-0c89-4686-a798-8830a6bf08fb"],
         },
         {
           title: "100-110 Эпизод",
@@ -3588,19 +3588,19 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-3 Эпизод",
-          titleLink: ["vk", "video-208448461_456240985?t=16m45s"],
+          titleLink: ["vk", "456240985?t=16m45s"],
         },
         {
           title: "4-7 Эпизод",
-          titleLink: ["vk", "video-208448461_456241035?t=6h13m14s"],
+          titleLink: ["vk", "456241035?t=6h13m14s"],
         },
         {
           title: "8-11 Эпизод",
-          titleLink: ["vk", "video-208448461_456241081?t=23m0s"],
+          titleLink: ["vk", "456241081?t=23m0s"],
         },
         {
           title: "12-15 Эпизод",
-          titleLink: ["vk", "video-208448461_456241112?t=2h29m42s"],
+          titleLink: ["vk", "456241112?t=2h29m42s"],
         },
       ],
     },
@@ -3609,11 +3609,11 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456241250?t=4h15m23s"],
+          titleLink: ["vk", "456241250?t=4h15m23s"],
         },
         {
           title: "5-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456241250?t=6h8m44s"],
+          titleLink: ["vk", "456241250?t=6h8m44s"],
         },
       ],
     },
@@ -3624,31 +3624,31 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-2 Эпизод",
-          titleLink: ["vk", "video-208448461_456239362"],
+          titleLink: ["vk", "456239362"],
         },
         {
           title: "3 Эпизод",
-          titleLink: ["vk", "video-208448461_456239363"],
+          titleLink: ["vk", "456239363"],
         },
         {
           title: "4 Эпизод",
-          titleLink: ["vk", "video-208448461_456239364?t=1m1s"],
+          titleLink: ["vk", "456239364?t=1m1s"],
         },
         {
           title: "5-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456239365"],
+          titleLink: ["vk", "456239365"],
         },
         {
           title: "9-10 Эпизод",
-          titleLink: ["vk", "video-208448461_456239366"],
+          titleLink: ["vk", "456239366"],
         },
         {
           title: "11-13 Эпизод",
-          titleLink: ["vk", "video-208448461_456239367"],
+          titleLink: ["vk", "456239367"],
         },
         {
           title: "14 Эпизод",
-          titleLink: ["vk", "video-208448461_456239402"],
+          titleLink: ["vk", "456239402"],
         },
         {
           title: "15-16 Эпизод",
@@ -3656,31 +3656,31 @@ const seriesAnimePopups = {
         },
         {
           title: "17 Эпизод",
-          titleLink: ["vk", "video-208448461_456239405"],
+          titleLink: ["vk", "456239405"],
         },
         {
           title: "18 Эпизод",
-          titleLink: ["vk", "video-208448461_456239406"],
+          titleLink: ["vk", "456239406"],
         },
         {
           title: "19 Эпизод",
-          titleLink: ["vk", "video-208448461_456239407"],
+          titleLink: ["vk", "456239407"],
         },
         {
           title: "20 Эпизод",
-          titleLink: ["vk", "video-208448461_456239408"],
+          titleLink: ["vk", "456239408"],
         },
         {
           title: "21 Эпизод",
-          titleLink: ["vk", "video-208448461_456239409"],
+          titleLink: ["vk", "456239409"],
         },
         {
           title: "22-23 Эпизод",
-          titleLink: ["vk", "video-208448461_456239410"],
+          titleLink: ["vk", "456239410"],
         },
         {
           title: "24 Эпизод",
-          titleLink: ["vk", "video-208448461_456239426"],
+          titleLink: ["vk", "456239426"],
         },
       ],
     },
@@ -3689,11 +3689,11 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456240573?t=47m0s"],
+          titleLink: ["vk", "456240573?t=47m0s"],
         },
         {
           title: "9-13 Эпизод",
-          titleLink: ["vk", "video-208448461_456240720?t=1h10m28s"],
+          titleLink: ["vk", "456240720?t=1h10m28s"],
         },
         {
           title: "14-17 Эпизод",
@@ -3701,11 +3701,11 @@ const seriesAnimePopups = {
         },
         {
           title: "18-20 Эпизод",
-          titleLink: ["vk", "video-208448461_456240778?t=17m1s"],
+          titleLink: ["vk", "456240778?t=17m1s"],
         },
         {
           title: "21-24 Эпизод",
-          titleLink: ["vk", "video-208448461_456240780?t=11m33s"],
+          titleLink: ["vk", "456240780?t=11m33s"],
         },
       ],
     },
@@ -3714,7 +3714,7 @@ const seriesAnimePopups = {
       items: [
         {
           title: "Магическая битва 0",
-          titleLink: ["vk", "video-208448461_456240785?t=4h13m5s"],
+          titleLink: ["vk", "456240785?t=4h13m5s"],
         },
       ],
     },
@@ -3723,27 +3723,27 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-5 Эпизод",
-          titleLink: ["vk", "video-208448461_456240815?t=2h1m0s"],
+          titleLink: ["vk", "456240815?t=2h1m0s"],
         },
         {
           title: "6-9 Эпизод",
-          titleLink: ["vk", "video-208448461_456240822?t=6h5m10s"],
+          titleLink: ["vk", "456240822?t=6h5m10s"],
         },
         {
           title: "10-13 Эпизод",
-          titleLink: ["vk", "video-208448461_456240842?t=12m15s"],
+          titleLink: ["vk", "456240842?t=12m15s"],
         },
         {
           title: "14-17 Эпизод",
-          titleLink: ["vk", "video-208448461_456240854?t=15m20s"],
+          titleLink: ["vk", "456240854?t=15m20s"],
         },
         {
           title: "18-23 Эпизод",
-          titleLink: ["vk", "video-208448461_456240861?t=25m33s"],
+          titleLink: ["vk", "456240861?t=25m33s"],
         },
         {
           title: "17 Эпизод blu-ray",
-          titleLink: ["vk", "video-208448461_456240898?t=1h55m47s"],
+          titleLink: ["vk", "456240898?t=1h55m47s"],
         },
       ],
     },
@@ -3754,15 +3754,15 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456241547?t=11m18s"],
+          titleLink: ["vk", "456241547?t=11m18s"],
         },
         {
           title: "5-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456241558?t=4h32m1s"],
+          titleLink: ["vk", "456241558?t=4h32m1s"],
         },
         {
           title: "9-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456241563?t=12m30s"],
+          titleLink: ["vk", "456241563?t=12m30s"],
         },
       ],
     },
@@ -3771,15 +3771,15 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456241580?t=5m0s"],
+          titleLink: ["vk", "456241580?t=5m0s"],
         },
         {
           title: "5-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456241607?t=12m0s"],
+          titleLink: ["vk", "456241607?t=12m0s"],
         },
         {
           title: "9-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456241610?t=17m46s"],
+          titleLink: ["vk", "456241610?t=17m46s"],
         },
       ],
     },
@@ -3790,23 +3790,23 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456239139"],
+          titleLink: ["vk", "456239139"],
         },
         {
           title: "5-9 Эпизод",
-          titleLink: ["vk", "video-208448461_456239138"],
+          titleLink: ["vk", "456239138"],
         },
         {
           title: "10-14 Эпизод",
-          titleLink: ["vk", "video-208448461_456239188"],
+          titleLink: ["vk", "456239188"],
         },
         {
           title: "15-20 Эпизод",
-          titleLink: ["vk", "video-208448461_456239231"],
+          titleLink: ["vk", "456239231"],
         },
         {
           title: "21-25 Эпизод",
-          titleLink: ["vk", "video-208448461_456239341"],
+          titleLink: ["vk", "456239341"],
         },
       ],
     },
@@ -3815,19 +3815,19 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-6 Эпизод",
-          titleLink: ["vk", "video-208448461_456239462"],
+          titleLink: ["vk", "456239462"],
         },
         {
           title: "7-11 Эпизод",
-          titleLink: ["vk", "video-208448461_456239474"],
+          titleLink: ["vk", "456239474"],
         },
         {
           title: "12-17 Эпизод",
-          titleLink: ["vk", "video-208448461_456239489"],
+          titleLink: ["vk", "456239489"],
         },
         {
           title: "18-24 Эпизод",
-          titleLink: ["vk", "video-208448461_456239496"],
+          titleLink: ["vk", "456239496"],
         },
       ],
     },
@@ -3836,7 +3836,7 @@ const seriesAnimePopups = {
       items: [
         {
           title: "Порядковый ранг",
-          titleLink: ["vk", "video-208448461_456239519"],
+          titleLink: ["vk", "456239519"],
         },
       ],
     },
@@ -3845,35 +3845,35 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-7 Эпизод",
-          titleLink: ["vk", "video-208448461_456239529"],
+          titleLink: ["vk", "456239529"],
         },
         {
           title: "8-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456239538"],
+          titleLink: ["vk", "456239538"],
         },
         {
           title: "13-18 Эпизод",
-          titleLink: ["vk", "video-208448461_456239540"],
+          titleLink: ["vk", "456239540"],
         },
         {
           title: "19-24 Эпизод",
-          titleLink: ["vk", "video-208448461_456239554"],
+          titleLink: ["vk", "456239554"],
         },
         {
           title: "25-27 Эпизод",
-          titleLink: ["vk", "video-208448461_456239566"],
+          titleLink: ["vk", "456239566"],
         },
         {
           title: "28-36 Эпизод",
-          titleLink: ["vk", "video-208448461_456239576"],
+          titleLink: ["vk", "456239576"],
         },
         {
           title: "37-42 Эпизод",
-          titleLink: ["vk", "video-208448461_456239588"],
+          titleLink: ["vk", "456239588"],
         },
         {
           title: "43-47 Эпизод",
-          titleLink: ["vk", "video-208448461_456239599?t=25m25s"],
+          titleLink: ["vk", "456239599?t=25m25s"],
         },
       ],
     },
@@ -3882,11 +3882,11 @@ const seriesAnimePopups = {
       items: [
         {
           title: "Ария в беззвёздной ночи",
-          titleLink: ["vk", "video-208448461_456239635?t=14m9s"],
+          titleLink: ["vk", "456239635?t=14m9s"],
         },
         {
           title: "Скрецо глубокой ночи",
-          titleLink: ["vk", "video-208448461_456240023?t=13m15s"],
+          titleLink: ["vk", "456240023?t=13m15s"],
         },
       ],
     },
@@ -3897,15 +3897,15 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-9 Эпизод",
-          titleLink: ["vk", "video-208448461_456241661?t=14m36s"],
+          titleLink: ["vk", "456241661?t=14m36s"],
         },
         {
           title: "10-17 Эпизод",
-          titleLink: ["vk", "video-208448461_456241667?t=2h11m2s"],
+          titleLink: ["vk", "456241667?t=2h11m2s"],
         },
         {
           title: "8-24 Эпизод",
-          titleLink: ["vk", "video-208448461_456241696?t=13m8s"],
+          titleLink: ["vk", "456241696?t=13m8s"],
         },
       ],
     },
@@ -3934,7 +3934,7 @@ const seriesAnimePopups = {
       nameRu: "Остров Кукуруз Доана || Мобильный воин Гандам",
       nameEn: "Cucuruz Doan no Shima || Mobile Suit Gundam",
       donutTerms: "donut-lvl-1",
-      titleLink: ["vk", "video-208448461_456239894?t=11m0s"],
+      titleLink: ["vk", "456239894?t=11m0s"],
       id: "Fullmeter-Anime_Mobile-Suit-Gundam-Cucuruz-Doan-Island",
       posterImage: "https://static.tildacdn.com/tild3565-6162-4862-a631-316434663066/img.webp",
       cardType: "fullmeter-Anime",
@@ -3944,7 +3944,7 @@ const seriesAnimePopups = {
       nameEn: "0080: Pocket no Naka no Sensou || Mobile Suit Gundam",
       titleStatus: "Просмотрено: 1-6/6 Эпизод",
       donutTerms: "donut-lvl-1",
-      titleLink: ["vk", "video-208448461_456240270?t=7h4m40s"],
+      titleLink: ["vk", "456240270?t=7h4m40s"],
       id: "Series-Anime_Mobile-Suit-Gundam-0080",
       posterImage: "https://static.tildacdn.com/tild3230-3065-4963-b330-376637393862/img.webp",
       cardType: "series-Anime",
@@ -3972,7 +3972,7 @@ const seriesAnimePopups = {
       nameEn: "Gyakushuu no Char || Mobile Suit Gundam",
       titleStatus: "Полнометражка",
       donutTerms: "donut-lvl-1",
-      titleLink: ["vk", "video-208448461_456239894?t=2h17m30s"],
+      titleLink: ["vk", "456239894?t=2h17m30s"],
       id: "Fullmeter-Anime_Mobile-Suit-Gundam-Gyakushuu-no-Char",
       posterImage: "https://static.tildacdn.com/tild3031-3038-4530-a166-336534666332/img.webp",
       cardType: "fullmeter-Anime",
@@ -3982,7 +3982,7 @@ const seriesAnimePopups = {
       nameEn: "Senkou no Hathaway || Mobile Suit Gundam",
       titleStatus: "Полнометражка",
       donutTerms: "donut-lvl-1",
-      titleLink: ["vk", "video-208448461_456240032?t=2h26m20s"],
+      titleLink: ["vk", "456240032?t=2h26m20s"],
       id: "Fullmeter-Anime_Mobile-Suit-Gundam-Hathaway",
       posterImage: "https://static.tildacdn.com/tild6264-3837-4532-b936-373364313166/img.webp",
       cardType: "fullmeter-Anime",
@@ -4001,7 +4001,7 @@ const seriesAnimePopups = {
       nameEn: "Thunderbolt: December Sky || Mobile Suit Gundam",
       titleStatus: "Полнометражка",
       donutTerms: "donut-lvl-2",
-      titleLink: ["vk", "video-208448461_456239818?t=3h26m46s"],
+      titleLink: ["vk", "456239818?t=3h26m46s"],
       id: "Fullmeter-Anime_Mobile-Suit-Gundam-Thunderbolt-December-Sky",
       posterImage: "https://static.tildacdn.com/tild3662-3834-4937-b939-393738626364/img.webp",
       cardType: "fullmeter-Anime",
@@ -4011,7 +4011,7 @@ const seriesAnimePopups = {
       nameEn: " || Mobile Suit Gundam",
       titleStatus: "Полнометражка",
       donutTerms: "donut-lvl-2",
-      titleLink: ["vk", "video-208448461_456239925?t=5h16m37s"],
+      titleLink: ["vk", "456239925?t=5h16m37s"],
       id: "Fullmeter-Anime_Mobile-Suit-Gundam-F91",
       posterImage: "https://static.tildacdn.com/tild3539-3136-4461-b164-373965663136/img.webp",
       cardType: "fullmeter-Anime",
@@ -4030,7 +4030,7 @@ const seriesAnimePopups = {
       nameEn: "Narrative || Mobile Suit Gundam",
       titleStatus: "Полнометражка",
       donutTerms: "donut-lvl-2",
-      titleLink: ["vk", "video-208448461_456240028?t=7h37m43s"],
+      titleLink: ["vk", "456240028?t=7h37m43s"],
       id: "Fullmeter-Anime_Mobile-Suit-Gundam-Narrative",
       posterImage: "https://static.tildacdn.com/tild6339-3363-4339-b266-363430386130/img.webp",
       cardType: "fullmeter-Anime",
@@ -4060,7 +4060,7 @@ const seriesAnimePopups = {
       nameEn: "SEED C.E.73: Stargazer || Mobile Suit Gundam",
       titleStatus: "Просмотрено: 1-3/3 Эпизод",
       donutTerms: "donut-lvl-2",
-      titleLink: ["vk", "video-208448461_456240007?t=4h45s"],
+      titleLink: ["vk", "456240007?t=4h45s"],
       id: "Series-Anime_Mobile-Suit-Gundam-SEED-Stargazer",
       posterImage: "https://static.tildacdn.com/tild3630-3932-4534-a539-356534353837/img.webp",
       cardType: "series-Anime",
@@ -4070,7 +4070,7 @@ const seriesAnimePopups = {
       nameEn: "SEED Freedom || Mobile Suit Gundam",
       titleStatus: "Полнометражка",
       donutTerms: "donut-lvl-3",
-      titleLink: ["vk", "video-208448461_456241283?t=12m15s"],
+      titleLink: ["vk", "456241283?t=12m15s"],
       id: "fullmeter-Anime_Mobile-Suit-Gundam-SEED-Freedom",
       posterImage: "https://static.tildacdn.com/tild6337-6261-4361-a536-323137396239/img.webp",
       cardType: "fullmeter-Anime",
@@ -4091,7 +4091,7 @@ const seriesAnimePopups = {
       nameEn: "00: A Wakening of the Trailblazer || Mobile Suit Gundam",
       titleStatus: "Полнометражка",
       donutTerms: "donut-lvl-2",
-      titleLink: ["vk", "video-208448461_456240028?t=4h54m37s"],
+      titleLink: ["vk", "456240028?t=4h54m37s"],
       id: "Fullmeter-Anime_Mobile-Suit-Gundam-00-A-Wakening-of-Trailblazer",
       posterImage: "https://static.tildacdn.com/tild6565-6637-4332-b965-643465613634/img.webp",
       cardType: "fullmeter-Anime",
@@ -4123,7 +4123,7 @@ const seriesAnimePopups = {
       nameEn: "Wing: Endless Waltz || Mobile Suit Gundam",
       titleStatus: "Просмотрено: 1-3/3 Эпизод",
       donutTerms: "donut-lvl-3",
-      titleLink: ["vk", "video-208448461_456240777?t=2h25m31s"],
+      titleLink: ["vk", "456240777?t=2h25m31s"],
       id: "Series-Anime_Mobile-Suit-Gundam-Wing-Endless-Waltz",
       posterImage: "https://static.tildacdn.com/tild3033-6438-4661-a134-656565306632/img.webp",
       cardType: "series-Anime",
@@ -4157,43 +4157,43 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-3 Эпизод",
-          titleLink: ["vk", "video-208448461_456239242?t=6h18m50s"],
+          titleLink: ["vk", "456239242?t=6h18m50s"],
         },
         {
           title: "4-7 Эпизод",
-          titleLink: ["vk", "video-208448461_456239340?t=1h59m30s"],
+          titleLink: ["vk", "456239340?t=1h59m30s"],
         },
         {
           title: "8-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456239420?t=4h53m18s"],
+          titleLink: ["vk", "456239420?t=4h53m18s"],
         },
         {
           title: "13-16 Эпизод",
-          titleLink: ["vk", "video-208448461_456239470?t=6h15m54s"],
+          titleLink: ["vk", "456239470?t=6h15m54s"],
         },
         {
           title: "17-20 Эпизод",
-          titleLink: ["vk", "video-208448461_456239494?t=14m21s"],
+          titleLink: ["vk", "456239494?t=14m21s"],
         },
         {
           title: "21-24 Эпизод",
-          titleLink: ["vk", "video-208448461_456239491?t=10m50s"],
+          titleLink: ["vk", "456239491?t=10m50s"],
         },
         {
           title: "25-27 Эпизод",
-          titleLink: ["vk", "video-208448461_456239518?t=46m21s"],
+          titleLink: ["vk", "456239518?t=46m21s"],
         },
         {
           title: "28-32 Эпизод",
-          titleLink: ["vk", "video-208448461_456239527?t=13m15s"],
+          titleLink: ["vk", "456239527?t=13m15s"],
         },
         {
           title: "33-36 Эпизод",
-          titleLink: ["vk", "video-208448461_456239542?t=11m21s"],
+          titleLink: ["vk", "456239542?t=11m21s"],
         },
         {
           title: "37-43 Эпизод",
-          titleLink: ["vk", "video-208448461_456239561?t=2h25m35s"],
+          titleLink: ["vk", "456239561?t=2h25m35s"],
         },
       ],
     },
@@ -4204,7 +4204,7 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-3 Эпизод",
-          titleLink: ["vk", "video-208448461_456239570?t=19m45s"],
+          titleLink: ["vk", "456239570?t=19m45s"],
         },
         {
           title: "4-6 Эпизод",
@@ -4219,11 +4219,11 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-6 Эпизод",
-          titleLink: ["vk", "video-208448461_456239586?t=5m54s"],
+          titleLink: ["vk", "456239586?t=5m54s"],
         },
         {
           title: "7-13 Эпизод",
-          titleLink: ["vk", "video-208448461_456239589?t=11m34s"],
+          titleLink: ["vk", "456239589?t=11m34s"],
         },
       ],
     },
@@ -4234,27 +4234,27 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-7 Эпизод",
-          titleLink: ["vk", "video-208448461_456239612?t=2h44m28s"],
+          titleLink: ["vk", "456239612?t=2h44m28s"],
         },
         {
           title: "8-15 Эпизод",
-          titleLink: ["vk", "video-208448461_456239625?t=11m26s"],
+          titleLink: ["vk", "456239625?t=11m26s"],
         },
         {
           title: "16-23 Эпизод",
-          titleLink: ["vk", "video-208448461_456239652?t=14m32s"],
+          titleLink: ["vk", "456239652?t=14m32s"],
         },
         {
           title: "24-30 Эпизод",
-          titleLink: ["vk", "video-208448461_456239663?t=19m21s"],
+          titleLink: ["vk", "456239663?t=19m21s"],
         },
         {
           title: "31-39 Эпизод",
-          titleLink: ["vk", "video-208448461_456239690?t=12m40s"],
+          titleLink: ["vk", "456239690?t=12m40s"],
         },
         {
           title: "40-50 Эпизод",
-          titleLink: ["vk", "video-208448461_456240270?t=2h7m44s"],
+          titleLink: ["vk", "456240270?t=2h7m44s"],
         },
       ],
     },
@@ -4263,23 +4263,23 @@ const seriesAnimePopups = {
       items: [
         {
           title: "2-3 Эпизод",
-          titleLink: ["vk", "video-208448461_456239729?t=6h5m17s"],
+          titleLink: ["vk", "456239729?t=6h5m17s"],
         },
         {
           title: "3-9 Эпизод",
-          titleLink: ["vk", "video-208448461_456239748?t=18m35s"],
+          titleLink: ["vk", "456239748?t=18m35s"],
         },
         {
           title: "10-17 Эпизод",
-          titleLink: ["vk", "video-208448461_456239755?t=13m42s"],
+          titleLink: ["vk", "456239755?t=13m42s"],
         },
         {
           title: "18-20 Эпизод",
-          titleLink: ["vk", "video-208448461_456240267?t=18m33s"],
+          titleLink: ["vk", "456240267?t=18m33s"],
         },
         {
           title: "21 Эпизод",
-          titleLink: ["vk", "video-208448461_456240266?t=3m21s"],
+          titleLink: ["vk", "456240266?t=3m21s"],
         },
         {
           title: "21-22 Эпизод",
@@ -4287,23 +4287,23 @@ const seriesAnimePopups = {
         },
         {
           title: "23-26 Эпизод",
-          titleLink: ["vk", "video-208448461_456239785?t=56s"],
+          titleLink: ["vk", "456239785?t=56s"],
         },
         {
           title: "27-33 Эпизод",
-          titleLink: ["vk", "video-208448461_456240268?t=7m2s"],
+          titleLink: ["vk", "456240268?t=7m2s"],
         },
         {
           title: "33-37 Эпизод",
-          titleLink: ["vk", "video-208448461_456239818?t=9h33m27s"],
+          titleLink: ["vk", "456239818?t=9h33m27s"],
         },
         {
           title: "38-41 Эпизод",
-          titleLink: ["vk", "video-208448461_456239858?t=15m34s"],
+          titleLink: ["vk", "456239858?t=15m34s"],
         },
         {
           title: "42-47 Эпизод",
-          titleLink: ["vk", "video-208448461_456239872?t=14m6s"],
+          titleLink: ["vk", "456239872?t=14m6s"],
         },
       ],
     },
@@ -4314,11 +4314,11 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456240040?t=3h19m15s"],
+          titleLink: ["vk", "456240040?t=3h19m15s"],
         },
         {
           title: "5-7 Эпизод",
-          titleLink: ["vk", "video-208448461_456240050?t=3h56m15s"],
+          titleLink: ["vk", "456240050?t=3h56m15s"],
         },
         {
           title: "8-12 Эпизод",
@@ -4333,19 +4333,19 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-2 Эпизод",
-          titleLink: ["vk", "video-208448461_456239905?t=3h37m20s"],
+          titleLink: ["vk", "456239905?t=3h37m20s"],
         },
         {
           title: "3-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456239914?t=11m45s"],
+          titleLink: ["vk", "456239914?t=11m45s"],
         },
         {
           title: "5-6 Эпизод",
-          titleLink: ["vk", "video-208448461_456239928?t=2h11m36s"],
+          titleLink: ["vk", "456239928?t=2h11m36s"],
         },
         {
           title: "7 Эпизод",
-          titleLink: ["vk", "video-208448461_456239929?t=1m16s"],
+          titleLink: ["vk", "456239929?t=1m16s"],
         },
       ],
     },
@@ -4356,35 +4356,35 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456239756?t=2m33s"],
+          titleLink: ["vk", "456239756?t=2m33s"],
         },
         {
           title: "9-13 Эпизод",
-          titleLink: ["vk", "video-208448461_456240269?t=53s"],
+          titleLink: ["vk", "456240269?t=53s"],
         },
         {
           title: "14-16 Эпизод",
-          titleLink: ["vk", "video-208448461_456239785?t=2h8m45s"],
+          titleLink: ["vk", "456239785?t=2h8m45s"],
         },
         {
           title: "17-24 Эпизод",
-          titleLink: ["vk", "video-208448461_456239800?t=9m45s"],
+          titleLink: ["vk", "456239800?t=9m45s"],
         },
         {
           title: "25-33 Эпизод",
-          titleLink: ["vk", "video-208448461_456239818?t=5h10m34s"],
+          titleLink: ["vk", "456239818?t=5h10m34s"],
         },
         {
           title: "34-41 Эпизод",
-          titleLink: ["vk", "video-208448461_456239834?t=12m31s"],
+          titleLink: ["vk", "456239834?t=12m31s"],
         },
         {
           title: "42-48 Эпизод",
-          titleLink: ["vk", "video-208448461_456239851?t=13m20s"],
+          titleLink: ["vk", "456239851?t=13m20s"],
         },
         {
           title: "49-50 Эпизод",
-          titleLink: ["vk", "video-208448461_456239851?t=3h9m57s"],
+          titleLink: ["vk", "456239851?t=3h9m57s"],
         },
       ],
     },
@@ -4395,43 +4395,43 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456239872?t=3h25m48s"],
+          titleLink: ["vk", "456239872?t=3h25m48s"],
         },
         {
           title: "5-13 Эпизод",
-          titleLink: ["vk", "video-208448461_456239885?t=6m0s"],
+          titleLink: ["vk", "456239885?t=6m0s"],
         },
         {
           title: "14-17 Эпизод",
-          titleLink: ["vk", "video-208448461_456239905?t=6h1m15s"],
+          titleLink: ["vk", "456239905?t=6h1m15s"],
         },
         {
           title: "18-22 Эпизод",
-          titleLink: ["vk", "video-208448461_456239914?t=2h33m31s"],
+          titleLink: ["vk", "456239914?t=2h33m31s"],
         },
         {
           title: "23-30 Эпизод",
-          titleLink: ["vk", "video-208448461_456239941?t=12m30s"],
+          titleLink: ["vk", "456239941?t=12m30s"],
         },
         {
           title: "31-34 Эпизод",
-          titleLink: ["vk", "video-208448461_456239954?t=13m31s"],
+          titleLink: ["vk", "456239954?t=13m31s"],
         },
         {
           title: "35-38 Эпизод",
-          titleLink: ["vk", "video-208448461_456239959?t=11m45s"],
+          titleLink: ["vk", "456239959?t=11m45s"],
         },
         {
           title: "39-42 Эпизод",
-          titleLink: ["vk", "video-208448461_456239966?t=16m15s"],
+          titleLink: ["vk", "456239966?t=16m15s"],
         },
         {
           title: "43-46 Эпизод",
-          titleLink: ["vk", "video-208448461_456239972?t=15m52s"],
+          titleLink: ["vk", "456239972?t=15m52s"],
         },
         {
           title: "47-50 Эпизод",
-          titleLink: ["vk", "video-208448461_456239980?t=14m12s"],
+          titleLink: ["vk", "456239980?t=14m12s"],
         },
       ],
     },
@@ -4442,23 +4442,23 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456239942?t=6h32m48s"],
+          titleLink: ["vk", "456239942?t=6h32m48s"],
         },
         {
           title: "5-11 Эпизод",
-          titleLink: ["vk", "video-208448461_456239954?t=4h40m45s"],
+          titleLink: ["vk", "456239954?t=4h40m45s"],
         },
         {
           title: "12-16 Эпизод",
-          titleLink: ["vk", "video-208448461_456239959?t=2h16m45s"],
+          titleLink: ["vk", "456239959?t=2h16m45s"],
         },
         {
           title: "17-20 Эпизод",
-          titleLink: ["vk", "video-208448461_456239966?t=2h14m53s"],
+          titleLink: ["vk", "456239966?t=2h14m53s"],
         },
         {
           title: "21-25 Эпизод",
-          titleLink: ["vk", "video-208448461_456239972?t=2h14m5s"],
+          titleLink: ["vk", "456239972?t=2h14m5s"],
         },
       ],
     },
@@ -4467,23 +4467,23 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456239980?t=2h17m31s"],
+          titleLink: ["vk", "456239980?t=2h17m31s"],
         },
         {
           title: "5-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456239987?t=4h26m33s"],
+          titleLink: ["vk", "456239987?t=4h26m33s"],
         },
         {
           title: "9-13 Эпизод",
-          titleLink: ["vk", "video-208448461_456239995?t=6h17m48s"],
+          titleLink: ["vk", "456239995?t=6h17m48s"],
         },
         {
           title: "14-21 Эпизод",
-          titleLink: ["vk", "video-208448461_456240009?t=12m5s"],
+          titleLink: ["vk", "456240009?t=12m5s"],
         },
         {
           title: "22-25 Эпизод",
-          titleLink: ["vk", "video-208448461_456240019?t=2h32m50s"],
+          titleLink: ["vk", "456240019?t=2h32m50s"],
         },
       ],
     },
@@ -4494,35 +4494,35 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-9 Эпизод",
-          titleLink: ["vk", "video-208448461_456240103?t=15m59s"],
+          titleLink: ["vk", "456240103?t=15m59s"],
         },
         {
           title: "10-13 Эпизод",
-          titleLink: ["vk", "video-208448461_456240321?t=2h52m40s"],
+          titleLink: ["vk", "456240321?t=2h52m40s"],
         },
         {
           title: "14-21 Эпизод",
-          titleLink: ["vk", "video-208448461_456240574?t=3h3m28s"],
+          titleLink: ["vk", "456240574?t=3h3m28s"],
         },
         {
           title: "22-30 Эпизод",
-          titleLink: ["vk", "video-208448461_456240599?t=11m50s"],
+          titleLink: ["vk", "456240599?t=11m50s"],
         },
         {
           title: "31-34 Эпизод",
-          titleLink: ["vk", "video-208448461_456240623?t=12m11s"],
+          titleLink: ["vk", "456240623?t=12m11s"],
         },
         {
           title: "35-38 Эпизод",
-          titleLink: ["vk", "video-208448461_456240623?t=2h23m8s"],
+          titleLink: ["vk", "456240623?t=2h23m8s"],
         },
         {
           title: "39-42 Эпизод",
-          titleLink: ["vk", "video-208448461_456240656?t=4h8m40s"],
+          titleLink: ["vk", "456240656?t=4h8m40s"],
         },
         {
           title: "43-47 Эпизод",
-          titleLink: ["vk", "video-208448461_456240671?t=2h56m20s"],
+          titleLink: ["vk", "456240671?t=2h56m20s"],
         },
       ],
     },
@@ -4533,47 +4533,47 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456239944?t=8h38m38s"],
+          titleLink: ["vk", "456239944?t=8h38m38s"],
         },
         {
           title: "5-9 Эпизод",
-          titleLink: ["vk", "video-208448461_456239954?t=2h11m56s"],
+          titleLink: ["vk", "456239954?t=2h11m56s"],
         },
         {
           title: "10-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456239959?t=4h50m29s"],
+          titleLink: ["vk", "456239959?t=4h50m29s"],
         },
         {
           title: "13-15 Эпизод",
-          titleLink: ["vk", "video-208448461_456239966?t=4h20m17s"],
+          titleLink: ["vk", "456239966?t=4h20m17s"],
         },
         {
           title: "16-20 Эпизод",
-          titleLink: ["vk", "video-208448461_456239972?t=5h2m38s"],
+          titleLink: ["vk", "456239972?t=5h2m38s"],
         },
         {
           title: "21-24 Эпизод",
-          titleLink: ["vk", "video-208448461_456239980?t=4h22m52s"],
+          titleLink: ["vk", "456239980?t=4h22m52s"],
         },
         {
           title: "25-28 Эпизод",
-          titleLink: ["vk", "video-208448461_456239987?t=2h16m45s"],
+          titleLink: ["vk", "456239987?t=2h16m45s"],
         },
         {
           title: "29-32 Эпизод",
-          titleLink: ["vk", "video-208448461_456239995?t=8h49m58s"],
+          titleLink: ["vk", "456239995?t=8h49m58s"],
         },
         {
           title: "33-36 Эпизод",
-          titleLink: ["vk", "video-208448461_456240009?t=4h14m56s"],
+          titleLink: ["vk", "456240009?t=4h14m56s"],
         },
         {
           title: "37-39 Эпизод",
-          titleLink: ["vk", "video-208448461_456240019?t=30m0s"],
+          titleLink: ["vk", "456240019?t=30m0s"],
         },
         {
           title: "40-49 Эпизод",
-          titleLink: ["vk", "video-208448461_456240028?t=18m24s"],
+          titleLink: ["vk", "456240028?t=18m24s"],
         },
       ],
     },
@@ -4584,11 +4584,11 @@ const seriesAnimePopups = {
       items: [
         {
           title: "0-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456240935?t=36m42s"],
+          titleLink: ["vk", "456240935?t=36m42s"],
         },
         {
           title: "5-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456240935?t=36m42s"],
+          titleLink: ["vk", "456240935?t=36m42s"],
         },
       ],
     },
@@ -4597,15 +4597,15 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456240948?t=12m46s"],
+          titleLink: ["vk", "456240948?t=12m46s"],
         },
         {
           title: "5-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456240964?t=28m48s"],
+          titleLink: ["vk", "456240964?t=28m48s"],
         },
         {
           title: "9-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456240964?t=2h37m45s"],
+          titleLink: ["vk", "456240964?t=2h37m45s"],
         },
       ],
     },
@@ -4616,15 +4616,15 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456241268?t=12m36s"],
+          titleLink: ["vk", "456241268?t=12m36s"],
         },
         {
           title: "5-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456241268?t=12m36s"],
+          titleLink: ["vk", "456241268?t=12m36s"],
         },
         {
           title: "9-16 Эпизод",
-          titleLink: ["vk", "video-208448461_456241289?t=4h21m45s"],
+          titleLink: ["vk", "456241289?t=4h21m45s"],
         },
         {
           title: "17-25 Эпизод",
@@ -4637,15 +4637,15 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456241310?t=11m29s"],
+          titleLink: ["vk", "456241310?t=11m29s"],
         },
         {
           title: "9-16 Эпизод",
-          titleLink: ["vk", "video-208448461_456241323?t=12m48s"],
+          titleLink: ["vk", "456241323?t=12m48s"],
         },
         {
           title: "17-25 Эпизод",
-          titleLink: ["vk", "video-208448461_456241334?t=13m0s"],
+          titleLink: ["vk", "456241334?t=13m0s"],
         },
       ],
     },
@@ -4657,23 +4657,23 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-2 Эпизод",
-          titleLink: ["vk", "video-208448461_456239317"],
+          titleLink: ["vk", "456239317"],
         },
         {
           title: "3-5 Эпизод",
-          titleLink: ["vk", "video-208448461_456239320"],
+          titleLink: ["vk", "456239320"],
         },
         {
           title: "5-6 Эпизод",
-          titleLink: ["vk", "video-208448461_456239321"],
+          titleLink: ["vk", "456239321"],
         },
         {
           title: "7-10 Эпизод",
-          titleLink: ["vk", "video-208448461_456239323?t=13m14s"],
+          titleLink: ["vk", "456239323?t=13m14s"],
         },
         {
           title: "11-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456239316?t=14m57s"],
+          titleLink: ["vk", "456239316?t=14m57s"],
         },
       ],
     },
@@ -4682,19 +4682,19 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-2 Эпизод",
-          titleLink: ["vk", "video-208448461_456239316?t=1h11m23s"],
+          titleLink: ["vk", "456239316?t=1h11m23s"],
         },
         {
           title: "3-6 Эпизод",
-          titleLink: ["vk", "video-208448461_456239325?t=13m18s"],
+          titleLink: ["vk", "456239325?t=13m18s"],
         },
         {
           title: "7-9 Эпизод",
-          titleLink: ["vk", "video-208448461_456239326"],
+          titleLink: ["vk", "456239326"],
         },
         {
           title: "10-13 Эпизод",
-          titleLink: ["vk", "video-208448461_456239327"],
+          titleLink: ["vk", "456239327"],
         },
       ],
     },
@@ -4703,11 +4703,11 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-6 Эпизод",
-          titleLink: ["vk", "video-208448461_456239852?t=10m47s"],
+          titleLink: ["vk", "456239852?t=10m47s"],
         },
         {
           title: "7-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456239881?t=17m19s"],
+          titleLink: ["vk", "456239881?t=17m19s"],
         },
       ],
     },
@@ -4718,19 +4718,19 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456240609"],
+          titleLink: ["vk", "456240609"],
         },
         {
           title: "5-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456240611?t=36m41s"],
+          titleLink: ["vk", "456240611?t=36m41s"],
         },
         {
           title: "9-10 Эпизод",
-          titleLink: ["vk", "video-208448461_456240798?t=13m1s"],
+          titleLink: ["vk", "456240798?t=13m1s"],
         },
         {
           title: "11-13 Эпизод",
-          titleLink: ["vk", "video-208448461_456240799?t=1m16s"],
+          titleLink: ["vk", "456240799?t=1m16s"],
         },
       ],
     },
@@ -4741,71 +4741,71 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456239203?t=9m54s"],
+          titleLink: ["vk", "456239203?t=9m54s"],
         },
         {
           title: "5-10 Эпизод",
-          titleLink: ["vk", "video-208448461_456239204?t=10m43s"],
+          titleLink: ["vk", "456239204?t=10m43s"],
         },
         {
           title: "11-14 Эпизод",
-          titleLink: ["vk", "video-208448461_456239205?t=13m5s"],
+          titleLink: ["vk", "456239205?t=13m5s"],
         },
         {
           title: "15-18 Эпизод",
-          titleLink: ["vk", "video-208448461_456239206?t=12m0s"],
+          titleLink: ["vk", "456239206?t=12m0s"],
         },
         {
           title: "19-22 Эпизод",
-          titleLink: ["vk", "video-208448461_456239207?t=13m24s"],
+          titleLink: ["vk", "456239207?t=13m24s"],
         },
         {
           title: "23-26 Эпизод",
-          titleLink: ["vk", "video-208448461_456239208?t=13m1s"],
+          titleLink: ["vk", "456239208?t=13m1s"],
         },
         {
           title: "27-30 Эпизод",
-          titleLink: ["vk", "video-208448461_456239209?t=14m25s"],
+          titleLink: ["vk", "456239209?t=14m25s"],
         },
         {
           title: "31-34 Эпизод",
-          titleLink: ["vk", "video-208448461_456239210?t=13m37s"],
+          titleLink: ["vk", "456239210?t=13m37s"],
         },
         {
           title: "35-38 Эпизод",
-          titleLink: ["vk", "video-208448461_456239211?t=14m8s"],
+          titleLink: ["vk", "456239211?t=14m8s"],
         },
         {
           title: "39-42 Эпизод",
-          titleLink: ["vk", "video-208448461_456239212?t=19m43s"],
+          titleLink: ["vk", "456239212?t=19m43s"],
         },
         {
           title: "43-46 Эпизод",
-          titleLink: ["vk", "video-208448461_456239213?t=14m31s"],
+          titleLink: ["vk", "456239213?t=14m31s"],
         },
         {
           title: "47-52 Эпизод",
-          titleLink: ["vk", "video-208448461_456239214?t=11m47s"],
+          titleLink: ["vk", "456239214?t=11m47s"],
         },
         {
           title: "53-56 Эпизод",
-          titleLink: ["vk", "video-208448461_456239215?t=12m26s"],
+          titleLink: ["vk", "456239215?t=12m26s"],
         },
         {
           title: "57-61 Эпизод",
-          titleLink: ["vk", "video-208448461_456239216?t=16m9s"],
+          titleLink: ["vk", "456239216?t=16m9s"],
         },
         {
           title: "62-66 Эпизод",
-          titleLink: ["vk", "video-208448461_456239217?t=10m38s"],
+          titleLink: ["vk", "456239217?t=10m38s"],
         },
         {
           title: "67-73 Эпизод",
-          titleLink: ["vk", "video-208448461_456239218?t=12m36s"],
+          titleLink: ["vk", "456239218?t=12m36s"],
         },
         {
           title: "73-74 Эпизод",
-          titleLink: ["vk", "video-208448461_456239219"],
+          titleLink: ["vk", "456239219"],
         },
       ],
     },
@@ -4816,11 +4816,11 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456241634?t=15m2s"],
+          titleLink: ["vk", "456241634?t=15m2s"],
         },
         {
           title: "9-13 Эпизод",
-          titleLink: ["vk", "video-208448461_456241643?t=4h17m20s"],
+          titleLink: ["vk", "456241643?t=4h17m20s"],
         },
       ],
     },
@@ -4829,19 +4829,19 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-5 Эпизод",
-          titleLink: ["vk", "video-208448461_456241651?t=12m45s"],
+          titleLink: ["vk", "456241651?t=12m45s"],
         },
         {
           title: "6-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456241656?t=4h22m0s"],
+          titleLink: ["vk", "456241656?t=4h22m0s"],
         },
         {
           title: "13-18 Эпизод",
-          titleLink: ["vk", "video-208448461_456241698?t=2h39m12s"],
+          titleLink: ["vk", "456241698?t=2h39m12s"],
         },
         {
           title: "19-25 Эпизод",
-          titleLink: ["vk", "video-208448461_456241701?t=4h9m30s"],
+          titleLink: ["vk", "456241701?t=4h9m30s"],
         },
       ],
     },
@@ -4851,15 +4851,15 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-11 Эпизод",
-          titleLink: ["vk", "video-208448461_456241709?t=13m37s"],
+          titleLink: ["vk", "456241709?t=13m37s"],
         },
         {
           title: "12-18 Эпизод",
-          titleLink: ["vk", "video-208448461_456241713?t=2h26m58s"],
+          titleLink: ["vk", "456241713?t=2h26m58s"],
         },
         {
           title: "19-25 Эпизод",
-          titleLink: ["vk", "video-208448461_456241729?t=2h20m6s"],
+          titleLink: ["vk", "456241729?t=2h20m6s"],
         },
       ],
     },
@@ -4872,15 +4872,15 @@ const seriesAnimePopups = {
         },
         {
           title: "5-7 Эпизод",
-          titleLink: ["vk", "video-208448461_456241742?t=4h27m18s"],
+          titleLink: ["vk", "456241742?t=4h27m18s"],
         },
         {
           title: "8-14 Эпизод",
-          titleLink: ["vk", "video-208448461_456241744?t=12m24s"],
+          titleLink: ["vk", "456241744?t=12m24s"],
         },
         {
           title: "15-25 Эпизод",
-          titleLink: ["vk", "video-208448461_456241760?t=15m42s"],
+          titleLink: ["vk", "456241760?t=15m42s"],
         },
       ],
     },
@@ -4889,15 +4889,15 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-11 Эпизод",
-          titleLink: ["vk", "video-208448461_456241778?t=21m36s"],
+          titleLink: ["vk", "456241778?t=21m36s"],
         },
         {
           title: "12-23 Эпизод",
-          titleLink: ["vk", "video-208448461_456241785?t=11m22s"],
+          titleLink: ["vk", "456241785?t=11m22s"],
         },
         {
           title: "24-25 Эпизод",
-          titleLink: ["vk", "video-208448461_456241790?t=10m50s"],
+          titleLink: ["vk", "456241790?t=10m50s"],
         },
       ],
     },
@@ -4906,11 +4906,11 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-10 Эпизод",
-          titleLink: ["vk", "video-208448461_456241790?t=1h1m49s"],
+          titleLink: ["vk", "456241790?t=1h1m49s"],
         },
         {
           title: "11-25 Эпизод",
-          titleLink: ["vk", "video-208448461_456241796?t=14m8s"],
+          titleLink: ["vk", "456241796?t=14m8s"],
         },
       ],
     },
@@ -4920,15 +4920,15 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456241822?t=14m51s"],
+          titleLink: ["vk", "456241822?t=14m51s"],
         },
         {
           title: "9-17 Эпизод",
-          titleLink: ["vk", "video-208448461_456241831?t=12m50s"],
+          titleLink: ["vk", "456241831?t=12m50s"],
         },
         {
           title: "18-21 Эпизод",
-          titleLink: ["vk", "video-208448461_456241833?t=2h12m4s"],
+          titleLink: ["vk", "456241833?t=2h12m4s"],
         },
       ],
     },
@@ -4937,11 +4937,11 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-11 Эпизод",
-          titleLink: ["vk", "video-208448461_456241836?t=15m47s"],
+          titleLink: ["vk", "456241836?t=15m47s"],
         },
         {
           title: "Больше",
-          titleLink: ["vk", "video-208448461_456241837?t=15m57s"],
+          titleLink: ["vk", "456241837?t=15m57s"],
         },
       ],
     },
@@ -4952,23 +4952,23 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-3 Эпизод",
-          titleLink: ["vk", "video-208448461_456241179?t=14m28s"],
+          titleLink: ["vk", "456241179?t=14m28s"],
         },
         {
           title: "4-5 Эпизод",
-          titleLink: ["vk", "video-208448461_456241179?t=2h3m23s"],
+          titleLink: ["vk", "456241179?t=2h3m23s"],
         },
         {
           title: "5-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456241180?t=46s"],
+          titleLink: ["vk", "456241180?t=46s"],
         },
         {
           title: "9-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456241180?t=1h35m35s"],
+          titleLink: ["vk", "456241180?t=1h35m35s"],
         },
         {
           title: "13-16 Эпизод",
-          titleLink: ["vk", "video-208448461_456241180?t=3h43m15s"],
+          titleLink: ["vk", "456241180?t=3h43m15s"],
         },
         {
           title: "17-37 Эпизод",
@@ -4976,11 +4976,11 @@ const seriesAnimePopups = {
         },
         {
           title: "38-41 Эпизод",
-          titleLink: ["vk", "video-208448461_456241194?t=13m43s"],
+          titleLink: ["vk", "456241194?t=13m43s"],
         },
         {
           title: "42-47 Эпизод",
-          titleLink: ["vk", "video-208448461_456241194?t=2h25m19s"],
+          titleLink: ["vk", "456241194?t=2h25m19s"],
         },
       ],
     },
@@ -4991,91 +4991,91 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-6 Эпизод",
-          titleLink: ["vk", "video-208448461_456240583"],
+          titleLink: ["vk", "456240583"],
         },
         {
           title: "6-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456240584"],
+          titleLink: ["vk", "456240584"],
         },
         {
           title: "9-19 Эпизод",
-          titleLink: ["vk", "video-208448461_456240585"],
+          titleLink: ["vk", "456240585"],
         },
         {
           title: "20-27 Эпизод",
-          titleLink: ["vk", "video-208448461_456241006"],
+          titleLink: ["vk", "456241006"],
         },
         {
           title: "28-34 Эпизод",
-          titleLink: ["vk", "video-208448461_456240590"],
+          titleLink: ["vk", "456240590"],
         },
         {
           title: "35-40 Эпизод",
-          titleLink: ["vk", "video-208448461_456241009"],
+          titleLink: ["vk", "456241009"],
         },
         {
           title: "41-45 Эпизод",
-          titleLink: ["vk", "video-208448461_456241010"],
+          titleLink: ["vk", "456241010"],
         },
         {
           title: "46-54 Эпизод",
-          titleLink: ["vk", "video-208448461_456241011"],
+          titleLink: ["vk", "456241011"],
         },
         {
           title: "55-56 Эпизод",
-          titleLink: ["vk", "video-208448461_456241012"],
+          titleLink: ["vk", "456241012"],
         },
         {
           title: "56-59 Эпизод",
-          titleLink: ["vk", "video-208448461_456241041"],
+          titleLink: ["vk", "456241041"],
         },
         {
           title: "60-61 Эпизод",
-          titleLink: ["vk", "video-208448461_456241013"],
+          titleLink: ["vk", "456241013"],
         },
         {
           title: "62-63 Эпизод",
-          titleLink: ["vk", "video-208448461_456241014"],
+          titleLink: ["vk", "456241014"],
         },
         {
           title: "64-81 Эпизод",
-          titleLink: ["vk", "video-208448461_456241015"],
+          titleLink: ["vk", "456241015"],
         },
         {
           title: "82-85 Эпизод",
-          titleLink: ["vk", "video-208448461_456241016"],
+          titleLink: ["vk", "456241016"],
         },
         {
           title: "85-88 Эпизод",
-          titleLink: ["vk", "video-208448461_456241017"],
+          titleLink: ["vk", "456241017"],
         },
         {
           title: "89-93 Эпизод",
-          titleLink: ["vk", "video-208448461_456241018"],
+          titleLink: ["vk", "456241018"],
         },
         {
           title: "93-100 Эпизод",
-          titleLink: ["vk", "video-208448461_456241019"],
+          titleLink: ["vk", "456241019"],
         },
         {
           title: "101-112 Эпизод",
-          titleLink: ["vk", "video-208448461_456241020"],
+          titleLink: ["vk", "456241020"],
         },
         {
           title: "113-121 Эпизод",
-          titleLink: ["vk", "video-208448461_456241021"],
+          titleLink: ["vk", "456241021"],
         },
         {
           title: "122-127 Эпизод",
-          titleLink: ["vk", "video-208448461_456241039"],
+          titleLink: ["vk", "456241039"],
         },
         {
           title: "128-134 Эпизод",
-          titleLink: ["vk", "video-208448461_456241023"],
+          titleLink: ["vk", "456241023"],
         },
         {
           title: "134-135 Эпизод",
-          titleLink: ["vk", "video-208448461_456241024?t=2m2s"],
+          titleLink: ["vk", "456241024?t=2m2s"],
         },
         {
           title: "136-219 Эпизод",
@@ -5083,7 +5083,7 @@ const seriesAnimePopups = {
         },
         {
           title: "220 Эпизод",
-          titleLink: ["vk", "video-208448461_456241024?t=31m50s"],
+          titleLink: ["vk", "456241024?t=31m50s"],
         },
       ],
     },
@@ -5092,35 +5092,35 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456241024?t=49m3s"],
+          titleLink: ["vk", "456241024?t=49m3s"],
         },
         {
           title: "5-10 Эпизод",
-          titleLink: ["vk", "video-208448461_456241025"],
+          titleLink: ["vk", "456241025"],
         },
         {
           title: "11-15 Эпизод",
-          titleLink: ["vk", "video-208448461_456241026"],
+          titleLink: ["vk", "456241026"],
         },
         {
           title: "16-20 Эпизод",
-          titleLink: ["vk", "video-208448461_456241040"],
+          titleLink: ["vk", "456241040"],
         },
         {
           title: "21-33 Эпизод",
-          titleLink: ["vk", "video-208448461_456241042"],
+          titleLink: ["vk", "456241042"],
         },
         {
           title: "34-41 Эпизод",
-          titleLink: ["vk", "video-208448461_456241044"],
+          titleLink: ["vk", "456241044"],
         },
         {
           title: "42-46 Эпизод",
-          titleLink: ["vk", "video-208448461_456241045"],
+          titleLink: ["vk", "456241045"],
         },
         {
           title: "47-52 Эпизод",
-          titleLink: ["vk", "video-208448461_456241046"],
+          titleLink: ["vk", "456241046"],
         },
         {
           title: "53-57 Эпизод",
@@ -5128,23 +5128,23 @@ const seriesAnimePopups = {
         },
         {
           title: "58 Эпизод",
-          titleLink: ["vk", "video-208448461_456241047"],
+          titleLink: ["vk", "456241047"],
         },
         {
           title: "58-62 Эпизод",
-          titleLink: ["vk", "video-208448461_456241048"],
+          titleLink: ["vk", "456241048"],
         },
         {
           title: "62 Эпизод",
-          titleLink: ["vk", "video-208448461_456241049"],
+          titleLink: ["vk", "456241049"],
         },
         {
           title: "63-76 Эпизод",
-          titleLink: ["vk", "video-208448461_456241050"],
+          titleLink: ["vk", "456241050"],
         },
         {
           title: "76-88 Эпизод",
-          titleLink: ["vk", "video-208448461_456241053"],
+          titleLink: ["vk", "456241053"],
         },
         {
           title: "89-116 Эпизод",
@@ -5152,19 +5152,19 @@ const seriesAnimePopups = {
         },
         {
           title: "117-119 Эпизод",
-          titleLink: ["vk", "video-208448461_456241056"],
+          titleLink: ["vk", "456241056"],
         },
         {
           title: "120-122 Эпизод",
-          titleLink: ["vk", "video-208448461_456241057"],
+          titleLink: ["vk", "456241057"],
         },
         {
           title: "123-128 Эпизод",
-          titleLink: ["vk", "video-208448461_456241058"],
+          titleLink: ["vk", "456241058"],
         },
         {
           title: "129-133 Эпизод",
-          titleLink: ["vk", "video-208448461_456241059"],
+          titleLink: ["vk", "456241059"],
         },
         {
           title: "134-218 Эпизод",
@@ -5172,99 +5172,99 @@ const seriesAnimePopups = {
         },
         {
           title: "219-222 Эпизод",
-          titleLink: ["vk", "video-208448461_456241060"],
+          titleLink: ["vk", "456241060"],
         },
         {
           title: "223-247 Эпизод",
-          titleLink: ["vk", "video-208448461_456241061"],
+          titleLink: ["vk", "456241061"],
         },
         {
           title: "248 Эпизод",
-          titleLink: ["vk", "video-208448461_456241062"],
+          titleLink: ["vk", "456241062"],
         },
         {
           title: "248-255 Эпизод",
-          titleLink: ["vk", "video-208448461_456241489"],
+          titleLink: ["vk", "456241489"],
         },
         {
           title: "256-265 Эпизод",
-          titleLink: ["vk", "video-208448461_456241064"],
+          titleLink: ["vk", "456241064"],
         },
         {
           title: "266-272 Эпизод",
-          titleLink: ["vk", "video-208448461_456241065"],
+          titleLink: ["vk", "456241065"],
         },
         {
           title: "273-278 Эпизод",
-          titleLink: ["vk", "video-208448461_456241066"],
+          titleLink: ["vk", "456241066"],
         },
         {
           title: "279-322 Эпизод",
-          titleLink: ["vk", "video-208448461_456241071"],
+          titleLink: ["vk", "456241071"],
         },
         {
           title: "323-339 Эпизод",
-          titleLink: ["vk", "video-208448461_456241073"],
+          titleLink: ["vk", "456241073"],
         },
         {
           title: "340-344 Эпизод",
-          titleLink: ["vk", "video-208448461_456241074"],
+          titleLink: ["vk", "456241074"],
         },
         {
           title: "345-347 Эпизод",
-          titleLink: ["vk", "video-208448461_456241075"],
+          titleLink: ["vk", "456241075"],
         },
         {
           title: "348-358 Эпизод",
-          titleLink: ["vk", "video-208448461_456241076"],
+          titleLink: ["vk", "456241076"],
         },
         {
           title: "359-366 Эпизод",
-          titleLink: ["vk", "video-208448461_456241077"],
+          titleLink: ["vk", "456241077"],
         },
         {
           title: "367-373 Эпизод",
-          titleLink: ["vk", "video-208448461_456241083"],
+          titleLink: ["vk", "456241083"],
         },
         {
           title: "374-383 Эпизод",
-          titleLink: ["vk", "video-208448461_456241084"],
+          titleLink: ["vk", "456241084"],
         },
         {
           title: "384-393 Эпизод",
-          titleLink: ["vk", "video-208448461_456241085"],
+          titleLink: ["vk", "456241085"],
         },
         {
           title: "394-427 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/5ce91c19-9ae4-4ed7-b48e-7fec6803002e?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/5ce91c19-9ae4-4ed7-b48e-7fec6803002e"],
         },
         {
           title: "428-432 Эпизод",
-          titleLink: ["vk", "video-208448461_456241087"],
+          titleLink: ["vk", "456241087"],
         },
         {
           title: "433-441 Эпизод",
-          titleLink: ["vk", "video-208448461_456241088"],
+          titleLink: ["vk", "456241088"],
         },
         {
           title: "442-452 Эпизод",
-          titleLink: ["vk", "video-208448461_456241089"],
+          titleLink: ["vk", "456241089"],
         },
         {
           title: "457-462 Эпизод",
-          titleLink: ["vk", "video-208448461_456241091"],
+          titleLink: ["vk", "456241091"],
         },
         {
           title: "462-464 Эпизод",
-          titleLink: ["vk", "video-208448461_456240999"],
+          titleLink: ["vk", "456240999"],
         },
         {
           title: "465-469 Эпизод",
-          titleLink: ["vk", "video-208448461_456241000"],
+          titleLink: ["vk", "456241000"],
         },
         {
           title: "470-479 Эпизод",
-          titleLink: ["vk", "video-208448461_456241092"],
+          titleLink: ["vk", "456241092"],
         },
         {
           title: "480-499 Эпизод",
@@ -5272,19 +5272,19 @@ const seriesAnimePopups = {
         },
         {
           title: "Последний",
-          titleLink: ["vk", "video-208448461_456241093?t=2m5s"],
+          titleLink: ["vk", "456241093?t=2m5s"],
         },
         {
           title: "500 Эпизод",
-          titleLink: ["vk", "video-208448461_456241093?t=2h15m15s"],
+          titleLink: ["vk", "456241093?t=2h15m15s"],
         },
         {
           title: "День, когда Наруто стал хокаге",
-          titleLink: ["vk", "video-208448461_456241093?t=2h42m38s"],
+          titleLink: ["vk", "456241093?t=2h42m38s"],
         },
         {
           title: "Боруто",
-          titleLink: ["vk", "video-208448461_456239280"],
+          titleLink: ["vk", "456239280"],
         },
       ],
     },
@@ -5295,27 +5295,27 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456241392"],
+          titleLink: ["vk", "456241392"],
         },
         {
           title: "5-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456241393"],
+          titleLink: ["vk", "456241393"],
         },
         {
           title: "9-13 Эпизод",
-          titleLink: ["vk", "video-208448461_456241394"],
+          titleLink: ["vk", "456241394"],
         },
         {
           title: "14-17 Эпизод",
-          titleLink: ["vk", "video-208448461_456241395"],
+          titleLink: ["vk", "456241395"],
         },
         {
           title: "18-21 Эпизод",
-          titleLink: ["vk", "video-208448461_456241398"],
+          titleLink: ["vk", "456241398"],
         },
         {
           title: "22-24 Эпизод",
-          titleLink: ["vk", "video-208448461_456241399"],
+          titleLink: ["vk", "456241399"],
         },
       ],
     },
@@ -5326,23 +5326,23 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456240726?t=5h57m50s"],
+          titleLink: ["vk", "456240726?t=5h57m50s"],
         },
         {
           title: "5-9 Эпизод",
-          titleLink: ["vk", "video-208448461_456240726?t=7h54m"],
+          titleLink: ["vk", "456240726?t=7h54m"],
         },
         {
           title: "10-18 Эпизод",
-          titleLink: ["vk", "video-208448461_456240739?t=15m24s"],
+          titleLink: ["vk", "456240739?t=15m24s"],
         },
         {
           title: "19-22 Эпизод",
-          titleLink: ["vk", "video-208448461_456240748?t=11m20s"],
+          titleLink: ["vk", "456240748?t=11m20s"],
         },
         {
           title: "23-25 Эпизод",
-          titleLink: ["vk", "video-208448461_456240748?t=2h6m50s"],
+          titleLink: ["vk", "456240748?t=2h6m50s"],
         },
       ],
     },
@@ -5351,15 +5351,15 @@ const seriesAnimePopups = {
       items: [
         {
           title: "Право победителя",
-          titleLink: ["vk", "video-208448461_456240826?t=11m0s"],
+          titleLink: ["vk", "456240826?t=11m0s"],
         },
         {
           title: "Небо и земля",
-          titleLink: ["vk", "video-208448461_456240826?t=1h29m32s"],
+          titleLink: ["vk", "456240826?t=1h29m32s"],
         },
         {
           title: "За чертой",
-          titleLink: ["vk", "video-208448461_456240834?t=9m43s"],
+          titleLink: ["vk", "456240834?t=9m43s"],
         },
       ],
     },
@@ -5368,11 +5368,11 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-5 Эпизод",
-          titleLink: ["vk", "video-208448461_456240834?t=1h23m31s"],
+          titleLink: ["vk", "456240834?t=1h23m31s"],
         },
         {
           title: "6-13 Эпизод",
-          titleLink: ["vk", "video-208448461_456240852?t=2h4m21s"],
+          titleLink: ["vk", "456240852?t=2h4m21s"],
         },
       ],
     },
@@ -5381,19 +5381,19 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456240862?t=11m12s"],
+          titleLink: ["vk", "456240862?t=11m12s"],
         },
         {
           title: "5-9 Эпизод",
-          titleLink: ["vk", "video-208448461_456240862?t=2h35m20s"],
+          titleLink: ["vk", "456240862?t=2h35m20s"],
         },
         {
           title: "10 Эпизод",
-          titleLink: ["vk", "video-208448461_456240888?t=12m29s"],
+          titleLink: ["vk", "456240888?t=12m29s"],
         },
         {
           title: "10-13 Эпизод",
-          titleLink: ["vk", "video-208448461_456240889?t=1m22s"],
+          titleLink: ["vk", "456240889?t=1m22s"],
         },
       ],
     },
@@ -5402,15 +5402,15 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456240889?t=1h41m0s"],
+          titleLink: ["vk", "456240889?t=1h41m0s"],
         },
         {
           title: "5-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456240907?t=18m5s"],
+          titleLink: ["vk", "456240907?t=18m5s"],
         },
         {
           title: "9-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456240907?t=2h28m0s"],
+          titleLink: ["vk", "456240907?t=2h28m0s"],
         },
       ],
     },
@@ -5419,7 +5419,7 @@ const seriesAnimePopups = {
       items: [
         {
           title: "Легенды и мифы в аниме Soukyuu no Fafner",
-          titleLink: ["vk", "video-208448461_456240935?t=11m21s"],
+          titleLink: ["vk", "456240935?t=11m21s"],
         },
       ],
     },
@@ -5473,7 +5473,7 @@ const seriesAnimePopups = {
       nameEn: "Steel Ball Run || JoJo no Kimyou na Bouken JoJo's Bizarre Adventure",
       titleStatus: "Просмотрено: 1 Эпизод",
       donutTerms: "donut-lvl-3",
-      titleLink: ["vk", "video-208448461_456241824?t=2h50m23s"],
+      titleLink: ["vk", "456241824?t=2h50m23s"],
       id: "Series-Anime_JoJo-Bizarre-Adventure-7",
       posterImage: "https://static.tildacdn.com/tild6336-6637-4533-b963-663132613563/img.webp",
       cardType: "series-Anime",
@@ -5486,19 +5486,19 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-9 Эпизод",
-          titleLink: ["vk", "video-208448461_456239089?t=13m6s"],
+          titleLink: ["vk", "456239089?t=13m6s"],
         },
         {
           title: "10-13 Эпизод",
-          titleLink: ["vk", "video-208448461_456239090"],
+          titleLink: ["vk", "456239090"],
         },
         {
           title: "14-18 Эпизод",
-          titleLink: ["vk", "video-208448461_456239091"],
+          titleLink: ["vk", "456239091"],
         },
         {
           title: "18-26 Эпизод",
-          titleLink: ["vk", "video-208448461_456239092"],
+          titleLink: ["vk", "456239092"],
         },
       ],
     },
@@ -5509,19 +5509,19 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-9 Эпизод",
-          titleLink: ["vk", "video-208448461_456239097"],
+          titleLink: ["vk", "456239097"],
         },
         {
           title: "10-17 Эпизод",
-          titleLink: ["vk", "video-208448461_456239098?t=11m31s"],
+          titleLink: ["vk", "456239098?t=11m31s"],
         },
         {
           title: "18 Эпизод",
-          titleLink: ["vk", "video-208448461_456239099?t=14m47s"],
+          titleLink: ["vk", "456239099?t=14m47s"],
         },
         {
           title: "18-24 Эпизод",
-          titleLink: ["vk", "video-208448461_456239100"],
+          titleLink: ["vk", "456239100"],
         },
       ],
     },
@@ -5530,19 +5530,19 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-7 Эпизод",
-          titleLink: ["vk", "video-208448461_456239102"],
+          titleLink: ["vk", "456239102"],
         },
         {
           title: "8-11 Эпизод",
-          titleLink: ["vk", "video-208448461_456239103?t=5m9s"],
+          titleLink: ["vk", "456239103?t=5m9s"],
         },
         {
           title: "12-18 Эпизод",
-          titleLink: ["vk", "video-208448461_456239104?t=12m0s"],
+          titleLink: ["vk", "456239104?t=12m0s"],
         },
         {
           title: "19-24 Эпизод",
-          titleLink: ["vk", "video-208448461_456239105?t=12m58s"],
+          titleLink: ["vk", "456239105?t=12m58s"],
         },
       ],
     },
@@ -5553,35 +5553,35 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-6 Эпизод",
-          titleLink: ["vk", "video-208448461_456239108?t=13m0s"],
+          titleLink: ["vk", "456239108?t=13m0s"],
         },
         {
           title: "7-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456239109?t=11m20s"],
+          titleLink: ["vk", "456239109?t=11m20s"],
         },
         {
           title: "9-10 Эпизод",
-          titleLink: ["vk", "video-208448461_456239110?t=12m9s"],
+          titleLink: ["vk", "456239110?t=12m9s"],
         },
         {
           title: "11-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456239111?t=13m2s"],
+          titleLink: ["vk", "456239111?t=13m2s"],
         },
         {
           title: "16-22 Эпизод",
-          titleLink: ["vk", "video-208448461_456239112?t=11m59s"],
+          titleLink: ["vk", "456239112?t=11m59s"],
         },
         {
           title: "23-28 Эпизод",
-          titleLink: ["vk", "video-208448461_456239113?t=14m1s"],
+          titleLink: ["vk", "456239113?t=14m1s"],
         },
         {
           title: "29-35 Эпизод",
-          titleLink: ["vk", "video-208448461_456239114?t=12m9s"],
+          titleLink: ["vk", "456239114?t=12m9s"],
         },
         {
           title: "35-39 Эпизод",
-          titleLink: ["vk", "video-208448461_456239115?t=14m10s"],
+          titleLink: ["vk", "456239115?t=14m10s"],
         },
       ],
     },
@@ -5592,35 +5592,35 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-7 Эпизод",
-          titleLink: ["vk", "video-208448461_456239116?t=15m18s"],
+          titleLink: ["vk", "456239116?t=15m18s"],
         },
         {
           title: "8-13 Эпизод",
-          titleLink: ["vk", "video-208448461_456239117?t=12m39s"],
+          titleLink: ["vk", "456239117?t=12m39s"],
         },
         {
           title: "14-17 Эпизод",
-          titleLink: ["vk", "video-208448461_456239118?t=13m31s"],
+          titleLink: ["vk", "456239118?t=13m31s"],
         },
         {
           title: "18-23 Эпизод",
-          titleLink: ["vk", "video-208448461_456239119?t=13m19s"],
+          titleLink: ["vk", "456239119?t=13m19s"],
         },
         {
           title: "24-29 Эпизод",
-          titleLink: ["vk", "video-208448461_456239120?t=13m47s"],
+          titleLink: ["vk", "456239120?t=13m47s"],
         },
         {
           title: "30-32 Эпизод",
-          titleLink: ["vk", "video-208448461_456239121"],
+          titleLink: ["vk", "456239121"],
         },
         {
           title: "33 Эпизод",
-          titleLink: ["vk", "video-208448461_456239122"],
+          titleLink: ["vk", "456239122"],
         },
         {
           title: "34-39 Эпизод",
-          titleLink: ["vk", "video-208448461_456239123?t=3m0s"],
+          titleLink: ["vk", "456239123?t=3m0s"],
         },
       ],
     },
@@ -5631,27 +5631,27 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456239720"],
+          titleLink: ["vk", "456239720"],
         },
         {
           title: "5-9 Эпизод",
-          titleLink: ["vk", "video-208448461_456239725?t=2h19m0s"],
+          titleLink: ["vk", "456239725?t=2h19m0s"],
         },
         {
           title: "10-16 Эпизод",
-          titleLink: ["vk", "video-208448461_456239740?t=3h47m5s"],
+          titleLink: ["vk", "456239740?t=3h47m5s"],
         },
         {
           title: "17-24 Эпизод",
-          titleLink: ["vk", "video-208448461_456239749?t=6m59s"],
+          titleLink: ["vk", "456239749?t=6m59s"],
         },
         {
           title: "25-32 Эпизод",
-          titleLink: ["vk", "video-208448461_456239757?t=2m32s"],
+          titleLink: ["vk", "456239757?t=2m32s"],
         },
         {
           title: "33-38 Эпизод",
-          titleLink: ["vk", "video-208448461_456239777?t=3m41s"],
+          titleLink: ["vk", "456239777?t=3m41s"],
         },
       ],
     },
@@ -5662,7 +5662,7 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1 Эпизод",
-          titleLink: ["vk", "video-208448461_456241824?t=2h50m23s"],
+          titleLink: ["vk", "456241824?t=2h50m23s"],
         },
       ],
     },
@@ -5673,7 +5673,7 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456241426?t=1h54m20s"],
+          titleLink: ["vk", "456241426?t=1h54m20s"],
         },
       ],
     },
@@ -5682,7 +5682,7 @@ const seriesAnimePopups = {
       items: [
         {
           title: "?-? Эпизод",
-          titleLink: ["vk", "video-208448461_456241504?t=11m0s"],
+          titleLink: ["vk", "456241504?t=11m0s"],
         },
       ],
     },
@@ -5702,43 +5702,43 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1 Эпизод",
-          titleLink: ["vk", "video-208448461_456239411"],
+          titleLink: ["vk", "456239411"],
         },
         {
           title: "2 Эпизод",
-          titleLink: ["vk", "video-208448461_456239412"],
+          titleLink: ["vk", "456239412"],
         },
         {
           title: "3 Эпизод",
-          titleLink: ["vk", "video-208448461_456239413"],
+          titleLink: ["vk", "456239413"],
         },
         {
           title: "4 Эпизод",
-          titleLink: ["vk", "video-208448461_456239414"],
+          titleLink: ["vk", "456239414"],
         },
         {
           title: "5 Эпизод",
-          titleLink: ["vk", "video-208448461_456239415"],
+          titleLink: ["vk", "456239415"],
         },
         {
           title: "6 Эпизод",
-          titleLink: ["vk", "video-208448461_456239416"],
+          titleLink: ["vk", "456239416"],
         },
         {
           title: "7 Эпизод",
-          titleLink: ["vk", "video-208448461_456239417"],
+          titleLink: ["vk", "456239417"],
         },
         {
           title: "8 Эпизод",
-          titleLink: ["vk", "video-208448461_456239418"],
+          titleLink: ["vk", "456239418"],
         },
         {
           title: "9-10 Эпизод",
-          titleLink: ["vk", "video-208448461_456239419"],
+          titleLink: ["vk", "456239419"],
         },
         {
           title: "11 Эпизод",
-          titleLink: ["vk", "video-208448461_456239425"],
+          titleLink: ["vk", "456239425"],
         },
       ],
     },
@@ -5749,19 +5749,19 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-3 Эпизод",
-          titleLink: ["vk", "video-208448461_456240766"],
+          titleLink: ["vk", "456240766"],
         },
         {
           title: "4-6 Эпизод",
-          titleLink: ["vk", "video-208448461_456240767"],
+          titleLink: ["vk", "456240767"],
         },
         {
           title: "7-9 Эпизод",
-          titleLink: ["vk", "video-208448461_456240768"],
+          titleLink: ["vk", "456240768"],
         },
         {
           title: "10-13 Эпизод",
-          titleLink: ["vk", "video-208448461_456240769"],
+          titleLink: ["vk", "456240769"],
         },
       ],
     },
@@ -5772,15 +5772,15 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456241702?t=15m28s"],
+          titleLink: ["vk", "456241702?t=15m28s"],
         },
         {
           title: "5-16 Эпизод",
-          titleLink: ["vk", "video-208448461_456241707?t=13m26s"],
+          titleLink: ["vk", "456241707?t=13m26s"],
         },
         {
           title: "17-25 Эпизод",
-          titleLink: ["vk", "video-208448461_456241711?t=2h16m45s"],
+          titleLink: ["vk", "456241711?t=2h16m45s"],
         },
       ],
     },
@@ -5791,15 +5791,15 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/95e60988-b156-469c-86e0-26508fc84700?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/95e60988-b156-469c-86e0-26508fc84700"],
         },
         {
           title: "2-6 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/d5620393-be9d-4ade-8f7b-d3b74e39e0fc?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/d5620393-be9d-4ade-8f7b-d3b74e39e0fc"],
         },
         {
           title: "7-12 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/eeba6ea1-138d-4e73-9e93-560836bdadb2?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/eeba6ea1-138d-4e73-9e93-560836bdadb2"],
         },
       ],
     },
@@ -5810,11 +5810,11 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-2 Эпизод",
-          titleLink: ["vk", "video-208448461_456239754?t=4h54m30s"],
+          titleLink: ["vk", "456239754?t=4h54m30s"],
         },
         {
           title: "3-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456239783?t=1s"],
+          titleLink: ["vk", "456239783?t=1s"],
         },
       ],
     },
@@ -5825,11 +5825,11 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-2 Эпизод",
-          titleLink: ["vk", "video-208448461_456240634"],
+          titleLink: ["vk", "456240634"],
         },
         {
           title: "3-6 Эпизод",
-          titleLink: ["vk", "video-208448461_456240637"],
+          titleLink: ["vk", "456240637"],
         },
         {
           title: "7-9 Эпизод",
@@ -5837,11 +5837,11 @@ const seriesAnimePopups = {
         },
         {
           title: "10 Эпизод",
-          titleLink: ["vk", "video-208448461_456240641"],
+          titleLink: ["vk", "456240641"],
         },
         {
           title: "11-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456240642"],
+          titleLink: ["vk", "456240642"],
         },
       ],
     },
@@ -5852,31 +5852,31 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456241500?t=12m0s"],
+          titleLink: ["vk", "456241500?t=12m0s"],
         },
         {
           title: "9-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456241507?t=5h12m2s"],
+          titleLink: ["vk", "456241507?t=5h12m2s"],
         },
         {
           title: "13-23 Эпизод",
-          titleLink: ["vk", "video-208448461_456241514?t=3h30m27s"],
+          titleLink: ["vk", "456241514?t=3h30m27s"],
         },
         {
           title: "24-31 Эпизод",
-          titleLink: ["vk", "video-208448461_456241531?t=14m30s"],
+          titleLink: ["vk", "456241531?t=14m30s"],
         },
         {
           title: "32-39 Эпизод",
-          titleLink: ["vk", "video-208448461_456241540?t=11m15s"],
+          titleLink: ["vk", "456241540?t=11m15s"],
         },
         {
           title: "40-45 Эпизод",
-          titleLink: ["vk", "video-208448461_456241550?t=6m29s"],
+          titleLink: ["vk", "456241550?t=6m29s"],
         },
         {
           title: "46-52 Эпизод",
-          titleLink: ["vk", "video-208448461_456241555?t=1h37m8s"],
+          titleLink: ["vk", "456241555?t=1h37m8s"],
         },
       ],
     },
@@ -5887,15 +5887,15 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456241739?t=14m0s"],
+          titleLink: ["vk", "456241739?t=14m0s"],
         },
         {
           title: "5-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456241740?t=12m1s"],
+          titleLink: ["vk", "456241740?t=12m1s"],
         },
         {
           title: "9-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456241794?t=1h56m32s"],
+          titleLink: ["vk", "456241794?t=1h56m32s"],
         },
       ],
     },
@@ -5906,31 +5906,31 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-2 Эпизод",
-          titleLink: ["vk", "video-208448461_456239141"],
+          titleLink: ["vk", "456239141"],
         },
         {
           title: "3-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456239142"],
+          titleLink: ["vk", "456239142"],
         },
         {
           title: "5-9 Эпизод",
-          titleLink: ["vk", "video-208448461_456239140"],
+          titleLink: ["vk", "456239140"],
         },
         {
           title: "10-13 Эпизод",
-          titleLink: ["vk", "video-208448461_456239143"],
+          titleLink: ["vk", "456239143"],
         },
         {
           title: "14-15 Эпизод",
-          titleLink: ["vk", "video-208448461_456239146"],
+          titleLink: ["vk", "456239146"],
         },
         {
           title: "16-19 Эпизод",
-          titleLink: ["vk", "video-208448461_456239144"],
+          titleLink: ["vk", "456239144"],
         },
         {
           title: "20-24 Эпизод",
-          titleLink: ["vk", "video-208448461_456239145"],
+          titleLink: ["vk", "456239145"],
         },
       ],
     },
@@ -5941,19 +5941,19 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456239869?t=4h28m1s"],
+          titleLink: ["vk", "456239869?t=4h28m1s"],
         },
         {
           title: "5-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456239870?t=1m4s"],
+          titleLink: ["vk", "456239870?t=1m4s"],
         },
         {
           title: "9-16 Эпизод",
-          titleLink: ["vk", "video-208448461_456239900?t=2h23m27s"],
+          titleLink: ["vk", "456239900?t=2h23m27s"],
         },
         {
           title: "17-20 Эпизод",
-          titleLink: ["vk", "video-208448461_456239935?t=2m18s"],
+          titleLink: ["vk", "456239935?t=2m18s"],
         },
         {
           title: "21-22 Эпизод",
@@ -5961,7 +5961,7 @@ const seriesAnimePopups = {
         },
         {
           title: "23-30 Эпизод",
-          titleLink: ["vk", "video-208448461_456239944?t=17m21s"],
+          titleLink: ["vk", "456239944?t=17m21s"],
         },
         {
           title: "31-38 Эпизод",
@@ -5973,23 +5973,23 @@ const seriesAnimePopups = {
         },
         {
           title: "43-50 Эпизод",
-          titleLink: ["vk", "video-208448461_456239989?t=2h10m16s"],
+          titleLink: ["vk", "456239989?t=2h10m16s"],
         },
         {
           title: "55-62 Эпизод",
-          titleLink: ["vk", "video-208448461_456240007?t=5h16m45s"],
+          titleLink: ["vk", "456240007?t=5h16m45s"],
         },
         {
           title: "63-66 Эпизод",
-          titleLink: ["vk", "video-208448461_456240016?t=10h32m16s"],
+          titleLink: ["vk", "456240016?t=10h32m16s"],
         },
         {
           title: "67-70 Эпизод",
-          titleLink: ["vk", "video-208448461_456240024?t=5h7m43s"],
+          titleLink: ["vk", "456240024?t=5h7m43s"],
         },
         {
           title: "71-75 Эпизод",
-          titleLink: ["vk", "video-208448461_456240047?t=4h56s"],
+          titleLink: ["vk", "456240047?t=4h56s"],
         },
       ],
     },
@@ -5998,15 +5998,15 @@ const seriesAnimePopups = {
       items: [
         {
           title: "Кулак боксёра",
-          titleLink: ["vk", "video-208448461_456240047?t=6h14m14s"],
+          titleLink: ["vk", "456240047?t=6h14m14s"],
         },
         {
           title: "Путь чемпиона",
-          titleLink: ["vk", "video-208448461_456240082?t=3h26m1s"],
+          titleLink: ["vk", "456240082?t=3h26m1s"],
         },
         {
           title: "Машиба против Кимуры",
-          titleLink: ["vk", "video-208448461_456240082?t=6h24m0s"],
+          titleLink: ["vk", "456240082?t=6h24m0s"],
         },
       ],
     },
@@ -6015,19 +6015,19 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456240426?t=15m45s"],
+          titleLink: ["vk", "456240426?t=15m45s"],
         },
         {
           title: "9-16 Эпизод",
-          titleLink: ["vk", "video-208448461_456240566?t=2h10m10s"],
+          titleLink: ["vk", "456240566?t=2h10m10s"],
         },
         {
           title: "17-23 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/e9a13179-e3a6-4c75-988d-ce418e32c923?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/e9a13179-e3a6-4c75-988d-ce418e32c923"],
         },
         {
           title: "24-26 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/7fa1bea8-3615-4d3f-b765-fcc60b4fbca2?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/7fa1bea8-3615-4d3f-b765-fcc60b4fbca2"],
         },
       ],
     },
@@ -6036,23 +6036,23 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-6 Эпизод",
-          titleLink: ["vk", "video-208448461_456240777?t=4h39m5s"],
+          titleLink: ["vk", "456240777?t=4h39m5s"],
         },
         {
           title: "7-10 Эпизод",
-          titleLink: ["vk", "video-208448461_456240787?t=2h19m45s"],
+          titleLink: ["vk", "456240787?t=2h19m45s"],
         },
         {
           title: "11-14 Эпизод",
-          titleLink: ["vk", "video-208448461_456240805?t=2h36m56s"],
+          titleLink: ["vk", "456240805?t=2h36m56s"],
         },
         {
           title: "15-18 Эпизод",
-          titleLink: ["vk", "video-208448461_456240815?t=12m45s"],
+          titleLink: ["vk", "456240815?t=12m45s"],
         },
         {
           title: "19-25 Эпизод",
-          titleLink: ["vk", "video-208448461_456240823?t=3h56m55s"],
+          titleLink: ["vk", "456240823?t=3h56m55s"],
         },
       ],
     },
@@ -6063,15 +6063,15 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456239798?t=4h43m15s"],
+          titleLink: ["vk", "456239798?t=4h43m15s"],
         },
         {
           title: "5-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456239819?t=2h33m10s"],
+          titleLink: ["vk", "456239819?t=2h33m10s"],
         },
         {
           title: "9-13 Эпизод",
-          titleLink: ["vk", "video-208448461_456239891?t=5h9m22s"],
+          titleLink: ["vk", "456239891?t=5h9m22s"],
         },
       ],
     },
@@ -6082,11 +6082,11 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456239998?t=6h13m31s"],
+          titleLink: ["vk", "456239998?t=6h13m31s"],
         },
         {
           title: "5-13 Эпизод",
-          titleLink: ["vk", "video-208448461_456240014?t=14m2s"],
+          titleLink: ["vk", "456240014?t=14m2s"],
         },
       ],
     },
@@ -6097,11 +6097,11 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/ebddca5d-c090-4d41-806b-b6d009af5fef?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/ebddca5d-c090-4d41-806b-b6d009af5fef"],
         },
         {
           title: "5-8 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/d98ce692-f3f1-4913-9cfc-c9092873bc5e?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/d98ce692-f3f1-4913-9cfc-c9092873bc5e"],
         },
       ],
     },
@@ -6112,27 +6112,27 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-3 Эпизод",
-          titleLink: ["vk", "video-208448461_456239034?t=6h38m16s"],
+          titleLink: ["vk", "456239034?t=6h38m16s"],
         },
         {
           title: "4-7 Эпизод",
-          titleLink: ["vk", "video-208448461_456239063?t=6h9m15s"],
+          titleLink: ["vk", "456239063?t=6h9m15s"],
         },
         {
           title: "8-10 Эпизод",
-          titleLink: ["vk", "video-208448461_456239083?t=4h36m35s"],
+          titleLink: ["vk", "456239083?t=4h36m35s"],
         },
         {
           title: "11-14 Эпизод",
-          titleLink: ["vk", "video-208448461_456239106?t=4m17s"],
+          titleLink: ["vk", "456239106?t=4m17s"],
         },
         {
           title: "15-18 Эпизод",
-          titleLink: ["vk", "video-208448461_456239148?t=3h22m55s"],
+          titleLink: ["vk", "456239148?t=3h22m55s"],
         },
         {
           title: "19-24 Эпизод",
-          titleLink: ["vk", "video-208448461_456239191?t=3m15s"],
+          titleLink: ["vk", "456239191?t=3m15s"],
         },
       ],
     },
@@ -6143,19 +6143,19 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456241114?t=12m13s"],
+          titleLink: ["vk", "456241114?t=12m13s"],
         },
         {
           title: "5-9 Эпизод",
-          titleLink: ["vk", "video-208448461_456241124?t=2h24m11s"],
+          titleLink: ["vk", "456241124?t=2h24m11s"],
         },
         {
           title: "10 Эпизод",
-          titleLink: ["vk", "video-208448461_456241124?t=4h57m24s"],
+          titleLink: ["vk", "456241124?t=4h57m24s"],
         },
         {
           title: "11-13 Эпизод",
-          titleLink: ["vk", "video-208448461_456241141?t=10m45s"],
+          titleLink: ["vk", "456241141?t=10m45s"],
         },
       ],
     },
@@ -6174,7 +6174,7 @@ const seriesAnimePopups = {
         },
         {
           title: "11-16 Эпизод",
-          titleLink: ["vk", "video-208448461_456240541"],
+          titleLink: ["vk", "456240541"],
         },
         {
           title: "17-24 Эпизод",
@@ -6182,7 +6182,7 @@ const seriesAnimePopups = {
         },
         {
           title: "24 Эпизод",
-          titleLink: ["vk", "video-208448461_456240543"],
+          titleLink: ["vk", "456240543"],
         },
       ],
     },
@@ -6193,15 +6193,15 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-6 Эпизод",
-          titleLink: ["vk", "video-208448461_456241611?t=12m26s"],
+          titleLink: ["vk", "456241611?t=12m26s"],
         },
         {
           title: "7-9 Эпизод",
-          titleLink: ["vk", "video-208448461_456241681?t=4h56m34s"],
+          titleLink: ["vk", "456241681?t=4h56m34s"],
         },
         {
           title: "10-13 Эпизод",
-          titleLink: ["vk", "video-208448461_456241682?t=12m24s"],
+          titleLink: ["vk", "456241682?t=12m24s"],
         },
       ],
     },
@@ -6212,47 +6212,47 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456241146?t=4h14m27s"],
+          titleLink: ["vk", "456241146?t=4h14m27s"],
         },
         {
           title: "5-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456241166?t=2h6m50s"],
+          titleLink: ["vk", "456241166?t=2h6m50s"],
         },
         {
           title: "9-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456241166?t=3h57m16s"],
+          titleLink: ["vk", "456241166?t=3h57m16s"],
         },
         {
           title: "13-16 Эпизод",
-          titleLink: ["vk", "video-208448461_456241221?t=4h23m0s"],
+          titleLink: ["vk", "456241221?t=4h23m0s"],
         },
         {
           title: "17-20 Эпизод",
-          titleLink: ["vk", "video-208448461_456241231?t=10m12s"],
+          titleLink: ["vk", "456241231?t=10m12s"],
         },
         {
           title: "21 Эпизод",
-          titleLink: ["vk", "video-208448461_456241232?t=2h39m43s"],
+          titleLink: ["vk", "456241232?t=2h39m43s"],
         },
         {
           title: "22-26 Эпизод",
-          titleLink: ["vk", "video-208448461_456241258?t=12m15s"],
+          titleLink: ["vk", "456241258?t=12m15s"],
         },
         {
           title: "27-33 Эпизод",
-          titleLink: ["vk", "video-208448461_456241277?t=12m39s"],
+          titleLink: ["vk", "456241277?t=12m39s"],
         },
         {
           title: "34-41 Эпизод",
-          titleLink: ["vk", "video-208448461_456241304?t=4h17m15s"],
+          titleLink: ["vk", "456241304?t=4h17m15s"],
         },
         {
           title: "42-43 Эпизод",
-          titleLink: ["vk", "video-208448461_456241348?t=4h15m57s"],
+          titleLink: ["vk", "456241348?t=4h15m57s"],
         },
         {
           title: "44-51 Эпизод",
-          titleLink: ["vk", "video-208448461_456241390?t=10m21s"],
+          titleLink: ["vk", "456241390?t=10m21s"],
         },
       ],
     },
@@ -6263,19 +6263,19 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-6 Эпизод",
-          titleLink: ["vk", "video-208448461_456240680?t=4h57m30s"],
+          titleLink: ["vk", "456240680?t=4h57m30s"],
         },
         {
           title: "7-13 Эпизод",
-          titleLink: ["vk", "video-208448461_456240709?t=6h19m30s"],
+          titleLink: ["vk", "456240709?t=6h19m30s"],
         },
         {
           title: "14-17 Эпизод",
-          titleLink: ["vk", "video-208448461_456240724?t=6h23m22s"],
+          titleLink: ["vk", "456240724?t=6h23m22s"],
         },
         {
           title: "18-23 Эпизод",
-          titleLink: ["vk", "video-208448461_456240738?t=11m15s"],
+          titleLink: ["vk", "456240738?t=11m15s"],
         },
       ],
     },
@@ -6286,19 +6286,19 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-2 Эпизод",
-          titleLink: ["vk", "video-208448461_456239470?t=7h59m35s"],
+          titleLink: ["vk", "456239470?t=7h59m35s"],
         },
         {
           title: "3-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456239494?t=2h8m25s"],
+          titleLink: ["vk", "456239494?t=2h8m25s"],
         },
         {
           title: "6-9 Эпизод",
-          titleLink: ["vk", "video-208448461_456239539?t=3h30m51s"],
+          titleLink: ["vk", "456239539?t=3h30m51s"],
         },
         {
           title: "10-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456239550?t=2h25m16s"],
+          titleLink: ["vk", "456239550?t=2h25m16s"],
         },
       ],
     },
@@ -6309,11 +6309,11 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456241584?t=5h24m32s"],
+          titleLink: ["vk", "456241584?t=5h24m32s"],
         },
         {
           title: "5-13 Эпизод",
-          titleLink: ["vk", "video-208448461_456241597?t=4h20m52s"],
+          titleLink: ["vk", "456241597?t=4h20m52s"],
         },
       ],
     },
@@ -6324,27 +6324,27 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456241096?t=2h33m12s"],
+          titleLink: ["vk", "456241096?t=2h33m12s"],
         },
         {
           title: "5-6 Эпизод",
-          titleLink: ["vk", "video-208448461_456241105?t=2h25m28s"],
+          titleLink: ["vk", "456241105?t=2h25m28s"],
         },
         {
           title: "7-11 Эпизод",
-          titleLink: ["vk", "video-208448461_456241115?t=11m16s"],
+          titleLink: ["vk", "456241115?t=11m16s"],
         },
         {
           title: "12-15 Эпизод",
-          titleLink: ["vk", "video-208448461_456241124?t=12m18s"],
+          titleLink: ["vk", "456241124?t=12m18s"],
         },
         {
           title: "16-19 Эпизод",
-          titleLink: ["vk", "video-208448461_456241140?t=12m17s"],
+          titleLink: ["vk", "456241140?t=12m17s"],
         },
         {
           title: "20-28 Эпизод",
-          titleLink: ["vk", "video-208448461_456241145?t=1h57m18s"],
+          titleLink: ["vk", "456241145?t=1h57m18s"],
         },
       ],
     },
@@ -6355,19 +6355,19 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456239133?t=4h2m2s"],
+          titleLink: ["vk", "456239133?t=4h2m2s"],
         },
         {
           title: "5-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456239242?t=2h32m2s"],
+          titleLink: ["vk", "456239242?t=2h32m2s"],
         },
         {
           title: "9-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456239342?t=6h45m35s"],
+          titleLink: ["vk", "456239342?t=6h45m35s"],
         },
         {
           title: "13 Эпизод",
-          titleLink: ["vk", "video-208448461_456239550?t=15m1s"],
+          titleLink: ["vk", "456239550?t=15m1s"],
         },
       ],
     },
@@ -6378,19 +6378,19 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456239342?t=8h31m15s"],
+          titleLink: ["vk", "456239342?t=8h31m15s"],
         },
         {
           title: "5-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456239476?t=6h58m30s"],
+          titleLink: ["vk", "456239476?t=6h58m30s"],
         },
         {
           title: "9-10 Эпизод",
-          titleLink: ["vk", "video-208448461_456239533?t=2h23m37s"],
+          titleLink: ["vk", "456239533?t=2h23m37s"],
         },
         {
           title: "11-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456241510?t=11m41s"],
+          titleLink: ["vk", "456241510?t=11m41s"],
         },
       ],
     },
@@ -6399,15 +6399,15 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-2 Эпизод",
-          titleLink: ["vk", "video-208448461_456241510?t=1h7m11s"],
+          titleLink: ["vk", "456241510?t=1h7m11s"],
         },
         {
           title: "3-6 Эпизод",
-          titleLink: ["vk", "video-208448461_456241526?t=12m47s"],
+          titleLink: ["vk", "456241526?t=12m47s"],
         },
         {
           title: "7-13 Эпизод",
-          titleLink: ["vk", "video-208448461_456241533?t=12m31s"],
+          titleLink: ["vk", "456241533?t=12m31s"],
         },
       ],
     },
@@ -6416,11 +6416,11 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1 Эпизод",
-          titleLink: ["vk", "video-208448461_456241535?t=4h12m4s"],
+          titleLink: ["vk", "456241535?t=4h12m4s"],
         },
         {
           title: "2-3 Эпизод",
-          titleLink: ["vk", "video-208448461_456241544?t=12m34s"],
+          titleLink: ["vk", "456241544?t=12m34s"],
         },
       ],
     },
@@ -6429,15 +6429,15 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-3 Эпизод",
-          titleLink: ["vk", "video-208448461_456241544?t=1h13m0s"],
+          titleLink: ["vk", "456241544?t=1h13m0s"],
         },
         {
           title: "4-11 Эпизод",
-          titleLink: ["vk", "video-208448461_456241553?t=14m56s"],
+          titleLink: ["vk", "456241553?t=14m56s"],
         },
         {
           title: "12-13 Эпизод",
-          titleLink: ["vk", "video-208448461_456241558?t=16m3s"],
+          titleLink: ["vk", "456241558?t=16m3s"],
         },
       ],
     },
@@ -6446,7 +6446,7 @@ const seriesAnimePopups = {
       items: [
         {
           title: "OVA 2 + Спешл",
-          titleLink: ["vk", "video-208448461_456241558?t=1h17m30s"],
+          titleLink: ["vk", "456241558?t=1h17m30s"],
         },
       ],
     },
@@ -6465,15 +6465,15 @@ const seriesAnimePopups = {
         },
         {
           title: "9-12 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/e372007f-8ca2-442a-8e93-4d22f43906db?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/e372007f-8ca2-442a-8e93-4d22f43906db"],
         },
         {
           title: "13-17 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/2e3d5f76-abe6-41cf-8d40-9bc869d3cbe4?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/2e3d5f76-abe6-41cf-8d40-9bc869d3cbe4"],
         },
         {
           title: "18-22 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/e90de5fd-3817-4804-aacf-d73b835c3380?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/e90de5fd-3817-4804-aacf-d73b835c3380"],
         },
       ],
     },
@@ -6482,15 +6482,15 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/ed9982d1-e068-4122-9f52-d53fc33474ae?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/ed9982d1-e068-4122-9f52-d53fc33474ae"],
         },
         {
           title: "4-8 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/8ac5ef89-2dea-467c-8e10-131741934a8e?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/8ac5ef89-2dea-467c-8e10-131741934a8e"],
         },
         {
           title: "9-11 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/2d0fbf22-bf63-4eef-b30f-8ff0c683318a?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/2d0fbf22-bf63-4eef-b30f-8ff0c683318a"],
         },
       ],
     },
@@ -6499,7 +6499,7 @@ const seriesAnimePopups = {
       items: [
         {
           title: "",
-          titleLink: ["vk", "video-208448461_456239294"],
+          titleLink: ["vk", "456239294"],
         },
       ],
     },
@@ -6510,15 +6510,15 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456241410?t=10m42s"],
+          titleLink: ["vk", "456241410?t=10m42s"],
         },
         {
           title: "5-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456241412?t=12m30s"],
+          titleLink: ["vk", "456241412?t=12m30s"],
         },
         {
           title: "9-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456241421?t=4h34m14s"],
+          titleLink: ["vk", "456241421?t=4h34m14s"],
         },
       ],
     },
@@ -6531,19 +6531,19 @@ const seriesAnimePopups = {
         },
         {
           title: "93 2/2 Эпизод",
-          titleLink: ["vk", "video-208448461_456241426?t=3m59s"],
+          titleLink: ["vk", "456241426?t=3m59s"],
         },
         {
           title: "105-106 Эпизод",
-          titleLink: ["vk", "video-208448461_456241426?t=7m47s"],
+          titleLink: ["vk", "456241426?t=7m47s"],
         },
         {
           title: "24-25 Эпизод",
-          titleLink: ["vk", "video-208448461_456241426?t=58m1s"],
+          titleLink: ["vk", "456241426?t=58m1s"],
         },
         {
           title: "26, 33, 40-41 Эпизод",
-          titleLink: ["vk", "video-208448461_456241442?t=3h9m45s"],
+          titleLink: ["vk", "456241442?t=3h9m45s"],
         },
       ],
     },
@@ -6554,15 +6554,15 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456239254"],
+          titleLink: ["vk", "456239254"],
         },
         {
           title: "5-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456239259"],
+          titleLink: ["vk", "456239259"],
         },
         {
           title: "9-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456239263"],
+          titleLink: ["vk", "456239263"],
         },
         {
           title: "13-16 Эпизод",
@@ -6570,15 +6570,15 @@ const seriesAnimePopups = {
         },
         {
           title: "17-18 Эпизод",
-          titleLink: ["vk", "video-208448461_456239267"],
+          titleLink: ["vk", "456239267"],
         },
         {
           title: "19-21 Эпизод",
-          titleLink: ["vk", "video-208448461_456239269"],
+          titleLink: ["vk", "456239269"],
         },
         {
           title: "22-24 Эпизод",
-          titleLink: ["vk", "video-208448461_456239272"],
+          titleLink: ["vk", "456239272"],
         },
       ],
     },
@@ -6589,15 +6589,15 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-3 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/d894abb5-bc8b-40a1-9b62-52af144ecb08?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/d894abb5-bc8b-40a1-9b62-52af144ecb08"],
         },
         {
           title: "4-7 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/aaf9296e-c42e-4436-aaf3-65f480e71313?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/aaf9296e-c42e-4436-aaf3-65f480e71313"],
         },
         {
           title: "8-9 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/622e018b-f12c-4835-8467-4efce820ee08?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/622e018b-f12c-4835-8467-4efce820ee08"],
         },
       ],
     },
@@ -6606,15 +6606,15 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456241444?t=11m30s"],
+          titleLink: ["vk", "456241444?t=11m30s"],
         },
         {
           title: "5-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456241456?t=12m32s"],
+          titleLink: ["vk", "456241456?t=12m32s"],
         },
         {
           title: "13-19 Эпизод",
-          titleLink: ["vk", "video-208448461_456241470?t=10m24s"],
+          titleLink: ["vk", "456241470?t=10m24s"],
         },
       ],
     },
@@ -6625,31 +6625,31 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-6 Эпизод",
-          titleLink: ["vk", "video-208448461_456239652?t=3h49m"],
+          titleLink: ["vk", "456239652?t=3h49m"],
         },
         {
           title: "7-11 Эпизод",
-          titleLink: ["vk", "video-208448461_456239663?t=4h3m28s"],
+          titleLink: ["vk", "456239663?t=4h3m28s"],
         },
         {
           title: "13-19 Эпизод",
-          titleLink: ["vk", "video-208448461_456239688?t=11m0s"],
+          titleLink: ["vk", "456239688?t=11m0s"],
         },
         {
           title: "20-24 Эпизод",
-          titleLink: ["vk", "video-208448461_456239696?t=1h49m50s"],
+          titleLink: ["vk", "456239696?t=1h49m50s"],
         },
         {
           title: "25-28 Эпизод",
-          titleLink: ["vk", "video-208448461_456239709?t=12m30s"],
+          titleLink: ["vk", "456239709?t=12m30s"],
         },
         {
           title: "29-32 Эпизод",
-          titleLink: ["vk", "video-208448461_456239725?t=13m40s"],
+          titleLink: ["vk", "456239725?t=13m40s"],
         },
         {
           title: "33-40 Эпизод",
-          titleLink: ["vk", "video-208448461_456239740"],
+          titleLink: ["vk", "456239740"],
         },
       ],
     },
@@ -6660,19 +6660,19 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-2 Эпизод",
-          titleLink: ["vk", "video-208448461_456240553"],
+          titleLink: ["vk", "456240553"],
         },
         {
           title: "3-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456240554"],
+          titleLink: ["vk", "456240554"],
         },
         {
           title: "5-6 Эпизод",
-          titleLink: ["vk", "video-208448461_456240555"],
+          titleLink: ["vk", "456240555"],
         },
         {
           title: "7-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456240556"],
+          titleLink: ["vk", "456240556"],
         },
       ],
     },
@@ -6683,7 +6683,7 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456239513"],
+          titleLink: ["vk", "456239513"],
         },
         {
           title: "9-24 Эпизод",
@@ -6700,7 +6700,7 @@ const seriesAnimePopups = {
         },
         {
           title: "5-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456239944?t=3h58m15s"],
+          titleLink: ["vk", "456239944?t=3h58m15s"],
         },
         {
           title: "13-17 Эпизод",
@@ -6708,7 +6708,7 @@ const seriesAnimePopups = {
         },
         {
           title: "18 Эпизод",
-          titleLink: ["vk", "video-208448461_456239982?t=6h19m20s"],
+          titleLink: ["vk", "456239982?t=6h19m20s"],
         },
       ],
     },
@@ -6719,31 +6719,31 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456240615"],
+          titleLink: ["vk", "456240615"],
         },
         {
           title: "5-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456240616"],
+          titleLink: ["vk", "456240616"],
         },
         {
           title: "9-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456240617"],
+          titleLink: ["vk", "456240617"],
         },
         {
           title: "13-14 Эпизод",
-          titleLink: ["vk", "video-208448461_456240618"],
+          titleLink: ["vk", "456240618"],
         },
         {
           title: "15-18 Эпизод",
-          titleLink: ["vk", "video-208448461_456240619"],
+          titleLink: ["vk", "456240619"],
         },
         {
           title: "19-22 Эпизод",
-          titleLink: ["vk", "video-208448461_456240620"],
+          titleLink: ["vk", "456240620"],
         },
         {
           title: "23-26 Эпизод",
-          titleLink: ["vk", "video-208448461_456240621"],
+          titleLink: ["vk", "456240621"],
         },
       ],
     },
@@ -6758,7 +6758,7 @@ const seriesAnimePopups = {
         },
         {
           title: "9-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456241536?t=3h57m5s"],
+          titleLink: ["vk", "456241536?t=3h57m5s"],
         },
       ],
     },
@@ -6778,7 +6778,7 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-8 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/1b3cc06d-b04e-4b58-a387-f68b108e7a6e?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/1b3cc06d-b04e-4b58-a387-f68b108e7a6e"],
         },
         {
           title: "9-12 Эпизод",
@@ -6793,11 +6793,11 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456239242?t=4h31m30s"],
+          titleLink: ["vk", "456239242?t=4h31m30s"],
         },
         {
           title: "5-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456239478?t=4h48m58s"],
+          titleLink: ["vk", "456239478?t=4h48m58s"],
         },
       ],
     },
@@ -6808,15 +6808,15 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456240562"],
+          titleLink: ["vk", "456240562"],
         },
         {
           title: "5-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456240564"],
+          titleLink: ["vk", "456240564"],
         },
         {
           title: "9-13 Эпизод",
-          titleLink: ["vk", "video-208448461_456240563"],
+          titleLink: ["vk", "456240563"],
         },
       ],
     },
@@ -6827,15 +6827,15 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-7 Эпизод",
-          titleLink: ["vk", "video-208448461_456239451"],
+          titleLink: ["vk", "456239451"],
         },
         {
           title: "8-10 Эпизод",
-          titleLink: ["vk", "video-208448461_456239452"],
+          titleLink: ["vk", "456239452"],
         },
         {
           title: "11-13 Эпизод",
-          titleLink: ["vk", "video-208448461_456239453"],
+          titleLink: ["vk", "456239453"],
         },
       ],
     },
@@ -6844,7 +6844,7 @@ const seriesAnimePopups = {
       items: [
         {
           title: "Расвет глубинной души",
-          titleLink: ["vk", "video-208448461_456239454"],
+          titleLink: ["vk", "456239454"],
         },
       ],
     },
@@ -6857,11 +6857,11 @@ const seriesAnimePopups = {
         },
         {
           title: "5-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456239986?t=6h21m15s"],
+          titleLink: ["vk", "456239986?t=6h21m15s"],
         },
         {
           title: "9-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456239993?t=12m1s"],
+          titleLink: ["vk", "456239993?t=12m1s"],
         },
       ],
     },
@@ -6872,31 +6872,31 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456240387"],
+          titleLink: ["vk", "456240387"],
         },
         {
           title: "5-6 Эпизод",
-          titleLink: ["vk", "video-208448461_456240388"],
+          titleLink: ["vk", "456240388"],
         },
         {
           title: "7-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456240389"],
+          titleLink: ["vk", "456240389"],
         },
         {
           title: "13-16 Эпизод",
-          titleLink: ["vk", "video-208448461_456240390"],
+          titleLink: ["vk", "456240390"],
         },
         {
           title: "17-20 Эпизод",
-          titleLink: ["vk", "video-208448461_456240391"],
+          titleLink: ["vk", "456240391"],
         },
         {
           title: "21-24 Эпизод",
-          titleLink: ["vk", "video-208448461_456240392"],
+          titleLink: ["vk", "456240392"],
         },
         {
           title: "25-27 Эпизод",
-          titleLink: ["vk", "video-208448461_456240393"],
+          titleLink: ["vk", "456240393"],
         },
         {
           title: "28-33 Эпизод",
@@ -6904,27 +6904,27 @@ const seriesAnimePopups = {
         },
         {
           title: "34-37 Эпизод",
-          titleLink: ["vk", "video-208448461_456240395"],
+          titleLink: ["vk", "456240395"],
         },
         {
           title: "38-39 Эпизод",
-          titleLink: ["vk", "video-208448461_456240386"],
+          titleLink: ["vk", "456240386"],
         },
         {
           title: "40-44 Эпизод",
-          titleLink: ["vk", "video-208448461_456240396"],
+          titleLink: ["vk", "456240396"],
         },
         {
           title: "45-46 Эпизод",
-          titleLink: ["vk", "video-208448461_456240397"],
+          titleLink: ["vk", "456240397"],
         },
         {
           title: "47-50 Эпизод",
-          titleLink: ["vk", "video-208448461_456240398"],
+          titleLink: ["vk", "456240398"],
         },
         {
           title: "51-54 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/dda26aae-60eb-4c68-95bb-c3b975334137?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/dda26aae-60eb-4c68-95bb-c3b975334137"],
         },
         {
           title: "55-58 Эпизод",
@@ -6932,7 +6932,7 @@ const seriesAnimePopups = {
         },
         {
           title: "59-64 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/8a2d161b-b92c-444a-98dc-6e533657a2da?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/8a2d161b-b92c-444a-98dc-6e533657a2da"],
         },
       ],
     },
@@ -6952,15 +6952,15 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456241485?t=4h17m50s"],
+          titleLink: ["vk", "456241485?t=4h17m50s"],
         },
         {
           title: "5-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456241499?t=13m40s"],
+          titleLink: ["vk", "456241499?t=13m40s"],
         },
         {
           title: "9-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456241561?t=4h15m0s"],
+          titleLink: ["vk", "456241561?t=4h15m0s"],
         },
       ],
     },
@@ -6971,15 +6971,15 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456240557"],
+          titleLink: ["vk", "456240557"],
         },
         {
           title: "5-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456240560"],
+          titleLink: ["vk", "456240560"],
         },
         {
           title: "9-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456240561"],
+          titleLink: ["vk", "456240561"],
         },
       ],
     },
@@ -6990,15 +6990,15 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-3 Эпизод",
-          titleLink: ["vk", "video-208448461_456240357"],
+          titleLink: ["vk", "456240357"],
         },
         {
           title: "4-9 Эпизод",
-          titleLink: ["vk", "video-208448461_456240358"],
+          titleLink: ["vk", "456240358"],
         },
         {
           title: "10-13 Эпизод",
-          titleLink: ["vk", "video-208448461_456240359"],
+          titleLink: ["vk", "456240359"],
         },
       ],
     },
@@ -7007,23 +7007,23 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-2 Эпизод",
-          titleLink: ["vk", "video-208448461_456240360"],
+          titleLink: ["vk", "456240360"],
         },
         {
           title: "3-6 Эпизод",
-          titleLink: ["vk", "video-208448461_456240361"],
+          titleLink: ["vk", "456240361"],
         },
         {
           title: "7 Эпизод",
-          titleLink: ["vk", "video-208448461_456240362"],
+          titleLink: ["vk", "456240362"],
         },
         {
           title: "8-9 Эпизод",
-          titleLink: ["vk", "video-208448461_456240363"],
+          titleLink: ["vk", "456240363"],
         },
         {
           title: "10-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456240364"],
+          titleLink: ["vk", "456240364"],
         },
       ],
     },
@@ -7034,19 +7034,19 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456241823?t=2h9m43s"],
+          titleLink: ["vk", "456241823?t=2h9m43s"],
         },
         {
           title: "5-10 Эпизод",
-          titleLink: ["vk", "video-208448461_456241828?t=1m23s"],
+          titleLink: ["vk", "456241828?t=1m23s"],
         },
         {
           title: "11-14 Эпизод",
-          titleLink: ["vk", "video-208448461_456241835?t=14m46s"],
+          titleLink: ["vk", "456241835?t=14m46s"],
         },
         {
           title: "15-22 Эпизод",
-          titleLink: ["vk", "video-208448461_456241838?t=2h29m54s"],
+          titleLink: ["vk", "456241838?t=2h29m54s"],
         },
       ],
     },
@@ -7057,15 +7057,15 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456239717?t=3m0s"],
+          titleLink: ["vk", "456239717?t=3m0s"],
         },
         {
           title: "5-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456239748?t=5h27m40s"],
+          titleLink: ["vk", "456239748?t=5h27m40s"],
         },
         {
           title: "13-16 Эпизод",
-          titleLink: ["vk", "video-208448461_456239756?t=4h22m5s"],
+          titleLink: ["vk", "456239756?t=4h22m5s"],
         },
         {
           title: "17-20 Эпизод",
@@ -7073,7 +7073,7 @@ const seriesAnimePopups = {
         },
         {
           title: "21-25 Эпизод",
-          titleLink: ["vk", "video-208448461_456239797?t=9h3m5s"],
+          titleLink: ["vk", "456239797?t=9h3m5s"],
         },
       ],
     },
@@ -7082,7 +7082,7 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456239823?t=3h14m50s"],
+          titleLink: ["vk", "456239823?t=3h14m50s"],
         },
       ],
     },
@@ -7091,7 +7091,7 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456239878?t=2h17m34s"],
+          titleLink: ["vk", "456239878?t=2h17m34s"],
         },
         {
           title: "5-8 Эпизод",
@@ -7099,7 +7099,7 @@ const seriesAnimePopups = {
         },
         {
           title: "9-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456239931?t=2h26m21s"],
+          titleLink: ["vk", "456239931?t=2h26m21s"],
         },
       ],
     },
@@ -7110,55 +7110,55 @@ const seriesAnimePopups = {
       items: [
         {
           title: "3-9 Эпизод",
-          titleLink: ["vk", "video-208448461_456240032?t=5h25m59s"],
+          titleLink: ["vk", "456240032?t=5h25m59s"],
         },
         {
           title: "10-17 Эпизод",
-          titleLink: ["vk", "video-208448461_456240050?t=12m45s"],
+          titleLink: ["vk", "456240050?t=12m45s"],
         },
         {
           title: "18-25 Эпизод",
-          titleLink: ["vk", "video-208448461_456240058?t=10m37s"],
+          titleLink: ["vk", "456240058?t=10m37s"],
         },
         {
           title: "26-37 Эпизод",
-          titleLink: ["vk", "video-208448461_456240076?t=3h49m45s"],
+          titleLink: ["vk", "456240076?t=3h49m45s"],
         },
         {
           title: "38-43 Эпизод",
-          titleLink: ["vk", "video-208448461_456240082?t=11m51s"],
+          titleLink: ["vk", "456240082?t=11m51s"],
         },
         {
           title: "44-50 Эпизод",
-          titleLink: ["vk", "video-208448461_456240190?t=17m26s"],
+          titleLink: ["vk", "456240190?t=17m26s"],
         },
         {
           title: "52-57 Эпизод",
-          titleLink: ["vk", "video-208448461_456240321?t=13m33s"],
+          titleLink: ["vk", "456240321?t=13m33s"],
         },
         {
           title: "58-63 Эпизод",
-          titleLink: ["vk", "video-208448461_456240574?t=12m0s"],
+          titleLink: ["vk", "456240574?t=12m0s"],
         },
         {
           title: "64-68 Эпизод",
-          titleLink: ["vk", "video-208448461_456240596?t=2h6m10s"],
+          titleLink: ["vk", "456240596?t=2h6m10s"],
         },
         {
           title: "69-74 Эпизод",
-          titleLink: ["vk", "video-208448461_456240622?t=15m2s"],
+          titleLink: ["vk", "456240622?t=15m2s"],
         },
         {
           title: "75-79 Эпизод",
-          titleLink: ["vk", "video-208448461_456240671?t=18m13s"],
+          titleLink: ["vk", "456240671?t=18m13s"],
         },
         {
           title: "80-83 Эпизод",
-          titleLink: ["vk", "video-208448461_456240889?t=3h50m28s"],
+          titleLink: ["vk", "456240889?t=3h50m28s"],
         },
         {
           title: "84-87 Эпизод",
-          titleLink: ["vk", "video-208448461_456240889?t=5h32m15s"],
+          titleLink: ["vk", "456240889?t=5h32m15s"],
         },
         {
           title: "88-95 Эпизод",
@@ -7166,47 +7166,47 @@ const seriesAnimePopups = {
         },
         {
           title: "96-100 Эпизод",
-          titleLink: ["vk", "video-208448461_456240948?t=2h26m56s"],
+          titleLink: ["vk", "456240948?t=2h26m56s"],
         },
         {
           title: "100-104 Эпизод",
-          titleLink: ["vk", "video-208448461_456240964?t=4h53m22s"],
+          titleLink: ["vk", "456240964?t=4h53m22s"],
         },
         {
           title: "105-108 Эпизод",
-          titleLink: ["vk", "video-208448461_456240986?t=11m29s"],
+          titleLink: ["vk", "456240986?t=11m29s"],
         },
         {
           title: "109-111 Эпизод",
-          titleLink: ["vk", "video-208448461_456240986?t=2h2m38s"],
+          titleLink: ["vk", "456240986?t=2h2m38s"],
         },
         {
           title: "112-115 Эпизод",
-          titleLink: ["vk", "video-208448461_456241098?t=14m22s"],
+          titleLink: ["vk", "456241098?t=14m22s"],
         },
         {
           title: "116-122 Эпизод",
-          titleLink: ["vk", "video-208448461_456241098?t=2h14m0s"],
+          titleLink: ["vk", "456241098?t=2h14m0s"],
         },
         {
           title: "123 Эпизод",
-          titleLink: ["vk", "video-208448461_456241118?t=12m45s"],
+          titleLink: ["vk", "456241118?t=12m45s"],
         },
         {
           title: "123-126 Эпизод",
-          titleLink: ["vk", "video-208448461_456241116"],
+          titleLink: ["vk", "456241116"],
         },
         {
           title: "127-132 Эпизод",
-          titleLink: ["vk", "video-208448461_456241139?t=12m30s"],
+          titleLink: ["vk", "456241139?t=12m30s"],
         },
         {
           title: "133-140 Эпизод",
-          titleLink: ["vk", "video-208448461_456241171?t=11m23s"],
+          titleLink: ["vk", "456241171?t=11m23s"],
         },
         {
           title: "141-147 Эпизод",
-          titleLink: ["vk", "video-208448461_456241186?t=12m21s"],
+          titleLink: ["vk", "456241186?t=12m21s"],
         },
       ],
     },
@@ -7217,11 +7217,11 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456239342?t=4h57m17s"],
+          titleLink: ["vk", "456239342?t=4h57m17s"],
         },
         {
           title: "5-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456239466?t=6h58m12s"],
+          titleLink: ["vk", "456239466?t=6h58m12s"],
         },
       ],
     },
@@ -7232,11 +7232,11 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456239977?t=13m3s"],
+          titleLink: ["vk", "456239977?t=13m3s"],
         },
         {
           title: "5-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456239985?t=11m2s"],
+          titleLink: ["vk", "456239985?t=11m2s"],
         },
         {
           title: "9-13 Эпизод",
@@ -7251,11 +7251,11 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/24425963-5564-4998-9b56-025a9ccf3df6?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/24425963-5564-4998-9b56-025a9ccf3df6"],
         },
         {
           title: "2-4 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/7b787ef2-4c80-4891-b86f-e6630a409945?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/7b787ef2-4c80-4891-b86f-e6630a409945"],
         },
         {
           title: "5-12 Эпизод",
@@ -7263,11 +7263,11 @@ const seriesAnimePopups = {
         },
         {
           title: "13-18 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/22e1c144-58cd-4e40-9aaa-d555e6bf5c9b?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/22e1c144-58cd-4e40-9aaa-d555e6bf5c9b"],
         },
         {
           title: "19-24 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/772b2376-16f6-4077-8b3e-efd4fecd9fb9?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/772b2376-16f6-4077-8b3e-efd4fecd9fb9"],
         },
       ],
     },
@@ -7282,23 +7282,23 @@ const seriesAnimePopups = {
         },
         {
           title: "5-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456240271"],
+          titleLink: ["vk", "456240271"],
         },
         {
           title: "9-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456240273"],
+          titleLink: ["vk", "456240273"],
         },
         {
           title: "13-16 Эпизод",
-          titleLink: ["vk", "video-208448461_456240274"],
+          titleLink: ["vk", "456240274"],
         },
         {
           title: "17-20 Эпизод",
-          titleLink: ["vk", "video-208448461_456240275"],
+          titleLink: ["vk", "456240275"],
         },
         {
           title: "21-24 Эпизод",
-          titleLink: ["vk", "video-208448461_456240276?t=29m29s"],
+          titleLink: ["vk", "456240276?t=29m29s"],
         },
       ],
     },
@@ -7309,7 +7309,7 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456241791?t=12m23s"],
+          titleLink: ["vk", "456241791?t=12m23s"],
         },
       ],
     },
@@ -7324,15 +7324,15 @@ const seriesAnimePopups = {
         },
         {
           title: "7-10 Эпизод",
-          titleLink: ["vk", "video-208448461_456241315"],
+          titleLink: ["vk", "456241315"],
         },
         {
           title: "11-18 Эпизод",
-          titleLink: ["vk", "video-208448461_456241316"],
+          titleLink: ["vk", "456241316"],
         },
         {
           title: "19-22 Эпизод",
-          titleLink: ["vk", "video-208448461_456241317"],
+          titleLink: ["vk", "456241317"],
         },
       ],
     },
@@ -7347,31 +7347,31 @@ const seriesAnimePopups = {
         },
         {
           title: "11-16 Эпизод",
-          titleLink: ["vk", "video-208448461_456240226"],
+          titleLink: ["vk", "456240226"],
         },
         {
           title: "17-19 Эпизод",
-          titleLink: ["vk", "video-208448461_456240227"],
+          titleLink: ["vk", "456240227"],
         },
         {
           title: "19-21 Эпизод",
-          titleLink: ["vk", "video-208448461_456240228"],
+          titleLink: ["vk", "456240228"],
         },
         {
           title: "22-25 Эпизод",
-          titleLink: ["vk", "video-208448461_456240229"],
+          titleLink: ["vk", "456240229"],
         },
         {
           title: "26-28 Эпизод",
-          titleLink: ["vk", "video-208448461_456240230"],
+          titleLink: ["vk", "456240230"],
         },
         {
           title: "29-32 Эпизод",
-          titleLink: ["vk", "video-208448461_456240436"],
+          titleLink: ["vk", "456240436"],
         },
         {
           title: "33-36 Эпизод",
-          titleLink: ["vk", "video-208448461_456240437"],
+          titleLink: ["vk", "456240437"],
         },
         {
           title: "37-40 Эпизод",
@@ -7379,15 +7379,15 @@ const seriesAnimePopups = {
         },
         {
           title: "41-44 Эпизод",
-          titleLink: ["vk", "video-208448461_456240438"],
+          titleLink: ["vk", "456240438"],
         },
         {
           title: "45-48 Эпизод",
-          titleLink: ["vk", "video-208448461_456240439"],
+          titleLink: ["vk", "456240439"],
         },
         {
           title: "49-52 Эпизод",
-          titleLink: ["vk", "video-208448461_456240445"],
+          titleLink: ["vk", "456240445"],
         },
         {
           title: "53-56 Эпизод",
@@ -7395,95 +7395,95 @@ const seriesAnimePopups = {
         },
         {
           title: "57-60 Эпизод",
-          titleLink: ["vk", "video-208448461_456240447?t=8m2s"],
+          titleLink: ["vk", "456240447?t=8m2s"],
         },
         {
           title: "61-64 Эпизод",
-          titleLink: ["vk", "video-208448461_456240448"],
+          titleLink: ["vk", "456240448"],
         },
         {
           title: "65-68 Эпизод",
-          titleLink: ["vk", "video-208448461_456240449"],
+          titleLink: ["vk", "456240449"],
         },
         {
           title: "69-72 Эпизод",
-          titleLink: ["vk", "video-208448461_456240450?t=9m6s"],
+          titleLink: ["vk", "456240450?t=9m6s"],
         },
         {
           title: "73-76 Эпизод",
-          titleLink: ["vk", "video-208448461_456240451"],
+          titleLink: ["vk", "456240451"],
         },
         {
           title: "77-80 Эпизод",
-          titleLink: ["vk", "video-208448461_456240452"],
+          titleLink: ["vk", "456240452"],
         },
         {
           title: "81-85 Эпизод",
-          titleLink: ["vk", "video-208448461_456240453"],
+          titleLink: ["vk", "456240453"],
         },
         {
           title: "86-93 Эпизод",
-          titleLink: ["vk", "video-208448461_456240454"],
+          titleLink: ["vk", "456240454"],
         },
         {
           title: "94-95 Эпизод",
-          titleLink: ["vk", "video-208448461_456240455"],
+          titleLink: ["vk", "456240455"],
         },
         {
           title: "96-99 Эпизод",
-          titleLink: ["vk", "video-208448461_456240456"],
+          titleLink: ["vk", "456240456"],
         },
         {
           title: "100-103 Эпизод",
-          titleLink: ["vk", "video-208448461_456240457"],
+          titleLink: ["vk", "456240457"],
         },
         {
           title: "104-108 Эпизод",
-          titleLink: ["vk", "video-208448461_456240470"],
+          titleLink: ["vk", "456240470"],
         },
         {
           title: "109 Эпизод",
-          titleLink: ["vk", "video-208448461_456240459"],
+          titleLink: ["vk", "456240459"],
         },
         {
           title: "109-112 Эпизод",
-          titleLink: ["vk", "video-208448461_456240458"],
+          titleLink: ["vk", "456240458"],
         },
         {
           title: "113-116 Эпизод",
-          titleLink: ["vk", "video-208448461_456240460"],
+          titleLink: ["vk", "456240460"],
         },
         {
           title: "117-120 Эпизод",
-          titleLink: ["vk", "video-208448461_456240461"],
+          titleLink: ["vk", "456240461"],
         },
         {
           title: "121-124 Эпизод",
-          titleLink: ["vk", "video-208448461_456240463"],
+          titleLink: ["vk", "456240463"],
         },
         {
           title: "125-128 Эпизод",
-          titleLink: ["vk", "video-208448461_456240464"],
+          titleLink: ["vk", "456240464"],
         },
         {
           title: "129-132 Эпизод",
-          titleLink: ["vk", "video-208448461_456240465"],
+          titleLink: ["vk", "456240465"],
         },
         {
           title: "133-135 Эпизод",
-          titleLink: ["vk", "video-208448461_456240466"],
+          titleLink: ["vk", "456240466"],
         },
         {
           title: "136-139 Эпизод",
-          titleLink: ["vk", "video-208448461_456240467"],
+          titleLink: ["vk", "456240467"],
         },
         {
           title: "140-142 Эпизод",
-          titleLink: ["vk", "video-208448461_456240468"],
+          titleLink: ["vk", "456240468"],
         },
         {
           title: "143-148 Эпизод",
-          titleLink: ["vk", "video-208448461_456240469"],
+          titleLink: ["vk", "456240469"],
         },
       ],
     },
@@ -7494,11 +7494,11 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1 Эпизод",
-          titleLink: ["vk", "video-208448461_456240528"],
+          titleLink: ["vk", "456240528"],
         },
         {
           title: "2-3 Эпизод",
-          titleLink: ["vk", "video-208448461_456240531"],
+          titleLink: ["vk", "456240531"],
         },
       ],
     },
@@ -7507,15 +7507,15 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-5 Эпизод",
-          titleLink: ["vk", "video-208448461_456241582?t=13m20s"],
+          titleLink: ["vk", "456241582?t=13m20s"],
         },
         {
           title: "6-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456241583?t=4h27m57s"],
+          titleLink: ["vk", "456241583?t=4h27m57s"],
         },
         {
           title: "9-10 Эпизод",
-          titleLink: ["vk", "video-208448461_456241584?t=13m5s"],
+          titleLink: ["vk", "456241584?t=13m5s"],
         },
       ],
     },
@@ -7530,19 +7530,19 @@ const seriesAnimePopups = {
         },
         {
           title: "6-9 Эпизод",
-          titleLink: ["vk", "video-208448461_456239571?t=4h8m19s"],
+          titleLink: ["vk", "456239571?t=4h8m19s"],
         },
         {
           title: "10-13 Эпизод",
-          titleLink: ["vk", "video-208448461_456239592?t=9m57s"],
+          titleLink: ["vk", "456239592?t=9m57s"],
         },
         {
           title: "14-17 Эпизод",
-          titleLink: ["vk", "video-208448461_456239596?t=6h27m17s"],
+          titleLink: ["vk", "456239596?t=6h27m17s"],
         },
         {
           title: "18-21 Эпизод",
-          titleLink: ["vk", "video-208448461_456239601?t=5h9m54s"],
+          titleLink: ["vk", "456239601?t=5h9m54s"],
         },
       ],
     },
@@ -7553,11 +7553,11 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-10 Эпизод",
-          titleLink: ["vk", "video-208448461_456239153?t=13m30s"],
+          titleLink: ["vk", "456239153?t=13m30s"],
         },
         {
           title: "11-15 Эпизод",
-          titleLink: ["vk", "video-208448461_456239155?t=13m35s"],
+          titleLink: ["vk", "456239155?t=13m35s"],
         },
       ],
     },
@@ -7566,15 +7566,15 @@ const seriesAnimePopups = {
       items: [
         {
           title: "Железная кровь",
-          titleLink: ["vk", "video-208448461_456239155?t=2h44m48s"],
+          titleLink: ["vk", "456239155?t=2h44m48s"],
         },
         {
           title: "Горячая кровь",
-          titleLink: ["vk", "video-208448461_456239156?t=1m22s"],
+          titleLink: ["vk", "456239156?t=1m22s"],
         },
         {
           title: "Холодная кровь",
-          titleLink: ["vk", "video-208448461_456239156?t=1h17m56s"],
+          titleLink: ["vk", "456239156?t=1h17m56s"],
         },
       ],
     },
@@ -7583,11 +7583,11 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-7 Эпизод",
-          titleLink: ["vk", "video-208448461_456239157?t=11m52s"],
+          titleLink: ["vk", "456239157?t=11m52s"],
         },
         {
           title: "8-11 Эпизод",
-          titleLink: ["vk", "video-208448461_456239158?t=12m13s"],
+          titleLink: ["vk", "456239158?t=12m13s"],
         },
       ],
     },
@@ -7596,7 +7596,7 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456239159?t=57s"],
+          titleLink: ["vk", "456239159?t=57s"],
         },
       ],
     },
@@ -7605,23 +7605,23 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-3 Эпизод",
-          titleLink: ["vk", "video-208448461_456239160?t=2m33s"],
+          titleLink: ["vk", "456239160?t=2m33s"],
         },
         {
           title: "4-5 Эпизод",
-          titleLink: ["vk", "video-208448461_456239154?t=12m58s"],
+          titleLink: ["vk", "456239154?t=12m58s"],
         },
         {
           title: "6-9 Эпизод",
-          titleLink: ["vk", "video-208448461_456239821?t=2m18s"],
+          titleLink: ["vk", "456239821?t=2m18s"],
         },
         {
           title: "10-13 Эпизод",
-          titleLink: ["vk", "video-208448461_456239162?t=16m43s"],
+          titleLink: ["vk", "456239162?t=16m43s"],
         },
         {
           title: "14-15 Эпизод",
-          titleLink: ["vk", "video-208448461_456239163?t=1m44s"],
+          titleLink: ["vk", "456239163?t=1m44s"],
         },
         {
           title: "16-18 Эпизод",
@@ -7629,11 +7629,11 @@ const seriesAnimePopups = {
         },
         {
           title: "19-22 Эпизод",
-          titleLink: ["vk", "video-208448461_456239164?t=46s"],
+          titleLink: ["vk", "456239164?t=46s"],
         },
         {
           title: "23-26 Эпизод",
-          titleLink: ["vk", "video-208448461_456239165"],
+          titleLink: ["vk", "456239165"],
         },
       ],
     },
@@ -7642,7 +7642,7 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-5 Эпизод",
-          titleLink: ["vk", "video-208448461_456239166"],
+          titleLink: ["vk", "456239166"],
         },
       ],
     },
@@ -7651,7 +7651,7 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456239167"],
+          titleLink: ["vk", "456239167"],
         },
       ],
     },
@@ -7660,15 +7660,15 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-3 Эпизод",
-          titleLink: ["vk", "video-208448461_456239168"],
+          titleLink: ["vk", "456239168"],
         },
         {
           title: "4-6 Эпизод",
-          titleLink: ["vk", "video-208448461_456239169"],
+          titleLink: ["vk", "456239169"],
         },
         {
           title: "7-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456239170"],
+          titleLink: ["vk", "456239170"],
         },
       ],
     },
@@ -7677,11 +7677,11 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-6 Эпизод",
-          titleLink: ["vk", "video-208448461_456239171"],
+          titleLink: ["vk", "456239171"],
         },
         {
           title: "7-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456239172"],
+          titleLink: ["vk", "456239172"],
         },
       ],
     },
@@ -7690,11 +7690,11 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456239173"],
+          titleLink: ["vk", "456239173"],
         },
         {
           title: "5-7 Эпизод",
-          titleLink: ["vk", "video-208448461_456239174"],
+          titleLink: ["vk", "456239174"],
         },
       ],
     },
@@ -7703,11 +7703,11 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-3 Эпизод",
-          titleLink: ["vk", "video-208448461_456239175"],
+          titleLink: ["vk", "456239175"],
         },
         {
           title: "4-6 Эпизод",
-          titleLink: ["vk", "video-208448461_456239176"],
+          titleLink: ["vk", "456239176"],
         },
       ],
     },
@@ -7718,19 +7718,19 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1 Эпизод",
-          titleLink: ["vk", "video-208448461_456240685?t=4h43m10s"],
+          titleLink: ["vk", "456240685?t=4h43m10s"],
         },
         {
           title: "2-3 Эпизод",
-          titleLink: ["vk", "video-208448461_456240686?t=0s"],
+          titleLink: ["vk", "456240686?t=0s"],
         },
         {
           title: "4-6 Эпизод",
-          titleLink: ["vk", "video-208448461_456240686?t=1h39m25s"],
+          titleLink: ["vk", "456240686?t=1h39m25s"],
         },
         {
           title: "7-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456240689?t=4h12m30s"],
+          titleLink: ["vk", "456240689?t=4h12m30s"],
         },
       ],
     },
@@ -7742,19 +7742,19 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-2 Эпизод",
-          titleLink: ["vk", "video-208448461_456239255"],
+          titleLink: ["vk", "456239255"],
         },
         {
           title: "3-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456239261"],
+          titleLink: ["vk", "456239261"],
         },
         {
           title: "5-7 Эпизод",
-          titleLink: ["vk", "video-208448461_456239266"],
+          titleLink: ["vk", "456239266"],
         },
         {
           title: "8-10 Эпизод",
-          titleLink: ["vk", "video-208448461_456239270"],
+          titleLink: ["vk", "456239270"],
         },
       ],
     },
@@ -7765,59 +7765,59 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456240572?t=11h12m10s"],
+          titleLink: ["vk", "456240572?t=11h12m10s"],
         },
         {
           title: "4-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456240582?t=13m13s"],
+          titleLink: ["vk", "456240582?t=13m13s"],
         },
         {
           title: "9-16 Эпизод",
-          titleLink: ["vk", "video-208448461_456240702?t=14m27s"],
+          titleLink: ["vk", "456240702?t=14m27s"],
         },
         {
           title: "17-22 Эпизод",
-          titleLink: ["vk", "video-208448461_456240833?t=25m33s"],
+          titleLink: ["vk", "456240833?t=25m33s"],
         },
         {
           title: "23-30 Эпизод",
-          titleLink: ["vk", "video-208448461_456240909?t=12m1s"],
+          titleLink: ["vk", "456240909?t=12m1s"],
         },
         {
           title: "31-37 Эпизод",
-          titleLink: ["vk", "video-208448461_456240980?t=13m5s"],
+          titleLink: ["vk", "456240980?t=13m5s"],
         },
         {
           title: "38-50 Эпизод",
-          titleLink: ["vk", "video-208448461_456241027?t=21m47s"],
+          titleLink: ["vk", "456241027?t=21m47s"],
         },
         {
           title: "51-65 Эпизод",
-          titleLink: ["vk", "video-208448461_456241034?t=12m30s"],
+          titleLink: ["vk", "456241034?t=12m30s"],
         },
         {
           title: "66-80 Эпизод",
-          titleLink: ["vk", "video-208448461_456241052?t=15m18s"],
+          titleLink: ["vk", "456241052?t=15m18s"],
         },
         {
           title: "81-84 Эпизод",
-          titleLink: ["vk", "video-208448461_456241082?t=13m55s"],
+          titleLink: ["vk", "456241082?t=13m55s"],
         },
         {
           title: "85-101 Эпизод",
-          titleLink: ["vk", "video-208448461_456241262?t=2h11m8s"],
+          titleLink: ["vk", "456241262?t=2h11m8s"],
         },
         {
           title: "100-110 Эпизод",
-          titleLink: ["vk", "video-208448461_456241507?t=14m13s"],
+          titleLink: ["vk", "456241507?t=14m13s"],
         },
         {
           title: "111-122 Эпизод",
-          titleLink: ["vk", "video-208448461_456241575?t=12m30s"],
+          titleLink: ["vk", "456241575?t=12m30s"],
         },
         {
           title: "126-160 Эпизод",
-          titleLink: ["vk", "video-208448461_456241603?t=11m56s"],
+          titleLink: ["vk", "456241603?t=11m56s"],
         },
         {
           title: "161-170 Эпизод",
@@ -7837,11 +7837,11 @@ const seriesAnimePopups = {
         },
         {
           title: "5-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456240162?t=4h31m30s"],
+          titleLink: ["vk", "456240162?t=4h31m30s"],
         },
         {
           title: "9-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456240260?t=11m45s"],
+          titleLink: ["vk", "456240260?t=11m45s"],
         },
       ],
     },
@@ -7852,19 +7852,19 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456240722?t=52m23s"],
+          titleLink: ["vk", "456240722?t=52m23s"],
         },
         {
           title: "5-6 Эпизод",
-          titleLink: ["vk", "video-208448461_456240731?t=13m0s"],
+          titleLink: ["vk", "456240731?t=13m0s"],
         },
         {
           title: "7-9 Эпизод",
-          titleLink: ["vk", "video-208448461_456240749?t=3h52m15s"],
+          titleLink: ["vk", "456240749?t=3h52m15s"],
         },
         {
           title: "10-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456240771?t=13m17s"],
+          titleLink: ["vk", "456240771?t=13m17s"],
         },
       ],
     },
@@ -7875,19 +7875,19 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1 Эпизод",
-          titleLink: ["vk", "video-208448461_456240257"],
+          titleLink: ["vk", "456240257"],
         },
         {
           title: "1-6 Эпизод",
-          titleLink: ["vk", "video-208448461_456240256"],
+          titleLink: ["vk", "456240256"],
         },
         {
           title: "7-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456240258"],
+          titleLink: ["vk", "456240258"],
         },
         {
           title: "8-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456240259"],
+          titleLink: ["vk", "456240259"],
         },
       ],
     },
@@ -7902,11 +7902,11 @@ const seriesAnimePopups = {
         },
         {
           title: "5-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456241613?t=2h19m7s"],
+          titleLink: ["vk", "456241613?t=2h19m7s"],
         },
         {
           title: "9-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456241823?t=12m30s"],
+          titleLink: ["vk", "456241823?t=12m30s"],
         },
       ],
     },
@@ -7917,19 +7917,19 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-2 Эпизод",
-          titleLink: ["vk", "video-208448461_456239129"],
+          titleLink: ["vk", "456239129"],
         },
         {
           title: "3-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456239130"],
+          titleLink: ["vk", "456239130"],
         },
         {
           title: "5-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456239131"],
+          titleLink: ["vk", "456239131"],
         },
         {
           title: "9-13 Эпизод",
-          titleLink: ["vk", "video-208448461_456239132"],
+          titleLink: ["vk", "456239132"],
         },
       ],
     },
@@ -7940,23 +7940,23 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456240346"],
+          titleLink: ["vk", "456240346"],
         },
         {
           title: "5-8 Эпизод",
-          titleLink: ["vk", "video-208448461_456240348"],
+          titleLink: ["vk", "456240348"],
         },
         {
           title: "9-12 Эпизод",
-          titleLink: ["vk", "video-208448461_456240350"],
+          titleLink: ["vk", "456240350"],
         },
         {
           title: "13-18 Эпизод",
-          titleLink: ["vk", "video-208448461_456240347"],
+          titleLink: ["vk", "456240347"],
         },
         {
           title: "19-23 Эпизод",
-          titleLink: ["vk", "video-208448461_456240351"],
+          titleLink: ["vk", "456240351"],
         },
       ],
     },
@@ -7967,11 +7967,11 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-2 Эпизод",
-          titleLink: ["vk", "video-208448461_456240352"],
+          titleLink: ["vk", "456240352"],
         },
         {
           title: "3-4 Эпизод",
-          titleLink: ["vk", "video-208448461_456240353"],
+          titleLink: ["vk", "456240353"],
         },
       ],
     },
@@ -8001,7 +8001,7 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/61b9e8f1-8cd9-4763-9985-cadb1a1ef59b?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/61b9e8f1-8cd9-4763-9985-cadb1a1ef59b"],
         },
         {
           title: "5-8 Эпизод",
@@ -8009,7 +8009,7 @@ const seriesAnimePopups = {
         },
         {
           title: "9-12 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/2a58133f-ddc9-4992-92dc-2b92ae36721d?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/2a58133f-ddc9-4992-92dc-2b92ae36721d"],
         },
       ],
     },
@@ -8021,11 +8021,11 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-6 Эпизод",
-          titleLink: ["vk", "video-208448461_456239508"],
+          titleLink: ["vk", "456239508"],
         },
         {
           title: "7-10 Эпизод",
-          titleLink: ["vk", "video-208448461_456239509"],
+          titleLink: ["vk", "456239509"],
         },
         {
           title: "11-13 Эпизод",
@@ -8049,27 +8049,27 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-2 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/67cb7c35-97e6-41ba-b44c-a24ae407e4cc?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/67cb7c35-97e6-41ba-b44c-a24ae407e4cc"],
         },
         {
           title: "3-5 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/bae7fcdb-ca80-49fe-a317-0b2d36189b91?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/bae7fcdb-ca80-49fe-a317-0b2d36189b91"],
         },
         {
           title: "6-8 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/7f6e6c0a-c258-4533-8a5c-5887e786609f?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/7f6e6c0a-c258-4533-8a5c-5887e786609f"],
         },
         {
           title: "19-13 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/ae05a597-0be5-4e14-acd0-5b21a8e3f472?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/ae05a597-0be5-4e14-acd0-5b21a8e3f472"],
         },
         {
           title: "14-18 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/18de0dea-f078-491e-bcbe-22efb02144b1?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/18de0dea-f078-491e-bcbe-22efb02144b1"],
         },
         {
           title: "19-21 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/967a0751-3d08-4468-a783-24a894618c8d?share=post_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/967a0751-3d08-4468-a783-24a894618c8d"],
         },
         {
           title: "22-25 Эпизод",

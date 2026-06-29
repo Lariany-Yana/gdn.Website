@@ -5,15 +5,15 @@ const literatureComicsPopups = {
       items: [
         {
           title: "Dead Days 1",
-          titleLink: ["vk", "video-208448461_456240598?t=12m40s"],
+          titleLink: ["vk", "456240598?t=12m40s"],
         },
         {
           title: "Ultimate Fantastic Four 21",
-          titleLink: ["vk", "video-208448461_456240598?t=44m0s"],
+          titleLink: ["vk", "456240598?t=44m0s"],
         },
         {
           title: "Marvel Zombies 1",
-          titleLink: ["vk", "video-208448461_456240598?t=1h20m50s"],
+          titleLink: ["vk", "456240598?t=1h20m50s"],
         },
       ],
     },

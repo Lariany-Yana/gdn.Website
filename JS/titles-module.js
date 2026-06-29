@@ -9,7 +9,7 @@ const DONUT_LVL = {
 
 const SRC_PREFIX = {
   boosty: "https://boosty.to/",
-  vk: "https://vkvideo.ru/",
+  vk: "https://vkvideo.ru/video-208448461_",
 };
 
 const DISABLE_PLAYER = true;

@@ -5,31 +5,31 @@ const literatureRanobePopups = {
       items: [
         {
           title: "1-6 Главы",
-          titleLink: ["vk", "video-208448461_456239657?t=13m46s"],
+          titleLink: ["vk", "456239657?t=13m46s"],
         },
         {
           title: "7-15 Главы",
-          titleLink: ["vk", "video-208448461_456239748?t=9h38m0s"],
+          titleLink: ["vk", "456239748?t=9h38m0s"],
         },
         {
           title: "16-17 Главы",
-          titleLink: ["vk", "video-208448461_456239820?t=7h23m35s"],
+          titleLink: ["vk", "456239820?t=7h23m35s"],
         },
         {
           title: "18-23 Главы",
-          titleLink: ["vk", "video-208448461_456239869?t=15m6s"],
+          titleLink: ["vk", "456239869?t=15m6s"],
         },
         {
           title: "24-28 Главы",
-          titleLink: ["vk", "video-208448461_456239904?t=10m58s"],
+          titleLink: ["vk", "456239904?t=10m58s"],
         },
         {
           title: "29-32 Главы",
-          titleLink: ["vk", "video-208448461_456239940?t=4h13m24s"],
+          titleLink: ["vk", "456239940?t=4h13m24s"],
         },
         {
           title: "33-37 Главы",
-          titleLink: ["vk", "video-208448461_456239952?t=13m57s"],
+          titleLink: ["vk", "456239952?t=13m57s"],
         },
         {
           title: "38-42 Главы",
@@ -48,15 +48,15 @@ const literatureRanobePopups = {
         },
         {
           title: "3-6 Главы",
-          titleLink: ["vk", "video-208448461_456241400?t=11m45s"],
+          titleLink: ["vk", "456241400?t=11m45s"],
         },
         {
           title: "7-9 Главы",
-          titleLink: ["vk", "video-208448461_456241416?t=12m15s"],
+          titleLink: ["vk", "456241416?t=12m15s"],
         },
         {
           title: "10-13 Главы",
-          titleLink: ["vk", "video-208448461_456241418?t=12m51s"],
+          titleLink: ["vk", "456241418?t=12m51s"],
         },
       ],
     },
@@ -67,7 +67,7 @@ const literatureRanobePopups = {
       items: [
         {
           title: "0-2.4 Главы",
-          titleLink: ["vk", "video-208448461_456241643?t=2h22m58s"],
+          titleLink: ["vk", "456241643?t=2h22m58s"],
         },
         {
           title: "2.5-5.1 Главы",
