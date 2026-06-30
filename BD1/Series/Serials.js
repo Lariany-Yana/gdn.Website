@@ -596,7 +596,7 @@ const seriesSerials = [
   {
     nameRu: "Теория большого взрыва",
     nameEn: "The Big Bang Theory",
-    titleStatus: "Просмотрено: 3 Сезона",
+    titleStatus: "Просмотрено: 3 Сезона, 4 Сезон 1-5/24 Эпизод",
     donutTerms: "donut-lvl-3",
     id: "Series-Serials_The-Big-Bang-Theory",
     posterImage: "https://static.tildacdn.com/tild3261-3164-4166-b937-363235323338/__.webp",

@@ -1,4 +1,4 @@
-const updateWas = "Добавление новых слотов было: 09.06.26";
+const updateWas = "Добавление новых слотов было: 30.06.26";
 const ordersDatabase = [
   /* ШАБЛОН
   {
@@ -54,7 +54,7 @@ const ordersDatabase = [
   {
     nameRu: "Ван Пис",
     nameEn: "One Piece",
-    orderRemark: "Манга ⨯ Прочитано: -3 Слота (1155-1181 Главы)",
+    orderRemark: "Манга ⨯ Прочитано: -2 Слота (1155-1181 Главы)",
     cardType: "order-during",
     id: "order_One-Piece-Manga",
     items: [
@@ -77,14 +77,14 @@ const ordersDatabase = [
         was: "was",
       },
       {
-        nickname: "1155-1171 Главы",
-        slot: "2.25", // 1155-1163 Главы
-        date: "В уточнении",
-        was: "owe",
+        nickname: "Дурко",
+        slot: "1", // 1155-1162 Главы
+        date: "11.06.26",
+        was: "was",
       },
       {
-        nickname: "1172-1181 Главы",
-        slot: "0.75", // 1172-1181 Главы
+        nickname: "1163-1181 Главы",
+        slot: "2", // 1163-1181 Главы
         date: "В уточнении",
         was: "owe",
       },
@@ -116,10 +116,10 @@ const ordersDatabase = [
         was: "was",
       },
       {
-        nickname: "7с 7-8эп",
+        nickname: "Твою мать!",
         slot: "1", // 7 Сезон 7-8 Эпизод
-        date: "В уточнении",
-        was: "owe",
+        date: "18.06.26",
+        was: "was",
       },
     ],
   },
@@ -1280,6 +1280,34 @@ const ordersDatabase = [
         nickname: "Insomnia",
         slot: "1",
         date: "09.06.26",
+      },
+    ],
+  },
+  {
+    nameRu: "Судьба/Ночь схватки: Бесконечный мир клинков",
+    nameEn: "Fate/stay night: Unlimited Blade Works",
+    orderRemark: "Аниме × В заказе: 1 Сезон 0-1/12 Эпизод",
+    cardType: "order-waiting",
+    id: "order_Unlimited-Blade-Works-1",
+    items: [
+      {
+        nickname: "Рейч",
+        slot: "1",
+        date: "24.06.26",
+      },
+    ],
+  },
+  {
+    nameRu: "Теория большого взрыва",
+    nameEn: "The Big Bang Theory",
+    orderRemark: "Сериал × В заказе: 4 Сезон 6-9/12 Эпизод",
+    cardType: "order-waiting",
+    id: "order_The-Big-Bang-Theory-4",
+    items: [
+      {
+        nickname: "Вару",
+        slot: "1",
+        date: "29.06.26",
       },
     ],
   },

@@ -25,8 +25,9 @@ const scheduleDatabase = [
     date: "30.06.26",
   },
   {
-    nameRu: "Слоты Вару",
-    scheduleRemark: "Мультфильмы × Начало в 18:00 по МСК",
+    nameRu: "Теория большого взрыва",
+    nameEn: "The Big Bang Theory",
+    scheduleRemark: "Сериал × Начало в 18:00 по МСК",
     scheduleType: "schedule-current",
     date: "30.06.26",
   },
@@ -39,7 +40,22 @@ const scheduleDatabase = [
   },
   // Среда
   {
-    nameRu: "Стрим вполне вероятен",
+    nameRu: "Викинги",
+    nameEn: "Vikings",
+    scheduleRemark: "Сериал × Начало в 16:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "01.07.26",
+  },
+  {
+    nameRu: "GTA Vice City: The Next-Gen Edition",
+    scheduleRemark: "Игра × Начало в 18:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "01.07.26",
+  },
+  {
+    nameRu: "Громовержцы*",
+    nameEn: "Thunderbolts*",
+    scheduleRemark: "Фильм × Начало в 20:00 по МСК",
     scheduleType: "schedule-current",
     date: "01.07.26",
   },
