@@ -2,7 +2,7 @@ const literatureBooks = [
   {
     nameRu: "Архив Буресвета",
     nameEn: "The Stormlight Archive",
-		titleStatus: "Прочитано: 60%",
+    titleStatus: "Прочитано: 60%",
     donutTerms: "v2",
     id: "Literary-Books_Stormlight-Archive",
     posterImage: "https://static.tildacdn.com/tild3039-3336-4037-b037-336532363561/_The_Stormlight_Arch.webp",
@@ -11,9 +11,10 @@ const literatureBooks = [
   {
     nameRu: "Впервые на экране",
     nameEn: "Now Showing",
-		titleStatus: "Прочитано: 100%",
+    titleStatus: "Прочитано: 100%",
     donutTerms: "donut-lvl-3",
     titleLink: ["vk", "456241828?t=2h58m6s"],
+    player: ["vk", "-208448461", "456241828", "22eed05e7f096954", "2h58m6s"],
     id: "Literary-Books_Now-Showing",
     posterImage: "https://static.tildacdn.com/tild3237-6265-4766-b563-323463366561/_Now_showing.webp",
     cardType: "literature-Book",
@@ -21,7 +22,7 @@ const literatureBooks = [
   {
     nameRu: "Тёмная башня",
     nameEn: "The Dark Tower",
-		titleStatus: "Прочитано: 100%",
+    titleStatus: "Прочитано: 100%",
     donutTerms: "donut-lvl-1",
     id: "Literary-Books_Dark-Tower",
     posterImage: "https://static.tildacdn.com/tild3331-6132-4538-a236-353539313339/_The_Dark_Tower.webp",
@@ -30,9 +31,10 @@ const literatureBooks = [
   {
     nameRu: "Я ем тишину ложками",
     nameEn: "Stranger in the Woods",
-		titleStatus: "Прочитано: 36%",
+    titleStatus: "Прочитано: 36%",
     donutTerms: "donut-lvl-3",
     titleLink: ["vk", "456241306?t=17m57s"],
+    player: ["vk", "-208448461", "456241306", "2c5661194f0c5aac", "0h17m57s"],
     id: "Literary-Books_Stranger-in-the-Woods",
     posterImage: "https://static.tildacdn.com/tild3838-3561-4061-a636-653835306461/_Stranger_in_the_Woo.webp",
     cardType: "literature-Book",

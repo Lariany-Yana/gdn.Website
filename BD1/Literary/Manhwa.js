@@ -2,9 +2,10 @@ const literatureManhwa = [
   {
     nameRu: "Белая кровь",
     nameEn: "Unholy Blood",
-		titleStatus: "Прочитано: 1-6/92 Главы",
+    titleStatus: "Прочитано: 1-6/92 Главы",
     donutTerms: "donut-lvl-3",
     titleLink: ["vk", "456241446?t=13m46s"],
+    player: ["vk", "-208448461", "456241446", "f351640e851401a4", "0h13m46s"],
     id: "Literary-Manhwa_Unholy-Blood",
     posterImage: "https://static.tildacdn.com/tild3865-3439-4466-b938-656132386537/_Unholy_Blood.webp",
     cardType: "literature-Manhwa",
@@ -12,7 +13,7 @@ const literatureManhwa = [
   {
     nameRu: "Милый дом",
     nameEn: "Sweet Home",
-		titleStatus: "Прочитано: 1-77/141 Главы",
+    titleStatus: "Прочитано: 1-77/141 Главы",
     id: "Literary-Manhwa_Sweet-Home",
     posterImage: "https://static.tildacdn.com/tild3061-3433-4334-a339-623161306364/_Sweet_Home.webp",
     cardType: "literature-Manhwa",
@@ -20,7 +21,7 @@ const literatureManhwa = [
   {
     nameRu: "Начало после конца",
     nameEn: "The Beginning After the End",
-		titleStatus: "Прочитано: 1-25/↻ Главы",
+    titleStatus: "Прочитано: 1-25/↻ Главы",
     id: "Literary-Manhwa_Beginning-After-End",
     posterImage: "https://static.tildacdn.com/tild3266-6666-4965-a466-666136646666/_The_Beginning_After.webp",
     cardType: "literature-Manhwa",
@@ -28,7 +29,7 @@ const literatureManhwa = [
   {
     nameRu: "Поднятие уровня в одиночку",
     nameEn: "Solo Leveling",
-		titleStatus: "Прочитано: 1-28/201 Главы",
+    titleStatus: "Прочитано: 1-28/201 Главы",
     id: "Literary-Manhwa_Solo-Leveling",
     posterImage: "https://static.tildacdn.com/tild3734-6462-4531-b439-376131356366/_Solo_Leveling.webp",
     cardType: "literature-Manhwa",
@@ -36,9 +37,10 @@ const literatureManhwa = [
   {
     nameRu: "Система всемогущего дизайнера",
     nameEn: "The Greatest Estate Designer",
-		titleStatus: "Прочитано: 1-12/222 Главы",
+    titleStatus: "Прочитано: 1-12/222 Главы",
     donutTerms: "donut-lvl-3",
     titleLink: ["vk", "456241657?t=11m32s"],
+		player: ["vk", "-208448461", "456241657", "c38b2c32520118e9", "0h11m32s"],
     id: "Literary-Manhwa_Greatest-Estate-Designer",
     posterImage: "https://static.tildacdn.com/tild6636-3537-4830-a262-633866326536/_The_Greatest_Estate.webp",
     cardType: "literature-Manhwa",

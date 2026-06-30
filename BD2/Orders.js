@@ -1185,6 +1185,36 @@ const ordersDatabase = [
     ],
   },
   {
+    nameRu: "Потерянная комната",
+    nameEn: "The Lost Room",
+    orderRemark: "Сериал × В заказе: 1 Сезон 1-3/3 Эпизод",
+    personalOrder: "user_Katya",
+    cardType: "order-waiting",
+    id: "order_The-Lost-Room",
+    items: [
+      {
+        nickname: "Твою мать!",
+        slot: "2",
+        date: "05.05.26",
+      },
+    ],
+  },
+  {
+    nameRu: "Таинственный лес",
+    nameEn: "The Village",
+    orderRemark: "Фильм",
+    personalOrder: "user_Katya",
+    cardType: "order-waiting",
+    id: "order_The-Village",
+    items: [
+      {
+        nickname: "Твою мать!",
+        slot: "1",
+        date: "05.05.26",
+      },
+    ],
+  },
+  {
     nameRu: "Звёздные войны. Дарт Мол: Повелитель теней",
     nameEn: "Star Wars: Maul – Shadow Lord",
     orderRemark: "Мультсериал × В заказе: 1 Сезон 1-4/10 Эпизод",

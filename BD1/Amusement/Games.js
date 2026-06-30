@@ -395,6 +395,22 @@ const amusementGames = [
     cardType: "amusement-Game",
   },
   {
+    nameRu: "Nier&#1: Automata",
+    titleStatus: "Наиграно: До финала",
+    titleLost: "lost",
+    id: "Amusement-Games_Nier-Automata",
+    posterImage: "https://static.tildacdn.com/tild3036-6439-4332-b833-396437396334/img.webp",
+    cardType: "amusement-Game",
+  },
+  {
+    nameRu: "NieR&#2 Replicant ver.1.22474487139",
+    titleStatus: "Наиграно: До финала",
+    titleLost: "lost",
+    id: "Amusement-Games_NieR-Replicant",
+    posterImage: "https://static.tildacdn.com/tild6639-3537-4937-b163-313965313666/img.webp",
+    cardType: "amusement-Game",
+  },
+  {
     nameRu: "One Night at Flumpty's",
     titleStatus: "Наиграно: До финала",
     donutTerms: "donut-lvl-3",

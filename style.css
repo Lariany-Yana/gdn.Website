@@ -93,6 +93,7 @@
   --TXT-size-season: var(--TXT-size-section-h1);
   --TXT-season-color: light-dark(Salmon, Salmon);
   --TXT-size-episode: 1rem;
+  --player-size: 800px;
   /* ~ Поиск */
   --FIND-color: light-dark(BlanchedAlmond, #1a1a1a);
   --FIND-border: light-dark(DarkRed, #1a1a1a);
@@ -1625,65 +1626,6 @@ details.schedule {
   }
 }
 
-@media (pointer: coarse) {
-  .tabs-container,
-  .ecosys,
-  .search-header {
-    opacity: 1 !important;
-  }
-  .episodes-container,
-  .title-card,
-  .custom-content,
-  .avatar {
-    width: 100% !important;
-  }
-  .first .avatar img {
-    aspect-ratio: 1/1 !important;
-  }
-
-  .coarse-hidden {
-    display: none !important;
-  }
-
-  .search-header {
-    height: calc(var(--UI-letterbox) - (var(--PDNG-extra) * 2)) !important;
-    margin: var(--PDNG-extra) !important;
-  }
-  body:has(.window#titles) .alphabet {
-    scrollbar-width: none !important;
-    overflow-y: scroll !important;
-    width: 30px !important;
-    max-height: 50vh !important;
-    .letter {
-      scroll-margin: 15px 0;
-    }
-  }
-}
-
-@keyframes pulse {
-  0% {
-    background-color: var(--RGB-regular);
-  }
-  50% {
-    background-color: light-dark(color-mix(in oklab, var(--RGB-regular), white 20%), color-mix(in oklab, var(--RGB-regular), black 20%)) !important;
-  }
-  100% {
-    background-color: var(--RGB-regular);
-  }
-}
-
-@keyframes glare {
-  0% {
-    left: -150%;
-  }
-  50% {
-    left: 150%;
-  }
-  100% {
-    left: 150%;
-  }
-}
-
 /* Плеер β */
 .popup-overlay {
   position: fixed;
@@ -1758,10 +1700,74 @@ details.schedule {
 .popup-overlay.player-overlay iframe {
   z-index: 3;
   display: block;
-  width: min(800px, 100%);
+  width: min(var(--player-size), calc(100% - (var(--PDNG-general) * 2)));
+  max-height: calc(100vh - 100px);
   aspect-ratio: 16/9;
   box-sizing: border-box;
   background-color: var(--RGB-background);
   border: none !important;
   outline: 1px var(--RGB-regular) solid;
+}
+
+@media (pointer: coarse) {
+  .tabs-container,
+  .ecosys,
+  .search-header {
+    opacity: 1 !important;
+  }
+  .episodes-container,
+  .title-card,
+  .custom-content,
+  .avatar {
+    width: 100% !important;
+  }
+  .first .avatar img {
+    aspect-ratio: 1/1 !important;
+  }
+
+  .coarse-hidden {
+    display: none !important;
+  }
+
+  .search-header {
+    height: calc(var(--UI-letterbox) - (var(--PDNG-extra) * 2)) !important;
+    margin: var(--PDNG-extra) !important;
+  }
+  body:has(.window#titles) .alphabet {
+    scrollbar-width: none !important;
+    overflow-y: scroll !important;
+    width: 30px !important;
+    max-height: 50vh !important;
+    .letter {
+      scroll-margin: 15px 0;
+    }
+  }
+
+  .popup-overlay.player-overlay iframe {
+    width: auto !important;
+  }
+}
+
+@keyframes pulse {
+  0% {
+    background-color: var(--RGB-regular);
+  }
+  50% {
+    background-color: light-dark(color-mix(in oklab, var(--RGB-regular), white 20%), color-mix(in oklab, var(--RGB-regular), black 20%)) !important;
+  }
+  100% {
+    background-color: var(--RGB-regular);
+  }
+}
+
+@keyframes glare {
+  0% {
+    left: -150%;
+  }
+  50% {
+    left: 150%;
+  }
+  100% {
+    left: 150%;
+  }
 }

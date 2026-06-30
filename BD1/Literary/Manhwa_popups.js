@@ -1,35 +1,4 @@
 const literatureManhwaPopups = {
-  "Literary-Manhwa_Innocent": [
-    {
-      seasonName: "",
-      items: [
-        {
-          title: "1-11 Главы",
-          lost: "lost",
-        },
-        {
-          title: "12-38 Главы",
-          titleLink: ["vk", "456239024?t=2h1m46s"],
-        },
-        {
-          title: "39-53 Главы",
-          titleLink: ["vk", "456239040?t=13m52s"],
-        },
-        {
-          title: "54-64 Главы",
-          titleLink: ["vk", "456239065?t=2h12m46s"],
-        },
-        {
-          title: "65-75 Главы",
-          titleLink: ["vk", "456239179?t=16m32s"],
-        },
-        {
-          title: "76-87 Главы",
-          titleLink: ["vk", "456239338?t=20m38s"],
-        },
-      ],
-    },
-  ],
   "Literary-Manhwa_Sweet-Home": [
     {
       seasonName: "",
