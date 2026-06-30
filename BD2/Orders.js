@@ -54,7 +54,7 @@ const ordersDatabase = [
   {
     nameRu: "Ван Пис",
     nameEn: "One Piece",
-    orderRemark: "Манга ⨯ Прочитано: -2 Слота (1155-1181 Главы)",
+    orderRemark: "Манга ⨯ Прочитано: -2 Слота (1163-1181 Главы)",
     cardType: "order-during",
     id: "order_One-Piece-Manga",
     items: [
