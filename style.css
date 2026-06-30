@@ -1614,8 +1614,11 @@ details.schedule {
     flex-direction: column;
     gap: 5px;
     color: var(--RGB-accent) !important;
-  }
 
+    &:has(.schedule-info.hidden) .name-ru {
+      align-self: center;
+    }
+  }
   .schedule-info {
     font-size: var(--TXT-size-schedule-info);
     margin-top: var(--PDNG-extra);
