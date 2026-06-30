@@ -64,7 +64,7 @@
   --RGB-accent: light-dark(Navy, Cyan);
   /* ~ Текст */
   --TXT-color: light-dark(Black, White);
-  --TXT-family-main: "Inter Tight";
+  --TXT-family-main: "Inter Tight", "Arial", sans-serif;
   /* ~ Карточки */
   --CARD-color: light-dark(Snow, #1a1a1a);
   --CARD-status-color: light-dark(SaddleBrown, Tan);
