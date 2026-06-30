@@ -64,8 +64,7 @@
   --RGB-accent: light-dark(Navy, Cyan);
   /* ~ Текст */
   --TXT-color: light-dark(Black, White);
-  --TXT-family-main: "Roboto", sans-serif;
-  --TXT-family-extra: "Roboto Mono", monospace;
+  --TXT-family-main: "Inter Tight";
   /* ~ Карточки */
   --CARD-color: light-dark(Snow, #1a1a1a);
   --CARD-status-color: light-dark(SaddleBrown, Tan);
@@ -323,7 +322,7 @@ button {
     justify-self: center;
     font-size: var(--TXT-size-section-h2);
     min-height: 30px;
-    font-family: var(--TXT-family-extra) !important;
+    font-family: var(--TXT-family-main) !important;
     color: var(--RGB-regular) !important;
     line-height: 1.55;
     font-weight: bold;
@@ -527,13 +526,14 @@ button {
         --IndianRed: IndianRed;
         text-transform: uppercase;
         flex: 1;
+        font-family: var(--TXT-family-main);
         white-space: nowrap;
         padding: var(--PDNG-button);
         border: none;
         border-radius: 0px;
         cursor: pointer;
-        font-size: var(--TXT-size-buttons);
         font-weight: bold;
+        font-size: var(--TXT-size-buttons);
         color: white;
         letter-spacing: 0.25px;
         transition: background-color var(--UI-transition-extra) ease;
@@ -612,7 +612,7 @@ button {
 }
 
 .name-ru {
-  font-weight: bold;
+  font-weight: 500;
   font-size: var(--TXT-size-name-ru);
 }
 
@@ -986,6 +986,7 @@ button {
 
       & + &::before {
         content: "×";
+        font-family: Arial, sans-serif;
       }
       &:first-child {
         padding-left: var(--PDNG-general);
@@ -995,6 +996,7 @@ button {
       }
 
       .tab-button {
+        font-family: var(--TXT-family-main);
         cursor: pointer;
         text-transform: uppercase;
         font-size: var(--TXT-size-tab);
@@ -1462,7 +1464,7 @@ button {
       content: "No data :[";
       display: block;
       position: absolute;
-      font-family: var(--TXT-family-extra) !important;
+      font-family: var(--TXT-family-main) !important;
       font-size: var(--TXT-size-normal);
       padding: var(--PDNG-general);
       box-sizing: border-box;
@@ -1571,7 +1573,7 @@ details.schedule {
     justify-self: center;
     font-size: var(--TXT-size-section-h2);
     min-height: 30px;
-    font-family: var(--TXT-family-extra) !important;
+    font-family: var(--TXT-family-main) !important;
     line-height: 1.55;
     font-weight: bold;
     text-align: center;
