@@ -145,7 +145,7 @@ const seriesSerials = [
   {
     nameRu: "Декстер",
     nameEn: "Dexter",
-    titleStatus: "Просмотрено: 6 Сезонов, 7 Сезон 1-8/12 Эпизод",
+    titleStatus: "Просмотрено: 7 Сезонов",
     donutTerms: "donut-lvl-2",
     id: "Series-Serials_Dexter",
     posterImage: "https://static.tildacdn.com/tild3032-3631-4435-a164-623261386234/photo.webp",
@@ -601,7 +601,7 @@ const seriesSerials = [
   {
     nameRu: "Теория большого взрыва",
     nameEn: "The Big Bang Theory",
-    titleStatus: "Просмотрено: 3 Сезона, 4 Сезон 1-5/24 Эпизод",
+    titleStatus: "Просмотрено: 3 Сезона, 4 Сезон 1-9/24 Эпизод",
     donutTerms: "donut-lvl-3",
     id: "Series-Serials_The-Big-Bang-Theory",
     posterImage: "https://static.tildacdn.com/tild3261-3164-4166-b937-363235323338/__.webp",

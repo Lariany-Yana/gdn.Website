@@ -91,39 +91,6 @@ const ordersDatabase = [
     ],
   },
   {
-    nameRu: "Декстер",
-    nameEn: "Dexter",
-    orderRemark: "Сериал ⨯ Просмотрено: 7 Сезон 1-8/12 Эпизод",
-    cardType: "order-during",
-    id: "order_Dexter",
-    items: [
-      {
-        nickname: "Мавроди",
-        slot: "1", // 7 Сезон 1-2 Эпизод
-        date: "22.04.26",
-        was: "was",
-      },
-      {
-        nickname: "Твою мать!",
-        slot: "1", // 7 Сезон 3-4 Эпизод
-        date: "29.05.26",
-        was: "was",
-      },
-      {
-        nickname: "Мавроди",
-        slot: "1", // 7 Сезон 5-6 Эпизод
-        date: "05.06.26",
-        was: "was",
-      },
-      {
-        nickname: "Твою мать!",
-        slot: "1", // 7 Сезон 7-8 Эпизод
-        date: "18.06.26",
-        was: "was",
-      },
-    ],
-  },
-  {
     nameRu: "Сопрано",
     nameEn: "The Sopranos",
     orderRemark: "Сериал ⨯ Просмотрено: 3 Сезон 1-9/13 Эпизод",
@@ -1327,22 +1294,47 @@ const ordersDatabase = [
       },
     ],
   },
+  //#endregion
+  //#region ~Нужен дозаказ~
   {
     nameRu: "Теория большого взрыва",
     nameEn: "The Big Bang Theory",
-    orderRemark: "Сериал × В заказе: 4 Сезон 6-9/12 Эпизод",
-    cardType: "order-waiting",
+    orderRemark: "Сериал × Просмотрено: 4 Сезон 1-9/12 Эпизод",
+    cardType: "order-incomplete",
     id: "order_The-Big-Bang-Theory-4",
     items: [
       {
         nickname: "Вару",
-        slot: "1",
+        slot: "0.25", // 4 Сезон 1 Эпизод
+        date: "09.01.25",
+        was: "was",
+      },
+      {
+        nickname: "Вару",
+        slot: "0.5", // 4 Сезон 2-3 Эпизод
+        date: "13.01.25",
+        was: "was",
+      },
+      {
+        nickname: "Вару",
+        slot: "0.25", // 4 Сезон 4 Эпизод
+        date: "14.01.25",
+        was: "was",
+      },
+      {
+        nickname: "Вару",
+        slot: "0.25", // 4 Сезон 5 Эпизод
+        date: "15.01.25",
+        was: "was",
+      },
+      {
+        nickname: "Вару",
+        slot: "1", // 4 Сезон 6-9 Эпизод
         date: "29.06.26",
+        was: "was",
       },
     ],
   },
-  //#endregion
-  //#region ~Нужен дозаказ~
   {
     nameRu: "Инуяшики",
     nameEn: "Inuyashiki",
@@ -1942,6 +1934,44 @@ const ordersDatabase = [
     ],
   }, //#endregion
   //#region Декстер
+  {
+    nameRu: "Декстер",
+    nameEn: "Dexter",
+    orderRemark: "Сериал ⨯ Просмотрено: 7 Сезон 1-12/12 Эпизод",
+    cardType: "order-finished",
+    items: [
+      {
+        nickname: "Мавроди",
+        slot: "1", // 7 Сезон 1-2 Эпизод
+        date: "22.04.26",
+        was: "was",
+      },
+      {
+        nickname: "Твою мать!",
+        slot: "1", // 7 Сезон 3-4 Эпизод
+        date: "29.05.26",
+        was: "was",
+      },
+      {
+        nickname: "Мавроди",
+        slot: "1", // 7 Сезон 5-6 Эпизод
+        date: "05.06.26",
+        was: "was",
+      },
+      {
+        nickname: "Твою мать!",
+        slot: "1", // 7 Сезон 7-8 Эпизод
+        date: "18.06.26",
+        was: "was",
+      },
+      {
+        nickname: "7с 9-12эп",
+        slot: "2", // 7 Сезон 9-12 Эпизод
+        date: "В уточнении",
+        was: "owe",
+      },
+    ],
+  },
   {
     nameRu: "Декстер",
     nameEn: "Dexter",

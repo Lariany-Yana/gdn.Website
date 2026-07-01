@@ -1050,6 +1050,16 @@ const seriesSerialsPopups = {
           titleLink: ["vk", "456241852?t=14m31s"],
           player: ["vk", "-208448461", "456241852", "45c4198773dea2eb", "0h14m31s"],
         },
+        {
+          title: "9-10 Эпизод",
+          titleLink: ["vk", "456241858?t=17m1s"],
+          player: ["vk", "-208448461", "456241858", "eb0fbc3635d98fb8", "0h17m1s"],
+        },
+        {
+          title: "11-12 Эпизод",
+          titleLink: ["vk", "456241858?t=4h29m3s"],
+          player: ["vk", "-208448461", "456241858", "eb0fbc3635d98fb8", "4h29m3s"],
+        },
       ],
     },
   ],
@@ -3832,6 +3842,11 @@ const seriesSerialsPopups = {
           title: "1-5 Эпизод",
           titleLink: ["vk", "456241440?t=3h45m38s"],
           player: ["vk", "-208448461", "456241440", "266369382efbe0bc", "3h45m38s"],
+        },
+        {
+          title: "6-9 Эпизод",
+          titleLink: ["vk", "456241858?t=2h38m54s"],
+          player: ["vk", "-208448461", "456241858", "eb0fbc3635d98fb8", "2h38m54s"],
         },
       ],
     },

@@ -201,7 +201,9 @@ const seriesCartoons = [
   {
     nameRu: "Мао Мао: Герои чистого сердца",
     nameEn: "Mao Mao: Heroes of Pure Heart",
-    titleStatus: "Просмотрено: Разные серии",
+    titleStatus: "Просмотрено: 1 Сезон 1, 6, 12, 14, 17, 19, 21, 28 Эпизод",
+    titleLink: ["vk", "456241729?t=11m56s"],
+    player: ["vk", "-208448461", "456241729", "706edfe597a88f51", "0h11m56s"],
     donutTerms: "donut-lvl-3",
     id: "Series-Cartoon_Mao-Mao",
     posterImage: "https://static.tildacdn.com/tild3737-6462-4436-b033-396137626639/_.webp",
@@ -407,7 +409,7 @@ const seriesCartoons = [
   {
     nameRu: "Южный Парк",
     nameEn: "South Park",
-    titleStatus: "Просмотрено: 1-2 Сезон, 3 Сезон 1-2/17 Эпизод",
+    titleStatus: "Просмотрено: 1-2 Сезон, 3 Сезон 1-10/17 Эпизод",
     donutTerms: "donut-lvl-3",
     id: "Series-Cartoon_South-Park",
     posterImage: "https://static.tildacdn.com/tild3930-6433-4463-b339-396265356332/_.webp",
