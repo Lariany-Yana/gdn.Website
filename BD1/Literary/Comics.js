@@ -5,7 +5,7 @@ const literatureComics = [
     titleStatus: "Прочитано: До финала",
     donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456240162?t=12m57s"],
-    player: ["vk", "-208448461", "456240162", "930a61fdc40bc795", "0h12m57s"],
+    player: ["vk", "456240162", "930a61fdc40bc795", "0h12m57s"],
 
     id: "Literary-Comics_Batman-Who-Laughs",
     posterImage: "https://static.tildacdn.com/tild6334-3632-4439-b866-386133646365/_The_Batman_Who_Laug.webp",

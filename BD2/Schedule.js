@@ -40,6 +40,11 @@ const scheduleDatabase = [
   },
   // Среда
   {
+    nameRu: "Стрим не состоялся",
+    scheduleType: "schedule-current",
+    date: "01.07.26",
+  },
+	/*{
     nameRu: "Викинги",
     nameEn: "Vikings",
     scheduleRemark: "Сериал × Начало в 16:00 по МСК",
@@ -58,7 +63,7 @@ const scheduleDatabase = [
     scheduleRemark: "Фильм × Начало в 20:00 по МСК",
     scheduleType: "schedule-current",
     date: "01.07.26",
-  },
+  },*/
   // Четверг
   {
     nameRu: "Стрим маловероятен",

@@ -166,19 +166,18 @@ function createTitleCard(item) {
   const watchBtn = clone.querySelector(".watch");
 
   // ИЗМЕНЕНО: Если DISABLE_PLAYER равен true, hasPlayer принудительно становится false
-  const hasPlayer = !DISABLE_PLAYER && Array.isArray(item.player) && item.player.length === 5;
+  const hasPlayer = !DISABLE_PLAYER && Array.isArray(item.player) && item.player.length === 4;
   const linkData = item.titleLink;
 
   if (hasPlayer) {
-    const [source, oid, id, hash, time] = item.player;
+    const [source, id, hash, time] = item.player;
 
     if (source) {
       watchBtn.classList.add(source);
     }
     watchBtn.classList.add("iframe");
 
-    const embedUrl = `https://vk.com/video_ext.php?oid=${oid}&id=${id}&hash=${hash}&t=${time}`;
-
+    const embedUrl = `https://vkvideo.ru/video_ext.php?oid=-208448461&id=${id}&hash=${hash}&t=${time}`;
     watchBtn.onclick = (e) => {
       e.preventDefault();
       openPlayerPopup(embedUrl);
@@ -344,7 +343,7 @@ function openPopup(id) {
       epContainer.className = "episodes-container";
 
       targetEntry.items.forEach((ep) => {
-        const hasPlayer = !DISABLE_PLAYER && Array.isArray(ep.player) && ep.player.length === 5;
+        const hasPlayer = !DISABLE_PLAYER && Array.isArray(ep.player) && ep.player.length === 4;
         const linkData = ep.titleLink;
 
         let linkType = "";
@@ -373,8 +372,8 @@ function openPopup(id) {
         a.appendChild(span);
 
         if (hasPlayer) {
-          const [source, oid, id, hash, time] = ep.player;
-          const embedUrl = `https://vk.com/video_ext.php?oid=${oid}&id=${id}&hash=${hash}&t=${time}`;
+          const [source, id, hash, time] = ep.player;
+          const embedUrl = `https://vkvideo.ru/video_ext.php?oid=-208448461&id=${id}&hash=${hash}&t=${time}`;
 
           a.href = "javascript:void(0);";
           a.onclick = (e) => {
