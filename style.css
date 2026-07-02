@@ -152,7 +152,9 @@ p a {
 
 :root[data-theme="light"] p a[onclick="toggleTheme('light')"],
 :root[data-theme="dark"] p a[onclick="toggleTheme('dark')"],
-:root[data-theme="auto"] p a[onclick="toggleTheme('auto')"] {
+:root[data-theme="auto"] p a[onclick="toggleTheme('auto')"],
+:root[data-vk-domain="old"] p a[onclick="setVKDomain('old')"],
+:root[data-vk-domain="new"] p a[onclick="setVKDomain('new')"] {
   color: var(--RGB-regular) !important;
   &:hover {
     color: light-dark(color-mix(in oklab, var(--RGB-regular), white 20%), color-mix(in oklab, var(--RGB-regular), black 20%)) !important;

@@ -238,6 +238,8 @@
     <template id="About-New">
       <button class="popup-exit"></button>
       <div class="custom-content">
+        <h1>Что нового от 02.07.26</h1>
+        <p><span class="RGB-accent">Новая функция в окне «Настройки»</span><br />Для сайта добавлена функция выбора домена ВК, который будет использоваться для соответствующих ссылок.<br />Всего домена два – "Старый (vk.com)" и "Новый (vkvideo.ru)", по-умолчанию используется "Новый".</p>
         <h1>Что нового от 28.06.26</h1>
         <p><span class="RGB-accent">Новая функция в разделе «Тайтлы»</span><br />На страницу добавлена функция быстрой навигации между подгруппами (буквы). Для удобства текущая подгруппа, в которой находится пользователь, дополнительно подсвечивается.</p>
         <h1>Что нового от 09.06.26</h1>
@@ -257,6 +259,9 @@
 
     <template id="About-Prefs">
       <button class="popup-exit"></button>
+      <div class="custom-content settings">
+        <p>Домен ВК: <a onclick="setVKDomain('old')">Старый (vk.com)</a> / <a onclick="setVKDomain('new')">Новый (vkvideo.ru)</a></p>
+      </div>
       <div class="custom-content settings">
         <p>Цветовой режим: <a onclick="toggleTheme('dark')">Тёмная тема</a> / <a onclick="toggleTheme('light')">Светлая тема</a> / <a onclick="toggleTheme('auto')">Авто</a></p>
       </div>

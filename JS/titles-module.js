@@ -7,12 +7,12 @@ const DONUT_LVL = {
   "donut-lvl-3": { className: "donut-lvl-3", readable: "ЯГодень Премиум" },
 };
 
+const USE_PLAYER = false;
+
 const SRC_PREFIX = {
   boosty: "https://boosty.to/",
-  vk: "https://vkvideo.ru/video-208448461_",
+  vk: `https://${getSelectedVKDomain()}/video-208448461_`,
 };
-
-const DISABLE_PLAYER = true;
 
 //prettier-ignore
 const cardDatabase = [
@@ -161,13 +161,13 @@ function createTitleCard(item) {
   }
 
   // =========================================================================
-  // Логика кнопки просмотра (watchBtn) с учетом флага DISABLE_PLAYER
+  // Логика кнопки просмотра (watchBtn) с учетом флага USE_PLAYER
   // =========================================================================
   const watchBtn = clone.querySelector(".watch");
 
-  // ИЗМЕНЕНО: Если DISABLE_PLAYER равен true, hasPlayer принудительно становится false
-  const hasPlayer = !DISABLE_PLAYER && Array.isArray(item.player) && item.player.length === 4;
+  const hasPlayer = USE_PLAYER && Array.isArray(item.player) && item.player.length === 4;
   const linkData = item.titleLink;
+  const currentDomain = getSelectedVKDomain();
 
   if (hasPlayer) {
     const [source, id, hash, time] = item.player;
@@ -177,7 +177,7 @@ function createTitleCard(item) {
     }
     watchBtn.classList.add("iframe");
 
-    const embedUrl = `https://vkvideo.ru/video_ext.php?oid=-208448461&id=${id}&hash=${hash}&t=${time}`;
+    const embedUrl = `https://${currentDomain}/video_ext.php?oid=-208448461&id=${id}&hash=${hash}&t=${time}`;
     watchBtn.onclick = (e) => {
       e.preventDefault();
       openPlayerPopup(embedUrl);
@@ -343,7 +343,7 @@ function openPopup(id) {
       epContainer.className = "episodes-container";
 
       targetEntry.items.forEach((ep) => {
-        const hasPlayer = !DISABLE_PLAYER && Array.isArray(ep.player) && ep.player.length === 4;
+        const hasPlayer = USE_PLAYER && Array.isArray(ep.player) && ep.player.length === 4;
         const linkData = ep.titleLink;
 
         let linkType = "";
@@ -375,7 +375,6 @@ function openPopup(id) {
           const [source, id, hash, time] = ep.player;
           const embedUrl = `https://vkvideo.ru/video_ext.php?oid=-208448461&id=${id}&hash=${hash}&t=${time}`;
 
-          a.href = "javascript:void(0);";
           a.onclick = (e) => {
             e.preventDefault();
             openPlayerPopup(embedUrl);
