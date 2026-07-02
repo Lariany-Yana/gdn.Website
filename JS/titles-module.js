@@ -178,6 +178,9 @@ function createTitleCard(item) {
     watchBtn.classList.add("iframe");
 
     const embedUrl = `https://${currentDomain}/video_ext.php?oid=-208448461&id=${id}&hash=${hash}&t=${time}`;
+    
+    watchBtn.href = embedUrl;
+
     watchBtn.onclick = (e) => {
       e.preventDefault();
       openPlayerPopup(embedUrl);
@@ -189,10 +192,15 @@ function createTitleCard(item) {
       watchBtn.classList.add(linkType);
     }
 
+    const finalUrl = linkUrl?.trim() ? (SRC_PREFIX[linkType] ? `${SRC_PREFIX[linkType]}${linkUrl}` : linkUrl) : "";
+
+    if (finalUrl) {
+      watchBtn.href = finalUrl;
+      watchBtn.target = "_blank";
+    }
+
     watchBtn.onclick = (e) => {
-      if (linkUrl?.trim()) {
-        const prefix = SRC_PREFIX[linkType] || "";
-        const finalUrl = prefix ? `${prefix}${linkUrl}` : linkUrl;
+      if (finalUrl) {
         window.open(finalUrl, "_blank");
       } else {
         e.preventDefault();
@@ -200,6 +208,14 @@ function createTitleCard(item) {
       }
     };
   } else {
+    // Если ссылка — строка
+    if (typeof linkData === "string" && linkData.trim()) {
+      watchBtn.href = linkData;
+      watchBtn.target = "_blank";
+    } else {
+      watchBtn.href = "javascript:void(0);";
+    }
+
     watchBtn.onclick = (e) => {
       if (typeof linkData === "string" && linkData.trim()) {
         window.open(linkData, "_blank");

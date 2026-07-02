@@ -44,29 +44,24 @@ const scheduleDatabase = [
     scheduleType: "schedule-current",
     date: "01.07.26",
   },
-	/*{
+  // Четверг
+  {
     nameRu: "Викинги",
     nameEn: "Vikings",
     scheduleRemark: "Сериал × Начало в 16:00 по МСК",
     scheduleType: "schedule-current",
-    date: "01.07.26",
+    date: "02.07.26",
   },
   {
     nameRu: "GTA Vice City: The Next-Gen Edition",
     scheduleRemark: "Игра × Начало в 18:00 по МСК",
     scheduleType: "schedule-current",
-    date: "01.07.26",
+    date: "02.07.26",
   },
   {
     nameRu: "Громовержцы*",
     nameEn: "Thunderbolts*",
     scheduleRemark: "Фильм × Начало в 20:00 по МСК",
-    scheduleType: "schedule-current",
-    date: "01.07.26",
-  },*/
-  // Четверг
-  {
-    nameRu: "Стрим маловероятен",
     scheduleType: "schedule-current",
     date: "02.07.26",
   },
@@ -725,7 +720,7 @@ const scheduleDatabase = [
   },
   // Пятница
   {
-    nameRu: "Стрим не состоялся :[",
+    nameRu: "Стрим не состоялся",
     scheduleType: "schedule-past",
     date: "13.02.26",
   },
@@ -737,7 +732,7 @@ const scheduleDatabase = [
   },
   // Воскресенье
   {
-    nameRu: "Стрим не состоялся :[",
+    nameRu: "Стрим не состоялся",
     scheduleType: "schedule-past",
     date: "15.02.26",
   },
@@ -804,7 +799,7 @@ const scheduleDatabase = [
   },
   // Пятница
   {
-    nameRu: "Стрим не состоялся :[",
+    nameRu: "Стрим не состоялся",
     scheduleType: "schedule-past",
     date: "20.02.26",
   },
@@ -845,7 +840,7 @@ const scheduleDatabase = [
   },
   // Вторник
   {
-    nameRu: "Стрим не состоялся :[",
+    nameRu: "Стрим не состоялся",
     scheduleType: "schedule-past",
     date: "24.02.26",
   },
@@ -888,7 +883,7 @@ const scheduleDatabase = [
   },
   // Пятница
   {
-    nameRu: "Стрим не состоялся :[",
+    nameRu: "Стрим не состоялся",
     scheduleType: "schedule-past",
     date: "27.02.26",
   },
@@ -928,7 +923,7 @@ const scheduleDatabase = [
   },
   // Вторник
   {
-    nameRu: "Стрим не состоялся :[",
+    nameRu: "Стрим не состоялся",
     scheduleType: "schedule-past",
     date: "03.03.26",
   },
@@ -1006,7 +1001,7 @@ const scheduleDatabase = [
   },
   // Вторник
   {
-    nameRu: "Стрим не состоялся :[",
+    nameRu: "Стрим не состоялся",
     scheduleType: "schedule-past",
     date: "10.03.26",
   },
@@ -1027,7 +1022,7 @@ const scheduleDatabase = [
   },
   // Четверг
   {
-    nameRu: "Стрим не состоялся :[",
+    nameRu: "Стрим не состоялся",
     scheduleType: "schedule-past",
     date: "12.03.26",
   },
@@ -1147,7 +1142,7 @@ const scheduleDatabase = [
   },
   // Пятница
   {
-    nameRu: "Стрим не состоялся :[",
+    nameRu: "Стрим не состоялся",
     scheduleType: "schedule-past",
     date: "20.03.26",
   },
@@ -1173,7 +1168,7 @@ const scheduleDatabase = [
   },
   // Вторник
   {
-    nameRu: "Стрим не состоялся :[",
+    nameRu: "Стрим не состоялся",
     scheduleType: "schedule-past",
     date: "24.03.26",
   },
@@ -1248,19 +1243,19 @@ const scheduleDatabase = [
   },
   // Вторник
   {
-    nameRu: "Стрим не состоялся :[",
+    nameRu: "Стрим не состоялся",
     scheduleType: "schedule-past",
     date: "31.03.26",
   },
   // Среда
   {
-    nameRu: "Стрим не состоялся :[",
+    nameRu: "Стрим не состоялся",
     scheduleType: "schedule-past",
     date: "01.04.26",
   },
   // Четверг
   {
-    nameRu: "Стрим не состоялся :[",
+    nameRu: "Стрим не состоялся",
     scheduleType: "schedule-past",
     date: "02.04.26",
   },
@@ -1322,7 +1317,7 @@ const scheduleDatabase = [
   },
   // Вторник
   {
-    nameRu: "Стрим не состоялся :[",
+    nameRu: "Стрим не состоялся",
     scheduleType: "schedule-past",
     date: "07.04.26",
   },
@@ -1372,7 +1367,7 @@ const scheduleDatabase = [
   },
   // Пятница
   {
-    nameRu: "Стрим не состоялся :[",
+    nameRu: "Стрим не состоялся",
     scheduleType: "schedule-past",
     date: "10.04.26",
   },
@@ -1384,7 +1379,7 @@ const scheduleDatabase = [
   },
   // Воскресенье
   {
-    nameRu: "Стрим не состоялся :[",
+    nameRu: "Стрим не состоялся",
     scheduleType: "schedule-past",
     date: "12.04.26",
   },
@@ -1396,25 +1391,25 @@ const scheduleDatabase = [
   },
   // Вторник
   {
-    nameRu: "Стрим не состоялся :[",
+    nameRu: "Стрим не состоялся",
     scheduleType: "schedule-past",
     date: "14.04.26",
   },
   // Среда
   {
-    nameRu: "Стрим не состоялся :[",
+    nameRu: "Стрим не состоялся",
     scheduleType: "schedule-past",
     date: "15.04.26",
   },
   // Четверг
   {
-    nameRu: "Стрим не состоялся :[",
+    nameRu: "Стрим не состоялся",
     scheduleType: "schedule-past",
     date: "16.04.26",
   },
   // Пятница
   {
-    nameRu: "Стрим не состоялся :[",
+    nameRu: "Стрим не состоялся",
     scheduleType: "schedule-past",
     date: "17.04.26",
   },
@@ -1477,7 +1472,7 @@ const scheduleDatabase = [
   },
   // Четверг
   {
-    nameRu: "Стрим не состоялся :[",
+    nameRu: "Стрим не состоялся",
     scheduleType: "schedule-past",
     date: "23.04.26",
   },
@@ -1554,13 +1549,13 @@ const scheduleDatabase = [
   },
   // Среда
   {
-    nameRu: "Стрим не состоялся :[",
+    nameRu: "Стрим не состоялся",
     scheduleType: "schedule-past",
     date: "29.04.26",
   },
   // Четверг
   {
-    nameRu: "Стрим не состоялся :[",
+    nameRu: "Стрим не состоялся",
     scheduleType: "schedule-past",
     date: "30.04.26",
   },
@@ -1631,7 +1626,7 @@ const scheduleDatabase = [
   },
   // Среда
   {
-    nameRu: "Стрим не состоялся :[",
+    nameRu: "Стрим не состоялся",
     scheduleType: "schedule-past",
     date: "06.05.26",
   },
@@ -1652,7 +1647,7 @@ const scheduleDatabase = [
   },
   // Пятница
   {
-    nameRu: "Стрим не состоялся :[",
+    nameRu: "Стрим не состоялся",
     scheduleType: "schedule-past",
     date: "08.05.26",
   },
@@ -1700,7 +1695,7 @@ const scheduleDatabase = [
   },
   // Среда
   {
-    nameRu: "Стрим не состоялся :[",
+    nameRu: "Стрим не состоялся",
     scheduleType: "schedule-past",
     date: "13.05.26",
   },
@@ -1763,7 +1758,7 @@ const scheduleDatabase = [
   },
   // Вторник
   {
-    nameRu: "Стрим не состоялся :[",
+    nameRu: "Стрим не состоялся",
     scheduleType: "schedule-past",
     date: "19.05.26",
   },
@@ -1798,7 +1793,7 @@ const scheduleDatabase = [
   },
   // Четверг
   {
-    nameRu: "Стрим не состоялся :[",
+    nameRu: "Стрим не состоялся",
     scheduleType: "schedule-past",
     date: "21.05.26",
   },
@@ -1854,7 +1849,7 @@ const scheduleDatabase = [
   },
   // Среда
   {
-    nameRu: "Стрим не состоялся :[",
+    nameRu: "Стрим не состоялся",
     scheduleType: "schedule-past",
     date: "27.05.26",
   },
@@ -1918,7 +1913,7 @@ const scheduleDatabase = [
   },
   // Вторник
   {
-    nameRu: "Стрим не состоялся :[",
+    nameRu: "Стрим не состоялся",
     scheduleType: "schedule-past",
     date: "02.06.26",
   },
@@ -1939,7 +1934,7 @@ const scheduleDatabase = [
   },
   // Четверг
   {
-    nameRu: "Стрим не состоялся :[",
+    nameRu: "Стрим не состоялся",
     scheduleType: "schedule-past",
     date: "04.06.26",
   },
@@ -2015,13 +2010,13 @@ const scheduleDatabase = [
   },
   // Среда
   {
-    nameRu: "Стрим не состоялся :[",
+    nameRu: "Стрим не состоялся",
     scheduleType: "schedule-past",
     date: "10.06.26",
   },
   // Четверг
   {
-    nameRu: "Стрим не состоялся :[",
+    nameRu: "Стрим не состоялся",
     scheduleType: "schedule-past",
     date: "11.06.26",
   },
@@ -2069,7 +2064,7 @@ const scheduleDatabase = [
   },
   // Вторник
   {
-    nameRu: "Стрим не состоялся :[",
+    nameRu: "Стрим не состоялся",
     scheduleType: "schedule-past",
     date: "16.06.26",
   },
@@ -2111,7 +2106,7 @@ const scheduleDatabase = [
   },
   // Пятница
   {
-    nameRu: "Стрим не состоялся :[",
+    nameRu: "Стрим не состоялся",
     scheduleType: "schedule-past",
     date: "19.06.26",
   },
@@ -2123,7 +2118,7 @@ const scheduleDatabase = [
   },
   // Воскресенье
   {
-    nameRu: "Стрим не состоялся :[",
+    nameRu: "Стрим не состоялся",
     scheduleType: "schedule-past",
     date: "21.06.26",
   },
@@ -2135,13 +2130,13 @@ const scheduleDatabase = [
   },
   // Вторник
   {
-    nameRu: "Стрим не состоялся :[",
+    nameRu: "Стрим не состоялся",
     scheduleType: "schedule-past",
     date: "23.06.26",
   },
   // Среда
   {
-    nameRu: "Стрим не состоялся :[",
+    nameRu: "Стрим не состоялся",
     scheduleType: "schedule-past",
     date: "24.06.26",
   },

@@ -2449,22 +2449,22 @@ const seriesAnimePopups = {
         {
           title: "1-4 Эпизод",
           titleLink: ["vk", "456239748?t=3h14m25s"],
-          player: ["vk", "456239748", "hash", "3h14m25s"],
+          player: ["vk", "456239748", "7fa8bf793e5caaf7", "3h14m25s"],
         },
         {
           title: "5-8 Эпизод",
           titleLink: ["vk", "456239786?t=2m10s"],
-          player: ["vk", "456239786", "hash", "0h2m10s"],
+          player: ["vk", "456239786", "dee3abd23e4538a5", "0h2m10s"],
         },
         {
           title: "9-14 Эпизод",
           titleLink: ["vk", "456239797?t=14m45s"],
-          player: ["vk", "456239797", "hash", "0h14m45s"],
+          player: ["vk", "456239797", "8139fa824623990f", "0h14m45s"],
         },
         {
           title: "15-18 Эпизод",
           titleLink: ["vk", "456240435"],
-          player: ["vk", "456240435", "hash", "0h0m0s"],
+          player: ["vk", "456240435", "c57b26326bb65097", "0h0m0s"],
         },
         {
           title: "19-22 Эпизод",
@@ -2473,27 +2473,27 @@ const seriesAnimePopups = {
         {
           title: "23-25 Эпизод",
           titleLink: ["vk", "456239872?t=5h24m47s"],
-          player: ["vk", "456239872", "hash", "5h24m47s"],
+          player: ["vk", "456239872", "379b571cdecbd259", "5h24m47s"],
         },
         {
           title: "26-29 Эпизод",
           titleLink: ["vk", "456239883?t=11m23s"],
-          player: ["vk", "456239883", "hash", "0h11m23s"],
+          player: ["vk", "456239883", "e68475c939deb849", "0h11m23s"],
         },
         {
           title: "30-39 Эпизод",
           titleLink: ["vk", "456239901?t=13m30s"],
-          player: ["vk", "456239901", "hash", "0h13m30s"],
+          player: ["vk", "456239901", "0899de76875d076e", "0h13m30s"],
         },
         {
           title: "40-46 Эпизод",
           titleLink: ["vk", "456239914?t=4h27m56s"],
-          player: ["vk", "456239914", "hash", "4h27m56s"],
+          player: ["vk", "456239914", "77851bda0758300d", "4h27m56s"],
         },
         {
           title: "47-51 Эпизод",
           titleLink: ["vk", "456239931?t=4h43m46s"],
-          player: ["vk", "456239931", "hash", "4h43m46s"],
+          player: ["vk", "456239931", "eff339bfab9fd5da", "4h43m46s"],
         },
       ],
     },
@@ -2507,7 +2507,7 @@ const seriesAnimePopups = {
         {
           title: "10-13 Эпизод",
           titleLink: ["vk", "456239962?t=2h3m35s"],
-          player: ["vk", "456239962", "hash", "2h3m35s"],
+          player: ["vk", "456239962", "1f6e8d20c8644413", "2h3m35s"],
         },
         {
           title: "Ёродзуя навсегда!",
@@ -2521,7 +2521,7 @@ const seriesAnimePopups = {
         {
           title: "Джамп Феста 2014",
           titleLink: ["vk", "456239975?t=7h6m46s"],
-          player: ["vk", "456239975", "hash", "7h6m46s"],
+          player: ["vk", "456239975", "c896b9f799983ae9", "7h6m46s"],
         },
       ],
     },
@@ -2531,22 +2531,22 @@ const seriesAnimePopups = {
         {
           title: "1-3 Эпизод",
           titleLink: ["vk", "456239975?t=7h35m37s"],
-          player: ["vk", "456239975", "hash", "7h35m37s"],
+          player: ["vk", "456239975", "c896b9f799983ae9", "7h35m37s"],
         },
         {
           title: "4-7 Эпизод",
           titleLink: ["vk", "456239983?t=7h1m24s"],
-          player: ["vk", "456239983", "hash", "7h1m24s"],
+          player: ["vk", "456239983", "ebe63b27a9452adb", "7h1m24s"],
         },
         {
           title: "8-12 Эпизод",
           titleLink: ["vk", "456239997?t=7h29m11s"],
-          player: ["vk", "456239997", "hash", "7h29m11s"],
+          player: ["vk", "456239997", "665b3062f1b68cd6", "7h29m11s"],
         },
         {
           title: "13-16 Эпизод",
           titleLink: ["vk", "456240006?t=5h46m0s"],
-          player: ["vk", "456240006", "hash", "5h46m0s"],
+          player: ["vk", "456240006", "af34d25933d1ea2e", "5h46m0s"],
         },
         {
           title: "17 Эпизод",
@@ -2555,52 +2555,52 @@ const seriesAnimePopups = {
         {
           title: "17-22 Эпизод",
           titleLink: ["vk", "456240031?t=13m46s"],
-          player: ["vk", "456240031", "hash", "0h13m46s"],
+          player: ["vk", "456240031", "c639926b3d1403be", "0h13m46s"],
         },
         {
           title: "21-24 Эпизод",
           titleLink: ["vk", "456240031?t=2h14m15s"],
-          player: ["vk", "456240031", "hash", "2h14m15s"],
+          player: ["vk", "456240031", "c639926b3d1403be", "2h14m15s"],
         },
         {
           title: "25-28 Эпизод",
           titleLink: ["vk", "456240048?t=7h6m9s"],
-          player: ["vk", "456240048", "hash", "7h6m9s"],
+          player: ["vk", "456240048", "0617745b32a96eb9", "7h6m9s"],
         },
         {
           title: "29-32 Эпизод",
           titleLink: ["vk", "456240048?t=9h5m49s"],
-          player: ["vk", "456240048", "hash", "9h5m49s"],
+          player: ["vk", "456240048", "0617745b32a96eb9", "9h5m49s"],
         },
         {
           title: "33-34 Эпизод",
           titleLink: ["vk", "456240080?t=1h59m21s"],
-          player: ["vk", "456240080", "hash", "1h59m21s"],
+          player: ["vk", "456240080", "d6cd3419bf5bc4b7", "1h59m21s"],
         },
         {
           title: "35-37 Эпизод",
           titleLink: ["vk", "456240099?t=2h16m17s"],
-          player: ["vk", "456240099", "hash", "2h16m17s"],
+          player: ["vk", "456240099", "0525806825a60f35", "2h16m17s"],
         },
         {
           title: "38-40 Эпизод",
           titleLink: ["vk", "456240099?t=3h41m33s"],
-          player: ["vk", "456240099", "hash", "3h41m33s"],
+          player: ["vk", "456240099", "0525806825a60f35", "3h41m33s"],
         },
         {
           title: "41-42 Эпизод",
           titleLink: ["vk", "456240099?t=5h15m21s"],
-          player: ["vk", "456240099", "hash", "5h15m21s"],
+          player: ["vk", "456240099", "0525806825a60f35", "5h15m21s"],
         },
         {
           title: "43-45 Эпизод",
           titleLink: ["vk", "456240374?t=4h17m30s"],
-          player: ["vk", "456240374", "hash", "4h17m30s"],
+          player: ["vk", "456240374", "86a8a9226b4127ac", "4h17m30s"],
         },
         {
           title: "46-51 Эпизод",
           titleLink: ["vk", "456240374?t=5h47m30s"],
-          player: ["vk", "456240374", "hash", "5h47m30s"],
+          player: ["vk", "456240374", "86a8a9226b4127ac", "5h47m30s"],
         },
       ],
     },
@@ -2610,12 +2610,12 @@ const seriesAnimePopups = {
         {
           title: "1-6 Эпизод",
           titleLink: ["vk", "456240607?t=1m4s"],
-          player: ["vk", "456240607", "hash", "0h1m4s"],
+          player: ["vk", "456240607", "4c365fc62b6eb95a", "0h1m4s"],
         },
         {
           title: "7-12 Эпизод",
           titleLink: ["vk", "456240650?t=21m51s"],
-          player: ["vk", "456240650", "hash", "0h21m51s"],
+          player: ["vk", "456240650", "04049de04e01f883", "0h21m51s"],
         },
       ],
     },
@@ -2625,12 +2625,12 @@ const seriesAnimePopups = {
         {
           title: "1-5 Эпизод",
           titleLink: ["vk", "456240080?t=4h14m0s"],
-          player: ["vk", "456240080", "hash", "4h14m0s"],
+          player: ["vk", "456240080", "d6cd3419bf5bc4b7", "4h14m0s"],
         },
         {
           title: "6-13 Эпизод",
           titleLink: ["vk", "456240098?t=5h31m13s"],
-          player: ["vk", "456240098", "hash", "5h31m13s"],
+          player: ["vk", "456240098", "84d373a3d7aff9af", "5h31m13s"],
         },
       ],
     },
@@ -2640,17 +2640,17 @@ const seriesAnimePopups = {
         {
           title: "1-4 Эпизод",
           titleLink: ["vk", "456240775?t=23m25s"],
-          player: ["vk", "456240775", "hash", "0h23m25s"],
+          player: ["vk", "456240775", "0c7ed6cd6946b10b", "0h23m25s"],
         },
         {
           title: "5-8 Эпизод",
           titleLink: ["vk", "456240788?t=12m45s"],
-          player: ["vk", "456240788", "hash", "0h12m45s"],
+          player: ["vk", "456240788", "3c86739f2d917aad", "0h12m45s"],
         },
         {
           title: "9-12 Эпизод",
           titleLink: ["vk", "456240816?t=12m53s"],
-          player: ["vk", "456240816", "hash", "0h12m53s"],
+          player: ["vk", "456240816", "4b341250264c53b4", "0h12m53s"],
         },
       ],
     },
@@ -2660,12 +2660,12 @@ const seriesAnimePopups = {
         {
           title: "1-4 Эпизод",
           titleLink: ["vk", "456240829?t=8m15s"],
-          player: ["vk", "456240829", "hash", "0h8m15s"],
+          player: ["vk", "456240829", "d317957c7dfba91a", "0h8m15s"],
         },
         {
           title: "5-8 Эпизод",
           titleLink: ["vk", "456240829?t=2h5m10s"],
-          player: ["vk", "456240829", "hash", "2h5m10s"],
+          player: ["vk", "456240829", "d317957c7dfba91a", "2h5m10s"],
         },
         {
           title: "9 Эпизод",
@@ -2674,12 +2674,12 @@ const seriesAnimePopups = {
         {
           title: "10-12 Эпизод",
           titleLink: ["vk", "456240843?t=1m32s"],
-          player: ["vk", "456240843", "hash", "0h1m32s"],
+          player: ["vk", "456240843", "1fcd9ffcc819166c", "0h1m32s"],
         },
         {
           title: "13-14 Эпизод",
           titleLink: ["vk", "456240855?t=26m31s"],
-          player: ["vk", "456240855", "hash", "0h26m31s"],
+          player: ["vk", "456240855", "28d5f060b8744132", "0h26m31s"],
         },
       ],
     },
@@ -2689,7 +2689,7 @@ const seriesAnimePopups = {
         {
           title: "1-2 Эпизод",
           titleLink: ["vk", "456240864?t=8m57s"],
-          player: ["vk", "456240864", "hash", "0h8m57s"],
+          player: ["vk", "456240864", "f71576a395142c37", "0h8m57s"],
         },
       ],
     },
@@ -2699,7 +2699,7 @@ const seriesAnimePopups = {
         {
           title: "Финал",
           titleLink: ["vk", "456240864?t=1h26m30s"],
-          player: ["vk", "456240864", "hash", "1h26m30s"],
+          player: ["vk", "456240864", "f71576a395142c37", "1h26m30s"],
         },
       ],
     },
@@ -2709,7 +2709,7 @@ const seriesAnimePopups = {
         {
           title: "Серебряная душа и золотые шары: Почему «Гинтама» стала самой популярной современной комедийной мангой",
           titleLink: ["vk", "456240855?t=26m31s"],
-          player: ["vk", "456240855", "hash", "0h26m31s"],
+          player: ["vk", "456240855", "28d5f060b8744132", "0h26m31s"],
         },
       ],
     },
@@ -2721,12 +2721,12 @@ const seriesAnimePopups = {
         {
           title: "1-10 Эпизод",
           titleLink: ["vk", "456240422"],
-          player: ["vk", "456240422", "hash", "0h0m0s"],
+          player: ["vk", "456240422", "19742163b2f997aa", "0h0m0s"],
         },
         {
           title: "11-12 Эпизод",
           titleLink: ["vk", "456240423"],
-          player: ["vk", "456240423", "hash", "0h0m0s"],
+          player: ["vk", "456240423", "63ca7e0f038ee455", "0h0m0s"],
         },
       ],
     },
@@ -2736,22 +2736,22 @@ const seriesAnimePopups = {
         {
           title: "1-2 Эпизод",
           titleLink: ["vk", "456240478"],
-          player: ["vk", "456240478", "hash", "0h0m0s"],
+          player: ["vk", "456240478", "81d9d3685e927e31", "0h0m0s"],
         },
         {
           title: "3-6 Эпизод",
           titleLink: ["vk", "456240479"],
-          player: ["vk", "456240479", "hash", "0h0m0s"],
+          player: ["vk", "456240479", "fcd16dc2ea2192f9", "0h0m0s"],
         },
         {
           title: "7-10 Эпизод",
           titleLink: ["vk", "456240481"],
-          player: ["vk", "456240481", "hash", "0h0m0s"],
+          player: ["vk", "456240481", "f241ef8271e19541", "0h0m0s"],
         },
         {
           title: "11-12 Эпизод",
           titleLink: ["vk", "456240482"],
-          player: ["vk", "456240482", "hash", "0h0m0s"],
+          player: ["vk", "456240482", "adc2f691d615d794", "0h0m0s"],
         },
       ],
     },
@@ -2763,12 +2763,12 @@ const seriesAnimePopups = {
         {
           title: "1-16 Эпизод",
           titleLink: ["vk", "456241283?t=3h5m31s"],
-          player: ["vk", "456241283", "hash", "3h5m31s"],
+          player: ["vk", "456241283", "5ebe606832b97de8", "3h5m31s"],
         },
         {
           title: "17-24 Эпизод",
           titleLink: ["vk", "456241290?t=4h11m0s"],
-          player: ["vk", "456241290", "hash", "4h11m0s"],
+          player: ["vk", "456241290", "b96fad29abccfe90", "4h11m0s"],
         },
       ],
     },
@@ -2780,32 +2780,32 @@ const seriesAnimePopups = {
         {
           title: "1-4 Эпизод",
           titleLink: ["vk", "456239257"],
-          player: ["vk", "456239257", "hash", "0h0m0s"],
+          player: ["vk", "456239257", "4b1f33a2b464b202", "0h0m0s"],
         },
         {
           title: "5-8 Эпизод",
           titleLink: ["vk", "456239260"],
-          player: ["vk", "456239260", "hash", "0h0m0s"],
+          player: ["vk", "456239260", "03f76bb4afd866a2", "0h0m0s"],
         },
         {
           title: "9-12 Эпизод",
           titleLink: ["vk", "456239264"],
-          player: ["vk", "456239264", "hash", "0h0m0s"],
+          player: ["vk", "456239264", "20d8506776cf43aa", "0h0m0s"],
         },
         {
           title: "13-16 Эпизод",
           titleLink: ["vk", "456239268"],
-          player: ["vk", "456239268", "hash", "0h0m0s"],
+          player: ["vk", "456239268", "93b59bfe10eff3c2", "0h0m0s"],
         },
         {
           title: "17-20 Эпизод",
           titleLink: ["vk", "456239271"],
-          player: ["vk", "456239271", "hash", "0h0m0s"],
+          player: ["vk", "456239271", "0c5666190fd628f5", "0h0m0s"],
         },
         {
           title: "21-24 Эпизод",
           titleLink: ["vk", "456239274"],
-          player: ["vk", "456239274", "hash", "0h0m0s"],
+          player: ["vk", "456239274", "e2b740c687c8946b", "0h0m0s"],
         },
       ],
     },
@@ -2821,12 +2821,12 @@ const seriesAnimePopups = {
         {
           title: "9-12 Эпизод",
           titleLink: ["vk", "456240417"],
-          player: ["vk", "456240417", "hash", "0h0m0s"],
+          player: ["vk", "456240417", "2e8aff536e5132a6", "0h0m0s"],
         },
         {
           title: "13-17 Эпизод",
           titleLink: ["vk", "456240418"],
-          player: ["vk", "456240418", "hash", "0h0m0s"],
+          player: ["vk", "456240418", "26da0b4ece21268a", "0h0m0s"],
         },
         {
           title: "18-21 Эпизод",
@@ -2835,7 +2835,7 @@ const seriesAnimePopups = {
         {
           title: "22-26 Эпизод",
           titleLink: ["vk", "456240420"],
-          player: ["vk", "456240420", "hash", "0h0m0s"],
+          player: ["vk", "456240420", "6d3646e8209b160b", "0h0m0s"],
         },
       ],
     },
@@ -2847,22 +2847,22 @@ const seriesAnimePopups = {
         {
           title: "1-4 Эпизод",
           titleLink: ["vk", "456241344?t=12m13s"],
-          player: ["vk", "456241344", "hash", "0h12m13s"],
+          player: ["vk", "456241344", "7e37c817a9b9a508", "0h12m13s"],
         },
         {
           title: "5-7 Эпизод",
           titleLink: ["vk", "456241418?t=7h20m34s"],
-          player: ["vk", "456241418", "hash", "7h20m34s"],
+          player: ["vk", "456241418", "73defb7e70091acb", "7h20m34s"],
         },
         {
           title: "8-9 Эпизод",
           titleLink: ["vk", "456241749?t=3h41m45s"],
-          player: ["vk", "456241749", "hash", "3h41m45s"],
+          player: ["vk", "456241749", "0007f85699be00f0", "3h41m45s"],
         },
         {
           title: "10-12 Эпизод",
           titleLink: ["vk", "456241762?t=11m44s"],
-          player: ["vk", "456241762", "hash", "0h11m44s"],
+          player: ["vk", "456241762", "82c7a30d354b9a73", "0h11m44s"],
         },
       ],
     },
@@ -2872,24 +2872,12 @@ const seriesAnimePopups = {
         {
           title: "1-4 Эпизод",
           titleLink: ["vk", "456241765?t=2h26m5s"],
-          player: ["vk", "456241765", "hash", "2h26m5s"],
+          player: ["vk", "456241765", "b0df1f29f83a4c88", "2h26m5s"],
         },
         {
           title: "5-12 Эпизод",
           titleLink: ["vk", "456241768?t=10m56s"],
-          player: ["vk", "456241768", "hash", "0h10m56s"],
-        },
-      ],
-    },
-  ],
-  "Series-Anime_Detroit-Metal-City": [
-    {
-      seasonName: "1 Сезон",
-      items: [
-        {
-          title: "1-2 Эпизод",
-          titleLink: ["vk", "456239680?t=7m50s"],
-          player: ["vk", "456239680", "hash", "0h7m50s"],
+          player: ["vk", "456241768", "2d998c10dc72ebd6", "0h10m56s"],
         },
       ],
     },
@@ -2901,12 +2889,12 @@ const seriesAnimePopups = {
         {
           title: "1-2 Эпизод",
           titleLink: ["vk", "456239515?t=4h50m33s"],
-          player: ["vk", "456239515", "hash", "4h50m33s"],
+          player: ["vk", "456239515", "a6ad23c0e660a1e4", "4h50m33s"],
         },
         {
           title: "3-4 Эпизод",
           titleLink: ["vk", "456239518?t=3m16s"],
-          player: ["vk", "456239518", "hash", "0h3m16s"],
+          player: ["vk", "456239518", "d8f2b8688ea0fbcb", "0h3m16s"],
         },
       ],
     },
@@ -2918,52 +2906,52 @@ const seriesAnimePopups = {
         {
           title: "1 Эпизод",
           titleLink: ["vk", "456239433"],
-          player: ["vk", "456239433", "hash", "0h0m0s"],
+          player: ["vk", "456239433", "4e94b57eb0e7781b", "0h0m0s"],
         },
         {
           title: "2 Эпизод",
           titleLink: ["vk", "456239434"],
-          player: ["vk", "456239434", "hash", "0h0m0s"],
+          player: ["vk", "456239434", "c58c4554ad19bcdc", "0h0m0s"],
         },
         {
           title: "3 Эпизод",
           titleLink: ["vk", "456239435"],
-          player: ["vk", "456239435", "hash", "0h0m0s"],
+          player: ["vk", "456239435", "ab89b5171dc27c0e", "0h0m0s"],
         },
         {
           title: "4 Эпизод",
           titleLink: ["vk", "456239436"],
-          player: ["vk", "456239436", "hash", "0h0m0s"],
+          player: ["vk", "456239436", "8a1aa4b0b6f10696", "0h0m0s"],
         },
         {
           title: "5 Эпизод",
           titleLink: ["vk", "456239437"],
-          player: ["vk", "456239437", "hash", "0h0m0s"],
+          player: ["vk", "456239437", "a259c8cbbf132fed", "0h0m0s"],
         },
         {
           title: "6-7 Эпизод",
           titleLink: ["vk", "456239438"],
-          player: ["vk", "456239438", "hash", "0h0m0s"],
+          player: ["vk", "456239438", "33fc4fc2e83bc02b", "0h0m0s"],
         },
         {
           title: "8-9 Эпизод",
           titleLink: ["vk", "456239439"],
-          player: ["vk", "456239439", "hash", "0h0m0s"],
+          player: ["vk", "456239439", "bcc47db4c47a6b76", "0h0m0s"],
         },
         {
           title: "10 Эпизод",
           titleLink: ["vk", "456239440"],
-          player: ["vk", "456239440", "hash", "0h0m0s"],
+          player: ["vk", "456239440", "8689230094401de9", "0h0m0s"],
         },
         {
           title: "11-12 Эпизод",
           titleLink: ["vk", "456239441"],
-          player: ["vk", "456239441", "hash", "0h0m0s"],
+          player: ["vk", "456239441", "fdf144232362596d", "0h0m0s"],
         },
         {
           title: "13-20 Эпизод",
           titleLink: ["vk", "456239936"],
-          player: ["vk", "456239936", "hash", "0h0m0s"],
+          player: ["vk", "456239936", "c1591532ca9c85ff", "0h0m0s"],
         },
       ],
     },
@@ -2973,12 +2961,12 @@ const seriesAnimePopups = {
         {
           title: "1-4 Эпизод",
           titleLink: ["vk", "456241783?t=1m32s"],
-          player: ["vk", "456241783", "hash", "0h1m32s"],
+          player: ["vk", "456241783", "b7d7da195619143a", "0h1m32s"],
         },
         {
           title: "5-8 Эпизод",
           titleLink: ["vk", "456241834?t=13m11s"],
-          player: ["vk", "456241834", "hash", "0h13m11s"],
+          player: ["vk", "456241834", "86c345e34ccc037b", "0h13m11s"],
         },
       ],
     },
@@ -2990,22 +2978,22 @@ const seriesAnimePopups = {
         {
           title: "1-4 Эпизод",
           titleLink: ["vk", "456241477?t=10m36s"],
-          player: ["vk", "456241477", "hash", "0h10m36s"],
+          player: ["vk", "456241477", "99e899c887ab2737", "0h10m36s"],
         },
         {
           title: "5-12 Эпизод",
           titleLink: ["vk", "456241479?t=11m52s"],
-          player: ["vk", "456241479", "hash", "0h11m52s"],
+          player: ["vk", "456241479", "868f9c3480c070e1", "0h11m52s"],
         },
         {
           title: "13-22 Эпизод",
           titleLink: ["vk", "456241488?t=14m34s"],
-          player: ["vk", "456241488", "hash", "0h14m34s"],
+          player: ["vk", "456241488", "064115ceef21704c", "0h14m34s"],
         },
         {
           title: "23 Эпизод",
           titleLink: ["vk", "456241493?t=11m45s"],
-          player: ["vk", "456241493", "hash", "0h11m45s"],
+          player: ["vk", "456241493", "f69540962041b973", "0h11m45s"],
         },
       ],
     },
@@ -3015,17 +3003,17 @@ const seriesAnimePopups = {
         {
           title: "1-9 Эпизод",
           titleLink: ["vk", "456241493?t=42m35s"],
-          player: ["vk", "456241493", "hash", "0h42m35s"],
+          player: ["vk", "456241493", "f69540962041b973", "0h42m35s"],
         },
         {
           title: "10-13 Эпизод",
           titleLink: ["vk", "456241496?t=14m23s"],
-          player: ["vk", "456241496", "hash", "0h14m23s"],
+          player: ["vk", "456241496", "3eebf88a50277982", "0h14m23s"],
         },
         {
           title: "14-21 Эпизод",
           titleLink: ["vk", "456241506?t=2h9m0s"],
-          player: ["vk", "456241506", "hash", "2h9m0s"],
+          player: ["vk", "456241506", "feaf39e8eb367462", "2h9m0s"],
         },
       ],
     },
@@ -3035,17 +3023,17 @@ const seriesAnimePopups = {
         {
           title: "1-10 Эпизод",
           titleLink: ["vk", "456241513?t=11m45s"],
-          player: ["vk", "456241513", "hash", "0h11m45s"],
+          player: ["vk", "456241513", "cc0df168e40c3689", "0h11m45s"],
         },
         {
           title: "11-17 Эпизод",
           titleLink: ["vk", "456241518?t=11m30s"],
-          player: ["vk", "456241518", "hash", "0h11m30s"],
+          player: ["vk", "456241518", "f790cbe8c09afd53", "0h11m30s"],
         },
         {
           title: "18-21 Эпизод",
           titleLink: ["vk", "456241521?t=11m15s"],
-          player: ["vk", "456241521", "hash", "0h11m15s"],
+          player: ["vk", "456241521", "82dfb2a34873f26f", "0h11m15s"],
         },
       ],
     },
@@ -3076,22 +3064,22 @@ const seriesAnimePopups = {
         {
           title: "1-2 Эпизод",
           titleLink: ["vk", "456240421"],
-          player: ["vk", "456240421", "hash", "0h0m0s"],
+          player: ["vk", "456240421", "bdb229750d57f739", "0h0m0s"],
         },
         {
           title: "3-6 Эпизод",
           titleLink: ["vk", "456240332"],
-          player: ["vk", "456240332", "hash", "0h0m0s"],
+          player: ["vk", "456240332", "43f40da75da69420", "0h0m0s"],
         },
         {
           title: "7-11 Эпизод",
           titleLink: ["vk", "456240334"],
-          player: ["vk", "456240334", "hash", "0h0m0s"],
+          player: ["vk", "456240334", "bdec0941d74558f1", "0h0m0s"],
         },
         {
           title: "12-15 Эпизод",
           titleLink: ["vk", "456240335"],
-          player: ["vk", "456240335", "hash", "0h0m0s"],
+          player: ["vk", "456240335", "613513d038ab8044", "0h0m0s"],
         },
         {
           title: "16-19 Эпизод",
@@ -3100,12 +3088,12 @@ const seriesAnimePopups = {
         {
           title: "20-21 Эпизод",
           titleLink: ["vk", "456240337"],
-          player: ["vk", "456240337", "hash", "0h0m0s"],
+          player: ["vk", "456240337", "a424b3f8b7dd6cd4", "0h0m0s"],
         },
         {
           title: "22-24 Эпизод",
           titleLink: ["vk", "456240338"],
-          player: ["vk", "456240338", "hash", "0h0m0s"],
+          player: ["vk", "456240338", "6e173d5b4a0d0132", "0h0m0s"],
         },
       ],
     },
@@ -3115,22 +3103,22 @@ const seriesAnimePopups = {
         {
           title: "1-4 Эпизод",
           titleLink: ["vk", "456240339"],
-          player: ["vk", "456240339", "hash", "0h0m0s"],
+          player: ["vk", "456240339", "3dea13f0649d45cc", "0h0m0s"],
         },
         {
           title: "5-8 Эпизод",
           titleLink: ["vk", "456240340"],
-          player: ["vk", "456240340", "hash", "0h0m0s"],
+          player: ["vk", "456240340", "6c59c8aef3f27f7e", "0h0m0s"],
         },
         {
           title: "9-11 Эпизод",
           titleLink: ["vk", "456240341"],
-          player: ["vk", "456240341", "hash", "0h0m0s"],
+          player: ["vk", "456240341", "36e693d42a013a27", "0h0m0s"],
         },
         {
           title: "Рюсуй",
           titleLink: ["vk", "456239899?t=10m35s"],
-          player: ["vk", "456239899", "hash", "0h10m35s"],
+          player: ["vk", "456239899", "309861f85143da8e", "0h10m35s"],
         },
       ],
     },
@@ -3142,47 +3130,47 @@ const seriesAnimePopups = {
         {
           title: "1-2 Эпизод",
           titleLink: ["vk", "456239443"],
-          player: ["vk", "456239443", "hash", "0h0m0s"],
+          player: ["vk", "456239443", "47187cd7e363bec1", "0h0m0s"],
         },
         {
           title: "3 Эпизод",
           titleLink: ["vk", "456239444"],
-          player: ["vk", "456239444", "hash", "0h0m0s"],
+          player: ["vk", "456239444", "ce9d4a041b2efb6e", "0h0m0s"],
         },
         {
           title: "4 Эпизод",
           titleLink: ["vk", "456239445"],
-          player: ["vk", "456239445", "hash", "0h0m0s"],
+          player: ["vk", "456239445", "30aac440406912fb", "0h0m0s"],
         },
         {
           title: "5 Эпизод",
           titleLink: ["vk", "456239446"],
-          player: ["vk", "456239446", "hash", "0h0m0s"],
+          player: ["vk", "456239446", "acc397c5b23d1d74", "0h0m0s"],
         },
         {
           title: "6 Эпизод",
           titleLink: ["vk", "456239442"],
-          player: ["vk", "456239442", "hash", "0h0m0s"],
+          player: ["vk", "456239442", "f104cb9ed02d741c", "0h0m0s"],
         },
         {
           title: "7-8 Эпизод",
           titleLink: ["vk", "456239447"],
-          player: ["vk", "456239447", "hash", "0h0m0s"],
+          player: ["vk", "456239447", "779b56897e65d9a1", "0h0m0s"],
         },
         {
           title: "9-10 Эпизод",
           titleLink: ["vk", "456239448"],
-          player: ["vk", "456239448", "hash", "0h0m0s"],
+          player: ["vk", "456239448", "44e4446fe981bdef", "0h0m0s"],
         },
         {
           title: "11 Эпизод",
           titleLink: ["vk", "456239449"],
-          player: ["vk", "456239449", "hash", "0h0m0s"],
+          player: ["vk", "456239449", "7c1563a7c9bd9f78", "0h0m0s"],
         },
         {
           title: "12-13 Эпизод",
           titleLink: ["vk", "456239450"],
-          player: ["vk", "456239450", "hash", "0h0m0s"],
+          player: ["vk", "456239450", "4a770bd56a775183", "0h0m0s"],
         },
       ],
     },
@@ -3192,12 +3180,12 @@ const seriesAnimePopups = {
         {
           title: "1-8 Эпизод",
           titleLink: ["vk", "456239631?t=2h41m45s"],
-          player: ["vk", "456239631", "hash", "2h41m45s"],
+          player: ["vk", "456239631", "c780b3216326eb78", "2h41m45s"],
         },
         {
           title: "9-12 Эпизод",
           titleLink: ["vk", "456239641?t=2h36m19s"],
-          player: ["vk", "456239641", "hash", "2h36m19s"],
+          player: ["vk", "456239641", "4ba44597c5eca766", "2h36m19s"],
         },
       ],
     },
@@ -3213,22 +3201,22 @@ const seriesAnimePopups = {
         {
           title: "10-13 Эпизод",
           titleLink: ["vk", "456240402"],
-          player: ["vk", "456240402", "hash", "0h0m0s"],
+          player: ["vk", "456240402", "70aadcb0b94535b6", "0h0m0s"],
         },
         {
           title: "14-18 Эпизод",
           titleLink: ["vk", "456240403"],
-          player: ["vk", "456240403", "hash", "0h0m0s"],
+          player: ["vk", "456240403", "d91ff17b57ed0746", "0h0m0s"],
         },
         {
           title: "19-20 Эпизод",
           titleLink: ["vk", "456240404"],
-          player: ["vk", "456240404", "hash", "0h0m0s"],
+          player: ["vk", "456240404", "0125d9a125e364b2", "0h0m0s"],
         },
         {
           title: "21-24 Эпизод",
           titleLink: ["vk", "456240405"],
-          player: ["vk", "456240405", "hash", "0h0m0s"],
+          player: ["vk", "456240405", "e34ee6c32af95fd2", "0h0m0s"],
         },
       ],
     },
@@ -3240,12 +3228,12 @@ const seriesAnimePopups = {
         {
           title: "1-4 Эпизод",
           titleLink: ["vk", "456239506"],
-          player: ["vk", "456239506", "hash", "0h0m0s"],
+          player: ["vk", "456239506", "aab34eb261a9b0c6", "0h0m0s"],
         },
         {
           title: "5-12 Эпизод",
           titleLink: ["vk", "456239507"],
-          player: ["vk", "456239507", "hash", "0h0m0s"],
+          player: ["vk", "456239507", "30ee2eb5355d19fd", "0h0m0s"],
         },
       ],
     },
@@ -3284,7 +3272,7 @@ const seriesAnimePopups = {
         {
           title: "9-12 Эпизод",
           titleLink: ["vk", "456240375"],
-          player: ["vk", "456240375", "hash", "0h0m0s"],
+          player: ["vk", "456240375", "a9a2b56e70702d83", "0h0m0s"],
         },
         {
           title: "13-16 Эпизод",
@@ -3293,12 +3281,12 @@ const seriesAnimePopups = {
         {
           title: "17-19 Эпизод",
           titleLink: ["vk", "456240376"],
-          player: ["vk", "456240376", "hash", "0h0m0s"],
+          player: ["vk", "456240376", "a21ff20dace828f8", "0h0m0s"],
         },
         {
           title: "20-25 Эпизод",
           titleLink: ["vk", "456240342"],
-          player: ["vk", "456240342", "hash", "0h0m0s"],
+          player: ["vk", "456240342", "767f6e8a2e892980", "0h0m0s"],
         },
       ],
     },
@@ -3308,17 +3296,17 @@ const seriesAnimePopups = {
         {
           title: "1-4 Эпизод",
           titleLink: ["vk", "456240343"],
-          player: ["vk", "456240343", "hash", "0h0m0s"],
+          player: ["vk", "456240343", "a64462145fe32f78", "0h0m0s"],
         },
         {
           title: "5-8 Эпизод",
           titleLink: ["vk", "456240344"],
-          player: ["vk", "456240344", "hash", "0h0m0s"],
+          player: ["vk", "456240344", "f2e84a394c9a50da", "0h0m0s"],
         },
         {
           title: "9-12 Эпизод",
           titleLink: ["vk", "456240345"],
-          player: ["vk", "456240345", "hash", "0h0m0s"],
+          player: ["vk", "456240345", "151ef4d6f5e12e6b", "0h0m0s"],
         },
       ],
     },
@@ -3330,27 +3318,27 @@ const seriesAnimePopups = {
         {
           title: "1-6 Эпизод",
           titleLink: ["vk", "456239456"],
-          player: ["vk", "456239456", "hash", "0h0m0s"],
+          player: ["vk", "456239456", "a8b300f89016f9c7", "0h0m0s"],
         },
         {
           title: "7-11 Эпизод",
           titleLink: ["vk", "456239457"],
-          player: ["vk", "456239457", "hash", "0h0m0s"],
+          player: ["vk", "456239457", "c89e73f31e6caa0e", "0h0m0s"],
         },
         {
           title: "12-16 Эпизод",
           titleLink: ["vk", "456239458"],
-          player: ["vk", "456239458", "hash", "0h0m0s"],
+          player: ["vk", "456239458", "10128a6e805d05ab", "0h0m0s"],
         },
         {
           title: "17-22 Эпизод",
           titleLink: ["vk", "456239459"],
-          player: ["vk", "456239459", "hash", "0h0m0s"],
+          player: ["vk", "456239459", "fa16ecc6ccf1b310", "0h0m0s"],
         },
         {
           title: "23-26 Эпизод",
           titleLink: ["vk", "456239460"],
-          player: ["vk", "456239460", "hash", "0h0m0s"],
+          player: ["vk", "456239460", "9dfa7e4d1295bc6f", "0h0m0s"],
         },
       ],
     },
@@ -3367,12 +3355,12 @@ const seriesAnimePopups = {
         {
           title: "5-8 Эпизод",
           titleLink: ["vk", "456240728?t=12m30s"],
-          player: ["vk", "456240728", "hash", "0h12m30s"],
+          player: ["vk", "456240728", "ef157d74f1bceea2", "0h12m30s"],
         },
         {
           title: "9-12 Эпизод",
           titleLink: ["vk", "456240745?t=3h23m0s"],
-          player: ["vk", "456240745", "hash", "3h23m0s"],
+          player: ["vk", "456240745", "ffb5293f7fcfecb3", "3h23m0s"],
         },
       ],
     },
@@ -3384,17 +3372,17 @@ const seriesAnimePopups = {
         {
           title: "1-4 Эпизод",
           titleLink: ["vk", "456239273"],
-          player: ["vk", "456239273", "hash", "0h0m0s"],
+          player: ["vk", "456239273", "27e1bceb364ddc37", "0h0m0s"],
         },
         {
           title: "5-8 Эпизод",
           titleLink: ["vk", "456239275"],
-          player: ["vk", "456239275", "hash", "0h0m0s"],
+          player: ["vk", "456239275", "3582e4497ad249b7", "0h0m0s"],
         },
         {
           title: "9-12 Эпизод",
           titleLink: ["vk", "456239253"],
-          player: ["vk", "456239253", "hash", "0h0m0s"],
+          player: ["vk", "456239253", "72d6bf77aabc0d07", "0h0m0s"],
         },
       ],
     },
@@ -3404,17 +3392,17 @@ const seriesAnimePopups = {
         {
           title: "1-3 Эпизод",
           titleLink: ["vk", "456239253?t=2h20m19s"],
-          player: ["vk", "456239253", "hash", "2h20m19s"],
+          player: ["vk", "456239253", "72d6bf77aabc0d07", "2h20m19s"],
         },
         {
           title: "4-7 Эпизод",
           titleLink: ["vk", "456239276?t=14m17s"],
-          player: ["vk", "456239276", "hash", "0h14m17s"],
+          player: ["vk", "456239276", "c5dcbdc5aaedeaf0", "0h14m17s"],
         },
         {
           title: "8-12 Эпизод",
           titleLink: ["vk", "456239278?t=10m11s"],
-          player: ["vk", "456239278", "hash", "0h10m11s"],
+          player: ["vk", "456239278", "1bcf775817262861", "0h10m11s"],
         },
       ],
     },
@@ -3424,12 +3412,12 @@ const seriesAnimePopups = {
         {
           title: "1-4 Эпизод",
           titleLink: ["vk", "456239279?t=20m1s"],
-          player: ["vk", "456239279", "hash", "0h20m1s"],
+          player: ["vk", "456239279", "643900803a61f660", "0h20m1s"],
         },
         {
           title: "5-12 Эпизод",
           titleLink: ["vk", "456239262?t=5m53s"],
-          player: ["vk", "456239262", "hash", "0h5m53s"],
+          player: ["vk", "456239262", "ae1ed3b74e2f9a1d", "0h5m53s"],
         },
       ],
     },
@@ -3441,12 +3429,12 @@ const seriesAnimePopups = {
         {
           title: "1-2 Эпизод",
           titleLink: ["vk", "456240383?t=9m37s"],
-          player: ["vk", "456240383", "hash", "0h9m37s"],
+          player: ["vk", "456240383", "f2b3f8f4efd20640", "0h9m37s"],
         },
         {
           title: "3-6 Эпизод",
           titleLink: ["vk", "456240384?t=11m47s"],
-          player: ["vk", "456240384", "hash", "0h11m47s"],
+          player: ["vk", "456240384", "f6f3a9b460b0b8c6", "0h11m47s"],
         },
       ],
     },
@@ -3458,17 +3446,17 @@ const seriesAnimePopups = {
         {
           title: "1-4 Эпизод",
           titleLink: ["vk", "456241634?t=7h59m1s"],
-          player: ["vk", "456241634", "hash", "7h59m1s"],
+          player: ["vk", "456241634", "98cf8600b3c57108", "7h59m1s"],
         },
         {
           title: "5-8 Эпизод",
           titleLink: ["vk", "456241656?t=11m16s"],
-          player: ["vk", "456241656", "hash", "0h11m16s"],
+          player: ["vk", "456241656", "d9a53a389c0ccd50", "0h11m16s"],
         },
         {
           title: "9-12 Эпизод",
           titleLink: ["vk", "456241666?t=2h27m53s"],
-          player: ["vk", "456241666", "hash", "2h27m53s"],
+          player: ["vk", "456241666", "f4eff9d270f1b815", "2h27m53s"],
         },
       ],
     },
@@ -3480,12 +3468,12 @@ const seriesAnimePopups = {
         {
           title: "1-6 Эпизод",
           titleLink: ["vk", "456241325"],
-          player: ["vk", "456241325", "hash", "0h0m0s"],
+          player: ["vk", "456241325", "421d4d67b072c619", "0h0m0s"],
         },
         {
           title: "7-15 Эпизод",
           titleLink: ["vk", "456241326"],
-          player: ["vk", "456241326", "hash", "0h0m0s"],
+          player: ["vk", "456241326", "0e532c7e8002005c", "0h0m0s"],
         },
       ],
     },
@@ -3497,22 +3485,22 @@ const seriesAnimePopups = {
         {
           title: "1-4 Эпизод",
           titleLink: ["vk", "456240549"],
-          player: ["vk", "456240549", "hash", "0h0m0s"],
+          player: ["vk", "456240549", "7b574c83792198c9", "0h0m0s"],
         },
         {
           title: "5-6 Эпизод",
           titleLink: ["vk", "456240550"],
-          player: ["vk", "456240550", "hash", "0h0m0s"],
+          player: ["vk", "456240550", "bfddef2b25c6fe3f", "0h0m0s"],
         },
         {
           title: "7-8 Эпизод",
           titleLink: ["vk", "456240551"],
-          player: ["vk", "456240551", "hash", "0h0m0s"],
+          player: ["vk", "456240551", "d39ee21355503ade", "0h0m0s"],
         },
         {
           title: "9-12 Эпизод",
           titleLink: ["vk", "456240552"],
-          player: ["vk", "456240552", "hash", "0h0m0s"],
+          player: ["vk", "456240552", "4b89c1bab57c6ea9", "0h0m0s"],
         },
       ],
     },
@@ -3524,49 +3512,37 @@ const seriesAnimePopups = {
         {
           title: "1-2 Эпизод",
           titleLink: ["vk", "456239177"],
-          player: ["vk", "456239177", "hash", "0h0m0s"],
+          player: ["vk", "456239177", "562f7e6ee4f7b637", "0h0m0s"],
         },
         {
           title: "3-4 Эпизод",
           titleLink: ["vk", "456239178"],
-          player: ["vk", "456239178", "hash", "0h0m0s"],
+          player: ["vk", "456239178", "eb01272e873677e8", "0h0m0s"],
         },
         {
           title: "5-6 Эпизод",
           titleLink: ["vk", "456239180"],
-          player: ["vk", "456239180", "hash", "0h0m0s"],
+          player: ["vk", "456239180", "c5cade8d43ba67b5", "0h0m0s"],
         },
         {
           title: "7 Эпизод",
           titleLink: ["vk", "456239181"],
-          player: ["vk", "456239181", "hash", "0h0m0s"],
+          player: ["vk", "456239181", "b09330266be962ab", "0h0m0s"],
         },
         {
           title: "8-9 Эпизод",
           titleLink: ["vk", "456239182"],
-          player: ["vk", "456239182", "hash", "0h0m0s"],
+          player: ["vk", "456239182", "5d19b3a5b436252e", "0h0m0s"],
         },
         {
           title: "10 Эпизод",
           titleLink: ["vk", "456239183"],
-          player: ["vk", "456239183", "hash", "0h0m0s"],
+          player: ["vk", "456239183", "5a626302be9e2eaf", "0h0m0s"],
         },
         {
           title: "11-12 Эпизод",
           titleLink: ["vk", "456239184"],
-          player: ["vk", "456239184", "hash", "0h0m0s"],
-        },
-      ],
-    },
-  ],
-  "Series-Anime_Koutetsujou-no-Kabaneri": [
-    {
-      seasonName: "1 Сезон",
-      items: [
-        {
-          title: "1-4 Эпизод",
-          titleLink: ["vk", "456241155?t=16m13s"],
-          player: ["vk", "456241155", "hash", "0h16m13s"],
+          player: ["vk", "456239184", "1037c43ec67ca974", "0h0m0s"],
         },
       ],
     },
@@ -3578,7 +3554,7 @@ const seriesAnimePopups = {
         {
           title: "1-4 Эпизод",
           titleLink: ["vk", "456240495"],
-          player: ["vk", "456240495", "hash", "0h0m0s"],
+          player: ["vk", "456240495", "116f972c61c4911b", "0h0m0s"],
         },
         {
           title: "5-9 Эпизод",
@@ -3587,22 +3563,22 @@ const seriesAnimePopups = {
         {
           title: "10-13 Эпизод",
           titleLink: ["vk", "456240496"],
-          player: ["vk", "456240496", "hash", "0h0m0s"],
+          player: ["vk", "456240496", "fd993a9c25f44217", "0h0m0s"],
         },
         {
           title: "14-17 Эпизод",
           titleLink: ["vk", "456240493"],
-          player: ["vk", "456240493", "hash", "0h0m0s"],
+          player: ["vk", "456240493", "2301524d34ed6111", "0h0m0s"],
         },
         {
           title: "18-21 Эпизод",
           titleLink: ["vk", "456240497"],
-          player: ["vk", "456240497", "hash", "0h0m0s"],
+          player: ["vk", "456240497", "e4dd17cb26bce3c3", "0h0m0s"],
         },
         {
           title: "22-26 Эпизод",
           titleLink: ["vk", "456240498"],
-          player: ["vk", "456240498", "hash", "0h0m0s"],
+          player: ["vk", "456240498", "acbdf1aede5375f9", "0h0m0s"],
         },
       ],
     },
@@ -3612,27 +3588,26 @@ const seriesAnimePopups = {
         {
           title: "1-4 Эпизод",
           titleLink: ["vk", "456240499"],
-          player: ["vk", "456240499", "hash", "0h0m0s"],
+          player: ["vk", "456240499", "2510aaa6272d22eb", "0h0m0s"],
         },
         {
           title: "5-8 Эпизод",
-          titleLink: ["vk", "456240500"],
-          player: ["vk", "456240500", "hash", "0h0m0s"],
+          lost: "lost",
         },
         {
           title: "9-12 Эпизод",
           titleLink: ["vk", "456240494"],
-          player: ["vk", "456240494", "hash", "0h0m0s"],
+          player: ["vk", "456240494", "36cfa706c5efe703", "0h0m0s"],
         },
         {
           title: "13-20 Эпизод",
           titleLink: ["vk", "456240501"],
-          player: ["vk", "456240501", "hash", "0h0m0s"],
+          player: ["vk", "456240501", "bd8782a6990a00c1", "0h0m0s"],
         },
         {
           title: "21-26 Эпизод",
           titleLink: ["vk", "456240502"],
-          player: ["vk", "456240502", "hash", "0h0m0s"],
+          player: ["vk", "456240502", "99c3eaced0193ee1", "0h0m0s"],
         },
       ],
     },
@@ -3652,7 +3627,7 @@ const seriesAnimePopups = {
         {
           title: "7-12 Эпизод",
           titleLink: ["vk", "456240247?t=4h6m17s"],
-          player: ["vk", "456240247", "hash", "4h6m17s"],
+          player: ["vk", "456240247", "fbca4e8a4a3d7150", "4h6m17s"],
         },
       ],
     },
@@ -3666,7 +3641,7 @@ const seriesAnimePopups = {
         {
           title: "5-7 Эпизод",
           titleLink: ["vk", "456240252?t=6h49m12s"],
-          player: ["vk", "456240252", "hash", "6h49m12s"],
+          player: ["vk", "456240252", "cf2b3c271268291a", "6h49m12s"],
         },
         {
           title: "8-12 Эпизод",
@@ -3682,12 +3657,12 @@ const seriesAnimePopups = {
         {
           title: "1-6 Эпизод",
           titleLink: ["vk", "456239601?t=18m17s"],
-          player: ["vk", "456239601", "hash", "0h18m17s"],
+          player: ["vk", "456239601", "55d5a493e7760416", "0h18m17s"],
         },
         {
           title: "7-10 Эпизод",
           titleLink: ["vk", "456239615?t=4h36m47s"],
-          player: ["vk", "456239615", "hash", "4h36m47s"],
+          player: ["vk", "456239615", "3f71a178570e4f35", "4h36m47s"],
         },
       ],
     },
@@ -3699,17 +3674,17 @@ const seriesAnimePopups = {
         {
           title: "1-2 Эпизод",
           titleLink: ["vk", "456240576?t=10m20s"],
-          player: ["vk", "456240576", "hash", "0h10m20s"],
+          player: ["vk", "456240576", "58e5a83de16914fc", "0h10m20s"],
         },
         {
           title: "3-6 Эпизод",
           titleLink: ["vk", "456240577?t=6m19s"],
-          player: ["vk", "456240577", "hash", "0h6m19s"],
+          player: ["vk", "456240577", "9f7a01547e01f3f6", "0h6m19s"],
         },
         {
           title: "7-10 Эпизод",
           titleLink: ["vk", "456240578?t=11m45s"],
-          player: ["vk", "456240578", "hash", "0h11m45s"],
+          player: ["vk", "456240578", "a50c5077476351e1", "0h11m45s"],
         },
         {
           title: "11-15 Эпизод",
@@ -3718,7 +3693,7 @@ const seriesAnimePopups = {
         {
           title: "16-26 Эпизод",
           titleLink: ["vk", "456240579?t=11m22s"],
-          player: ["vk", "456240579", "hash", "0h11m22s"],
+          player: ["vk", "456240579", "3b3b10edcbf4f37b", "0h11m22s"],
         },
       ],
     },
@@ -3730,22 +3705,22 @@ const seriesAnimePopups = {
         {
           title: "1-6 Эпизод",
           titleLink: ["vk", "456240261"],
-          player: ["vk", "456240261", "hash", "0h0m0s"],
+          player: ["vk", "456240261", "3574a13568b47689", "0h0m0s"],
         },
         {
           title: "6-7 Эпизод",
           titleLink: ["vk", "456240262"],
-          player: ["vk", "456240262", "hash", "0h0m0s"],
+          player: ["vk", "456240262", "8a72e76a020a6c88", "0h0m0s"],
         },
         {
           title: "7-9 Эпизод",
           titleLink: ["vk", "456240263"],
-          player: ["vk", "456240263", "hash", "0h0m0s"],
+          player: ["vk", "456240263", "d6d04dfcee426a37", "0h0m0s"],
         },
         {
           title: "10-21 Эпизод",
           titleLink: ["vk", "456240265"],
-          player: ["vk", "456240265", "hash", "0h0m0s"],
+          player: ["vk", "456240265", "e71ff117b034f919", "0h0m0s"],
         },
         {
           title: "22-26 Эпизод",
@@ -3759,7 +3734,7 @@ const seriesAnimePopups = {
         {
           title: "Бесконечный поезд",
           titleLink: ["vk", "456239302"],
-          player: ["vk", "456239302", "hash", "0h0m0s"],
+          player: ["vk", "456239302", "9e7fa72b763466be", "0h0m0s"],
         },
       ],
     },
@@ -3769,12 +3744,12 @@ const seriesAnimePopups = {
         {
           title: "1-3 Эпизод",
           titleLink: ["vk", "456239635?t=4h23m59s"],
-          player: ["vk", "456239635", "hash", "4h23m59s"],
+          player: ["vk", "456239635", "fd08f4a6693da609", "4h23m59s"],
         },
         {
           title: "4-11 Эпизод",
           titleLink: ["vk", "456239649?t=13m17s"],
-          player: ["vk", "456239649", "hash", "0h13m17s"],
+          player: ["vk", "456239649", "23af7120d2627a96", "0h13m17s"],
         },
       ],
     },
@@ -3784,12 +3759,12 @@ const seriesAnimePopups = {
         {
           title: "1-5 Эпизод",
           titleLink: ["vk", "456240260?t=7h57m0s"],
-          player: ["vk", "456240260", "hash", "7h57m0s"],
+          player: ["vk", "456240260", "67a92a520361bfa1", "7h57m0s"],
         },
         {
           title: "6-11 Эпизод",
           titleLink: ["vk", "456240598?t=1h50m21s"],
-          player: ["vk", "456240598", "hash", "1h50m21s"],
+          player: ["vk", "456240598", "dfacdbaf3de6a903", "1h50m21s"],
         },
       ],
     },
@@ -3799,7 +3774,7 @@ const seriesAnimePopups = {
         {
           title: "1-8 Эпизод",
           titleLink: ["vk", "456241763?t=12m34s"],
-          player: ["vk", "456241763", "hash", "0h12m34s"],
+          player: ["vk", "456241763", "11eaff213643863a", "0h12m34s"],
         },
       ],
     },
@@ -3811,27 +3786,27 @@ const seriesAnimePopups = {
         {
           title: "1-2 Эпизод",
           titleLink: ["vk", "456240284"],
-          player: ["vk", "456240284", "hash", "0h0m0s"],
+          player: ["vk", "456240284", "eb544f0e2eb06764", "0h0m0s"],
         },
         {
           title: "3-6 Эпизод",
           titleLink: ["vk", "456240285"],
-          player: ["vk", "456240285", "hash", "0h0m0s"],
+          player: ["vk", "456240285", "eefe316cf771e66d", "0h0m0s"],
         },
         {
           title: "7-8 Эпизод",
           titleLink: ["vk", "456240286"],
-          player: ["vk", "456240286", "hash", "0h0m0s"],
+          player: ["vk", "456240286", "fe121e3dd35a360b", "0h0m0s"],
         },
         {
           title: "9-11 Эпизод",
           titleLink: ["vk", "456240287"],
-          player: ["vk", "456240287", "hash", "0h0m0s"],
+          player: ["vk", "456240287", "8a29635f45ef1c75", "0h0m0s"],
         },
         {
           title: "12-15 Эпизод",
           titleLink: ["vk", "456240288"],
-          player: ["vk", "456240288", "hash", "0h0m0s"],
+          player: ["vk", "456240288", "34115bf08403f726", "0h0m0s"],
         },
         {
           title: "16-19 Эпизод",
@@ -3840,17 +3815,17 @@ const seriesAnimePopups = {
         {
           title: "20-21 Эпизод",
           titleLink: ["vk", "456240289"],
-          player: ["vk", "456240289", "hash", "0h0m0s"],
+          player: ["vk", "456240289", "3f5a4c18328260fd", "0h0m0s"],
         },
         {
           title: "22-23 Эпизод",
           titleLink: ["vk", "456240290"],
-          player: ["vk", "456240290", "hash", "0h0m0s"],
+          player: ["vk", "456240290", "5bd5289c041839da", "0h0m0s"],
         },
         {
           title: "24-26 Эпизод",
           titleLink: ["vk", "456240291"],
-          player: ["vk", "456240291", "hash", "0h0m0s"],
+          player: ["vk", "456240291", "dc3b802903a63e4d", "0h0m0s"],
         },
       ],
     },
@@ -3863,27 +3838,27 @@ const seriesAnimePopups = {
         {
           title: "1-4 Эпизод",
           titleLink: ["vk", "456239034?t=1h59m37s"],
-          player: ["vk", "456239034", "hash", "1h59m37s"],
+          player: ["vk", "456239034", "d07529027b185966", "1h59m37s"],
         },
         {
           title: "5-8 Эпизод",
           titleLink: ["vk", "456239058?t=1h58m3s"],
-          player: ["vk", "456239058", "hash", "1h58m3s"],
+          player: ["vk", "456239058", "0f8740f69cc40e3b", "1h58m3s"],
         },
         {
           title: "9-13 Эпизод",
           titleLink: ["vk", "456239083?t=5m10s"],
-          player: ["vk", "456239083", "hash", "0h5m10s"],
+          player: ["vk", "456239083", "50caa7ddacefe35b", "0h5m10s"],
         },
         {
           title: "14-17 Эпизод",
           titleLink: ["vk", "456239128?t=4h57m0s"],
-          player: ["vk", "456239128", "hash", "4h57m0s"],
+          player: ["vk", "456239128", "3cc352dc770fa746", "4h57m0s"],
         },
         {
           title: "18-26 Эпизод",
           titleLink: ["vk", "456239336?t=4h44m1s"],
-          player: ["vk", "456239336", "hash", "4h44m1s"],
+          player: ["vk", "456239336", "95926e1b47ee9119", "4h44m1s"],
         },
       ],
     },
@@ -3893,22 +3868,22 @@ const seriesAnimePopups = {
         {
           title: "1-4 Эпизод",
           titleLink: ["vk", "456239423?t=7m19s"],
-          player: ["vk", "456239423", "hash", "0h7m19s"],
+          player: ["vk", "456239423", "1bf0090df8ab352c", "0h7m19s"],
         },
         {
           title: "5-8 Эпизод",
           titleLink: ["vk", "456239466?t=4m36s"],
-          player: ["vk", "456239466", "hash", "0h4m36s"],
+          player: ["vk", "456239466", "2138b15ff598a7fa", "0h4m36s"],
         },
         {
           title: "9-13 Эпизод",
           titleLink: ["vk", "456239476?t=7m20s"],
-          player: ["vk", "456239476", "hash", "0h7m20s"],
+          player: ["vk", "456239476", "6f0f60c0bd53930a", "0h7m20s"],
         },
         {
           title: "14-24 Эпизод",
           titleLink: ["vk", "456239501?t=8m55s"],
-          player: ["vk", "456239501", "hash", "0h8m55s"],
+          player: ["vk", "456239501", "77958fd4c1ed0547", "0h8m55s"],
         },
       ],
     },
@@ -3920,12 +3895,12 @@ const seriesAnimePopups = {
         {
           title: "1-4 Эпизод",
           titleLink: ["vk", "456240193"],
-          player: ["vk", "456240193", "hash", "0h0m0s"],
+          player: ["vk", "456240193", "8237b1de79759608", "0h0m0s"],
         },
         {
           title: "5-9 Эпизод",
           titleLink: ["vk", "456240194"],
-          player: ["vk", "456240194", "hash", "0h0m0s"],
+          player: ["vk", "456240194", "bb209d1d0d6ea5a1", "0h0m0s"],
         },
         {
           title: "10 Эпизод",
@@ -3934,7 +3909,7 @@ const seriesAnimePopups = {
         {
           title: "11-12 Эпизод",
           titleLink: ["vk", "456240199"],
-          player: ["vk", "456240199", "hash", "0h0m0s"],
+          player: ["vk", "456240199", "6db2975960b57d52", "0h0m0s"],
         },
       ],
     },
@@ -3946,42 +3921,42 @@ const seriesAnimePopups = {
         {
           title: "1-4 Эпизод",
           titleLink: ["vk", "456240377?t=12m50s"],
-          player: ["vk", "456240377", "hash", "0h12m50s"],
+          player: ["vk", "456240377", "6cd9788a390f7351", "0h12m50s"],
         },
         {
           title: "5-8 Эпизод",
           titleLink: ["vk", "456240378"],
-          player: ["vk", "456240378", "hash", "0h0m0s"],
+          player: ["vk", "456240378", "e91318332dc42b2c", "0h0m0s"],
         },
         {
           title: "9-12 Эпизод",
           titleLink: ["vk", "456240379?t=13m22s"],
-          player: ["vk", "456240379", "hash", "0h13m22s"],
+          player: ["vk", "456240379", "96a421b581a89adc", "0h13m22s"],
         },
         {
           title: "13-15 Эпизод",
           titleLink: ["vk", "456240369"],
-          player: ["vk", "456240369", "hash", "0h0m0s"],
+          player: ["vk", "456240369", "b78a3ae559e0daff", "0h0m0s"],
         },
         {
           title: "16-18 Эпизод",
           titleLink: ["vk", "456240370?t=3m4s"],
-          player: ["vk", "456240370", "hash", "0h3m4s"],
+          player: ["vk", "456240370", "6010797e37dc773e", "0h3m4s"],
         },
         {
           title: "19-20 Эпизод",
           titleLink: ["vk", "456240371"],
-          player: ["vk", "456240371", "hash", "0h0m0s"],
+          player: ["vk", "456240371", "72cddf104bbb18d1", "0h0m0s"],
         },
         {
           title: "21-23 Эпизод",
           titleLink: ["vk", "456240372?t=3m19s"],
-          player: ["vk", "456240372", "hash", "0h3m19s"],
+          player: ["vk", "456240372", "a31237d921c0a5e3", "0h3m19s"],
         },
         {
           title: "24-25 Эпизод",
           titleLink: ["vk", "456240373"],
-          player: ["vk", "456240373", "hash", "0h0m0s"],
+          player: ["vk", "456240373", "a95aa5a9b74de715", "0h0m0s"],
         },
       ],
     },
@@ -3993,27 +3968,27 @@ const seriesAnimePopups = {
         {
           title: "1-4 Эпизод",
           titleLink: ["vk", "456241678?t=1m24s"],
-          player: ["vk", "456241678", "hash", "0h1m24s"],
+          player: ["vk", "456241678", "be8ff050c5ee7c6e", "0h1m24s"],
         },
         {
           title: "5-8 Эпизод",
           titleLink: ["vk", "456241692?t=12m10s"],
-          player: ["vk", "456241692", "hash", "0h12m10s"],
+          player: ["vk", "456241692", "d1c499f7925b8357", "0h12m10s"],
         },
         {
           title: "9-12 Эпизод",
           titleLink: ["vk", "456241699?t=8m2s"],
-          player: ["vk", "456241699", "hash", "0h8m2s"],
+          player: ["vk", "456241699", "5ee2992de3682dbb", "0h8m2s"],
         },
         {
           title: "13-15 Эпизод",
           titleLink: ["vk", "456241741?t=11m36s"],
-          player: ["vk", "456241741", "hash", "0h11m36s"],
+          player: ["vk", "456241741", "28b173243222c870", "0h11m36s"],
         },
         {
           title: "16 Эпизод",
           titleLink: ["vk", "456241743?t=12m28s"],
-          player: ["vk", "456241743", "hash", "0h12m28s"],
+          player: ["vk", "456241743", "e5e37bce04be09cc", "0h12m28s"],
         },
       ],
     },
@@ -4025,7 +4000,7 @@ const seriesAnimePopups = {
         {
           title: "1 Эпизод",
           titleLink: ["vk", "456240428"],
-          player: ["vk", "456240428", "hash", "0h0m0s"],
+          player: ["vk", "456240428", "236ce84d43f33979", "0h0m0s"],
         },
         {
           title: "2-5 Эпизод",
@@ -4034,22 +4009,22 @@ const seriesAnimePopups = {
         {
           title: "6-8 Эпизод",
           titleLink: ["vk", "456240430"],
-          player: ["vk", "456240430", "hash", "0h0m0s"],
+          player: ["vk", "456240430", "bdc169e486ca97fe", "0h0m0s"],
         },
         {
           title: "9-12 Эпизод",
           titleLink: ["vk", "456240431"],
-          player: ["vk", "456240431", "hash", "0h0m0s"],
+          player: ["vk", "456240431", "4d64867cd231673a", "0h0m0s"],
         },
         {
           title: "13-16 Эпизод",
           titleLink: ["vk", "456240432"],
-          player: ["vk", "456240432", "hash", "0h0m0s"],
+          player: ["vk", "456240432", "469386894b7a3eb9", "0h0m0s"],
         },
         {
           title: "17-19 Эпизод",
           titleLink: ["vk", "456240433"],
-          player: ["vk", "456240433", "hash", "0h0m0s"],
+          player: ["vk", "456240433", "2f4d5b699c0690f3", "0h0m0s"],
         },
       ],
     },
@@ -4061,7 +4036,7 @@ const seriesAnimePopups = {
         {
           title: "1-4 Эпизод",
           titleLink: ["vk", "456240525"],
-          player: ["vk", "456240525", "hash", "0h0m0s"],
+          player: ["vk", "456240525", "b20c851e61e44505", "0h0m0s"],
         },
         {
           title: "5-12 Эпизод",
@@ -4070,7 +4045,7 @@ const seriesAnimePopups = {
         {
           title: "13-16 Эпизод",
           titleLink: ["vk", "456240526"],
-          player: ["vk", "456240526", "hash", "0h0m0s"],
+          player: ["vk", "456240526", "81cc5f0dc79aae1d", "0h0m0s"],
         },
         {
           title: "17-20 Эпизод",
@@ -4079,82 +4054,82 @@ const seriesAnimePopups = {
         {
           title: "21-24 Эпизод",
           titleLink: ["vk", "456240504?t=12m4s"],
-          player: ["vk", "456240504", "hash", "0h12m4s"],
+          player: ["vk", "456240504", "1e67cacab9fe30fc", "0h12m4s"],
         },
         {
           title: "25-29 Эпизод",
           titleLink: ["vk", "456240505?t=5m54s"],
-          player: ["vk", "456240505", "hash", "0h5m54s"],
+          player: ["vk", "456240505", "87f24f4e4056e5a4", "0h5m54s"],
         },
         {
           title: "30-33 Эпизод",
           titleLink: ["vk", "456240506"],
-          player: ["vk", "456240506", "hash", "0h0m0s"],
+          player: ["vk", "456240506", "1c146a57dca33d27", "0h0m0s"],
         },
         {
           title: "34-37 Эпизод",
           titleLink: ["vk", "456240507?t=8m12s"],
-          player: ["vk", "456240507", "hash", "0h8m12s"],
+          player: ["vk", "456240507", "df1b035ded0b17ea", "0h8m12s"],
         },
         {
           title: "38-41 Эпизод",
           titleLink: ["vk", "456240508"],
-          player: ["vk", "456240508", "hash", "0h0m0s"],
+          player: ["vk", "456240508", "d9fb740c536734c2", "0h0m0s"],
         },
         {
           title: "42-45 Эпизод",
           titleLink: ["vk", "456240509"],
-          player: ["vk", "456240509", "hash", "0h0m0s"],
+          player: ["vk", "456240509", "7295ef8b841dcadc", "0h0m0s"],
         },
         {
           title: "46-49 Эпизод",
           titleLink: ["vk", "456240510"],
-          player: ["vk", "456240510", "hash", "0h0m0s"],
+          player: ["vk", "456240510", "bbd824988be93ac4", "0h0m0s"],
         },
         {
           title: "50-54 Эпизод",
           titleLink: ["vk", "456240511"],
-          player: ["vk", "456240511", "hash", "0h0m0s"],
+          player: ["vk", "456240511", "1cc84f7caf0520ae", "0h0m0s"],
         },
         {
           title: "55-58 Эпизод",
           titleLink: ["vk", "456240512"],
-          player: ["vk", "456240512", "hash", "0h0m0s"],
+          player: ["vk", "456240512", "e8c630490ed071d7", "0h0m0s"],
         },
         {
           title: "59-62 Эпизод",
           titleLink: ["vk", "456240518"],
-          player: ["vk", "456240518", "hash", "0h0m0s"],
+          player: ["vk", "456240518", "15db155c8ae5ad19", "0h0m0s"],
         },
         {
           title: "63-64 Эпизод",
           titleLink: ["vk", "456240513"],
-          player: ["vk", "456240513", "hash", "0h0m0s"],
+          player: ["vk", "456240513", "2c01c49118ec90c7", "0h0m0s"],
         },
         {
           title: "64-66 Эпизод",
           titleLink: ["vk", "456240514"],
-          player: ["vk", "456240514", "hash", "0h0m0s"],
+          player: ["vk", "456240514", "8ece78b512eec97b", "0h0m0s"],
         },
         {
           title: "67-70 Эпизод",
           titleLink: ["vk", "456240519"],
-          player: ["vk", "456240519", "hash", "0h0m0s"],
+          player: ["vk", "456240519", "9cd6f29cf9cf403a", "0h0m0s"],
         },
         {
           title: "71-74 Эпизод",
           titleLink: ["vk", "456240515"],
-          player: ["vk", "456240515", "hash", "0h0m0s"],
+          player: ["vk", "456240515", "d8ad9a0377c1caf0", "0h0m0s"],
         },
         {
           title: "75-82 Эпизод",
           titleLink: ["vk", "456240516"],
-          player: ["vk", "456240516", "hash", "0h0m0s"],
+          player: ["vk", "456240516", "2b9c3d88b736c2e5", "0h0m0s"],
         },
         {
           title: "83-87 Эпизод",
           titleLink: ["vk", "456240517"],
-          player: ["vk", "456240517", "hash", "0h0m0s"],
+          player: ["vk", "456240517", "ade6b96ca3540b29", "0h0m0s"],
         },
         {
           title: "88-91 Эпизод",
@@ -4167,6 +4142,28 @@ const seriesAnimePopups = {
         {
           title: "100-110 Эпизод",
           lost: "lost",
+        },
+      ],
+    },
+  ],
+  "Series-Anime_Darling-in-the-FranXX": [
+    {
+      seasonName: "1 Сезон",
+      items: [
+        {
+          title: "1-9 Эпизод",
+          titleLink: ["vk", "456241661?t=14m36s"],
+          player: ["vk", "456241661", "7270e7d63818c3cb", "0h14m36s"],
+        },
+        {
+          title: "10-17 Эпизод",
+          titleLink: ["vk", "456241667?t=2h11m2s"],
+          player: ["vk", "456241667", "74855fffed0ffa8e", "2h11m2s"],
+        },
+        {
+          title: "8-24 Эпизод",
+          titleLink: ["vk", "456241696?t=13m8s"],
+          player: ["vk", "456241696", "eaf061493a9124ec", "0h13m8s"],
         },
       ],
     },
@@ -4533,28 +4530,6 @@ const seriesAnimePopups = {
           title: "Скрецо глубокой ночи",
           titleLink: ["vk", "456240023?t=13m15s"],
           player: ["vk", "456240023", "hash", "0h13m15s"],
-        },
-      ],
-    },
-  ],
-  "Series-Anime_FranXX": [
-    {
-      seasonName: "1 Сезон",
-      items: [
-        {
-          title: "1-9 Эпизод",
-          titleLink: ["vk", "456241661?t=14m36s"],
-          player: ["vk", "456241661", "hash", "0h14m36s"],
-        },
-        {
-          title: "10-17 Эпизод",
-          titleLink: ["vk", "456241667?t=2h11m2s"],
-          player: ["vk", "456241667", "hash", "2h11m2s"],
-        },
-        {
-          title: "8-24 Эпизод",
-          titleLink: ["vk", "456241696?t=13m8s"],
-          player: ["vk", "456241696", "hash", "0h13m8s"],
         },
       ],
     },
