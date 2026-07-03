@@ -453,6 +453,11 @@ const seriesSerialsPopups = {
           titleLink: ["vk", "456241856?t=26m58s"],
           player: ["vk", "456241856", "2affeeb86bb97e32", "0h26m58s"],
         },
+        {
+          title: "2-3 Эпизод",
+          titleLink: ["vk", "456241859?t=12m25s"],
+          player: ["vk", "456241859", "15dc1e02fde6f72f", "0h12m25s"],
+        },
       ],
     },
   ],

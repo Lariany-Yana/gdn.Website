@@ -204,6 +204,16 @@ const amusementGames = [
     cardType: "amusement-Game",
   },
   {
+    nameRu: "GTA Vice City: The Next-Gen Edition",
+    titleStatus: "Наиграно: 2 Часа",
+    donutTerms: "donut-lvl-3",
+    titleLink: ["vk", "456241859"],
+    player: ["vk", "456241859", "15dc1e02fde6f72f", "2h11m35s"],
+    id: "Amusement-Games_GTA-Vice-City-NGE",
+    posterImage: "https://static.tildacdn.com/tild3336-3231-4865-a466-366537323239/img.webp",
+    cardType: "amusement-Game",
+  },
+  {
     nameRu: "Half-Life 2",
     titleStatus: "Наиграно: До финала",
     donutTerms: "donut-lvl-3",

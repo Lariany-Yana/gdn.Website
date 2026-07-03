@@ -20,13 +20,19 @@ const ordersDatabase = [
   {
     nameRu: "Викинги",
     nameEn: "Vikings",
-    orderRemark: "Сериал × Просмотрено: 3 Сезон 1/10 Эпизод",
+    orderRemark: "Сериал × Просмотрено: 3 Сезон 3/10 Эпизод",
     cardType: "order-during",
     id: "order_Vikings-3",
     items: [
       {
-        nickname: "1с 1эп",
+        nickname: "3с 1эп",
         slot: "0.5", // 1 Эпизод
+        date: "В уточнении",
+        was: "owe",
+      },
+      {
+        nickname: "3с 2-3эп",
+        slot: "1", // 2-3 Эпизод
         date: "В уточнении",
         was: "owe",
       },
@@ -295,19 +301,6 @@ const ordersDatabase = [
         nickname: "Madaofist",
         slot: "4.25",
         date: "18.12.24",
-      },
-    ],
-  },
-  {
-    nameRu: "GTA Vice City: The Next-Gen Edition",
-    orderRemark: "Игра",
-    cardType: "order-waiting",
-    id: "order_Vice-City",
-    items: [
-      {
-        nickname: "Кирвин",
-        slot: "1",
-        date: "19.02.25",
       },
     ],
   },
@@ -1240,20 +1233,6 @@ const ordersDatabase = [
     ],
   },
   {
-    nameRu: "Громовержцы*",
-    nameEn: "Thunderbolts*",
-    orderRemark: "Фильм",
-    cardType: "order-waiting",
-    id: "order_Thunderbolts",
-    items: [
-      {
-        nickname: "Сулейка",
-        slot: "1",
-        date: "09.06.26",
-      },
-    ],
-  },
-  {
     nameRu: "Годнеслот",
     personalOrder: "user_Katya",
     cardType: "order-waiting",
@@ -1572,6 +1551,33 @@ const ordersDatabase = [
   },
   //#endregion
   //#region ~Просмотренное~
+  {
+    nameRu: "Громовержцы*",
+    nameEn: "Thunderbolts*",
+    orderRemark: "Фильм",
+    cardType: "order-finished",
+    items: [
+      {
+        nickname: "Сулейка",
+        slot: "1",
+        date: "09.06.26",
+        was: "was",
+      },
+    ],
+  },
+  {
+    nameRu: "GTA Vice City: The Next-Gen Edition",
+    orderRemark: "Игра",
+    cardType: "order-finished",
+    items: [
+      {
+        nickname: "Кирвин",
+        slot: "1",
+        date: "19.02.25",
+        was: "was",
+      },
+    ],
+  },
   {
     nameRu: "В лес, где мерцают светлячки",
     nameEn: "Hotarubi no Mori e",

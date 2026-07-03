@@ -927,7 +927,7 @@ const seriesAnime = [
   {
     nameRu: "Небесный Фафнир",
     nameEn: "Soukyuu no Fafner",
-    titleStatus: "Просмотрено: 3 Сезона + OVA",
+    titleStatus: "Просмотрено: 4 Сезона + OVA",
     donutTerms: "donut-lvl-2",
     id: "Series-Anime_Soukyuu-no-Fafner",
     posterImage: "https://static.tildacdn.com/tild3739-3531-4964-b866-383265363833/_.webp",
@@ -1274,7 +1274,7 @@ const seriesAnime = [
     nameEn: "Vinland Saga",
     titleStatus: "Просмотрено: 1 Сезон, 2 Сезон 1-18/24 Эпизод",
     donutTerms: "donut-lvl-2",
-    id: "Series-Anime_Vinland-Saga-1",
+    id: "Series-Anime_Vinland-Saga",
     posterImage: "https://static.tildacdn.com/tild3733-6364-4831-a663-353031393561/__.webp",
     cardType: "series-Anime",
   },
