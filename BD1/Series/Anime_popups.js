@@ -4610,7 +4610,7 @@ const seriesAnimePopups = {
       titleStatus: "Полнометражка",
       donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456240032?t=2h26m20s"],
-      player: ["vk", "456240032", "b28533f42b2716a4hash", "2h26m20s"],
+      player: ["vk", "456240032", "b28533f42b2716a4", "2h26m20s"],
       id: "Fullmeter-Anime_Mobile-Suit-Gundam-Hathaway",
       posterImage: "https://static.tildacdn.com/tild6264-3837-4532-b936-373364313166/img.webp",
       cardType: "fullmeter-Anime",
