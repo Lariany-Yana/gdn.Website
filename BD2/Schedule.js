@@ -67,7 +67,16 @@ const scheduleDatabase = [
   },
   // Пятница
   {
-    nameRu: "Стрим вполне вероятен",
+    nameRu: "Викинги",
+    nameEn: "Vikings",
+    scheduleRemark: "Сериал × Начало в 17:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "03.07.26",
+  },
+  {
+    nameRu: "Южный Парк",
+    nameEn: "South Park",
+    scheduleRemark: "Мультсериал × Начало в 19:00 по МСК",
     scheduleType: "schedule-current",
     date: "03.07.26",
   },
