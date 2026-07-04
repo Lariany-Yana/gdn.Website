@@ -355,6 +355,7 @@ button {
   box-sizing: border-box;
   justify-content: center;
   align-items: stretch;
+  animation: opacity-show var(--UI-transition-main) ease forwards;
 }
 
 .alphabet {
@@ -682,6 +683,7 @@ button {
   justify-content: center;
   backdrop-filter: var(--BLUR-main);
   background-color: rgba(0, 0, 0, 0.5);
+  animation: opacity-show var(--UI-transition-extra) ease forwards;
 
   .popup {
     background: var(--RGB-background);
@@ -1430,6 +1432,7 @@ button {
   box-sizing: border-box;
   gap: var(--PDNG-general);
   justify-content: center;
+  animation: opacity-show var(--UI-transition-main) ease forwards;
 
   h1,
   h2 {
@@ -1771,5 +1774,14 @@ details.schedule {
   }
   100% {
     left: 150%;
+  }
+}
+
+@keyframes opacity-show {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
   }
 }
