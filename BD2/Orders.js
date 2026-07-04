@@ -25,14 +25,8 @@ const ordersDatabase = [
     id: "order_Vikings-3",
     items: [
       {
-        nickname: "3с 1эп",
-        slot: "0.5", // 1 Эпизод
-        date: "В уточнении",
-        was: "owe",
-      },
-      {
-        nickname: "3с 2-3эп",
-        slot: "1", // 2-3 Эпизод
+        nickname: "3с 1-5эп",
+        slot: "2.5", // 1-5 Эпизод
         date: "В уточнении",
         was: "owe",
       },
@@ -132,7 +126,7 @@ const ordersDatabase = [
   {
     nameRu: "Южный Парк",
     nameEn: "South Park",
-    orderRemark: "Мультсериал ⨯ В заказе: 3 Сезон 11-15/17 Эпизод",
+    orderRemark: "Мультсериал ⨯ В заказе: 3 Сезон 15/17 Эпизод",
     personalOrder: "user_Katya",
     cardType: "order-during",
     id: "order_South-Park",
@@ -156,13 +150,14 @@ const ordersDatabase = [
         was: "was",
       },
       {
-        nickname: "₁₁Naтрий",
-        slot: "0.25", // 3 Сезон 11 Эпизод
+        nickname: "Твою мать!",
+        slot: "1", // 3 Сезон 11-14 Эпизод
         date: "07.06.26",
+        was: "was",
       },
       {
-        nickname: "Твою мать!",
-        slot: "1", // 3 Сезон 12-15 Эпизод
+        nickname: "₁₁Naтрий",
+        slot: "0.25", // 3 Сезон 15 Эпизод
         date: "07.06.26",
       },
     ],

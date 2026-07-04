@@ -409,7 +409,7 @@ const seriesCartoons = [
   {
     nameRu: "Южный Парк",
     nameEn: "South Park",
-    titleStatus: "Просмотрено: 1-2 Сезон, 3 Сезон 1-10/17 Эпизод",
+    titleStatus: "Просмотрено: 1-2 Сезон, 3 Сезон 1-14/17 Эпизод",
     donutTerms: "donut-lvl-3",
     id: "Series-Cartoon_South-Park",
     posterImage: "https://static.tildacdn.com/tild3930-6433-4463-b339-396265356332/_.webp",

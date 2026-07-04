@@ -1743,6 +1743,11 @@ const seriesCartoonsPopups = {
           titleLink: ["vk", "456241845?t=4h50m8s"],
           player: ["vk", "456241845", "c035077d6a1dd7cf", "4h50m8s"],
         },
+        {
+          title: "11-14 Эпизод",
+          titleLink: ["vk", "456241860?t=2h8m6s"],
+          player: ["vk", "456241860", "453c0f28137deeab", "2h8m8s"],
+        },
       ],
     },
   ],

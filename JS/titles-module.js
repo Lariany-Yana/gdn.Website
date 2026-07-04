@@ -170,15 +170,11 @@ function createTitleCard(item) {
   const currentDomain = getSelectedVKDomain();
 
   if (hasPlayer) {
-    const [source, id, hash, time] = item.player;
-
-    if (source) {
-      watchBtn.classList.add(source);
-    }
+    const source = item.player[0];
+    if (source) watchBtn.classList.add(source);
     watchBtn.classList.add("iframe");
 
-    const embedUrl = `https://${currentDomain}/video_ext.php?oid=-208448461&id=${id}&hash=${hash}&t=${time}`;
-    
+    const embedUrl = getEmbedUrl(item.player);
     watchBtn.href = embedUrl;
 
     watchBtn.onclick = (e) => {
@@ -208,7 +204,6 @@ function createTitleCard(item) {
       }
     };
   } else {
-    // Если ссылка — строка
     if (typeof linkData === "string" && linkData.trim()) {
       watchBtn.href = linkData;
       watchBtn.target = "_blank";
@@ -225,10 +220,7 @@ function createTitleCard(item) {
       }
     };
   }
-
-  // =========================================================================
-  // Проверка на ошибку
-  // =========================================================================
+	
   const hasLink = Array.isArray(linkData) ? !!linkData[1]?.trim() : !!linkData?.trim();
   const hasPopup = !!popupDatabase[item.id];
 
@@ -240,12 +232,18 @@ function createTitleCard(item) {
   return clone;
 }
 
+function getEmbedUrl(playerData) {
+  if (!Array.isArray(playerData) || playerData.length !== 4) return "";
+  const [, id, hash, time] = playerData;
+  const currentDomain = getSelectedVKDomain();
+  return `https://${currentDomain}/video_ext.php?oid=-208448461&id=${id}&hash=${hash}&t=${time}`;
+}
+
 function openPlayerPopup(videoUrl) {
   if (!videoUrl) return;
 
   const template = document.getElementById("Player");
   if (!template) {
-    console.error("Шаблон #Player не найден");
     return;
   }
 
@@ -388,9 +386,7 @@ function openPopup(id) {
         a.appendChild(span);
 
         if (hasPlayer) {
-          const [source, id, hash, time] = ep.player;
-          const embedUrl = `https://vkvideo.ru/video_ext.php?oid=-208448461&id=${id}&hash=${hash}&t=${time}`;
-
+          const embedUrl = getEmbedUrl(ep.player);
           a.onclick = (e) => {
             e.preventDefault();
             openPlayerPopup(embedUrl);
