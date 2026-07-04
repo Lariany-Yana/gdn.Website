@@ -20,7 +20,7 @@ const ordersDatabase = [
   {
     nameRu: "Викинги",
     nameEn: "Vikings",
-    orderRemark: "Сериал × Просмотрено: 3 Сезон 3/10 Эпизод",
+    orderRemark: "Сериал × Просмотрено: 3 Сезон 1-5/10 Эпизод",
     cardType: "order-during",
     id: "order_Vikings-3",
     items: [
