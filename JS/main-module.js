@@ -16,7 +16,33 @@ SiteEngine.prototype.render = function (type, isStatic) {
     if (template && this.main) {
       this.main.innerHTML = "";
       this.main.appendChild(template.content.cloneNode(true));
+
+      this.main.addEventListener(
+        "toggle",
+        (event) => {
+          const target = event.target;
+
+          if (target.tagName === "DETAILS" && target.open) {
+            const scrollContainer = target.closest(".window");
+
+            if (scrollContainer) {
+              requestAnimationFrame(() => {
+                const containerTop = scrollContainer.getBoundingClientRect().top;
+                const elementTop = target.getBoundingClientRect().top;
+                const targetScrollTop = scrollContainer.scrollTop + (elementTop - containerTop);
+
+                scrollContainer.scrollTo({
+                  top: targetScrollTop,
+                  behavior: "smooth",
+                });
+              });
+            }
+          }
+        },
+        true,
+      );
     }
+
     if (typeof this.config.renderScheduleFn === "function") {
       this.config.renderScheduleFn();
     }
