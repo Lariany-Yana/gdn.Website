@@ -220,7 +220,7 @@ function createTitleCard(item) {
       }
     };
   }
-	
+
   const hasLink = Array.isArray(linkData) ? !!linkData[1]?.trim() : !!linkData?.trim();
   const hasPopup = !!popupDatabase[item.id];
 
@@ -243,36 +243,34 @@ function openPlayerPopup(videoUrl) {
   if (!videoUrl) return;
 
   const template = document.getElementById("Player");
-  if (!template) {
-    return;
-  }
+  if (!template) return;
 
   const overlay = document.createElement("div");
   overlay.className = "popup-overlay player-overlay";
 
   const clone = template.content.cloneNode(true);
   const iframe = clone.querySelector("iframe");
+
   if (iframe) {
     iframe.src = videoUrl;
   }
 
-  const destroyPlayer = () => {
+  const destroyThisPopup = () => {
     if (iframe) iframe.src = "";
     overlay.remove();
   };
 
-  const exitBtn = clone.querySelector(".player-exit");
+  const exitBtn = clone.querySelector(".player-exit") || clone.querySelector(".popup-exit");
   if (exitBtn) {
     exitBtn.onclick = (e) => {
       e.stopPropagation();
-      destroyPlayer();
+      destroyThisPopup();
     };
   }
 
   overlay.onclick = (e) => {
     if (e.target === overlay) {
-      e.stopPropagation();
-      destroyPlayer();
+      destroyThisPopup();
     }
   };
 
@@ -450,14 +448,14 @@ const TitlesConfig = {
     const allItems = new Map();
 
     cardDatabase.forEach((i) => {
-      if (i.id !== "Amusement-Poker" && i.cardType !== "amusement-Event") {
+      if (i.id !== "Amusement-Poker") {
         allItems.set(i.id, { ...i });
       }
     });
 
     Object.values(popupDatabase).forEach((seasons) => {
       seasons.forEach((e) => {
-        if (e.id && e.id !== "Amusement-Poker" && e.cardType !== "amusement-Event" && e.nameRu) {
+        if (e.id && e.id !== "Amusement-Poker" && e.nameRu) {
           allItems.set(e.id, { ...e });
         }
       });
@@ -471,7 +469,7 @@ const TitlesConfig = {
         ...i,
         nameRuLower: rawRu.toLowerCase(),
         nameEnLower: rawEn.toLowerCase(),
-        trigrams: new Set([...getTrigrams(rawRu), ...getTrigrams(rawEn)]),
+        trigramsString: [...getTrigrams(rawRu), ...getTrigrams(rawEn)].join(" "),
       };
     });
   },
@@ -493,28 +491,26 @@ const TitlesConfig = {
       const directScore = Math.max(scoreRu, scoreEn);
 
       if (directScore > 0) {
-        const scoredItem = {
+        filtered.push({
           ...item,
           score: directScore - (item.nameRuLower || "").length * 0.001,
-        };
-        filtered.push(scoredItem);
+        });
         continue;
       }
 
       let matches = 0;
       for (let j = 0; j < queryTris.length; j++) {
-        if (item.trigrams && item.trigrams.has(queryTris[j])) {
+        if (item.trigramsString && item.trigramsString.includes(queryTris[j])) {
           matches++;
         }
       }
 
       const score = matches / queryTris.length;
       if (score > 0.35) {
-        const scoredItem = {
+        filtered.push({
           ...item,
           score: score * 0.5,
-        };
-        filtered.push(scoredItem);
+        });
       }
     }
 
@@ -531,19 +527,17 @@ document.addEventListener("click", (e) => {
   const randomBtn = e.target.closest(".random-button");
   if (!randomBtn) return;
 
-  const container = document.querySelector(".results-container");
+  const container = randomBtn.closest(".popup").querySelector(".results-container");
+
   if (!container) return;
 
   const randomIndex = Math.floor(Math.random() * cardDatabase.length);
   const randomItem = cardDatabase[randomIndex];
-
   const cardFragment = createTitleCard(randomItem);
   const card = cardFragment.querySelector(".title-card");
 
   container.prepend(cardFragment);
-  if (card) {
-    animateCardAppearance(card);
-  }
+  if (card) animateCardAppearance(card);
 
   const currentCards = container.querySelectorAll(".title-card");
   if (currentCards.length > 10) {

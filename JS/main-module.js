@@ -9,50 +9,61 @@ const MainConfig = {
   renderScheduleFn: renderSchedule,
 };
 
-const originalRender = SiteEngine.prototype.render;
-SiteEngine.prototype.render = function (type, isStatic) {
-  if (type === "schedule") {
-    const template = document.getElementById("page-Schedule");
-    if (template && this.main) {
-      this.main.innerHTML = "";
-      this.main.appendChild(template.content.cloneNode(true));
+class MainEngine extends SiteEngine {
+  init() {
+    super.init(); // Вызываем базовую инициализацию из core.js
 
-      this.main.addEventListener(
-        "toggle",
-        (event) => {
-          const target = event.target;
-
-          if (target.tagName === "DETAILS" && target.open) {
-            const scrollContainer = target.closest(".window");
-
-            if (scrollContainer) {
-              requestAnimationFrame(() => {
-                const containerTop = scrollContainer.getBoundingClientRect().top;
-                const elementTop = target.getBoundingClientRect().top;
-                const targetScrollTop = scrollContainer.scrollTop + (elementTop - containerTop);
-
-                scrollContainer.scrollTo({
-                  top: targetScrollTop,
-                  behavior: "smooth",
-                });
-              });
-            }
-          }
-        },
-        true,
-      );
+    // Навешиваем слушатель строго ОДИН раз при создании движка
+    if (this.main) {
+      this.main.addEventListener("toggle", this.handleScheduleToggle.bind(this), true);
     }
-
-    if (typeof this.config.renderScheduleFn === "function") {
-      this.config.renderScheduleFn();
-    }
-    if (this.main) this.main.scrollTop = 0;
-    return;
   }
-  originalRender.call(this, type, isStatic);
-};
 
-const godenEngine = new SiteEngine(MainConfig);
+  // Выносим тяжелую логику в отдельный метод
+  handleScheduleToggle(event) {
+    const target = event.target;
+    
+    if (target.tagName === "DETAILS" && target.open) {
+      const scrollContainer = target.closest(".window");
+
+      if (scrollContainer) {
+        requestAnimationFrame(() => {
+          const containerTop = scrollContainer.getBoundingClientRect().top;
+          const elementTop = target.getBoundingClientRect().top;
+          const targetScrollTop = scrollContainer.scrollTop + (elementTop - containerTop);
+
+          scrollContainer.scrollTo({
+            top: targetScrollTop,
+            behavior: "smooth",
+          });
+        });
+      }
+    }
+  }
+
+  render(type, isStatic) {
+    if (type === "schedule") {
+      const template = document.getElementById("page-Schedule");
+      
+      if (template && this.main) {
+        this.main.innerHTML = "";
+        this.main.appendChild(template.content.cloneNode(true));
+      }
+
+      if (typeof this.config.renderScheduleFn === "function") {
+        this.config.renderScheduleFn();
+      }
+      
+      if (this.main) this.main.scrollTop = 0;
+      
+      return; // Событий здесь больше нет, только чистый рендер DOM
+    }
+    
+    super.render(type, isStatic);
+  }
+}
+
+const godenEngine = new MainEngine(MainConfig);
 
 // =========================================================================
 // Вспомогательные утилиты для обработки дат расписания

@@ -21,6 +21,35 @@ function initPopup(typeId) {
   popup.id = "popup-" + typeId;
   popup.appendChild(contentTemp.content.cloneNode(true));
 
+  if (typeId === "About-Prefs" || typeId === "Settings") {
+    
+    popup.addEventListener("input", (e) => {
+      if (e.target && e.target.id === "title-card-size-slider") {
+        const newWidth = e.target.value;
+        document.documentElement.style.setProperty("--title-card-width", `${newWidth}px`);
+        localStorage.setItem("gdn-card-width", newWidth);
+
+        const valueLabel = popup.querySelector("#title-card-size-value");
+        if (valueLabel) valueLabel.textContent = `${newWidth}px`;
+      }
+    });
+
+    popup.addEventListener("click", (e) => {
+      const resetBtn = e.target.closest("#title-card-size-reset");
+      if (resetBtn) {
+        localStorage.removeItem("gdn-card-width");
+        document.documentElement.style.removeProperty("--title-card-width");
+
+        const slider = popup.querySelector("#title-card-size-slider");
+        if (slider) {
+          slider.value = 400;
+          const valueLabel = popup.querySelector("#title-card-size-value");
+          if (valueLabel) valueLabel.textContent = "400px";
+        }
+      }
+    });
+  }
+
   document.body.appendChild(clone);
   return popup;
 }
@@ -204,7 +233,12 @@ class SiteEngine {
     });
 
     this.main.appendChild(fragment);
-    setTimeout(() => this.updateAlphabetNavigation(), 50);
+
+    requestAnimationFrame(() => {
+      requestAnimationFrame(() => {
+        this.updateAlphabetNavigation();
+      });
+    });
   }
 
   renderFavorites(container) {
@@ -684,13 +718,13 @@ function animateCardAppearance(card) {
     }
 
     if (e.target.closest('[onclick*="About-Prefs"]') || e.target.closest(".open-settings-btn")) {
-      setTimeout(() => {
+      requestAnimationFrame(() => {
         const slider = document.getElementById("title-card-size-slider");
         if (slider) {
           const currentWidth = localStorage.getItem(STORAGE_KEY) || DEFAULT_VALUE;
           syncSliderState(slider, currentWidth);
         }
-      }, 10);
+      });
     }
     const isExitBtn = e.target.closest(".popup-exit");
     const isOverlay = e.target.matches(".popup-overlay");
