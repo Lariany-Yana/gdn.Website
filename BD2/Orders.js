@@ -127,7 +127,7 @@ const ordersDatabase = [
     nameRu: "Южный Парк",
     nameEn: "South Park",
     orderRemark: "Мультсериал ⨯ В заказе: 3 Сезон 15/17 Эпизод",
-    personalOrder: "user_Katya",
+    // personalOrder: "user_Katya",
     cardType: "order-during",
     id: "order_South-Park",
     items: [
