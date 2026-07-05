@@ -282,24 +282,8 @@
         <p>Домен ВК: <a onclick="setVKDomain('old')">Старый (vk.com)</a> / <a onclick="setVKDomain('new')">Новый (vkvideo.ru)</a></p>
       </div>
       <div class="custom-content settings">
-        <p>
-          Плеер:
-          <a
-            onclick="
-              setUsePlayerState(false);
-              return false;
-            "
-            >Не использовать</a
-          >
-          /
-          <a
-            onclick="
-              setUsePlayerState(true);
-              return false;
-            "
-            >Использовать</a
-          >
-        </p>
+        <!--prettier-ignore-->
+        <p>Плеер: <a onclick="setPlayerStatus(false);">Не использовать</a> / <a onclick="setPlayerStatus(true);">Использовать</a></p>
       </div>
       <div class="custom-content settings">
         <p>Цветовой режим: <a onclick="toggleTheme('dark')">Тёмная тема</a> / <a onclick="toggleTheme('light')">Светлая тема</a> / <a onclick="toggleTheme('auto')">Авто</a></p>
