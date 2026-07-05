@@ -154,7 +154,9 @@ p a {
 :root[data-theme="dark"] p a[onclick="toggleTheme('dark')"],
 :root[data-theme="auto"] p a[onclick="toggleTheme('auto')"],
 :root[data-vk-domain="old"] p a[onclick="setVKDomain('old')"],
-:root[data-vk-domain="new"] p a[onclick="setVKDomain('new')"] {
+:root[data-vk-domain="new"] p a[onclick="setVKDomain('new')"],
+:root[data-use-player="false"] p a[onclick="setUsePlayerState(false); return false;"],
+:root[data-use-player="true"] p a[onclick="setUsePlayerState(true); return false;"] {
   color: var(--RGB-regular) !important;
   &:hover {
     color: light-dark(color-mix(in oklab, var(--RGB-regular), white 20%), color-mix(in oklab, var(--RGB-regular), black 20%)) !important;

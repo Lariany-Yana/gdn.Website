@@ -88,7 +88,7 @@ const scheduleDatabase = [
   },
   // Воскресенье
   {
-    nameRu: "Стрим вполне вероятен",
+    nameRu: "Стрим не состоялся",
     scheduleType: "schedule-current",
     date: "05.07.26",
   },

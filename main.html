@@ -50,6 +50,7 @@
           <button class="tab-button" onclick="godenEngine.openStaticPopup('About-Donut')">О подписке</button>
           <button class="tab-button" onclick="godenEngine.openStaticPopup('About-Orders')">Правила заказа</button>
           <button class="tab-button" onclick="godenEngine.openStaticPopup('About-New')">Что нового</button>
+          <button class="tab-button" onclick="godenEngine.openStaticPopup('About-Copyright')">Авторские права</button>
         </div>
         <div class="tabs-section">
           <button class="tab-button" onclick="godenEngine.openStaticPopup('About-Prefs')">Настройки</button>
@@ -244,6 +245,9 @@
     <template id="About-New">
       <button class="popup-exit"></button>
       <div class="custom-content">
+        <h1>Что нового от 05.07.26</h1>
+        <p><span class="RGB-accent">Новая функция в разделе «Тайтлы» – Плеер</span><br />Для сайта добавлена функция просмотра контента в плеере прямо на сайте не переходя по ссылкам (где возможно). При желании возможно отключить.<br />Обратите внимание, что для просмотра чего-либо необходимо иметь авторизацию в ВК на текущем браузере и состоять в группе ВК.</p>
+        <p><span class="RGB-accent">Новая функция в окне «Настройки»</span><br />Для функции плеера добавлена возможность его отключения, в этом случае будут использоваться ссылки (как раньше) и открывать новую страницу. По-умолчанию плеер используется.</p>
         <h1>Что нового от 02.07.26</h1>
         <p><span class="RGB-accent">Новая функция в окне «Настройки»</span><br />Для сайта добавлена функция выбора домена ВК, который будет использоваться для соответствующих ссылок.<br />Всего домена два – "Старый (vk.com)" и "Новый (vkvideo.ru)", по-умолчанию используется вариант "Новый".</p>
         <h1>Что нового от 28.06.26</h1>
@@ -263,10 +267,39 @@
       </div>
     </template>
 
+    <template id="About-Copyright">
+      <button class="popup-exit"></button>
+      <div class="custom-content">
+        <h1>Об авторских правах</h1>
+        <p>Если Вы являетесь владельцем авторских прав для какого-либо контента на сайте, обратите внимание, что все плееры встроены из сторонних API источников. Для удаления контента, который нарушает Ваши авторские права, пожалуйста, свяжитесь с нами через личные сообщения в группе ВК.</p>
+        <a href="https://vk.com/invite/A8Zbmwc"><h1>Производственные склады Годнестана</h1></a>
+      </div>
+    </template>
+
     <template id="About-Prefs">
       <button class="popup-exit"></button>
       <div class="custom-content settings">
         <p>Домен ВК: <a onclick="setVKDomain('old')">Старый (vk.com)</a> / <a onclick="setVKDomain('new')">Новый (vkvideo.ru)</a></p>
+      </div>
+      <div class="custom-content settings">
+        <p>
+          Плеер:
+          <a
+            onclick="
+              setUsePlayerState(false);
+              return false;
+            "
+            >Не использовать</a
+          >
+          /
+          <a
+            onclick="
+              setUsePlayerState(true);
+              return false;
+            "
+            >Использовать</a
+          >
+        </p>
       </div>
       <div class="custom-content settings">
         <p>Цветовой режим: <a onclick="toggleTheme('dark')">Тёмная тема</a> / <a onclick="toggleTheme('light')">Светлая тема</a> / <a onclick="toggleTheme('auto')">Авто</a></p>

@@ -7,8 +7,6 @@ const DONUT_LVL = {
   "donut-lvl-3": { className: "donut-lvl-3", readable: "ЯГодень Премиум" },
 };
 
-const USE_PLAYER = false;
-
 const SRC_PREFIX = {
   boosty: "https://boosty.to/",
   vk: `https://${getSelectedVKDomain()}/video-208448461_`,
