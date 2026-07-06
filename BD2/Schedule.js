@@ -12,124 +12,31 @@ const scheduleDatabase = [
   //#endregion
   // Понедельник
   {
-    nameRu: "Стрим невозможен",
-    scheduleType: "schedule-current",
-    date: "29.06.26",
-  },
-  // Вторник
-  {
-    nameRu: "Декстер",
-    nameEn: "Dexter",
-    scheduleRemark: "Сериал × 7 Сезон 9-10 Эпизод",
-    scheduleType: "schedule-current",
-    date: "30.06.26",
-  },
-  {
-    nameRu: "Теория большого взрыва",
-    nameEn: "The Big Bang Theory",
-    scheduleRemark: "Сериал × 4 Сезон 6-9 Эпизод",
-    scheduleType: "schedule-current",
-    date: "30.06.26",
-  },
-  {
-    nameRu: "Декстер",
-    nameEn: "Dexter",
-    scheduleRemark: "Сериал × 7 Сезон 11-12 Эпизод",
-    scheduleType: "schedule-current",
-    date: "30.06.26",
-  },
-  // Среда
-  {
-    nameRu: "Стрим не состоялся",
-    scheduleType: "schedule-current",
-    date: "01.07.26",
-  },
-  // Четверг
-  {
-    nameRu: "Викинги",
-    nameEn: "Vikings",
-    scheduleRemark: "Сериал × 3 Сезон 2-3 Эпизод",
-    scheduleType: "schedule-current",
-    date: "02.07.26",
-  },
-  {
-    nameRu: "GTA Vice City: The Next-Gen Edition",
-    scheduleRemark: "Игра",
-    scheduleType: "schedule-current",
-    date: "02.07.26",
-  },
-  {
-    nameRu: "Громовержцы*",
-    nameEn: "Thunderbolts*",
-    scheduleRemark: "Фильм",
-    scheduleType: "schedule-current",
-    date: "02.07.26",
-  },
-  // Пятница
-  {
-    nameRu: "Викинги",
-    nameEn: "Vikings",
-    scheduleRemark: "Сериал × 3 Сезон 4-5 Эпизод",
-    scheduleType: "schedule-current",
-    date: "03.07.26",
-  },
-  {
-    nameRu: "Южный Парк",
-    nameEn: "South Park",
-    scheduleRemark: "Мультсериал × 3 Сезон 11-14 Эпизод",
-    scheduleType: "schedule-current",
-    date: "03.07.26",
-  },
-  // Суббота
-  {
-    nameRu: "Стрим невозможен",
-    scheduleType: "schedule-current",
-    date: "04.07.26",
-  },
-  // Воскресенье
-  {
-    nameRu: "Стрим не состоялся",
-    scheduleType: "schedule-current",
-    date: "05.07.26",
-  },
-
-  //#region Июль
-  /* ШАБЛОН
-  // Понедельник
-  {
-    nameRu: "Стрим невозможен",
+    nameRu: "Стрим ожидается",
     scheduleType: "schedule-current",
     date: "06.07.26",
   },
   // Вторник
   {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
+    nameRu: "Стрим невозможен",
     scheduleType: "schedule-current",
     date: "07.07.26",
   },
   // Среда
   {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
+    nameRu: "Стрим вполне вероятен",
     scheduleType: "schedule-current",
     date: "08.07.26",
   },
   // Четверг
   {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
+    nameRu: "Стрим маловероятен",
     scheduleType: "schedule-current",
     date: "09.07.26",
   },
   // Пятница
   {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
+    nameRu: "Стрим вполне вероятен",
     scheduleType: "schedule-current",
     date: "10.07.26",
   },
@@ -141,12 +48,12 @@ const scheduleDatabase = [
   },
   // Воскресенье
   {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
+    nameRu: "Стрим вполне вероятен",
     scheduleType: "schedule-current",
     date: "12.07.26",
   },
+  //#region Июль
+  /* ШАБЛОН
   // Понедельник
   {
     nameRu: "Стрим невозможен",
@@ -2204,6 +2111,88 @@ const scheduleDatabase = [
     scheduleRemark: "Полнометражка",
     scheduleType: "schedule-past",
     date: "28.06.26",
+  },
+  // Понедельник
+  {
+    nameRu: "Стрим невозможен",
+    scheduleType: "schedule-past",
+    date: "29.06.26",
+  },
+  // Вторник
+  {
+    nameRu: "Декстер",
+    nameEn: "Dexter",
+    scheduleRemark: "Сериал × 7 Сезон 9-10 Эпизод",
+    scheduleType: "schedule-past",
+    date: "30.06.26",
+  },
+  {
+    nameRu: "Теория большого взрыва",
+    nameEn: "The Big Bang Theory",
+    scheduleRemark: "Сериал × 4 Сезон 6-9 Эпизод",
+    scheduleType: "schedule-past",
+    date: "30.06.26",
+  },
+  {
+    nameRu: "Декстер",
+    nameEn: "Dexter",
+    scheduleRemark: "Сериал × 7 Сезон 11-12 Эпизод",
+    scheduleType: "schedule-past",
+    date: "30.06.26",
+  },
+  // Среда
+  {
+    nameRu: "Стрим не состоялся",
+    scheduleType: "schedule-past",
+    date: "01.07.26",
+  },
+  // Четверг
+  {
+    nameRu: "Викинги",
+    nameEn: "Vikings",
+    scheduleRemark: "Сериал × 3 Сезон 2-3 Эпизод",
+    scheduleType: "schedule-past",
+    date: "02.07.26",
+  },
+  {
+    nameRu: "GTA Vice City: The Next-Gen Edition",
+    scheduleRemark: "Игра",
+    scheduleType: "schedule-past",
+    date: "02.07.26",
+  },
+  {
+    nameRu: "Громовержцы*",
+    nameEn: "Thunderbolts*",
+    scheduleRemark: "Фильм",
+    scheduleType: "schedule-past",
+    date: "02.07.26",
+  },
+  // Пятница
+  {
+    nameRu: "Викинги",
+    nameEn: "Vikings",
+    scheduleRemark: "Сериал × 3 Сезон 4-5 Эпизод",
+    scheduleType: "schedule-past",
+    date: "03.07.26",
+  },
+  {
+    nameRu: "Южный Парк",
+    nameEn: "South Park",
+    scheduleRemark: "Мультсериал × 3 Сезон 11-14 Эпизод",
+    scheduleType: "schedule-past",
+    date: "03.07.26",
+  },
+  // Суббота
+  {
+    nameRu: "Стрим невозможен",
+    scheduleType: "schedule-past",
+    date: "04.07.26",
+  },
+  // Воскресенье
+  {
+    nameRu: "Стрим не состоялся",
+    scheduleType: "schedule-past",
+    date: "05.07.26",
   },
   //#endregion
 ];

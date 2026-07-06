@@ -2,7 +2,6 @@ const amusementEvents = [
   {
     nameRu: "The Game Awards 2025",
     nameEn: "11.12.2025",
-    donutTerms: "donut-lvl-3",
     titleLink: ["boosty", "hiddenarchive/posts/63328dd2-8a96-4763-a913-cffe2d9ee28c?share=success_publish_link"],
     id: "Amusement-Event_21",
     posterImage: "https://static.tildacdn.com/tild6536-6631-4839-b033-393534653233/The_Game_Awards_2025.webp",
@@ -91,7 +90,6 @@ const amusementEvents = [
   {
     nameRu: "Кукинг Стрим feat. Санджи и Рсений",
     nameEn: "10.08.2024",
-    donutTerms: "donut-lvl-3",
     titleLink: ["boosty", "hiddenarchive/posts/379307c8-44c3-44ad-baac-ed6867744a87?share=success_publish_link"],
     id: "Amusement-Event_11",
     posterImage: "https://static.tildacdn.com/tild6233-3930-4464-b939-333365633866/__feat___.webp",
