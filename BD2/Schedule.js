@@ -12,31 +12,100 @@ const scheduleDatabase = [
   //#endregion
   // Понедельник
   {
-    nameRu: "Стрим ожидается",
+    nameRu: "Стрим невозможен",
     scheduleType: "schedule-current",
     date: "06.07.26",
   },
   // Вторник
   {
-    nameRu: "Стрим невозможен",
+    nameRu: "Семь смертных грехов",
+    nameEn: "Nanatsu no Taizai / The Seven Deadly Sins",
+    scheduleRemark: "Аниме × Начало в 16:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "07.07.26",
+  },
+  {
+    nameRu: "Рим",
+    nameEn: "Rome",
+    scheduleRemark: "Сериал × Начало в 18:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "07.07.26",
+  },
+  {
+    nameRu: "Викинги",
+    nameEn: "Vikings",
+    scheduleRemark: "Сериал × Начало в 20:00 по МСК",
     scheduleType: "schedule-current",
     date: "07.07.26",
   },
   // Среда
   {
-    nameRu: "Стрим вполне вероятен",
+    nameRu: "Опорный Пункт",
+    nameEn: "FireBase",
+    scheduleRemark: "Мини-Фильм × Начало в 16:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "08.07.26",
+  },
+  {
+    nameRu: "Ракка",
+    nameEn: "Rakka",
+    scheduleRemark: "Мини-Фильм × Начало в 16:30 по МСК",
+    scheduleType: "schedule-current",
+    date: "08.07.26",
+  },
+  {
+    nameRu: "Проект «Конец света»",
+    nameEn: "Project Hail Mary",
+    scheduleRemark: "Фильм × Начало в 17:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "08.07.26",
+  },
+  {
+    nameRu: "Соколиный глаз",
+    nameEn: "Hawkeye",
+    scheduleRemark: "Сериал × Начало в 19:00 по МСК",
     scheduleType: "schedule-current",
     date: "08.07.26",
   },
   // Четверг
   {
-    nameRu: "Стрим маловероятен",
+    nameRu: "Warhammer 40 000: Rogue Trader",
+    scheduleRemark: "Игра × Начало в 16:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "09.07.26",
+  },
+  {
+    nameRu: "Tainted Grail: The Fall of Avalon",
+    scheduleRemark: "Игра × Начало в 18:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "09.07.26",
+  },
+  {
+    nameRu: "Пока не сыграл в ящик",
+    nameEn: "The Bucket List",
+    scheduleRemark: "Фильм × Начало в 20:00 по МСК",
     scheduleType: "schedule-current",
     date: "09.07.26",
   },
   // Пятница
   {
-    nameRu: "Стрим вполне вероятен",
+    nameRu: "Невеста чародея",
+    nameEn: "Mahoutsukai no Yome",
+    scheduleRemark: "Аниме × Начало в 16:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "10.07.26",
+  },
+  {
+    nameRu: "Целитель Адамс",
+    nameEn: "Patch Adams",
+    scheduleRemark: "Фильм × Начало в 18:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "10.07.26",
+  },
+  {
+    nameRu: "Исчезнувшая",
+    nameEn: "Gone Girl",
+    scheduleRemark: "Фильм × Начало в 20:00 по МСК",
     scheduleType: "schedule-current",
     date: "10.07.26",
   },
@@ -48,7 +117,29 @@ const scheduleDatabase = [
   },
   // Воскресенье
   {
-    nameRu: "Стрим вполне вероятен",
+    nameRu: "Летнее время",
+    nameEn: "Summertime Render",
+    scheduleRemark: "Аниме × Начало в 14:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "12.07.26",
+  },
+  {
+    nameRu: "Первородный грех Такопи",
+    nameEn: "Takopii no Genzai",
+    scheduleRemark: "Аниме × Начало в 16:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "12.07.26",
+  },
+  {
+    nameRu: "Бумажный дом",
+    nameEn: "La casa de papel",
+    scheduleRemark: "Сериал × Начало в 19:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "12.07.26",
+  },
+  {
+    nameRu: "Годнеслот",
+    scheduleRemark: "Фильм × Начало в 21:00 по МСК",
     scheduleType: "schedule-current",
     date: "12.07.26",
   },
