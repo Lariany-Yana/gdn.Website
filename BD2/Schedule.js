@@ -62,33 +62,25 @@ const scheduleDatabase = [
   },
   // Вторник
   {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
+    nameRu: "Стрим вполне вероятен",
     scheduleType: "schedule-current",
     date: "14.07.26",
   },
   // Среда
   {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
+    nameRu: "Стрим маловероятен",
     scheduleType: "schedule-current",
     date: "15.07.26",
   },
   // Четверг
   {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
+    nameRu: "Стрим вполне вероятен",
     scheduleType: "schedule-current",
     date: "16.07.26",
   },
   // Пятница
   {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
+    nameRu: "Стрим маловероятен",
     scheduleType: "schedule-current",
     date: "17.07.26",
   },
@@ -100,9 +92,7 @@ const scheduleDatabase = [
   },
   // Воскресенье
   {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
+    nameRu: "Стрим вполне вероятен",
     scheduleType: "schedule-current",
     date: "19.07.26",
   },
@@ -114,33 +104,25 @@ const scheduleDatabase = [
   },
   // Вторник
   {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
+    nameRu: "Стрим вполне вероятен",
     scheduleType: "schedule-current",
     date: "21.07.26",
   },
   // Среда
   {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
+    nameRu: "Стрим маловероятен",
     scheduleType: "schedule-current",
     date: "22.07.26",
   },
   // Четверг
   {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
+    nameRu: "Стрим маловероятен",
     scheduleType: "schedule-current",
     date: "23.07.26",
   },
   // Пятница
   {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
+    nameRu: "Стрим вполне вероятен",
     scheduleType: "schedule-current",
     date: "24.07.26",
   },
@@ -152,9 +134,7 @@ const scheduleDatabase = [
   },
   // Воскресенье
   {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
+    nameRu: "Стрим вполне вероятен",
     scheduleType: "schedule-current",
     date: "26.07.26",
   },
@@ -166,33 +146,25 @@ const scheduleDatabase = [
   },
   // Вторник
   {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
+    nameRu: "Стрим вполне вероятен",
     scheduleType: "schedule-current",
     date: "28.07.26",
   },
   // Среда
   {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
+    nameRu: "Стрим маловероятен",
     scheduleType: "schedule-current",
     date: "29.07.26",
   },
   // Четверг
   {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
+    nameRu: "Стрим вполне вероятен",
     scheduleType: "schedule-current",
     date: "30.07.26",
   },
   // Пятница
   {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
+    nameRu: "Стрим вполне вероятен",
     scheduleType: "schedule-current",
     date: "31.07.26",
   },
@@ -204,9 +176,7 @@ const scheduleDatabase = [
   },
   // Воскресенье
   {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
+    nameRu: "Стрим вполне вероятен",
     scheduleType: "schedule-current",
     date: "02.08.26",
   },
@@ -222,33 +192,25 @@ const scheduleDatabase = [
   },
   // Вторник
   {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
+    nameRu: "Стрим маловероятен",
     scheduleType: "schedule-current",
     date: "04.08.26",
   },
   // Среда
   {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
+    nameRu: "Стрим вполне вероятен",
     scheduleType: "schedule-current",
     date: "05.08.26",
   },
   // Четверг
   {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
+    nameRu: "Стрим маловероятен",
     scheduleType: "schedule-current",
     date: "06.08.26",
   },
   // Пятница
   {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
+    nameRu: "Стрим вполне вероятен",
     scheduleType: "schedule-current",
     date: "07.08.26",
   },
@@ -260,9 +222,7 @@ const scheduleDatabase = [
   },
   // Воскресенье
   {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
+    nameRu: "Стрим вполне вероятен",
     scheduleType: "schedule-current",
     date: "09.08.26",
   },
@@ -274,33 +234,25 @@ const scheduleDatabase = [
   },
   // Вторник
   {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
+    nameRu: "Стрим вполне вероятен",
     scheduleType: "schedule-current",
     date: "11.08.26",
   },
   // Среда
   {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
+    nameRu: "Стрим вполне вероятен",
     scheduleType: "schedule-current",
     date: "12.08.26",
   },
   // Четверг
   {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
+    nameRu: "Стрим маловероятен",
     scheduleType: "schedule-current",
     date: "13.08.26",
   },
   // Пятница
   {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
+    nameRu: "Стрим вполне вероятен",
     scheduleType: "schedule-current",
     date: "14.08.26",
   },
@@ -312,9 +264,7 @@ const scheduleDatabase = [
   },
   // Воскресенье
   {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
+    nameRu: "Стрим вполне вероятен",
     scheduleType: "schedule-current",
     date: "16.08.26",
   },
@@ -326,33 +276,25 @@ const scheduleDatabase = [
   },
   // Вторник
   {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
+    nameRu: "Стрим маловероятен",
     scheduleType: "schedule-current",
     date: "18.08.26",
   },
   // Среда
   {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
+    nameRu: "Стрим вполне вероятен",
     scheduleType: "schedule-current",
     date: "19.08.26",
   },
   // Четверг
   {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
+    nameRu: "Стрим вполне вероятен",
     scheduleType: "schedule-current",
     date: "20.08.26",
   },
   // Пятница
   {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
+    nameRu: "Стрим маловероятен",
     scheduleType: "schedule-current",
     date: "21.08.26",
   },
@@ -364,9 +306,7 @@ const scheduleDatabase = [
   },
   // Воскресенье
   {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
+    nameRu: "Стрим вполне вероятен",
     scheduleType: "schedule-current",
     date: "23.08.26",
   },
@@ -378,33 +318,25 @@ const scheduleDatabase = [
   },
   // Вторник
   {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
+    nameRu: "Стрим вполне вероятен",
     scheduleType: "schedule-current",
     date: "25.08.26",
   },
   // Среда
   {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
+    nameRu: "Стрим вполне вероятен",
     scheduleType: "schedule-current",
     date: "26.08.26",
   },
   // Четверг
   {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
+    nameRu: "Стрим маловероятен",
     scheduleType: "schedule-current",
     date: "27.08.26",
   },
   // Пятница
   {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
+    nameRu: "Стрим маловероятен",
     scheduleType: "schedule-current",
     date: "28.08.26",
   },
@@ -416,9 +348,7 @@ const scheduleDatabase = [
   },
   // Воскресенье
   {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
+    nameRu: "Стрим маловероятен",
     scheduleType: "schedule-current",
     date: "30.08.26",
   },
@@ -480,6 +410,376 @@ const scheduleDatabase = [
     date: "00.02.26",
   },*/
 
+  //#region Старое: Январь 26
+  // Четверг
+  {
+    nameRu: "Алёша Попович и Тугарин Змей",
+    scheduleRemark: "Игра",
+    scheduleType: "schedule-past",
+    date: "01.01.26",
+  },
+  // Пятница
+  {
+    nameRu: "Очень странные дела",
+    nameEn: "Stranger Things",
+    scheduleRemark: "Сериал × 5 Сезон 5-7 Эпизод",
+    scheduleType: "schedule-past",
+    date: "02.01.26",
+  },
+	// Суббота
+  {
+    nameRu: "Стрим невозможен",
+    scheduleType: "schedule-past",
+    date: "03.01.26",
+  },
+  // Воскресенье
+  {
+    nameRu: "Ох уж этот экстрасенс Сайки Кусуо!",
+    nameEn: "Saiki Kusuo no Ψ-nan",
+    scheduleRemark: "Аниме × 1 Сезон 1-4 Эпизод",
+    scheduleType: "schedule-past",
+    date: "04.01.26",
+  },
+  {
+    nameRu: "Человек-бензопила: История Резе",
+    nameEn: "Chainsaw Man Movie: Reze-hen",
+    scheduleRemark: "Полнометражка",
+    scheduleType: "schedule-past",
+    date: "04.01.26",
+  },
+	// Понедельник
+  {
+    nameRu: "Стрим невозможен",
+    scheduleType: "schedule-past",
+    date: "05.01.26",
+  },
+  // Вторник
+  {
+    nameRu: "Ох уж этот экстрасенс Сайки Кусуо!",
+    nameEn: "Saiki Kusuo no Ψ-nan",
+    scheduleRemark: "Аниме × 1 Сезон 5-8 Эпизод",
+    scheduleType: "schedule-past",
+    date: "06.01.26",
+  },
+  {
+    nameRu: "Очень странные дела",
+    nameEn: "Stranger Things",
+    scheduleRemark: "Сериал × 5 Сезон 8 Эпизод",
+    scheduleType: "schedule-past",
+    date: "06.01.26",
+  },
+  {
+    nameRu: "Терминатор",
+    nameEn: "The Terminator",
+    scheduleRemark: "Фильм",
+    scheduleType: "schedule-past",
+    date: "06.01.26",
+  },
+  {
+    nameRu: "Покер",
+    scheduleType: "schedule-past",
+    date: "06.01.26",
+  },
+  // Среда
+  {
+    nameRu: "Стрим не состоялся",
+    scheduleType: "schedule-past",
+    date: "07.01.26",
+  },
+  // Четверг
+  {
+    nameRu: "Кошечка из Сакурасо",
+    nameEn: "Sakura-sou no Pet na Kanojo",
+    scheduleRemark: "Аниме × 1 Сезон 13-15 Эпизод",
+    scheduleType: "schedule-past",
+    date: "08.01.26",
+  },
+  {
+    nameRu: "Секретные материалы",
+    nameEn: "The X-Files",
+    scheduleRemark: "Сериал × 1 Сезон 21-24 Эпизод",
+    scheduleType: "schedule-past",
+    date: "08.01.26",
+  },
+  {
+    nameRu: "Декстер",
+    nameEn: "Dexter",
+    scheduleRemark: "Сериал × 5 Сезон 3-4 Эпизод",
+    scheduleType: "schedule-past",
+    date: "08.01.26",
+  },
+  // Пятница
+  {
+    nameRu: "Восхождение в тени! / Кардинал теней",
+    nameEn: "Kage no Jitsuryokusha ni Naritakute!",
+    scheduleRemark: "Аниме × 1 Сезон 14-17 Эпизод",
+    scheduleType: "schedule-past",
+    date: "09.01.26",
+  },
+  {
+    nameRu: "Да, я паук, и что с того?",
+    nameEn: "Kumo Desu ga, Nanika?",
+    scheduleRemark: "Аниме × 1 Сезон 1-4 Эпизод",
+    scheduleType: "schedule-past",
+    date: "09.01.26",
+  },
+  {
+    nameRu: "Моя геройская академия",
+    nameEn: "Boku no Hero Academia / My Hero Academia",
+    scheduleRemark: "Аниме × 4 Сезон 5-7 Эпизод",
+    scheduleType: "schedule-past",
+    date: "09.01.26",
+  },
+	// Суббота
+  {
+    nameRu: "Стрим невозможен",
+    scheduleType: "schedule-past",
+    date: "10.01.26",
+  },
+  // Воскресенье
+  {
+    nameRu: "Кошечка из Сакурасо",
+    nameEn: "Sakura-sou no Pet na Kanojo",
+    scheduleRemark: "Аниме × 1 Сезон 16 Эпизод",
+    scheduleType: "schedule-past",
+    date: "11.01.26",
+  },
+  {
+    nameRu: "Моя геройская академия",
+    nameEn: "Boku no Hero Academia / My Hero Academia",
+    scheduleRemark: "Аниме × 4 Сезон 8-14 Эпизод",
+    scheduleType: "schedule-past",
+    date: "11.01.26",
+  },
+  {
+    nameRu: "Покер",
+    scheduleType: "schedule-past",
+    date: "11.01.26",
+  },
+	// Понедельник
+  {
+    nameRu: "Стрим невозможен",
+    scheduleType: "schedule-past",
+    date: "12.01.26",
+  },
+  // Вторник
+  {
+    nameRu: "Укрась прощальное утро цветами обещания",
+    nameEn: "Sayonara no Asa ni Yakusoku no Hana wo Kazarou",
+    scheduleRemark: "Полнометражка",
+    scheduleType: "schedule-past",
+    date: "13.01.26",
+  },
+  {
+    nameRu: "Малыш на драйве",
+    nameEn: "Baby Driver",
+    scheduleRemark: "Фильм",
+    scheduleType: "schedule-past",
+    date: "13.01.26",
+  },
+  {
+    nameRu: "Покер",
+    scheduleType: "schedule-past",
+    date: "13.01.26",
+  },
+  // Среда
+  {
+    nameRu: "Стрим не состоялся",
+    scheduleType: "schedule-past",
+    date: "14.01.26",
+  },
+  // Четверг
+  {
+    nameRu: "Стрим не состоялся",
+    scheduleType: "schedule-past",
+    date: "15.01.26",
+  },
+  // Пятница
+  {
+    nameRu: "Стрим не состоялся",
+    scheduleType: "schedule-past",
+    date: "16.01.26",
+  },
+	// Суббота
+  {
+    nameRu: "Стрим невозможен",
+    scheduleType: "schedule-past",
+    date: "17.01.26",
+  },
+  // Воскресенье
+  {
+    nameRu: "Стрим не состоялся",
+    scheduleType: "schedule-past",
+    date: "18.01.26",
+  },
+	// Понедельник
+  {
+    nameRu: "Покер",
+    scheduleType: "schedule-past",
+    date: "19.01.26",
+  },
+  // Вторник
+  {
+    nameRu: "Стрим не состоялся",
+    scheduleType: "schedule-past",
+    date: "20.01.26",
+  },
+  // Среда
+  {
+    nameRu: "Декстер",
+    nameEn: "Dexter",
+    scheduleRemark: "Сериал × 5 Сезон 5-6 Эпизод",
+    scheduleType: "schedule-past",
+    date: "21.01.26",
+  },
+  {
+    nameRu: "Хищник: Планета смерти",
+    nameEn: "Predator: Badlands",
+    scheduleRemark: "Фильм",
+    scheduleType: "schedule-past",
+    date: "21.01.26",
+  },
+  {
+    nameRu: "Покер",
+    scheduleType: "schedule-past",
+    date: "21.01.26",
+  },
+  // Четверг
+  {
+    nameRu: "Восхождение в тени! / Кардинал теней",
+    nameEn: "Kage no Jitsuryokusha ni Naritakute!",
+    scheduleRemark: "Аниме × 1 Сезон 18-20 Эпизод",
+    scheduleType: "schedule-past",
+    date: "22.01.26",
+  },
+  {
+    nameRu: "Драгон Болл",
+    nameEn: "Dragon Ball",
+    scheduleRemark: "Аниме × 1 Сезон 1-4 Эпизод",
+    scheduleType: "schedule-past",
+    date: "22.01.26",
+  },
+  {
+    nameRu: "Дандадан",
+    nameEn: "Dandadan",
+    scheduleRemark: "Аниме × 1 Сезон 8-9 Эпизод",
+    scheduleType: "schedule-past",
+    date: "22.01.26",
+  },
+  // Пятница
+  {
+    nameRu: "Флэш",
+    nameEn: "The Flash",
+    scheduleRemark: "Сериал × 1 Сезон 11-12 Эпизод",
+    scheduleType: "schedule-past",
+    date: "23.01.26",
+  },
+  {
+    nameRu: "Мастер вздрочки Куросава",
+    nameEn: "Onanie Master Kurosawa",
+    scheduleRemark: "Манга",
+    scheduleType: "schedule-past",
+    date: "23.01.26",
+  },
+  {
+    nameRu: "Авиатор",
+    nameEn: "The Aviator",
+    scheduleRemark: "Фильм",
+    scheduleType: "schedule-past",
+    date: "23.01.26",
+  },
+	// Суббота
+  {
+    nameRu: "Стрим невозможен",
+    scheduleType: "schedule-past",
+    date: "24.01.26",
+  },
+  // Воскресенье
+  {
+    nameRu: "Сатанинское танго",
+    nameEn: "Sátántangó",
+    scheduleRemark: "Фильм 2/3",
+    scheduleType: "schedule-past",
+    date: "25.01.26",
+  },
+	// Понедельник
+  {
+    nameRu: "Стрим невозможен",
+    scheduleType: "schedule-past",
+    date: "26.01.26",
+  },
+  // Вторник
+  {
+    nameRu: "Классический Доктор Кто",
+    nameEn: "Doctor Who",
+    scheduleRemark: "Сериал × 21 Сезон 7 Эпизод",
+    scheduleType: "schedule-past",
+    date: "27.01.26",
+  },
+  {
+    nameRu: "Американская история ужасов",
+    nameEn: "American Horror Story: Hotel",
+    scheduleRemark: "Сериал × 5 Сезон 1-2 Эпизод",
+    scheduleType: "schedule-past",
+    date: "27.01.26",
+  },
+  {
+    nameRu: "Сопрано",
+    nameEn: "The Sopranos",
+    scheduleRemark: "Сериал × 2 Сезон 1-2 Эпизод",
+    scheduleType: "schedule-past",
+    date: "27.01.26",
+  },
+  // Среда
+  {
+    nameRu: "Декстер",
+    nameEn: "Dexter",
+    scheduleRemark: "Сериал × 5 Сезон 7-8 Эпизод",
+    scheduleType: "schedule-past",
+    date: "28.01.26",
+  },
+  {
+    nameRu: "Сатанинское танго",
+    nameEn: "Sátántangó",
+    scheduleRemark: "Фильм 3/3",
+    scheduleType: "schedule-past",
+    date: "28.01.26",
+  },
+  // Четверг
+  {
+    nameRu: "Стрим не состоялся",
+    scheduleType: "schedule-past",
+    date: "29.01.26",
+  },
+  // Пятница
+  {
+    nameRu: "С нашей эволюцией что-то не так",
+    nameEn: "ALI",
+    scheduleRemark: "Ютуб",
+    scheduleType: "schedule-past",
+    date: "30.01.26",
+  },
+  {
+    nameRu: "Мастер вздрочки Куросава",
+    nameEn: "Onanie Master Kurosawa",
+    scheduleRemark: "Манга",
+    scheduleType: "schedule-past",
+    date: "30.01.26",
+  },
+  {
+    nameRu: "Machinarium",
+    scheduleRemark: "Игра",
+    scheduleType: "schedule-past",
+    date: "30.01.26",
+  },
+	// Суббота
+  {
+    nameRu: "Стрим невозможен",
+    scheduleType: "schedule-past",
+    date: "31.01.26",
+  },
+  //#endregion
+  //#region Старое: Февраль 26
   // Воскресенье
   {
     nameRu: "Half-Life: Alyx",
@@ -809,6 +1109,8 @@ const scheduleDatabase = [
     scheduleType: "schedule-past",
     date: "28.02.26",
   },
+  //#endregion
+  //#region Старое: Март 26
   // Воскресенье
   {
     nameRu: "Инуяшики",
@@ -1163,6 +1465,8 @@ const scheduleDatabase = [
     scheduleType: "schedule-past",
     date: "31.03.26",
   },
+  //#endregion
+  //#region Старое: Апрель 26
   // Среда
   {
     nameRu: "Стрим не состоялся",
@@ -1475,7 +1779,8 @@ const scheduleDatabase = [
     scheduleType: "schedule-past",
     date: "30.04.26",
   },
-
+  //#endregion
+  //#region Старое: Май 26
   // Пятница
   {
     nameRu: "Воин",
@@ -1820,7 +2125,8 @@ const scheduleDatabase = [
     scheduleType: "schedule-past",
     date: "31.05.26",
   },
-
+  //#endregion
+  //#region Старое: Июнь 26
   // Понедельник
   {
     nameRu: "Стрим невозможен",
@@ -2140,6 +2446,8 @@ const scheduleDatabase = [
     scheduleType: "schedule-past",
     date: "30.06.26",
   },
+  //#endregion
+  //#region Старое: Июль 26
   // Среда
   {
     nameRu: "Стрим не состоялся",
