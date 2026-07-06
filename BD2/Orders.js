@@ -76,15 +76,20 @@ const ordersDatabase = [
   {
     nameRu: "Викинги",
     nameEn: "Vikings",
-    orderRemark: "Сериал × Просмотрено: 3 Сезон 1-5/10 Эпизод",
+    orderRemark: "Сериал × В заказе: 3 Сезон 6-10/10 Эпизод",
     cardType: "order-during",
     id: "order_Vikings-3",
     items: [
       {
-        nickname: "3с 1-5эп",
+        nickname: "Без имени",
         slot: "2.5", // 1-5 Эпизод
-        date: "В уточнении",
-        was: "owe",
+        date: "Без даты",
+        was: "was",
+      },
+      {
+        nickname: "Без имени",
+        slot: "2.5", // 6-10 Эпизод
+        date: "Без даты",
       },
     ],
   },
