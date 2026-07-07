@@ -7807,6 +7807,11 @@ const seriesAnimePopups = {
           titleLink: ["vk", "456241536?t=3h57m5s"],
           player: ["vk", "456241536", "63b8d39d93647d72", "3h57m5s"],
         },
+        {
+          title: "13-16 Эпизод",
+          titleLink: ["vk", "456241861?t=14m38s"],
+          player: ["vk", "456241861", "3749b2ed5caca117", "0h14m38s"],
+        },
       ],
     },
   ],

@@ -20,7 +20,7 @@ const ordersDatabase = [
   {
     nameRu: "Семь смертных грехов",
     nameEn: "Nanatsu no Taizai / The Seven Deadly Sins",
-    orderRemark: "Аниме × В заказе: 1 Сезон 13-24/24 Эпизод",
+    orderRemark: "Аниме × В заказе: 1 Сезон 17-24/24 Эпизод",
     cardType: "order-during",
     id: "order_Nanatsu-no-Taizai-1",
     items: [
@@ -34,6 +34,7 @@ const ordersDatabase = [
         nickname: "Coras",
         slot: "1", // 1 Сезон 13-16 Эпизод
         date: "29.03.25",
+        was: "was",
       },
       {
         nickname: "Podserty",
@@ -45,7 +46,7 @@ const ordersDatabase = [
   {
     nameRu: "Рим",
     nameEn: "Rome",
-    orderRemark: "Сериал × В заказе: 1 Сезон 3-12/12 Эпизод",
+    orderRemark: "Сериал × В заказе: 1 Сезон 5-12/12 Эпизод",
     personalOrder: "user_Misty",
     cardType: "order-during",
     id: "order_Rome-1",
@@ -60,6 +61,7 @@ const ordersDatabase = [
         nickname: "Мисти",
         slot: "1", // 1 Сезон 3-4 Эпизод
         date: "18.05.25",
+        was: "was",
       },
       {
         nickname: "Мисти",
