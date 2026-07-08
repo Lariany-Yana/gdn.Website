@@ -35,21 +35,14 @@ const scheduleDatabase = [
   {
     nameRu: "Викинги",
     nameEn: "Vikings",
-    scheduleRemark: "Сериал × Начало в 16:00 по МСК",
+    scheduleRemark: "Сериал × 3 Сезон 6-7 Эпизод",
     scheduleType: "schedule-current",
     date: "08.07.26",
   },
   {
     nameRu: "Проект «Конец света»",
     nameEn: "Project Hail Mary",
-    scheduleRemark: "Фильм × Начало в 17:00 по МСК",
-    scheduleType: "schedule-current",
-    date: "08.07.26",
-  },
-  {
-    nameRu: "Соколиный глаз",
-    nameEn: "Hawkeye",
-    scheduleRemark: "Сериал × Начало в 19:00 по МСК",
+    scheduleRemark: "Фильм",
     scheduleType: "schedule-current",
     date: "08.07.26",
   },

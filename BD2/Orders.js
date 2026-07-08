@@ -84,13 +84,13 @@ const ordersDatabase = [
     items: [
       {
         nickname: "Без имени",
-        slot: "2.5", // 1-5 Эпизод
+        slot: "3.5", // 1-7 Эпизод
         date: "Без даты",
         was: "was",
       },
       {
         nickname: "Без имени",
-        slot: "2.5", // 6-10 Эпизод
+        slot: "1.5", // 6-10 Эпизод
         date: "Без даты",
       },
     ],
@@ -120,21 +120,6 @@ const ordersDatabase = [
         nickname: "Ториан",
         slot: "0.25",
         date: "23.05.25",
-      },
-    ],
-  },
-  {
-    nameRu: "Проект «Конец света»",
-    nameEn: "Project Hail Mary",
-    orderRemark: "Фильм",
-    personalOrder: "user_Misty",
-    cardType: "order-during",
-    id: "order_Project-Hail-Mary",
-    items: [
-      {
-        nickname: "Мисти",
-        slot: "1",
-        date: "10.06.25",
       },
     ],
   },
@@ -1494,6 +1479,21 @@ const ordersDatabase = [
   },
   //#endregion
   //#region ~Просмотренное~
+  {
+    nameRu: "Проект «Конец света»",
+    nameEn: "Project Hail Mary",
+    orderRemark: "Фильм",
+    cardType: "order-finished",
+    id: "order_Project-Hail-Mary",
+    items: [
+      {
+        nickname: "Мисти",
+        slot: "1",
+        date: "10.06.25",
+        was: "was",
+      },
+    ],
+  },
   {
     nameRu: "Громовержцы*",
     nameEn: "Thunderbolts*",

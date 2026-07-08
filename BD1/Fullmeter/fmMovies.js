@@ -2656,6 +2656,16 @@ const fullmeterMovie = [
     cardType: "fullmeter-Movie",
   },
   {
+    nameRu: "Проект «Конец света»",
+    nameEn: "Project Hail Mary",
+    donutTerms: "donut-lvl-3",
+    titleLink: ["vk", "456241862?t=2h13m4s"],
+    player: ["vk", "456241862", "e85a3275101e7116", "2h13m4s"],
+    id: "Fullmeter-Movie_Project-Hail-Mary",
+    posterImage: "https://static.tildacdn.com/tild3832-3238-4664-b830-303639303134/img.webp",
+    cardType: "fullmeter-Movie",
+  },
+  {
     nameRu: "Проклятый путь",
     nameEn: "Road to Perdition",
     donutTerms: "donut-lvl-3",
