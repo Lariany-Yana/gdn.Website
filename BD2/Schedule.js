@@ -61,8 +61,8 @@ const scheduleDatabase = [
     date: "10.07.26",
   },
   {
-    nameRu: "Целитель Адамс",
-    nameEn: "Patch Adams",
+    nameRu: "Соколиный глаз",
+    nameEn: "Hawkeye",
     scheduleRemark: "Фильм × Начало в 18:00 по МСК",
     scheduleType: "schedule-current",
     date: "10.07.26",
