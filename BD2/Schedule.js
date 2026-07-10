@@ -56,21 +56,21 @@ const scheduleDatabase = [
   {
     nameRu: "Невеста чародея",
     nameEn: "Mahoutsukai no Yome",
-    scheduleRemark: "Аниме × Начало в 16:00 по МСК",
+    scheduleRemark: "Аниме × 1 Сезон 5-8 Эпизод",
     scheduleType: "schedule-current",
     date: "10.07.26",
   },
   {
     nameRu: "Соколиный глаз",
     nameEn: "Hawkeye",
-    scheduleRemark: "Фильм × Начало в 18:00 по МСК",
+    scheduleRemark: "Сериал × 1 Сезон 1-2 Эпизод",
     scheduleType: "schedule-current",
     date: "10.07.26",
   },
   {
     nameRu: "Исчезнувшая",
     nameEn: "Gone Girl",
-    scheduleRemark: "Фильм × Начало в 20:00 по МСК",
+    scheduleRemark: "Фильм",
     scheduleType: "schedule-current",
     date: "10.07.26",
   },
@@ -496,7 +496,7 @@ const scheduleDatabase = [
     scheduleType: "schedule-past",
     date: "02.01.26",
   },
-	// Суббота
+  // Суббота
   {
     nameRu: "Стрим невозможен",
     scheduleType: "schedule-past",
@@ -517,7 +517,7 @@ const scheduleDatabase = [
     scheduleType: "schedule-past",
     date: "04.01.26",
   },
-	// Понедельник
+  // Понедельник
   {
     nameRu: "Стрим невозможен",
     scheduleType: "schedule-past",
@@ -600,7 +600,7 @@ const scheduleDatabase = [
     scheduleType: "schedule-past",
     date: "09.01.26",
   },
-	// Суббота
+  // Суббота
   {
     nameRu: "Стрим невозможен",
     scheduleType: "schedule-past",
@@ -626,7 +626,7 @@ const scheduleDatabase = [
     scheduleType: "schedule-past",
     date: "11.01.26",
   },
-	// Понедельник
+  // Понедельник
   {
     nameRu: "Стрим невозможен",
     scheduleType: "schedule-past",
@@ -670,7 +670,7 @@ const scheduleDatabase = [
     scheduleType: "schedule-past",
     date: "16.01.26",
   },
-	// Суббота
+  // Суббота
   {
     nameRu: "Стрим невозможен",
     scheduleType: "schedule-past",
@@ -682,7 +682,7 @@ const scheduleDatabase = [
     scheduleType: "schedule-past",
     date: "18.01.26",
   },
-	// Понедельник
+  // Понедельник
   {
     nameRu: "Покер",
     scheduleType: "schedule-past",
@@ -758,7 +758,7 @@ const scheduleDatabase = [
     scheduleType: "schedule-past",
     date: "23.01.26",
   },
-	// Суббота
+  // Суббота
   {
     nameRu: "Стрим невозможен",
     scheduleType: "schedule-past",
@@ -772,7 +772,7 @@ const scheduleDatabase = [
     scheduleType: "schedule-past",
     date: "25.01.26",
   },
-	// Понедельник
+  // Понедельник
   {
     nameRu: "Стрим невозможен",
     scheduleType: "schedule-past",
@@ -842,7 +842,7 @@ const scheduleDatabase = [
     scheduleType: "schedule-past",
     date: "30.01.26",
   },
-	// Суббота
+  // Суббота
   {
     nameRu: "Стрим невозможен",
     scheduleType: "schedule-past",

@@ -3567,7 +3567,7 @@ const seriesSerialsPopups = {
   ],
   "Series-Serials_The-Falcon-and-the-Winter-Soldier": [
     {
-      seasonName: "1 Сезон",
+      seasonName: "",
       items: [
         {
           title: "1-2 Эпизод",
@@ -3583,6 +3583,18 @@ const seriesSerialsPopups = {
           title: "5-6 Эпизод",
           titleLink: ["vk", "456241841?t=14m13s"],
           player: ["vk", "456241841", "0bfea20e032fdc4b", "0h14m13s"],
+        },
+      ],
+    },
+  ],
+  "Series-Serials_Hawkeye": [
+    {
+      seasonName: "",
+      items: [
+        {
+          title: "1-2 Эпизод",
+          titleLink: ["vk", "456241863?t=2h5m42s"],
+          player: ["vk", "456241863", "3569ae36c8ce89b8", "2h5m42s"],
         },
       ],
     },

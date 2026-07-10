@@ -944,10 +944,8 @@ const seriesAnime = [
   {
     nameRu: "Невеста чародея",
     nameEn: "Mahoutsukai no Yome",
-    titleStatus: "Просмотрено: 1 Сезон 1-4/24 Эпизод",
+    titleStatus: "Просмотрено: 1 Сезон 1-8/24 Эпизод",
     donutTerms: "donut-lvl-3",
-    titleLink: ["vk", "456241733?t=30m35s"],
-    player: ["vk", "456241733", "4923304afc3f4b5c", "0h30m35s"],
     id: "Series-Anime_Mahoutsukai-no-Yome",
     posterImage: "https://static.tildacdn.com/tild3737-3539-4363-a262-373034366535/_.webp",
     cardType: "series-Anime",

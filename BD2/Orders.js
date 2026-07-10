@@ -126,13 +126,19 @@ const ordersDatabase = [
   {
     nameRu: "Соколиный глаз",
     nameEn: "Hawkeye",
-    orderRemark: "Сериал × В заказе: 1 Сезон 1-6/6 Эпизод",
+    orderRemark: "Сериал × В заказе: 1 Сезон 3-6/6 Эпизод",
     cardType: "order-during",
     id: "order_Hawkeye",
     items: [
       {
         nickname: "Сулейка",
-        slot: "3", // 1 Сезон 1-6 Эпизод
+        slot: "1", // 1 Сезон 1-2 Эпизод
+        date: "23.05.25",
+        was: "was",
+      },
+      {
+        nickname: "Сулейка",
+        slot: "2", // 1 Сезон 3-6 Эпизод
         date: "23.05.25",
       },
     ],
@@ -195,7 +201,7 @@ const ordersDatabase = [
   {
     nameRu: "Невеста чародея",
     nameEn: "Mahoutsukai no Yome",
-    orderRemark: "Аниме × В заказе: 1 Сезон 5-24/24 Эпизод",
+    orderRemark: "Аниме × В заказе: 1 Сезон 9-24/24 Эпизод",
     cardType: "order-during",
     id: "order_Mahoutsukai-no-Yome",
     items: [
@@ -209,6 +215,7 @@ const ordersDatabase = [
         nickname: "АйзенBBC",
         slot: "1", // 1 Сезон 5-8 Эпизод
         date: "23.07.25",
+        was: "was",
       },
       {
         nickname: "АйзенBBC",
@@ -243,21 +250,6 @@ const ordersDatabase = [
         nickname: "Кирвин",
         slot: "1",
         date: "23.03.25",
-      },
-    ],
-  },
-  {
-    nameRu: "Исчезнувшая",
-    nameEn: "Gone Girl",
-    orderRemark: "Фильм",
-    personalOrder: "user_Katya",
-    cardType: "order-during",
-    id: "order_Gone-Girl",
-    items: [
-      {
-        nickname: "Твою мать!",
-        slot: "1",
-        date: "17.07.25",
       },
     ],
   },
@@ -1480,11 +1472,24 @@ const ordersDatabase = [
   //#endregion
   //#region ~Просмотренное~
   {
+    nameRu: "Исчезнувшая",
+    nameEn: "Gone Girl",
+    orderRemark: "Фильм",
+    cardType: "order-finished",
+    items: [
+      {
+        nickname: "Твою мать!",
+        slot: "1",
+        date: "17.07.25",
+        was: "was",
+      },
+    ],
+  },
+  {
     nameRu: "Проект «Конец света»",
     nameEn: "Project Hail Mary",
     orderRemark: "Фильм",
     cardType: "order-finished",
-    id: "order_Project-Hail-Mary",
     items: [
       {
         nickname: "Мисти",

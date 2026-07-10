@@ -6549,6 +6549,23 @@ const seriesAnimePopups = {
       ],
     },
   ],
+  "Series-Anime_Mahoutsukai-no-Yome": [
+    {
+      seasonName: "1 Сезон",
+      items: [
+        {
+          title: "1-4 Эпизод",
+          titleLink: ["vk", "456241733?t=30m35s"],
+          player: ["vk", "456241733", "4923304afc3f4b5c", "0h30m35s"],
+        },
+        {
+          title: "5-8 Эпизод",
+          titleLink: ["vk", "456241863?t=12m54s"],
+          player: ["vk", "456241863", "3569ae36c8ce89b8", "0h12m54s"],
+        },
+      ],
+    },
+  ],
   "Series-Anime_Urusei-Yatsura": [
     {
       seasonName: "1 Сезон (2022)",

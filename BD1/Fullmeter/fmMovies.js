@@ -1388,6 +1388,16 @@ const fullmeterMovie = [
     cardType: "fullmeter-Movie",
   },
   {
+    nameRu: "Исчезнувшая",
+    nameEn: "Gone Girl",
+    donutTerms: "donut-lvl-3",
+    titleLink: ["vk", "456241863?t=4h5m46s"],
+    player: ["vk", "456241863", "3569ae36c8ce89b8", "4h5m46s"],
+    id: "Fullmeter-Movie_Gone-Girl",
+    posterImage: "https://static.tildacdn.com/tild3338-6330-4362-b665-633031336439/img.webp",
+    cardType: "fullmeter-Movie",
+  },
+  {
     nameRu: "Казино",
     nameEn: "Casino",
     donutTerms: "donut-lvl-3",

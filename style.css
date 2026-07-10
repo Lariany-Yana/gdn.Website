@@ -1716,6 +1716,16 @@ details.schedule {
   outline: 1px var(--RGB-regular) solid;
 }
 
+.popup-overlay.player-overlay .note {
+  width: min(var(--player-size), calc(100% - (var(--PDNG-general) * 2)));
+  box-sizing: border-box;
+  background-color: var(--RGB-background);
+  outline: 1px var(--RGB-regular) solid;
+	text-align: center;
+	padding: var(--PDNG-button);
+	margin: 0;
+}
+
 @media (pointer: coarse) {
   .tabs-container,
   .ecosys,

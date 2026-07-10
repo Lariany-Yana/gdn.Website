@@ -581,6 +581,15 @@ const seriesSerials = [
     cardType: "series-Serial",
   },
   {
+    nameRu: "Соколиный глаз",
+    nameEn: "Hawkeye",
+    titleStatus: "Просмотрено: 1-2/6 Эпизод",
+    donutTerms: "donut-lvl-3",
+    id: "Series-Serials_Hawkeye",
+    posterImage: "https://static.tildacdn.com/tild6334-3931-4238-a430-663731343036/img.webp",
+    cardType: "series-Serial",
+  },
+  {
     nameRu: "Сопрано",
     nameEn: "The Sopranos",
     titleStatus: "Просмотрено: 2 Сезона, 3 Сезон 1-9/13 Эпизод",

@@ -894,6 +894,7 @@ const fullmeterMoviePopups = {
       posterImage: "https://static.tildacdn.com/tild6135-6238-4663-a264-646463366435/img.webp",
       cardType: "fullmeter-Movie",
     },
+    { pasteCard: "Series-Serials_Hawkeye" },
     {
       seasonName: "Вне Кинематографической вселенной",
       items: [],
