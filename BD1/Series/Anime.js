@@ -1056,6 +1056,17 @@ const seriesAnime = [
     cardType: "series-Anime",
   },
   {
+    nameRu: "Первородный грех Такопи",
+    nameEn: "Takopii no Genzai",
+    titleStatus: "Просмотрено: 1 Сезон 1-6/6 Эпизод",
+    donutTerms: "donut-lvl-3",
+    titleLink: ["vk", "456241864?t=14m0s"],
+    player: ["vk", "456241864", "e69d00e7b28b70dd", "0h14m0s"],
+    id: "Series-Anime_Takopii-no-Genzai",
+    posterImage: "https://static.tildacdn.com/tild3932-3763-4636-b864-646265353336/img.webp",
+    cardType: "series-Anime",
+  },
+  {
     nameRu: "Первый шаг",
     nameEn: "Hajime no Ippo / Fighting Spirit",
     titleStatus: "Просмотрено: 3 Сезона + OVA",

@@ -268,25 +268,6 @@ const ordersDatabase = [
     ],
   },
   {
-    nameRu: "Первородный грех Такопи",
-    nameEn: "Takopii no Genzai",
-    orderRemark: "Аниме × В заказе: 1 Сезон 1-6/6 Эпизод",
-    cardType: "order-during",
-    id: "order_Takopii-no-Genzai",
-    items: [
-      {
-        nickname: "Coras",
-        slot: "0.75", // 1 Сезон 1-3 Эпизод
-        date: "29.07.25",
-      },
-      {
-        nickname: "Izida-Sama",
-        slot: "0.75", // 1 Сезон 4-6 Эпизод
-        date: "29.07.25",
-      },
-    ],
-  },
-  {
     nameRu: "Бумажный дом",
     nameEn: "La casa de papel",
     orderRemark: "Сериал × В заказе: 2 Сезон 1-5/9 Эпизод",
@@ -1471,6 +1452,26 @@ const ordersDatabase = [
   },
   //#endregion
   //#region ~Просмотренное~
+  {
+    nameRu: "Первородный грех Такопи",
+    nameEn: "Takopii no Genzai",
+    orderRemark: "Аниме × Просмотрено: 1 Сезон 1-6/6 Эпизод",
+    cardType: "order-finished",
+    items: [
+      {
+        nickname: "Coras",
+        slot: "0.75", // 1 Сезон 1-3 Эпизод
+        date: "29.07.25",
+        was: "was",
+      },
+      {
+        nickname: "Izida-Sama",
+        slot: "0.75", // 1 Сезон 4-6 Эпизод
+        date: "29.07.25",
+        was: "was",
+      },
+    ],
+  },
   {
     nameRu: "Исчезнувшая",
     nameEn: "Gone Girl",
