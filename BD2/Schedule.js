@@ -19,21 +19,7 @@ const scheduleDatabase = [
   },
   // Вторник
   {
-    nameRu: "Warhammer 40 000: Rogue Trader",
-    scheduleRemark: "Игра × Начало в 16:00 по МСК",
-    scheduleType: "schedule-current",
-    date: "14.07.26",
-  },
-  {
-    nameRu: "Tainted Grail: The Fall of Avalon",
-    scheduleRemark: "Игра × Начало в 18:00 по МСК",
-    scheduleType: "schedule-current",
-    date: "14.07.26",
-  },
-  {
-    nameRu: "Пока не сыграл в ящик",
-    nameEn: "The Bucket List",
-    scheduleRemark: "Фильм × Начало в 20:00 по МСК",
+    nameRu: "Стрим не состоялся",
     scheduleType: "schedule-current",
     date: "14.07.26",
   },
