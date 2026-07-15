@@ -2,7 +2,7 @@ const amusementYouTube = [
   {
     nameRu: "Ваномас",
     titleStatus: "Сборник",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     id: "Amusement-YouTube_Vanomas",
     posterImage: "https://static.tildacdn.com/tild3332-3162-4761-a263-353939633031/ezgifcom-png-to-webp.webp",
     cardType: "amusement-YouTube",
@@ -10,7 +10,7 @@ const amusementYouTube = [
   {
     nameRu: "ДЕВУШКИ ИМБА?",
     nameEn: "SHAPKA",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241209?t=1h9m58s"],
     player: ["vk", "456241209", "8b66019b1f5b1102", "1h9m58s"],
     id: "Amusement-YouTube_SHAPKA-1",
@@ -20,7 +20,7 @@ const amusementYouTube = [
   {
     nameRu: "Каждая Страна на Земле Сражается за $250,000",
     nameEn: "MrBeast",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240527?t=3h33m40s"],
     player: ["vk", "456240527", "edafa039aeff2556", "3h33m40s"],
     id: "Amusement-YouTube_MrBeast-1",
@@ -30,7 +30,7 @@ const amusementYouTube = [
   {
     nameRu: "Как устроен «Нижний Интернет» (пародия на Кинопоиск)",
     nameEn: "KIPERMAN",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241201?t=10m2s"],
     player: ["vk", "456241201", "ded8275a4a0f761f", "0h10m2s"],
     id: "Amusement-YouTube_KIPERMAN-1",
@@ -40,7 +40,7 @@ const amusementYouTube = [
   {
     nameRu: "Как Porsche и VW ОБМАНУЛИ весь МИР. Картавые Истории",
     nameEn: "Асафьев Стас",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241380?t=12m59s"],
     player: ["vk", "456241380", "671f543dc830b3d4", "0h12m59s"],
     id: "Amusement-YouTube_Burble-Stories",
@@ -50,7 +50,7 @@ const amusementYouTube = [
   {
     nameRu: "Корейский маньяк. Реальная история фильма «Воспоминания об убийстве»",
     nameEn: "Agatha Christie",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241387?t=1h38m0s"],
     player: ["vk", "456241387", "794c825a98f1d577", "1h38m0s"],
     id: "Amusement-YouTube_Korean-maniac",
@@ -60,7 +60,7 @@ const amusementYouTube = [
   {
     nameRu: "Криминальная Россия",
     titleStatus: "Сборник",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     id: "Amusement-YouTube_Criminal-Russia",
     posterImage: "https://static.tildacdn.com/tild6234-3534-4064-b538-393465636262/ezgifcom-png-to-webp.webp",
     cardType: "amusement-YouTube",
@@ -68,7 +68,7 @@ const amusementYouTube = [
   {
     nameRu: "МУЛЬТИВСЕЛЕННАЯ МУЗЫКИ ЧЕЛОВЕКА-ПАУКА",
     nameEn: "Дмитрий Бурдуков",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240503?t=2h26m20s"],
     player: ["vk", "456240503", "92626d9bdbc611a4", "2h26m20s"],
     id: "Amusement-YouTube_MULTIVERSE-SPIDER-MAN-MUSIC",
@@ -78,7 +78,7 @@ const amusementYouTube = [
   {
     nameRu: "Непризнанный ГЕНИЙ эпохи ВСЖ. Писатель Озон",
     nameEn: "CONWAY",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241209?t=19m13s"],
     player: ["vk", "456241209", "8b66019b1f5b1102", "0h19m13s"],
     id: "Amusement-YouTube_CONWAY-1",
@@ -88,7 +88,7 @@ const amusementYouTube = [
   {
     nameRu: "Стройбатя Микрун",
     nameEn: "Micum",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241233?t=1h29m31s"],
     player: ["vk", "456241233", "4d757ac2659e62bc", "1h29m31s"],
     id: "Amusement-YouTube_Micum-1",
@@ -107,7 +107,7 @@ const amusementYouTube = [
   {
     nameRu: "ТОПЛЕС",
     titleStatus: "Сборник",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     id: "Amusement-YouTube_Yan-Toples",
     posterImage: "https://static.tildacdn.com/tild3466-6234-4962-b632-336634316130/photo.webp",
     cardType: "amusement-YouTube",
@@ -115,7 +115,7 @@ const amusementYouTube = [
   {
     nameRu: "ТРАНСФОРМАЦИЯ JOJI – ФИНАЛЬНЫЙ БОСС СЭДБОЕВ",
     nameEn: "Тихое Место",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240666?t=2h20m30s"],
     player: ["vk", "456240666", "e9658a3245971287", "2h20m30s"],
     id: "Amusement-YouTube_JOJI-TRANSFORMATION",
@@ -124,7 +124,7 @@ const amusementYouTube = [
   },
   {
     nameRu: "Ютуб Шортсы с нового акка",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240520?t=1h23m50s"],
     player: ["vk", "456240520", "4ddee33e43f5a50e", "1h23m50s"],
     id: "Amusement-YouTube_Shorts-New-Account",
@@ -134,7 +134,7 @@ const amusementYouTube = [
   {
     nameRu: "Я взял интервью у автора «Саги о Винланде»",
     nameEn: "Gigguk",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240666?t=14m30s"],
     player: ["vk", "456240666", "e9658a3245971287", "0h14m30s"],
     id: "Amusement-YouTube_Gigguk-1",
@@ -144,7 +144,7 @@ const amusementYouTube = [
   {
     nameRu: "ЯПОНСКИЙ КОНЦЛАГЕРЬ СМЕРТИ",
     nameEn: "GEO",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241441?t=24m40s"],
     player: ["vk", "456241441", "cabd7ff10ebaa0e8", "0h24m40s"],
     id: "Amusement-YouTube_GEO-1",
@@ -153,7 +153,7 @@ const amusementYouTube = [
   },
   {
     nameRu: "Alan Wake 2: Full Musical Song",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240613?t=9h48m32s"],
     player: ["vk", "456240613", "ac8e9242402aa55b", "9h48m32s"],
     id: "Amusement-YouTube_Alan-Wake-2-Music",
@@ -163,7 +163,7 @@ const amusementYouTube = [
   {
     nameRu: "ALI",
     titleStatus: "Сборник",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     id: "Amusement-YouTube_ALI",
     posterImage: "https://static.tildacdn.com/tild6331-3031-4163-b064-653739363962/ALI.webp",
     cardType: "amusement-YouTube",
@@ -171,7 +171,7 @@ const amusementYouTube = [
   {
     nameRu: "Azazin Kreet",
     titleStatus: "Сборник",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     id: "Amusement-YouTube_Azazin-Kreet",
     posterImage: "https://static.tildacdn.com/tild6235-3862-4031-b430-313832663132/Azazin_Kreet.webp",
     cardType: "amusement-YouTube",
@@ -179,7 +179,7 @@ const amusementYouTube = [
   {
     nameRu: "FlexAir 8. Cancellation cataclysm.",
     nameEn: "Quark Doge",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456240901?t=11m11s"],
     player: ["vk", "456240901", "795dd4c5485005c0", "0h11m11s"],
     id: "Amusement-YouTube_FlexAir-8",
@@ -189,7 +189,7 @@ const amusementYouTube = [
   {
     nameRu: "God of War: ИГРОФИЛЬМ",
     titleStatus: "Сборник",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     id: "Amusement-YouTube_God-of-War-Gamemovie",
     posterImage: "https://static.tildacdn.com/tild6566-3235-4439-b336-613632346138/God_of_War_.webp",
     cardType: "amusement-YouTube",
@@ -197,7 +197,7 @@ const amusementYouTube = [
   {
     nameRu: "One Year Alone in Forest of Sweden | Building Log Cabin like our Forefathers",
     nameEn: "Erik Grankvist",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240520?t=2h23m0s"],
     player: ["vk", "456240520", "4ddee33e43f5a50e", "2h23m0s"],
     id: "Amusement-YouTube_Building-in-Forest-of-Sweden",
@@ -207,7 +207,7 @@ const amusementYouTube = [
   {
     nameRu: "Shinichi Sakamoto, manga creation in the digital era",
     nameEn: "Archipel",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240724?t=3h43m18s"],
     player: ["vk", "456240724", "2d168f6ebafa72f4", "3h43m18s"],
     id: "Amusement-YouTube_Archipel-1",
@@ -217,7 +217,7 @@ const amusementYouTube = [
   {
     nameRu: "Solek",
     titleStatus: "Сборник",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     id: "Amusement-YouTube_Solek",
     posterImage: "https://static.tildacdn.com/tild3830-6164-4639-b461-376432313731/Solek.webp",
     cardType: "amusement-YouTube",
@@ -225,7 +225,7 @@ const amusementYouTube = [
   {
     nameRu: "UNUSUAL MEMES COMPILATION V254",
     nameEn: "UnusualVideos",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241235?t=4m10s"],
     player: ["vk", "456241235", "7563cccd7e63935d", "0h4m10s"],
     id: "Amusement-YouTube_MEMES-COMPILATION-V254",
@@ -235,7 +235,7 @@ const amusementYouTube = [
   {
     nameRu: "Utopia Show",
     titleStatus: "Сборник",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     id: "Amusement-YouTube_Utopia-Show",
     posterImage: "https://static.tildacdn.com/tild6337-6664-4537-a231-396565653833/UtopiaShow-ezgifcom-.webp",
     cardType: "amusement-YouTube",

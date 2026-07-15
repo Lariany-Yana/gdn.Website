@@ -12,7 +12,7 @@ const amusementGames = [
   {
     nameRu: "Armored Core VI: Fires of Rubicon",
     titleStatus: "Наиграно: До финала",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     id: "Amusement-Games_Armored-Core-6",
     posterImage: "https://static.tildacdn.com/tild6666-3966-4561-a631-343866303831/ARMORED_CORE_VI_FIRE.webp",
     cardType: "amusement-Game",
@@ -20,7 +20,7 @@ const amusementGames = [
   {
     nameRu: "A Way Out",
     titleStatus: "Наиграно: До финала",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     id: "Amusement-Games_A-Way-Out",
     posterImage: "https://static.tildacdn.com/tild3664-3661-4161-b331-353362343666/A_Way_Out.webp",
     cardType: "amusement-Game",
@@ -28,7 +28,7 @@ const amusementGames = [
   {
     nameRu: "Baldur's Gate 3",
     titleStatus: "Наиграно: До финала",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     id: "Amusement-Games_Baldurs-Gate-3",
     posterImage: "https://static.tildacdn.com/tild6365-6466-4134-b537-346333366131/Baldurs_Gate_3.webp",
     cardType: "amusement-Game",
@@ -44,7 +44,7 @@ const amusementGames = [
   {
     nameRu: "Buckshot Roulette",
     titleStatus: "Наиграно: До финала",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     id: "Amusement-Games_Buckshot-Roulette",
     posterImage: "https://static.tildacdn.com/tild6566-6434-4338-b335-303930323732/Buckshot_Roulette.webp",
     cardType: "amusement-Game",
@@ -52,7 +52,7 @@ const amusementGames = [
   {
     nameRu: "Celeste",
     titleStatus: "Наиграно: До финала",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240639?t=8h23m33s"],
     player: ["vk", "456240639", "3a2a0643bc9929ea", "8h23m33s"],
     id: "Amusement-Games_Celeste",
@@ -62,7 +62,7 @@ const amusementGames = [
   {
     nameRu: "Choo-Choo Charles",
     titleStatus: "Наиграно: До финала",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456239971?t=5h20m11s"],
     player: ["vk", "456239971", "8ef200c9e3d9fa03", "5h20m11s"],
     id: "Amusement-Games_Choo-Choo-Charles",
@@ -72,7 +72,7 @@ const amusementGames = [
   {
     nameRu: "Clair Obscur: Expedition 33",
     titleStatus: "Наиграно: До финала",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     id: "Amusement-Games_Clair-Obscur-Expedition-33",
     posterImage: "https://static.tildacdn.com/tild3637-6362-4631-a161-323461313262/Clair_Obscur_Expedit.webp",
     cardType: "amusement-Game",
@@ -80,7 +80,7 @@ const amusementGames = [
   {
     nameRu: "Cuphead",
     titleStatus: "Наиграно: До финала + DLC",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     id: "Amusement-Games_Cuphead",
     posterImage: "https://static.tildacdn.com/tild6165-3835-4535-a564-343031636530/Cuphead.webp",
     cardType: "amusement-Game",
@@ -111,7 +111,7 @@ const amusementGames = [
   {
     nameRu: "Death Stranding",
     titleStatus: "Наиграно: 9.5 Часов",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     id: "Amusement-Games_Death-Stranding",
     posterImage: "https://static.tildacdn.com/tild3130-6262-4138-b262-373562613961/Death_Stranding.webp",
     cardType: "amusement-Game",
@@ -126,7 +126,7 @@ const amusementGames = [
   {
     nameRu: "Devil May Cry 5",
     titleStatus: "Наиграно: До финала",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     id: "Amusement-Games_Devil-May-Cry-5",
     posterImage: "https://static.tildacdn.com/tild3935-3032-4539-b732-323334303931/Devil_May_Cry_5.webp",
     cardType: "amusement-Game",
@@ -164,7 +164,7 @@ const amusementGames = [
   {
     nameRu: "F.E.A.R.",
     titleStatus: "Наиграно: До финала",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     id: "Amusement-Games_FEAR",
     posterImage: "https://static.tildacdn.com/tild3034-6164-4134-a165-393231626431/FEAR.webp",
     cardType: "amusement-Game",
@@ -172,7 +172,7 @@ const amusementGames = [
   {
     nameRu: "Finding Paradise",
     titleStatus: "Наиграно: До финала",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     id: "Amusement-Games_Finding-Paradise",
     posterImage: "https://static.tildacdn.com/tild6261-3331-4765-b235-383739313263/Finding_Paradise.webp",
     cardType: "amusement-Game",
@@ -180,7 +180,7 @@ const amusementGames = [
   {
     nameRu: "Five Nights at Freddy’s",
     titleStatus: "Наиграно: До финала",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456240804?t=5m47s"],
     player: ["vk", "456240804", "59a040ec784392ca", "0h5m47s"],
     id: "Amusement-Games_Five-Nights-at-Freddy",
@@ -190,7 +190,7 @@ const amusementGames = [
   {
     nameRu: "Friday Night Funkin’",
     titleStatus: "Наиграно: 2.5 Часа",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     id: "Amusement-Games_Friday-Night-Funkin",
     posterImage: "https://static.tildacdn.com/tild3930-3465-4562-b437-616661323066/Friday_Night_Funkin.webp",
     cardType: "amusement-Game",
@@ -198,7 +198,7 @@ const amusementGames = [
   {
     nameRu: "God of War",
     titleStatus: "Наиграно: До финала",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     id: "Amusement-Games_God-of-War-2018",
     posterImage: "https://static.tildacdn.com/tild3437-3233-4236-a230-626364323131/God_of_War_2018.webp",
     cardType: "amusement-Game",
@@ -216,7 +216,7 @@ const amusementGames = [
   {
     nameRu: "Half-Life 2",
     titleStatus: "Наиграно: До финала",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     id: "Amusement-Games_Half-Life-2",
     posterImage: "https://static.tildacdn.com/tild6437-6336-4362-b364-656334373965/Half-Life_2.webp",
     cardType: "amusement-Game",
@@ -234,7 +234,7 @@ const amusementGames = [
   {
     nameRu: "Helltaker",
     titleStatus: "Наиграно: До финала",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241117?t=15m33s"],
     player: ["vk", "456241117", "d5acdeebae53c29b", "0h15m33s"],
     id: "Amusement-Games_Helltaker",
@@ -244,7 +244,7 @@ const amusementGames = [
   {
     nameRu: "Hollow Knight",
     titleStatus: "Наиграно: До финала",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     id: "Amusement-Games_Hollow-Knight",
     posterImage: "https://static.tildacdn.com/tild6462-3666-4664-a466-343033643164/Hollow_Knight.webp",
     cardType: "amusement-Game",
@@ -252,7 +252,7 @@ const amusementGames = [
   {
     nameRu: "Honkai: Star Rail",
     titleStatus: "Наиграно: 2 Часа",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456239961?t=7h55m38s"],
     player: ["vk", "456239961", "12ae1828379fb8c0", "7h55m38s"],
     id: "Amusement-Games_Honkai-Star-Rail",
@@ -262,7 +262,7 @@ const amusementGames = [
   {
     nameRu: "Impostor Factory",
     titleStatus: "Наиграно: До финала",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     id: "Amusement-Games_Impostor-Factory",
     posterImage: "https://static.tildacdn.com/tild3366-3363-4264-a462-333766616663/Impostor_Factory.webp",
     cardType: "amusement-Game",
@@ -270,7 +270,7 @@ const amusementGames = [
   {
     nameRu: "INDIKA",
     titleStatus: "Наиграно: До финала",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     id: "Amusement-Games_INDIKA",
     posterImage: "https://static.tildacdn.com/tild3230-6165-4432-a166-323832353861/INDIKA.webp",
     cardType: "amusement-Game",
@@ -286,7 +286,7 @@ const amusementGames = [
   {
     nameRu: "It Takes Two",
     titleStatus: "Наиграно: До финала",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     id: "Amusement-Games_It-Takes-Two",
     posterImage: "https://static.tildacdn.com/tild6462-3364-4634-b564-366235303738/It_Takes_Two.webp",
     cardType: "amusement-Game",
@@ -302,7 +302,7 @@ const amusementGames = [
   {
     nameRu: "Katawa Shoujo",
     titleStatus: "Наиграно: 11 Часов",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     id: "Amusement-Games_Katawa-Shoujo",
     posterImage: "https://static.tildacdn.com/tild3233-6432-4165-a666-336662383063/Katawa_Shoujo.webp",
     cardType: "amusement-Game",
@@ -310,7 +310,7 @@ const amusementGames = [
   {
     nameRu: "League of Legends",
     titleStatus: "Наиграно: 20 Часов",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     id: "Amusement-Games_League-of-Legends",
     posterImage: "https://static.tildacdn.com/tild6136-6331-4361-b530-323236303366/League_of_Legends.webp",
     cardType: "amusement-Game",
@@ -318,7 +318,7 @@ const amusementGames = [
   {
     nameRu: "Life Is Strange",
     titleStatus: "Наиграно: До финала + DLC",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     id: "Amusement-Games_Life-Is-Strange",
     posterImage: "https://static.tildacdn.com/tild6465-3636-4262-a136-336662353264/Life_Is_Strange.webp",
     cardType: "amusement-Game",
@@ -326,7 +326,7 @@ const amusementGames = [
   {
     nameRu: "LISA: The Painful",
     titleStatus: "Наиграно: До финала",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     id: "Amusement-Games_LISA-The-Painful",
     posterImage: "https://static.tildacdn.com/tild3033-3463-4737-b938-303639306565/LISA_The_Painful.webp",
     cardType: "amusement-Game",
@@ -334,7 +334,7 @@ const amusementGames = [
   {
     nameRu: "Little Misfortune",
     titleStatus: "Наиграно: До финала",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     id: "Amusement-Games_Little-Misfortune",
     posterImage: "https://static.tildacdn.com/tild3739-6232-4833-a339-366236656436/Little_Misfortune.webp",
     cardType: "amusement-Game",
@@ -366,7 +366,7 @@ const amusementGames = [
   {
     nameRu: "Metal Gear Rising: Revengeance",
     titleStatus: "Наиграно: До финала",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     id: "Amusement-Games_Metal-Gear-Rising-Revengeance",
     posterImage: "https://static.tildacdn.com/tild3731-3433-4238-b730-396234363237/Metal_Gear_Rising_Re.webp",
     cardType: "amusement-Game",
@@ -381,7 +381,7 @@ const amusementGames = [
   {
     nameRu: "MiSide",
     titleStatus: "Наиграно: До финала",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241409?t=1m30s"],
     player: ["vk", "456241409", "5989f83b82d27fff", "0h1m30s"],
     id: "Amusement-Games_MiSide",
@@ -391,7 +391,7 @@ const amusementGames = [
   {
     nameRu: "Monstrum",
     titleStatus: "Наиграно: До финала",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     id: "Amusement-Games_Monstrum",
     posterImage: "https://static.tildacdn.com/tild3838-3339-4537-b130-353861336561/Monstrum.webp",
     cardType: "amusement-Game",
@@ -399,7 +399,7 @@ const amusementGames = [
   {
     nameRu: "Need for Speed: Most Wanted",
     titleStatus: "Наиграно: 5.5 Часов",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     id: "Amusement-Games_Need-for-Speed-Most-Wanted",
     posterImage: "https://static.tildacdn.com/tild3233-6132-4138-b532-333735346565/Need_for_Speed_Most_.webp",
     cardType: "amusement-Game",
@@ -423,7 +423,7 @@ const amusementGames = [
   {
     nameRu: "One Night at Flumpty's",
     titleStatus: "Наиграно: До финала",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456240804?t=2h8m"],
     player: ["vk", "456240804", "59a040ec784392ca", "0h2h8m"],
     id: "Amusement-Games_One-Night-at-Flumptys",
@@ -433,7 +433,7 @@ const amusementGames = [
   {
     nameRu: "Pathfinder: Wrath of the Righteous",
     titleStatus: "Наиграно: До финала",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     id: "Amusement-Games_Pathfinder-Wrath-of-the-Righteous",
     posterImage: "https://static.tildacdn.com/tild3538-6361-4032-b639-376338636539/Pathfinder_Wrath_of_.webp",
     cardType: "amusement-Game",
@@ -449,7 +449,7 @@ const amusementGames = [
   {
     nameRu: "Plants vs. Zombies",
     titleStatus: "Наиграно: 4 Часа",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     id: "Amusement-Games_Plants-vs-Zombies",
     posterImage: "https://static.tildacdn.com/tild6364-3164-4465-a234-636162663064/Plants_vs_Zombies.webp",
     cardType: "amusement-Game",
@@ -457,7 +457,7 @@ const amusementGames = [
   {
     nameRu: "Poppy Playtime",
     titleStatus: "Наиграно: До финала",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240600?t=3h36m50s"],
     player: ["vk", "456240600", "b8cf8d8a5d3f8a3f", "3h36m50s"],
     id: "Amusement-Games_Poppy-Playtime",
@@ -467,7 +467,7 @@ const amusementGames = [
   {
     nameRu: "Quantum Break",
     titleStatus: "Наиграно: До финала",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     id: "Amusement-Games_Quantum-Break",
     posterImage: "https://static.tildacdn.com/tild3030-6238-4039-b861-616431313035/Quantum_Break.webp",
     cardType: "amusement-Game",
@@ -475,7 +475,7 @@ const amusementGames = [
   {
     nameRu: "Raft",
     titleStatus: "Наиграно: До финала",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     id: "Amusement-Games_Raft",
     posterImage: "https://static.tildacdn.com/tild3138-3737-4636-a263-643838616563/Raft.webp",
     cardType: "amusement-Game",
@@ -483,7 +483,7 @@ const amusementGames = [
   {
     nameRu: "Red Dead Redemption 2",
     titleStatus: "Наиграно: До финала",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     id: "Amusement-Games_Red-Dead-Redemption-2",
     posterImage: "https://static.tildacdn.com/tild6632-3133-4862-b735-356466613937/Red_Dead_Redemption_.webp",
     cardType: "amusement-Game",
@@ -491,7 +491,7 @@ const amusementGames = [
   {
     nameRu: "Return of the Obra Dinn",
     titleStatus: "Наиграно: 1 Час",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240407?t=4h42m25s"],
     player: ["vk", "456240407", "eeccd1f5ec95376f", "4h42m25s"],
     id: "Amusement-Games_Return-of-the-Obra-Dinn",
@@ -501,7 +501,7 @@ const amusementGames = [
   {
     nameRu: "Rhythm Heaven",
     titleStatus: "Наиграно: 2 Часа",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241620?t=13m23s"],
     player: ["vk", "456241620", "b7e158c366fae77c", "0h13m23s"],
     id: "Amusement-Games_Rhythm-Heaven",
@@ -511,7 +511,7 @@ const amusementGames = [
   {
     nameRu: "Rusty Lake",
     titleStatus: "Наиграно: До финала",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     id: "Amusement-Games_Rusty-Lake",
     posterImage: "https://static.tildacdn.com/tild6131-3965-4134-b737-386233393836/Rusty_Lake.webp",
     cardType: "amusement-Game",
@@ -527,7 +527,7 @@ const amusementGames = [
   {
     nameRu: "Sifu",
     titleStatus: "Наиграно: До финала",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     id: "Amusement-Games_Sifu",
     posterImage: "https://static.tildacdn.com/tild3736-3739-4137-a262-363166623430/Sifu.webp",
     cardType: "amusement-Game",
@@ -535,7 +535,7 @@ const amusementGames = [
   {
     nameRu: "SIGNALIS",
     titleStatus: "Наиграно: До финала",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     id: "Amusement-Games_SIGNALIS",
     posterImage: "https://static.tildacdn.com/tild6365-3335-4436-b932-646231303336/SIGNALIS.webp",
     cardType: "amusement-Game",
@@ -543,7 +543,7 @@ const amusementGames = [
   {
     nameRu: "Silent Hill 2 Remake",
     titleStatus: "Наиграно: До финала",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     id: "Amusement-Games_Silent-Hill-2-Remake",
     posterImage: "https://static.tildacdn.com/tild3461-3866-4237-a665-336466653239/Silent_Hill_2_Remake.webp",
     cardType: "amusement-Game",
@@ -559,7 +559,7 @@ const amusementGames = [
   {
     nameRu: "Split Fiction",
     titleStatus: "Наиграно: До финала",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     id: "Amusement-Games_Split-Fiction",
     posterImage: "https://static.tildacdn.com/tild6135-3563-4634-a561-313331393638/Split_Fiction.webp",
     cardType: "amusement-Game",
@@ -567,7 +567,7 @@ const amusementGames = [
   {
     nameRu: "Spore",
     titleStatus: "Наиграно: 8 Часов",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     id: "Amusement-Games_Spore",
     posterImage: "https://static.tildacdn.com/tild3864-3638-4263-b361-623234633130/Spore.webp",
     cardType: "amusement-Game",
@@ -575,7 +575,7 @@ const amusementGames = [
   {
     nameRu: "Team Fortress 2",
     titleStatus: "Наиграно: 2 Часа",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241537?t=11m31s"],
     player: ["vk", "456241537", "446b50bb5dcfef67", "0h11m31s"],
     id: "Amusement-Games_Team-Fortress-2",
@@ -585,7 +585,7 @@ const amusementGames = [
   {
     nameRu: "The Cabin Factory",
     titleStatus: "Наиграно: До финала",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241439?t=13m12s"],
     player: ["vk", "456241439", "bb8e891e4662b26d", "0h13m12s"],
     id: "Amusement-Games_The-Cabin-Factory",
@@ -595,7 +595,7 @@ const amusementGames = [
   {
     nameRu: "The Embodiment of Scarlet Devil || Touhou",
     titleStatus: "Наиграно: До финала",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456239986?t=11h3m52s"],
     player: ["vk", "456239986", "2bfe45d3731943b4", "11h3m52s"],
     id: "Amusement-Games_The-Embodiment-of-Scarlet-Devil",
@@ -605,7 +605,7 @@ const amusementGames = [
   {
     nameRu: "The Invincible",
     titleStatus: "Наиграно: До финала",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     id: "Amusement-Games_The-Invincible",
     posterImage: "https://static.tildacdn.com/tild3530-3834-4566-a561-313238303834/The_Invincible.webp",
     cardType: "amusement-Game",
@@ -613,7 +613,7 @@ const amusementGames = [
   {
     nameRu: "The Life and Suffering of Sir Brante",
     titleStatus: "Наиграно: До финала",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     id: "Amusement-Games_The-Life-and-Suffering-of-Sir-Brante",
     posterImage: "https://static.tildacdn.com/tild3436-6662-4533-b162-343330626635/The_Life_and_Sufferi.webp",
     cardType: "amusement-Game",
@@ -621,7 +621,7 @@ const amusementGames = [
   {
     nameRu: "The Mortuary Assistant",
     titleStatus: "Наиграно: До финала",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     id: "Amusement-Games_The-Mortuary-Assistant",
     posterImage: "https://static.tildacdn.com/tild3665-3331-4161-b838-383639366163/The_Mortuary_Assista.webp",
     cardType: "amusement-Game",
@@ -629,7 +629,7 @@ const amusementGames = [
   {
     nameRu: "The Stanley Parable",
     titleStatus: "Наиграно: До финала",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     id: "Amusement-Games_The-Stanley-Parable",
     posterImage: "https://static.tildacdn.com/tild6430-3938-4566-b766-643664313139/The_Stanley_Parable.webp",
     cardType: "amusement-Game",
@@ -637,7 +637,7 @@ const amusementGames = [
   {
     nameRu: "This Is the Police",
     titleStatus: "Наиграно: До финала",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     id: "Amusement-Games_This-Is-the-Police",
     posterImage: "https://static.tildacdn.com/tild6133-3538-4930-b036-666166643830/This_Is_the_Police.webp",
     cardType: "amusement-Game",
@@ -645,7 +645,7 @@ const amusementGames = [
   {
     nameRu: "Undertale",
     titleStatus: "Наиграно: До финала",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     id: "Amusement-Games_Undertale",
     posterImage: "https://static.tildacdn.com/tild3166-3065-4361-a164-333963646633/Undertale.webp",
     cardType: "amusement-Game",

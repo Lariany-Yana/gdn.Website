@@ -10,7 +10,7 @@ const amusementEvents = [
   {
     nameRu: "Summer Game Fest 2025",
     nameEn: "07.06.2025",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241571"],
     player: ["vk", "456241571", "02be209d16b307a5", "0h0m0s"],
     id: "Amusement-Event_20",
@@ -20,7 +20,7 @@ const amusementEvents = [
   {
     nameRu: "Сборка Гандамоу 4",
     nameEn: "06.02.2025",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241465?t=8m54s"],
     player: ["vk", "456241465", "4d15c6c4f0109d27", "0h8m54s"],
     id: "Amusement-Event_19",
@@ -30,7 +30,7 @@ const amusementEvents = [
   {
     nameRu: "Битва опенингов по Гандаму",
     nameEn: "03.01.2025",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241428?t=11m33s"],
     player: ["vk", "456241428", "59b2e319f91fe461", "0h11m33s"],
     id: "Amusement-Event_18",
@@ -40,7 +40,7 @@ const amusementEvents = [
   {
     nameRu: "Новогодний стрим видосов",
     nameEn: "01.01.2025",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241422?t=9m42s"],
     player: ["vk", "456241422", "c22c1108019a8806", "0h9m42s"],
     id: "Amusement-Event_17",
@@ -50,7 +50,7 @@ const amusementEvents = [
   {
     nameRu: "Сборка Гандамоу 3",
     nameEn: "10.12.2024",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241389?t=2h13m5s"],
     player: ["vk", "456241389", "e991ef134147d092", "2h13m5s"],
     id: "Amusement-Event_16",
@@ -60,7 +60,7 @@ const amusementEvents = [
   {
     nameRu: "Сборка Гандамоу 2",
     nameEn: "26.11.2024",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241351?t=4h11m42s"],
     player: ["vk", "456241351", "cb08119873276c2a", "4h11m42s"],
     id: "Amusement-Event_15",
@@ -70,7 +70,7 @@ const amusementEvents = [
   {
     nameRu: "Сборка Гандамоу 1",
     nameEn: "30.10.2024",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241320?t=10m10s"],
     player: ["vk", "i456241320d", "176f274d0d9c25fa", "0h10m10s"],
     id: "Amusement-Event_14",
@@ -80,7 +80,7 @@ const amusementEvents = [
   {
     nameRu: "Покраска Луффи",
     nameEn: "10.08.2024",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241237?t=9m22s"],
     player: ["vk", "456241237", "3e22000634af0da7", "0h9m22s"],
     id: "Amusement-Event_12",
@@ -98,7 +98,7 @@ const amusementEvents = [
   {
     nameRu: "Жабоприкол с оценкой фильмов",
     nameEn: "27.04.2024",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456240962?t=11m19s"],
     player: ["vk", "456240962", "ddfd2f882d47faeb", "0h11m19s"],
     id: "Amusement-Event_10",
@@ -108,7 +108,7 @@ const amusementEvents = [
   {
     nameRu: "Бухлострим с подписчиками",
     nameEn: "24.11.2023",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240686?t=3h10m30s"],
     player: ["vk", "456240686", "5bda43f4849c2078", "3h10m30s"],
     id: "Amusement-Event_9",
@@ -118,7 +118,7 @@ const amusementEvents = [
   {
     nameRu: "Стрим настроек ноута",
     nameEn: "09.11.2023",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240650?t=0s"],
     player: ["vk", "456240650", "04049de04e01f883", "0h0m0s"],
     id: "Amusement-Event_8",
@@ -128,7 +128,7 @@ const amusementEvents = [
   {
     nameRu: "ЛЕГЕНДАРНЫЙ ТЕСТ НА ЛУЧШЕГО ЗЛОДЕЯ",
     nameEn: "28.10.2023",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240599?t=4h16m30s"],
     player: ["vk", "456240599", "e7ba9498772c2b3c", "4h16m30s"],
     id: "Amusement-Event_7",
@@ -138,7 +138,7 @@ const amusementEvents = [
   {
     nameRu: "Стрим видосов",
     nameEn: "28.09.2023",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240246?t=5h46m56s"],
     player: ["vk", "456240246", "7e8823f5a5b5fd0d", "5h46m56s"],
     id: "Amusement-Event_6",
@@ -148,7 +148,7 @@ const amusementEvents = [
   {
     nameRu: "Тест лучший аи кавер",
     nameEn: "09.06.2023",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456239971?t=12h45m14s"],
     player: ["vk", "456239971", "8ef200c9e3d9fa03", "12h45m14s"],
     id: "Amusement-Event_5",
@@ -158,7 +158,7 @@ const amusementEvents = [
   {
     nameRu: "Кальянный стрим",
     nameEn: "02.02.2023",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456239793?t=0h0m0s"],
     player: ["vk", "456239793", "5365b3f2d380b990", "0h0m0s"],
     id: "Amusement-Event_4",

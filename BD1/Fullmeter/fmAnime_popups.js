@@ -147,7 +147,6 @@ const fullmeterAnimePopups = {
     {
       nameRu: "Два героя || Моя геройская академия",
       nameEn: "Futari no Hero || Boku no Hero Academia the Movie",
-      donutTerms: "donut-lvl-3",
       titleLink: ["boosty", "hiddenarchive/posts/9c25d0b5-9c05-4421-94e0-f9c1ea4e6369?t=946&tmid=5e51855c-45f7-4660-a700-5746223f4f6f"],
       id: "Fullmeter-Anime_Boku-no-Hero-Academia-Movie-Futari-no-Hero",
       posterImage: "https://static.tildacdn.com/tild6639-3735-4332-b261-366161656232/img.webp",

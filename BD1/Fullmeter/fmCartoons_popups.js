@@ -3,7 +3,7 @@ const fullmeterCartoonPopups = {
     {
       nameRu: "Головоломка",
       nameEn: "Inside Out",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456239959?t=10h47m1s"],
       player: ["vk", "456239959", "f179fa162739b81b", "10h47m1s"],
       id: "Fullmeter-Cartoon_Inside-Out-1",
@@ -25,7 +25,7 @@ const fullmeterCartoonPopups = {
     {
       nameRu: "Зверопой",
       nameEn: "Sing",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456240415?t=13m1s"],
       player: ["vk", "456240415", "eb79af2343fc2a0f", "0h13m1s"],
       id: "Fullmeter-Cartoon_Sing-1",
@@ -95,7 +95,7 @@ const fullmeterCartoonPopups = {
     {
       nameRu: "Легенда о Костоломе || Как приручить дракона",
       nameEn: "Legend of the Boneknapper Dragon || How to Train Your Dragon",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456239973?t=5h8m30s"],
       player: ["vk", "456239973", "eb7eafa33b21891b", "5h8m30s"],
       id: "Fullmeter-Cartoon_Legend-of-the-Boneknapper-Dragon",
@@ -105,7 +105,7 @@ const fullmeterCartoonPopups = {
     {
       nameRu: "Книга драконов || Как приручить дракона",
       nameEn: "Book of Dragons || How to Train Your Dragon",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456239973?t=5h27m36s"],
       player: ["vk", "456239973", "eb7eafa33b21891b", "5h27m36s"],
       id: "Fullmeter-Cartoon_Book-of-Dragons",
@@ -115,7 +115,7 @@ const fullmeterCartoonPopups = {
     {
       nameRu: "Драконы: Подарок ночной фурии || Как приручить дракона",
       nameEn: "Dragons: Gift of the Night Fury || How to Train Your Dragon",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456239973?t=5h47m46s"],
       player: ["vk", "456239973", "eb7eafa33b21891b", "5h47m46s"],
       id: "Fullmeter-Cartoon_Dragons-Gift-of-the-Night-Fury",
@@ -125,7 +125,7 @@ const fullmeterCartoonPopups = {
     {
       nameRu: "Драконы: Гонки бесстрашных. Начало || Как приручить дракона",
       nameEn: "Dragons: Dawn of the Dragon Racers || How to Train Your Dragon",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456239973?t=6h12m0s"],
       player: ["vk", "456239973", "eb7eafa33b21891b", "6h12m0s"],
       id: "Fullmeter-Cartoon_Dragons-Dawn-of-the-Dragon-Racers",
@@ -143,7 +143,7 @@ const fullmeterCartoonPopups = {
     {
       nameRu: "Как приручить дракона 3",
       nameEn: "How to Train Your Dragon: The Hidden World",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456239982?t=4h15m55s"],
       player: ["vk", "456239982", "0345150dfb43e6fa", "4h15m55s"],
       id: "Fullmeter-Cartoon_How-Train-Your-Dragon-7",
@@ -153,7 +153,7 @@ const fullmeterCartoonPopups = {
     {
       nameRu: "Возвращение домой || Как приручить дракона",
       nameEn: "Homecoming || How to Train Your Dragon",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456240000?t=7h26m52s"],
       player: ["vk", "456240000", "d3d05ae83dcac428", "7h26m52s"],
       id: "Fullmeter-Cartoon_How-Train-Your-Dragon-Homecoming",
@@ -165,7 +165,7 @@ const fullmeterCartoonPopups = {
     {
       nameRu: "Кот в сапогах",
       nameEn: "Puss in Boots",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456239822?t=15m33s"],
       player: ["vk", "456239822", "a59dee818dcb9f55", "0h15m33s"],
       id: "Fullmeter-Cartoon_Puss-in-Boots-1",
@@ -175,7 +175,7 @@ const fullmeterCartoonPopups = {
     {
       nameRu: "Последнее желание || Кот в сапогах",
       nameEn: "The Last Wish || Puss in Boots",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456240434"],
       player: ["vk", "456240434", "705eb86325f4543d", "0h0m0s"],
       id: "Fullmeter-Cartoon_Puss-in-Boots-2",
@@ -187,7 +187,7 @@ const fullmeterCartoonPopups = {
     {
       nameRu: "Кунг-фу Панда",
       nameEn: "Kung Fu Panda",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456239898?t=2m26s"],
       player: ["vk", "456239898", "53d96fd6762aa589", "0h2m26s"],
       id: "Fullmeter-Cartoon_Kung-Fu-Panda-1",
@@ -197,7 +197,7 @@ const fullmeterCartoonPopups = {
     {
       nameRu: "Кунг-фу Панда 2",
       nameEn: "Kung Fu Panda 2",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456240082?t=7h50m52s"],
       player: ["vk", "456240082", "44bd724809b1c76d", "7h50m52s"],
       id: "Fullmeter-Cartoon_Kung-Fu-Panda-2",
@@ -207,7 +207,7 @@ const fullmeterCartoonPopups = {
     {
       nameRu: "Кунг-фу Панда 3",
       nameEn: "Kung Fu Panda 3",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456240165?t=2h28m21s"],
       player: ["vk", "456240165", "012d5ccf17bcd5ac", "2h28m21s"],
       id: "Fullmeter-Cartoon_Kung-Fu-Panda-3",
@@ -229,7 +229,7 @@ const fullmeterCartoonPopups = {
     {
       nameRu: "Лего Фильм: Бэтмен",
       nameEn: "The Lego Batman Movie",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456239930?t=22h45m30s"],
       player: ["vk", "456239930", "ecf10096588f7c42", "22h45m30s"],
       id: "Fullmeter-Cartoon_The-Lego-Batman-Movie",
@@ -309,7 +309,7 @@ const fullmeterCartoonPopups = {
     {
       nameRu: "Мадагаскар 2",
       nameEn: "Escape 2 Africa || Madagascar",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456240049?t=8h17m7s"],
       player: ["vk", "456240049", "64966d5da21cd40c", "8h17m7s"],
       id: "Fullmeter-Cartoon_Madagascar-2",
@@ -374,7 +374,7 @@ const fullmeterCartoonPopups = {
     {
       nameRu: "Тачки",
       nameEn: "Cars",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456240081?t=16m4s"],
       player: ["vk", "456240081", "0624eb788798be40", "0h16m4s"],
       id: "Fullmeter-Cartoon_Cars-1",
@@ -384,7 +384,7 @@ const fullmeterCartoonPopups = {
     {
       nameRu: "Тачки 2",
       nameEn: "Cars 2",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456240165?t=12m16s"],
       player: ["vk", "456240165", "012d5ccf17bcd5ac", "0h12m16s"],
       id: "Fullmeter-Cartoon_Cars-2",
@@ -394,7 +394,7 @@ const fullmeterCartoonPopups = {
     {
       nameRu: "Тачки 3",
       nameEn: "Cars 3",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456240415?t=8h15m14s"],
       player: ["vk", "456240415", "eb79af2343fc2a0f", "8h15m14s"],
       id: "Fullmeter-Cartoon_Cars-3",
@@ -405,7 +405,7 @@ const fullmeterCartoonPopups = {
   "Fullmeter-Cartoon_Three-tallheroes": [
     {
       nameRu: "Алеша Попович и Тугарин Змей",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456239930?t=12h44m40s"],
       player: ["vk", "456239930", "ecf10096588f7c42", "12h44m40s"],
       id: "Fullmeter-Cartoon_Three-Tallheroes-1",
@@ -414,7 +414,7 @@ const fullmeterCartoonPopups = {
     },
     {
       nameRu: "Добрыня Никитич и Змей Горыныч",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456239930?t=14h18m6s"],
       player: ["vk", "456239930", "ecf10096588f7c42", "14h18m6s"],
       id: "Fullmeter-Cartoon_Three-Tallheroes-2",
@@ -423,7 +423,7 @@ const fullmeterCartoonPopups = {
     },
     {
       nameRu: "Илья Муромец и Соловей-разбойник",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456239940?t=15h2m0s"],
       player: ["vk", "456239940", "3e1ca75647805d98", "15h2m0s"],
       id: "Fullmeter-Cartoon_Three-Tallheroes-3",
@@ -432,7 +432,7 @@ const fullmeterCartoonPopups = {
     },
     {
       nameRu: "Три богатыря и Шамаханская царица",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456239940?t=16h35m31s"],
       player: ["vk", "456239940", "3e1ca75647805d98", "16h35m31s"],
       id: "Fullmeter-Cartoon_Three-Tallheroes-4",
@@ -453,7 +453,7 @@ const fullmeterCartoonPopups = {
     {
       nameRu: "Паутина Вселенных || Человек-паук",
       nameEn: "Across the Spider-Verse || Spider-Man",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456240040?t=14m4s"],
       player: ["vk", "456240040", "9e5903542fded090", "0h14m4s"],
       id: "Fullmeter-Cartoon_Spider-Man-2",

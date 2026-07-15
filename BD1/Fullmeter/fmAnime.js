@@ -11,7 +11,7 @@ const fullmeterAnime = [
   {
     nameRu: "Ветер крепчает",
     nameEn: "Kaze tachinu / The Wind Has Risen",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240162?t=1h27m10s"],
     player: ["vk", "456240162", "930a61fdc40bc795", "1h27m10s"],
     id: "Fullmeter-Anime_Kaze-tachinu",
@@ -31,7 +31,7 @@ const fullmeterAnime = [
   {
     nameRu: "Всё, что нужно этой звезде",
     nameEn: "I Byeol-e Pil-yohan / Lost in Starlight",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241599?t=14m1s"],
     player: ["vk", "456241599", "1481d8cf0ee6499c", "0h14m1s"],
     id: "Fullmeter-Anime_Lost-in-Starlight",
@@ -102,7 +102,7 @@ const fullmeterAnime = [
   {
     nameRu: "Жозе, тигр и рыба",
     nameEn: "Josee to Tora to Sakana-tachi",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241442?t=7h43m56s"],
     player: ["vk", "456241442", "a9a42843bc8e315b", "7h43m56s"],
     id: "Fullmeter-Anime_Josee-Tora-Sakana-tachi",
@@ -166,7 +166,7 @@ const fullmeterAnime = [
   {
     nameRu: "Летний призрак",
     nameEn: "Summer Ghost",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241268?t=4h30m27s"],
     player: ["vk", "456241268", "d73bed767d3a2f24", "4h30m27s"],
     id: "Fullmeter-Anime_Summer-Ghost",
@@ -213,7 +213,7 @@ const fullmeterAnime = [
   {
     nameRu: "Навсикая из Долины ветров",
     nameEn: "Kaze no tani no Naushika",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240321?t=5h9m14s"],
     player: ["vk", "456240321", "14137ee871886a84", "5h9m14s"],
     id: "Fullmeter-Anime_Kaze-no-Tani-no-Naushika",
@@ -223,7 +223,7 @@ const fullmeterAnime = [
   {
     nameRu: "Небесные скитальцы",
     nameEn: "The Sky Crawlers",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241152"],
     player: ["vk", "456241152", "5fb2ca98b2426774", "0h0m0s"],
     id: "Fullmeter-Anime_The-Sky-Crawlers",
@@ -252,7 +252,7 @@ const fullmeterAnime = [
   {
     nameRu: "Орган геноцида",
     nameEn: "Gyakusatsu Kikan",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241171?t=3h28m8s"],
     player: ["vk", "456241171", "09af3e3f4000b1b7", "3h28m8s"],
     id: "Fullmeter-Anime_Gyakusatsu-Kikan",
@@ -305,7 +305,7 @@ const fullmeterAnime = [
   {
     nameRu: "Синий гигант",
     nameEn: "Blue Giant",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240744?t=3m24s"],
     player: ["vk", "456240744", "8eeea103c7c5dbc2", "0h3m24s"],
     id: "Fullmeter-Anime_Blue-Giant",
@@ -315,7 +315,7 @@ const fullmeterAnime = [
   {
     nameRu: "Судзуме, закрывающая двери",
     nameEn: "Suzume no Tojimari",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241447?t=11m31s"],
     player: ["vk", "456241447", "841e7f562b8e6c17", "0h11m31s"],
     id: "Fullmeter-Anime_Suzume-no-Tojimari",
@@ -333,7 +333,7 @@ const fullmeterAnime = [
   {
     nameRu: "Тоннель в лето, выход прощаний",
     nameEn: "Natsu e no Tunnel, Sayonara no Deguchi",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456240885?t=11m16s"],
     player: ["vk", "456240885", "08fd1f6ee1dd7030", "0h11m16s"],
     id: "Fullmeter-Anime_Tunnel-to-Summer",
@@ -353,7 +353,7 @@ const fullmeterAnime = [
   {
     nameRu: "Унесённые призраками",
     nameEn: "Sen to Chihiro no Kamikakushi",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240083?t=13m1s"],
     player: ["vk", "456240083", "7bf07a7a4d4a034a", "0h13m1s"],
     id: "Fullmeter-Anime_Spirited-Away",
@@ -381,7 +381,7 @@ const fullmeterAnime = [
   {
     nameRu: "Хотори: Я просто хочу счастья",
     nameEn: "Hotori: Tada Saiwai wo Koinegau",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241443?t=4h9m16s"],
     player: ["vk", "456241443", "e1eb0380c131c8ef", "4h9m16s"],
     id: "Fullmeter-Anime_Hotori-Tada-Saiwai-wo-Koinegau",
@@ -391,7 +391,7 @@ const fullmeterAnime = [
   {
     nameRu: "Шёпот сердца",
     nameEn: "Mimi wo Sumaseba",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241172?t=11m12s"],
     player: ["vk", "456241172", "a2c7e2eeb97e364b", "0h11m12s"],
     id: "Fullmeter-Anime_Mimi-wo-Sumaseba",
@@ -418,7 +418,7 @@ const fullmeterAnime = [
   {
     nameRu: "Я хочу съесть твою поджелудочную",
     nameEn: "Kimi no Suizou wo Tabetai",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241166?t=5h48m30s"],
     player: ["vk", "456241166", "6e84acfdfae43068", "5h48m30s"],
     id: "Fullmeter-Anime_Kimi-no-Suizou-wo-Tabetai",

@@ -32,7 +32,7 @@ const literatureBooks = [
     nameRu: "Я ем тишину ложками",
     nameEn: "Stranger in the Woods",
     titleStatus: "Прочитано: 36%",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241306?t=17m57s"],
     player: ["vk", "456241306", "2c5661194f0c5aac", "0h17m57s"],
     id: "Literary-Books_Stranger-in-the-Woods",

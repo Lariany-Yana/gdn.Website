@@ -3,7 +3,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Аватар",
       nameEn: "Avatar",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456240534?t=16m20s"],
       player: ["vk", "456240534", "76823bd4139e5ee2", "0h16m20s"],
       id: "Fullmeter-Movie_Avatar_1",
@@ -13,7 +13,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Путь воды || Аватар",
       nameEn: "The Way of Water || Avatar",
-      donutTerms: "donut-lvl-3",
+      donutTerms: "donut-lvl-2",
       titleLink: ["vk", "456241241?t=11m56s"],
       player: ["vk", "456241241", "89ed0798b805bb12", "0h11m56s"],
       id: "Fullmeter-Movie_Avatar_2",
@@ -33,7 +33,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Перезагрузка || Джонни Инглиш",
       nameEn: "Reborn || Johnny English",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456239961?t=4h38m7s"],
       player: ["vk", "456239961", "12ae1828379fb8c0", "4h38m7s"],
       id: "Fullmeter-Movie_Johnny-English_2",
@@ -45,7 +45,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Алиса в Стране чудес",
       nameEn: "Alice in Wonderland",
-      donutTerms: "donut-lvl-3",
+      donutTerms: "donut-lvl-2",
       titleLink: ["vk", "456241679?t=12m14s"],
       player: ["vk", "456241679", "a4bfe8a68aa7c3e3", "0h12m14s"],
       id: "Fullmeter-Movie_Alice-in-Wonderland-1",
@@ -55,7 +55,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Алиса в Зазеркалье",
       nameEn: "Alice Through the Looking Glass",
-      donutTerms: "donut-lvl-3",
+      donutTerms: "donut-lvl-2",
       titleLink: ["vk", "456241708?t=2h17m51s"],
       player: ["vk", "456241708", "db1e05961daca1c3", "2h17m51s"],
       id: "Fullmeter-Movie_Alice-in-Wonderland-2",
@@ -67,7 +67,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Бегущий в лабиринте",
       nameEn: "The Maze Runner",
-      donutTerms: "donut-lvl-3",
+      donutTerms: "donut-lvl-2",
       titleLink: ["vk", "456241037?t=14m10s"],
       player: ["vk", "456241037", "0194f0292838349b", "0h14m10s"],
       id: "Fullmeter-Movie_Maze-Runner_1",
@@ -77,7 +77,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Испытание огнём || Бегущий в лабиринте",
       nameEn: "The Scorch Trials || The Maze Runner",
-      donutTerms: "donut-lvl-3",
+      donutTerms: "donut-lvl-2",
       titleLink: ["vk", "456241078?t=5m42s"],
       player: ["vk", "456241078", "a6af7e250fc04723", "0h5m42s"],
       id: "Fullmeter-Movie_Maze-Runner_2",
@@ -87,7 +87,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Лекарство от смерти || Бегущий в лабиринте",
       nameEn: "The Death Cure || The Maze Runner",
-      donutTerms: "donut-lvl-3",
+      donutTerms: "donut-lvl-2",
       titleLink: ["vk", "456241102?t=13m46s"],
       player: ["vk", "456241102", "c00b063dc771cfc9", "0h13m46s"],
       id: "Fullmeter-Movie_Maze-Runner_3",
@@ -99,7 +99,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Бегущий по лезвию 2019",
       nameEn: "Blade Runner",
-      donutTerms: "donut-lvl-3",
+      donutTerms: "donut-lvl-2",
       titleLink: ["vk", "456241465?t=2h13m4s"],
       player: ["vk", "456241465", "4d15c6c4f0109d27", "2h13m4s"],
       id: "Fullmeter-Movie_Blade-Runner-1",
@@ -109,7 +109,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Бегущий по лезвию 2049",
       nameEn: "Blade Runner 2049",
-      donutTerms: "donut-lvl-3",
+      donutTerms: "donut-lvl-2",
       titleLink: ["vk", "456241484?t=2h17m45s"],
       player: ["vk", "456241484", "ef65e2bb81c34028", "2h17m45s"],
       id: "Fullmeter-Movie_Blade-Runner-2",
@@ -150,7 +150,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Философский камень || Гарри Поттер",
       nameEn: "Sorcerer’s Stone || Harry Potter",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456239738?t=1m32s"],
       player: ["vk", "456239738", "af93cec46ec5bbd3", "0h1m32s"],
       id: "Fullmeter-Movie_Harry-Potter_1",
@@ -160,7 +160,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Тайная комната || Гарри Поттер",
       nameEn: "Chamber of Secrets || Harry Potter",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456239739"],
       player: ["vk", "456239739", "fc875b7a851807d5", "0h0m0s"],
       id: "Fullmeter-Movie_Harry-Potter_2",
@@ -170,7 +170,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Узник Азкабана || Гарри Поттер",
       nameEn: "Prisoner of Azkaban || Harry Potter",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456239753?t=4h48m33s"],
       player: ["vk", "456239753", "8497f7d5921469a0", "4h48m33s"],
       id: "Fullmeter-Movie_Harry-Potter_3",
@@ -180,7 +180,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Кубок огня || Гарри Поттер",
       nameEn: "Goblet of Fire || Harry Potter",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456239769?t=5m0s"],
       player: ["vk", "456239769", "590e45aa444500ff", "0h5m0s"],
       id: "Fullmeter-Movie_Harry-Potter_4",
@@ -190,7 +190,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Орден Феникса || Гарри Поттер",
       nameEn: "Order of the Phoenix || Harry Potter",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456239770?t=1m56s"],
       player: ["vk", "456239770", "acc1ca4e58caa0ec", "0h1m56s"],
       id: "Fullmeter-Movie_Harry-Potter_5",
@@ -200,7 +200,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Принц-полукровка || Гарри Поттер",
       nameEn: "Half-Blood Prince || Harry Potter",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456239770?t=2h51m0s"],
       player: ["vk", "456239770", "acc1ca4e58caa0ec", "2h51m0s"],
       id: "Fullmeter-Movie_Harry-Potter_6",
@@ -262,7 +262,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Джон Уик",
       nameEn: "John Wick",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456240007?t=8h57m31s"],
       player: ["vk", "456240007", "758dcbbc83ccd033", "8h57m31s"],
       id: "Fullmeter-Movie_John-Wick-1",
@@ -415,7 +415,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Крёстный отец",
       nameEn: "The Godfather: Part I",
-      donutTerms: "donut-lvl-3",
+      donutTerms: "donut-lvl-2",
       titleLink: ["vk", "456241445?t=15m32s"],
       player: ["vk", "456241445", "072dacd9de95eed4", "0h15m32s"],
       id: "Fullmeter-Movie_Godfather-1",
@@ -425,7 +425,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Крёстный отец 2",
       nameEn: "The Godfather: Part II",
-      donutTerms: "donut-lvl-3",
+      donutTerms: "donut-lvl-2",
       titleLink: ["vk", "456241488?t=8h17m15s"],
       player: ["vk", "456241488", "064115ceef21704c", "8h17m15s"],
       id: "Fullmeter-Movie_Godfather-2",
@@ -435,7 +435,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Крёстный отец 3",
       nameEn: "The Godfather: Part III",
-      donutTerms: "donut-lvl-3",
+      donutTerms: "donut-lvl-2",
       titleLink: ["vk", "456241636?t=12m48s"],
       player: ["vk", "456241636", "ff42fd9b00ff0ce3", "0h12m48s"],
       id: "Fullmeter-Movie_Godfather-3",
@@ -467,7 +467,7 @@ const fullmeterMoviePopups = {
       nameRu: "Крик",
       nameEn: "Scream",
       titleStatus: "Пересмотр пересмотра",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456239986?t=8h25m32s"],
       player: ["vk", "456239986", "2bfe45d3731943b4", "8h25m32s"],
       id: "Fullmeter-Movie_Scream-1-2",
@@ -479,7 +479,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Мальчишник в Вегасе",
       nameEn: "The Hangover",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456240602?t=2h23m20s"],
       player: ["vk", "456240602", "7c18cec55ac1020e", "2h23m20s"],
       id: "Fullmeter-Movie_Hangover-1",
@@ -489,7 +489,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Из Вегаса в Бангкок || Мальчишник в Вегасе",
       nameEn: "The Hangover Part II",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456240602?t=4h32m20s"],
       player: ["vk", "456240602", "7c18cec55ac1020e", "4h32m20s"],
       id: "Fullmeter-Movie_Hangover-2",
@@ -499,7 +499,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Мальчишник: Часть 3 || Мальчишник в Вегасе",
       nameEn: "The Hangover Part III",
-      donutTerms: "donut-lvl-3",
+      donutTerms: "donut-lvl-2",
       titleLink: ["vk", "456240774?t=1m40s"],
       player: ["vk", "456240774", "c626439342e2245f", "0h1m40s"],
       id: "Fullmeter-Movie_Hangover-3",
@@ -826,7 +826,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Шан-Чи и легенда десяти колец || Марвел",
       nameEn: "Shang-Chi and the Legend of the Ten Rings || Marvel",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456240203"],
       player: ["vk", "456240203", "15d398926a7c592d", "0h0m0s"],
       id: "Fullmeter-Movie_MCU-Shang-Chi",
@@ -836,7 +836,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Доктор Стрэндж 2: В мультивселенной безумия || Марвел",
       nameEn: "Doctor Strange in the Multiverse of Madness || Marvel",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456239881?t=3h13m50s"],
       player: ["vk", "456239881", "d6dc531ef731f750", "3h13m50s"],
       id: "Fullmeter-Movie_MCU-Doctor Strange-2",
@@ -855,7 +855,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Тор 4: Любовь и гром || Марвел",
       nameEn: "Thor: Love and Thunder || Marvel",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456240030?t=3h54m47s"],
       player: ["vk", "456240030", "a0b2d771f6e12e57", "3h54m47s"],
       id: "Fullmeter-Movie_MCU-Thor-4",
@@ -865,7 +865,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Стражи Галактики 3 || Марвел",
       nameEn: "Guardians of the Galaxy Vol.3 || Marvel",
-      donutTerms: "donut-lvl-3",
+      donutTerms: "donut-lvl-2",
       titleLink: ["vk", "456241122?t=10m53s"],
       player: ["vk", "456241122", "28489b6cdf279e83", "0h10m53s"],
       id: "Fullmeter-Movie_MCU-Guardians-of-the-Galaxy-3",
@@ -959,7 +959,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Последняя битва || Марвел Люди-Икс",
       nameEn: "The Last Stand || Marvel X-Men",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456239742?t=5m0s"],
       player: ["vk", "456239742", "762c84b1aaa0f835", "0h5m0s"],
       id: "Fullmeter-Movie_Marvel-X-Men-The-Last-Stand",
@@ -969,7 +969,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Росомаха: Бессмертный || Марвел Люди-Икс",
       nameEn: "The Wolverine || Marvel X-Men",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456239763?t=3m4s"],
       player: ["vk", "456239763", "246ba706470d801d", "0h3m4s"],
       id: "Fullmeter-Movie_Marvel-X-Men-The-Wolverine",
@@ -979,7 +979,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Дни минувшего будущего || Марвел Люди-Икс",
       nameEn: "Days of Future Past || Marvel X-Men",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456239799?t=5h7m32s"],
       player: ["vk", "456239799", "b842a69bb9a32412", "5h7m32s"],
       id: "Fullmeter-Movie_Marvel-X-Men-Days-of-Future-Past",
@@ -989,7 +989,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Логан || Марвел Люди-Икс",
       nameEn: "Logan || Marvel X-Men",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456239902?t=9h43m48s"],
       player: ["vk", "456239902", "98c577288702a835", "9h43m48s"],
       id: "Fullmeter-Movie_Marvel-X-Men-Logan",
@@ -999,7 +999,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Дэдпул 2 || Марвел Люди-Икс",
       nameEn: "Deadpool 2 || Marvel X-Men",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456239930?t=15h48m50s"],
       player: ["vk", "456239930", "ecf10096588f7c42", "15h48m50s"],
       id: "Fullmeter-Movie_Marvel-X-Men-Deadpool-2",
@@ -1019,7 +1019,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Матрица",
       nameEn: "The Matrix",
-      donutTerms: "donut-lvl-3",
+      donutTerms: "donut-lvl-2",
       titleLink: ["vk", "456241643?t=6h36m16s"],
       player: ["vk", "456241643", "7397e8c9becf0498", "6h36m16s"],
       id: "Fullmeter-Movie_The-Matrix-1",
@@ -1029,7 +1029,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Перезагрузка || Матрица",
       nameEn: "Reloaded || The Matrix",
-      donutTerms: "donut-lvl-3",
+      donutTerms: "donut-lvl-2",
       titleLink: ["vk", "456241645?t=13m3s"],
       player: ["vk", "456241645", "fb4d44fb6cd8d8b8", "0h13m3s"],
       id: "Fullmeter-Movie_The-Matrix-2",
@@ -1039,7 +1039,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Революция || Матрица",
       nameEn: "Revolutions || The Matrix",
-      donutTerms: "donut-lvl-3",
+      donutTerms: "donut-lvl-2",
       titleLink: ["vk", "456241659?t=10m35s"],
       player: ["vk", "456241659", "d94cb7d1be6bd988", "0h10m35s"],
       id: "Fullmeter-Movie_The-Matrix-3",
@@ -1051,7 +1051,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Назад в будущее",
       nameEn: "Back to the Future Part I",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456240093?t=2h55m16s"],
       player: ["vk", "456240093", "ea918bc58207d942", "2h55m16s"],
       id: "Fullmeter-Movie_Back-to-the-Future-1",
@@ -1061,7 +1061,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Назад в будущее 2",
       nameEn: "Back to the Future Part II",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456240240?t=2h49m43s"],
       player: ["vk", "456240240", "eacebe3d4870083f", "2h49m43s"],
       id: "Fullmeter-Movie_Back-to-the-Future-2",
@@ -1071,7 +1071,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Назад в будущее 3",
       nameEn: "Back to the Future Part III",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456240539"],
       player: ["vk", "456240539", "9257eb12de964500", "0h0m0s"],
       id: "Fullmeter-Movie_Back-to-the-Future-3",
@@ -1155,7 +1155,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Игра на выживание || Пила",
       nameEn: "Saw",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456240016?t=8h11m0s"],
       player: ["vk", "456240016", "58ddbf51615f3308", "8h11m0s"],
       id: "Fullmeter-Movie_Saw-1",
@@ -1165,7 +1165,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Пила 2",
       nameEn: "Saw II",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456240019?t=4h50m45s"],
       player: ["vk", "456240019", "ad7c74fc3c916d36", "4h50m45s"],
       id: "Fullmeter-Movie_Saw-2",
@@ -1185,7 +1185,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Пипец",
       nameEn: "Kick-Ass",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456240721?t=5h42m"],
       player: ["vk", "456240721", "4b7d37ff3a9769d2", "5h42m0s"],
       id: "Fullmeter-Movie_Kick-Ass-1",
@@ -1195,7 +1195,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Пипец 2",
       nameEn: "Kick-Ass 2",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456240890?t=12m16s"],
       player: ["vk", "456240890", "8620006bb9d7e112", "0h12m16s"],
       id: "Fullmeter-Movie_Kick-Ass-2",
@@ -1207,7 +1207,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Проклятие Чёрной жемчужины || Пираты Карибского моря",
       nameEn: "The Curse of the Black Pearl || Pirates of the Caribbean",
-      donutTerms: "donut-lvl-3",
+      donutTerms: "donut-lvl-2",
       titleLink: ["vk", "456240751?t=4s"],
       player: ["vk", "456240751", "2dde7f413250a064", "0h0m4s"],
       id: "Fullmeter-Movie_Pirates-of-Caribbean-1",
@@ -1217,7 +1217,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Сундук мертвеца || Пираты Карибского моря",
       nameEn: "Dead Man’s Chest || Pirates of the Caribbean",
-      donutTerms: "donut-lvl-3",
+      donutTerms: "donut-lvl-2",
       titleLink: ["vk", "456240764"],
       player: ["vk", "456240764", "a3e4af3f66453c54", "0h0m0s"],
       id: "Fullmeter-Movie_Pirates-of-Caribbean-2",
@@ -1227,7 +1227,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "На краю света || Пираты Карибского моря",
       nameEn: "At World’s End || Pirates of the Caribbean",
-      donutTerms: "donut-lvl-3",
+      donutTerms: "donut-lvl-2",
       titleLink: ["vk", "456240765"],
       player: ["vk", "456240765", "387c20277dc985f9", "0h0m0s"],
       id: "Fullmeter-Movie_Pirates-of-Caribbean-3",
@@ -1237,7 +1237,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "На странных берегах || Пираты Карибского моря",
       nameEn: "On Stranger Tides || Pirates of the Caribbean",
-      donutTerms: "donut-lvl-3",
+      donutTerms: "donut-lvl-2",
       titleLink: ["vk", "456241448?t=12m22s"],
       player: ["vk", "456241448", "1b70223d924f7245", "0h12m22s"],
       id: "Fullmeter-Movie_Pirates-of-Caribbean-4",
@@ -1247,7 +1247,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Мертвецы не рассказывают сказки || Пираты Карибского моря",
       nameEn: "Dead Men Tell No Tales || Pirates of the Caribbean",
-      donutTerms: "donut-lvl-3",
+      donutTerms: "donut-lvl-2",
       titleLink: ["vk", "456241680?t=11m57s"],
       player: ["vk", "456241680", "f4e849c80268454a", "0h11m57s"],
       id: "Fullmeter-Movie_Pirates-of-Caribbean-5",
@@ -1321,7 +1321,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Затмение || Сумерки",
       nameEn: "Eclipse || Twilight",
-      donutTerms: "donut-lvl-3",
+      donutTerms: "donut-lvl-2",
       titleLink: ["vk", "456241272"],
       player: ["vk", "456241272", "f9f19282627960fa", "0h0m0s"],
       id: "Fullmeter-Movie_Twilight-Saga-3",
@@ -1349,7 +1349,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Такси",
       nameEn: "Taxi",
-      donutTerms: "donut-lvl-3",
+      donutTerms: "donut-lvl-2",
       titleLink: ["vk", "456241433?t=24m25s"],
       player: ["vk", "456241433", "7b32762b8bc55d0e", "0h24m25s"],
       id: "Fullmeter-Movie_Taxi-1",
@@ -1359,7 +1359,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Такси 2",
       nameEn: "Taxi 2",
-      donutTerms: "donut-lvl-3",
+      donutTerms: "donut-lvl-2",
       titleLink: ["vk", "456241439?t=4h19m16s"],
       player: ["vk", "456241439", "bb8e891e4662b26d", "4h19m16s"],
       id: "Fullmeter-Movie_Taxi-2",
@@ -1369,7 +1369,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Такси 3",
       nameEn: "Taxi 3",
-      donutTerms: "donut-lvl-3",
+      donutTerms: "donut-lvl-2",
       titleLink: ["vk", "456241449?t=14m19s"],
       player: ["vk", "456241449", "618a03aa86234003", "0h14m19s"],
       id: "Fullmeter-Movie_Taxi-3",
@@ -1432,7 +1432,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Последний рыцарь || Трансформеры",
       nameEn: "The Last Knight || Transformers",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456239943?t=2h52m36s"],
       player: ["vk", "456239943", "a213ccef1d734f77", "2h52m36s"],
       id: "Fullmeter-Movie_Transformers-4",
@@ -1442,7 +1442,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Эпоха истребления || Трансформеры",
       nameEn: "Age of Extinction || Transformers",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456239953?t=2h18m41s"],
       player: ["vk", "456239953", "43872b6ec4f482a0", "2h18m41s"],
       id: "Fullmeter-Movie_Transformers-5",
@@ -1454,7 +1454,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Убить Билла",
       nameEn: "Kill Bill: Vol. 1",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456239790?t=2h38m30s"],
       player: ["vk", "456239790", "c58706e0fdd3612c", "2h38m30s"],
       id: "Fullmeter-Movie_Kill-Bill-1",
@@ -1464,7 +1464,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Убить Билла 2",
       nameEn: "Kill Bill: Vol. 2",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456239800?t=4h9m30s"],
       player: ["vk", "456239800", "e50f52684e4cf6bc", "4h9m30s"],
       id: "Fullmeter-Movie_Kill-Bill-2",
@@ -1568,7 +1568,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Джокер",
       nameEn: "Joker",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456239953?t=11h34m20s"],
       player: ["vk", "456239953", "43872b6ec4f482a0", "11h34m20s"],
       id: "Fullmeter-Movie_DC-Comics-Joker",
@@ -1591,7 +1591,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Тёмный рыцарь",
       nameEn: "The Dark Knight",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456240728?t=2h2m30s"],
       player: ["vk", "456240728", "ef157d74f1bceea2", "2h2m30s"],
       id: "Fullmeter-Movie_DC-Comics-Dark-Knight-Rises",
@@ -1613,7 +1613,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Форсаж",
       nameEn: "The Fast and the Furious",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456240682?t=20m10s"],
       player: ["vk", "456240682", "a10f8a811ab681ce", "0h20m10s"],
       id: "Fullmeter-Movie_Fast-and-Furious-",
@@ -1623,7 +1623,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Двойной форсаж",
       nameEn: "2 Fast 2 Furious",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456240682?t=20m10s"],
       player: ["vk", "456240682", "a10f8a811ab681ce", "0h20m10s"],
       id: "Fullmeter-Movie_Fast-and-Furious-",
@@ -1633,7 +1633,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Тройной форсаж: Токийский дрифт",
       nameEn: "The Fast and the Furious: Tokyo Drift",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456240740?t=12m10s"],
       player: ["vk", "456240740", "67041f79fad553b1", "0h12m10s"],
       id: "Fullmeter-Movie_Fast-and-Furious-",
@@ -1643,7 +1643,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Форсаж 4",
       nameEn: "Fast & Furious",
-      donutTerms: "donut-lvl-3",
+      donutTerms: "donut-lvl-2",
       titleLink: ["vk", "456240808?t=12m15s"],
       player: ["vk", "456240808", "b95b6a3d0e51ed38", "0h12m15s"],
       id: "Fullmeter-Movie_Fast-and-Furious-",
@@ -1653,7 +1653,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Форсаж 5",
       nameEn: "Fast Five",
-      donutTerms: "donut-lvl-3",
+      donutTerms: "donut-lvl-2",
       titleLink: ["vk", "456240858?t=18m40s"],
       player: ["vk", "456240858", "cf943b681c299941", "0h18m40s"],
       id: "Fullmeter-Movie_Fast-and-Furious-",
@@ -1663,7 +1663,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Форсаж 6",
       nameEn: "Furious 6",
-      donutTerms: "donut-lvl-3",
+      donutTerms: "donut-lvl-2",
       titleLink: ["vk", "456240858?t=2h53m40s"],
       player: ["vk", "456240858", "cf943b681c299941", "2h53m40s"],
       id: "Fullmeter-Movie_Fast-and-Furious-",
@@ -1673,7 +1673,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Форсаж 7",
       nameEn: "Fast & Furious 7",
-      donutTerms: "donut-lvl-3",
+      donutTerms: "donut-lvl-2",
       titleLink: ["vk", "456241174?t=12m22s"],
       player: ["vk", "456241174", "e883044157c95cbd", "0h12m22s"],
       id: "Fullmeter-Movie_Fast-and-Furious-",
@@ -1685,7 +1685,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Добыча || Хищник",
       nameEn: "Prey || Predator",
-      donutTerms: "donut-lvl-3",
+      donutTerms: "donut-lvl-2",
       titleLink: ["vk", "456241147?t=12m48s"],
       player: ["vk", "456241147", "95fb6bf37033d398", "0h12m48s"],
       id: "Fullmeter-Movie_Predator-0",
@@ -1695,7 +1695,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Хищник",
       nameEn: "Predator",
-      donutTerms: "donut-lvl-3",
+      donutTerms: "donut-lvl-2",
       titleLink: ["vk", "456241264?t=11m5s"],
       player: ["vk", "456241264", "7948b4b971b514ef", "0h11m5s"],
       id: "Fullmeter-Movie_Predator-1",
@@ -1705,7 +1705,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Хищник 2",
       nameEn: "Predator 2",
-      donutTerms: "donut-lvl-3",
+      donutTerms: "donut-lvl-2",
       titleLink: ["vk", "456241485?t=6h12m44s"],
       player: ["vk", "456241485", "0cf520499223d9c7", "6h12m44s"],
       id: "Fullmeter-Movie_Predator-2",
@@ -1715,7 +1715,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Хищники",
       nameEn: "Predators",
-      donutTerms: "donut-lvl-3",
+      donutTerms: "donut-lvl-2",
       titleLink: ["vk", "456241491?t=12m15s"],
       player: ["vk", "456241491", "64469bb29547d19a", "0h12m15s"],
       id: "Fullmeter-Movie_Predator-3",
@@ -1769,7 +1769,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Лев, колдунья и волшебный шкаф || Хроники Нарнии",
       nameEn: "The Lion, The Witch and The Wardrobe || The Chronicles of Narnia",
-      donutTerms: "donut-lvl-3",
+      donutTerms: "donut-lvl-2",
       titleLink: ["vk", "456241658?t=12m9s"],
       player: ["vk", "456241658", "b00248574c93ab14", "0h12m9s"],
       id: "Fullmeter-Movie_Chronicles-of-Narnia-1",
@@ -1779,7 +1779,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Принц Каспиан || Хроники Нарнии",
       nameEn: "Prince Caspian || The Chronicles of Narnia",
-      donutTerms: "donut-lvl-3",
+      donutTerms: "donut-lvl-2",
       titleLink: ["vk", "456241674?t=3h31m17s"],
       player: ["vk", "456241674", "1252447bf2bf6b5b", "3h31m17s"],
       id: "Fullmeter-Movie_Chronicles-of-Narnia-2",
@@ -1789,7 +1789,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Покоритель Зари || Хроники Нарнии",
       nameEn: "The Voyage of the Dawn Treader || The Chronicles of Narnia",
-      donutTerms: "donut-lvl-3",
+      donutTerms: "donut-lvl-2",
       titleLink: ["vk", "456241692?t=4h21m45s"],
       player: ["vk", "456241692", "d1c499f7925b8357", "4h21m45s"],
       id: "Fullmeter-Movie_Chronicles-of-Narnia-3",
@@ -1833,7 +1833,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Хэллоуин",
       nameEn: "Halloween",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456239921?t=11m50s"],
       player: ["vk", "456239921", "905c650308d4c3a2", "0h11m50s"],
       id: "Fullmeter-Movie_Halloween-1",
@@ -1843,7 +1843,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Хэллоуин начинается",
       nameEn: "Halloween",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456239921?t=2h22m15s"],
       player: ["vk", "456239921", "905c650308d4c3a2", "2h22m15s"],
       id: "Fullmeter-Movie_Halloween-2",
@@ -1853,7 +1853,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Хэллоуин убивает",
       nameEn: "Halloween Kills",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456239921?t=4h34m4s"],
       player: ["vk", "456239921", "905c650308d4c3a2", "4h34m4s"],
       id: "Fullmeter-Movie_Halloween-3",
@@ -1863,7 +1863,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Хэллоуин заканчивается",
       nameEn: "Halloween Ends",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456239930?t=18h24m0s"],
       player: ["vk", "456239930", "ecf10096588f7c42", "18h24m0s"],
       id: "Fullmeter-Movie_Halloween-4",
@@ -1875,7 +1875,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Час пик",
       nameEn: "Rush Hour",
-      donutTerms: "donut-lvl-3",
+      donutTerms: "donut-lvl-2",
       titleLink: ["vk", "456241433?t=2h19m30s"],
       player: ["vk", "456241433", "7b32762b8bc55d0e", "2h19m30s"],
       id: "Fullmeter-Movie_Rush-Hour-1",
@@ -1885,7 +1885,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Час пик 2",
       nameEn: "Rush Hour 2",
-      donutTerms: "donut-lvl-3",
+      donutTerms: "donut-lvl-2",
       titleLink: ["vk", "456241439?t=2h19m35s"],
       player: ["vk", "456241439", "bb8e891e4662b26d", "2h19m35s"],
       id: "Fullmeter-Movie_Rush-Hour-2",
@@ -1897,7 +1897,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Прометей || Чужой",
       nameEn: "Prometheus || Alien",
-      donutTerms: "donut-lvl-3",
+      donutTerms: "donut-lvl-2",
       titleLink: ["vk", "456241125?t=13m32s"],
       player: ["vk", "456241125", "5ed86fa8099821f6", "0h13m32s"],
       id: "Fullmeter-Movie_Alien-1",
@@ -1907,7 +1907,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Завет || Чужой",
       nameEn: "Covenant || Alien",
-      donutTerms: "donut-lvl-3",
+      donutTerms: "donut-lvl-2",
       titleLink: ["vk", "456241126?t=14m1s"],
       player: ["vk", "456241126", "4852bb66112887b4", "0h14m1s"],
       id: "Fullmeter-Movie_Alien-2",
@@ -1917,7 +1917,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Чужой",
       nameEn: "Alien",
-      donutTerms: "donut-lvl-3",
+      donutTerms: "donut-lvl-2",
       titleLink: ["vk", "456241244?t=2h45m25s"],
       player: ["vk", "456241244", "d832af65f898f08c", "2h45m25s"],
       id: "Fullmeter-Movie_Alien-3",
@@ -1927,7 +1927,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Чужие",
       nameEn: "Aliens",
-      donutTerms: "donut-lvl-3",
+      donutTerms: "donut-lvl-2",
       titleLink: ["vk", "456241642?t=4h52m30s"],
       player: ["vk", "456241642", "cd6f04e93e90cee0", "4h52m30s"],
       id: "Fullmeter-Movie_Alien-4",
@@ -1937,7 +1937,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Чужой 3",
       nameEn: "Alien³",
-      donutTerms: "donut-lvl-3",
+      donutTerms: "donut-lvl-2",
       titleLink: ["vk", "456241645?t=3h6m32s"],
       player: ["vk", "456241645", "fb4d44fb6cd8d8b8", "3h6m32s"],
       id: "Fullmeter-Movie_Alien-5",
@@ -1947,7 +1947,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Чужой 4",
       nameEn: "Resurrection || Alien",
-      donutTerms: "donut-lvl-3",
+      donutTerms: "donut-lvl-2",
       titleLink: ["vk", "456241653?t=10m15s"],
       player: ["vk", "456241653", "5282e17130576f67", "0h10m15s"],
       id: "Fullmeter-Movie_Alien-6",
@@ -1975,7 +1975,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Шерлок Холмс",
       nameEn: "Sherlock Holmes",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456239925?t=7h49m45s"],
       player: ["vk", "456239925", "0119d4fbd7823672", "7h49m45s"],
       id: "Fullmeter-Movie_Sherlock-Holmes-1",
@@ -1985,7 +1985,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Игра теней || Шерлок Холмс",
       nameEn: "A Game of Shadows || Sherlock Holmes",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456239925?t=7h49m45s"],
       player: ["vk", "456239925", "0119d4fbd7823672", "7h49m45s"],
       id: "Fullmeter-Movie_Sherlock-Holmes-2",
@@ -1997,7 +1997,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Розыск домашних животных || Эйс Вентура",
       nameEn: "Pet Detective",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456240685?t=0s"],
       player: ["vk", "456240685", "c7d82bbf58ac0ed2", "0h0m0s"],
       id: "Fullmeter-Movie_Ace-Ventura-1",
@@ -2007,7 +2007,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Когда зовёт природа || Эйс Вентура",
       nameEn: "When Nature Calls || Ace Ventura",
-      donutTerms: "donut-lvl-2",
+      donutTerms: "donut-lvl-1",
       titleLink: ["vk", "456240685?t=0s"],
       player: ["vk", "456240685", "c7d82bbf58ac0ed2", "0h0m0s"],
       id: "Fullmeter-Movie_Ace-Ventura-2",

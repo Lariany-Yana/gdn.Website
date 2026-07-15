@@ -2,7 +2,7 @@ const fullmeterCartoon = [
   {
     nameRu: "Анастасия",
     nameEn: "Anastasia",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240415?t=6h21m35s"],
     player: ["vk", "456240415", "eb79af2343fc2a0f", "6h21m35s"],
     id: "Fullmeter-Cartoon_Anastasia",
@@ -12,7 +12,7 @@ const fullmeterCartoon = [
   {
     nameRu: "Атлантида: Затерянный мир",
     nameEn: "Atlantis: The Lost Empire",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240165?t=6h32m20s"],
     player: ["vk", "456240165", "012d5ccf17bcd5ac", "6h32m20s"],
     id: "Fullmeter-Cartoon_Atlantis-The-Lost-Empire",
@@ -22,7 +22,7 @@ const fullmeterCartoon = [
   {
     nameRu: "Беовульф",
     nameEn: "Beowulf",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456240810?t=7h50m50s"],
     player: ["vk", "456240810", "5b29e5099d28bc1e", "7h50m50s"],
     id: "Fullmeter-Cartoon_Beowulf",
@@ -42,7 +42,7 @@ const fullmeterCartoon = [
   {
     nameRu: "Братец медвежонок",
     nameEn: "Brother Bear",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241431?t=8h31m39s"],
     player: ["vk", "456241431", "0fea669dc0611a5a", "8h31m39s"],
     id: "Fullmeter-Cartoon_Brother-Bear",
@@ -52,7 +52,7 @@ const fullmeterCartoon = [
   {
     nameRu: "Бэтмен&#1: Убийственная шутка",
     nameEn: "Batman: The Killing Joke",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241591?t=12m46s"],
     player: ["vk", "456241591", "fc93feed2598e849", "0h12m46s"],
     id: "Fullmeter-Cartoon_Batman-Killing-Joke",
@@ -62,7 +62,7 @@ const fullmeterCartoon = [
   {
     nameRu: "Бэтмен&#2: Под красным колпаком",
     nameEn: "Batman: Under the Red Hood",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241598?t=18m53s"],
     player: ["vk", "456241598", "2896936f59079912", "0h18m53s"],
     id: "Fullmeter-Cartoon_Batman-Under-Red-Hood",
@@ -72,7 +72,7 @@ const fullmeterCartoon = [
   {
     nameRu: "Вверх",
     nameEn: "Up",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240415?t=4h24m17s"],
     player: ["vk", "456240415", "eb79af2343fc2a0f", "4h24m17s"],
     id: "Fullmeter-Cartoon_Up",
@@ -98,7 +98,7 @@ const fullmeterCartoon = [
   {
     nameRu: "Горбун из Нотр-Дама",
     nameEn: "The Hunchback of Notre Dame",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240105?t=11m50s"],
     player: ["vk", "456240105", "acfe581f31b39fe0", "0h11m50s"],
     id: "Fullmeter-Cartoon_Hunchback-of-Notre-Dame",
@@ -108,7 +108,7 @@ const fullmeterCartoon = [
   {
     nameRu: "Город героев",
     nameEn: "Big Hero 6",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240415?t=2h22m2s"],
     player: ["vk", "456240415", "eb79af2343fc2a0f", "2h22m2s"],
     id: "Fullmeter-Cartoon_Big-Hero-6",
@@ -118,7 +118,7 @@ const fullmeterCartoon = [
   {
     nameRu: "Девочки из Эквестрии",
     nameEn: "My Little Pony: Equestria Girls",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241714?t=12m30s"],
     player: ["vk", "456241714", "554da5bad90bff92", "0h12m30s"],
     id: "Fullmeter-Equestria-Girls",
@@ -127,7 +127,7 @@ const fullmeterCartoon = [
   },
   {
     nameRu: "Дети против волшебников",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241496?t=4h31m34s"],
     player: ["vk", "456241496", "3eebf88a50277982", "4h31m34s"],
     id: "Fullmeter-Cartoon_Kids-vs-Wizards",
@@ -137,7 +137,7 @@ const fullmeterCartoon = [
   {
     nameRu: "Дикий робот",
     nameEn: "The Wild Robot",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241332?t=4h19m16s"],
     player: ["vk", "456241332", "feeb74c6d84346fb", "4h19m16s"],
     id: "Fullmeter-Cartoon_The-Wild-Robot",
@@ -147,7 +147,7 @@ const fullmeterCartoon = [
   {
     nameRu: "Душа",
     nameEn: "Soul",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241449?t=2h11m6s"],
     player: ["vk", "456241449", "618a03aa86234003", "2h11m6s"],
     id: "Fullmeter-Cartoon_Soul",
@@ -165,7 +165,7 @@ const fullmeterCartoon = [
   {
     nameRu: "Зверополис",
     nameEn: "Zootopia",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240165?t=4h23m46s"],
     player: ["vk", "456240165", "012d5ccf17bcd5ac", "4h23m46s"],
     id: "Fullmeter-Cartoon_Zootopia",
@@ -190,7 +190,7 @@ const fullmeterCartoon = [
   },
   {
     nameRu: "Карлик Нос",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240713?t=2h11m30s"],
     player: ["vk", "456240713", "574a818440ae3dc4", "2h11m30s"],
     id: "Fullmeter-Cartoon_Midget-Nose",
@@ -200,7 +200,7 @@ const fullmeterCartoon = [
   {
     nameRu: "Кейпоп-охотницы на демонов",
     nameEn: "KPop Demon Hunters",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241644?t=12m3s"],
     player: ["vk", "456241644", "428534cc68bf4b04", "0h12m3s"],
     id: "Fullmeter-Cartoon_KPop-Demon-Hunters",
@@ -210,7 +210,7 @@ const fullmeterCartoon = [
   {
     nameRu: "Клаус",
     nameEn: "Klaus",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456240840?t=1h56m50s"],
     player: ["vk", "456240840", "59add21ec1580575", "1h56m50s"],
     id: "Fullmeter-Cartoon_Klaus",
@@ -218,9 +218,18 @@ const fullmeterCartoon = [
     cardType: "fullmeter-Cartoon",
   },
   {
+    nameRu: "Князь Владимир",
+    donutTerms: "donut-lvl-1",
+    titleLink: ["vk", "456240690?t=0h0m0s"],
+    player: ["vk", "456240690", "4b7d283fd4cbf0a2", "0h0m0s"],
+    id: "Fullmeter-Cartoon_The-Prince-Vladimir",
+    posterImage: "https://static.tildacdn.com/tild6166-6230-4238-b238-323639316132/img.webp",
+    cardType: "fullmeter-Cartoon",
+  },
+  {
     nameRu: "Коралина в Стране Кошмаров",
     nameEn: "Coraline",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241105?t=3h40m10s"],
     player: ["vk", "456241105", "62d9674e4e15101c", "3h40m10s"],
     id: "Fullmeter-Cartoon_Coraline",
@@ -238,7 +247,7 @@ const fullmeterCartoon = [
   {
     nameRu: "Кошмар перед Рождеством",
     nameEn: "The Nightmare Before Christmas",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456240840?t=13m41s"],
     player: ["vk", "456240840", "59add21ec1580575", "0h13m41s"],
     id: "Fullmeter-Cartoon_Nightmare-Before-Christmas",
@@ -280,7 +289,7 @@ const fullmeterCartoon = [
   {
     nameRu: "Лило и Стич",
     nameEn: "Lilo & Stitch",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241578?t=2h41m27s"],
     player: ["vk", "456241578", "e6a9d7cf5f4f9f29", "2h41m27s"],
     id: "Fullmeter-Cartoon_Lilo-and-Stitch",
@@ -290,7 +299,7 @@ const fullmeterCartoon = [
   {
     nameRu: "Лови волну!",
     nameEn: "Surf’s Up",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241702?t=2h45m22s"],
     player: ["vk", "456241702", "9fc0118864ecc225", "2h45m22s"],
     id: "Fullmeter-Cartoon_Surf-Up",
@@ -300,7 +309,7 @@ const fullmeterCartoon = [
   {
     nameRu: "Лоракс",
     nameEn: "The Lorax",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241536?t=2h5m30s"],
     player: ["vk", "456241536", "63b8d39d93647d72", "2h5m30s"],
     id: "Fullmeter-Cartoon_The-Lorax",
@@ -326,7 +335,7 @@ const fullmeterCartoon = [
   {
     nameRu: "Мегамозг",
     nameEn: "Megamind",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456239971?t=13h53m59s"],
     player: ["vk", "456239971", "8ef200c9e3d9fa03", "13h53m59s"],
     id: "Fullmeter-Cartoon_Megamind",
@@ -362,7 +371,7 @@ const fullmeterCartoon = [
   {
     nameRu: "Полный расколбас",
     nameEn: "Sausage Party",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240789?t=3h50s"],
     player: ["vk", "456240789", "17890627dca95f36", "3h50s"],
     id: "Fullmeter-Cartoon_Sausage-Party",
@@ -381,7 +390,7 @@ const fullmeterCartoon = [
   {
     nameRu: "Принцесса и лягушка",
     nameEn: "The Princess and the Frog",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240664?t=11m"],
     player: ["vk", "456240664", "308ec80beefeabb4", "0h11m0s"],
     id: "Fullmeter-Cartoon_Princess-and-Frog",
@@ -399,7 +408,7 @@ const fullmeterCartoon = [
   {
     nameRu: "Ранго",
     nameEn: "Rango",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456239993?t=3h30s"],
     player: ["vk", "456239993", "3c567e82915b7a9a", "3h30s"],
     id: "Fullmeter-Cartoon_Rango",
@@ -409,7 +418,7 @@ const fullmeterCartoon = [
   {
     nameRu: "Рапунцель: Запутанная история",
     nameEn: "Tangled",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240011?t=4h23m45s"],
     player: ["vk", "456240011", "bbc28b75e59c9d7c", "4h23m45s"],
     id: "Fullmeter-Cartoon_Tangled",
@@ -419,7 +428,7 @@ const fullmeterCartoon = [
   {
     nameRu: "Рио",
     nameEn: "Rio",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240076?t=9h12m50s"],
     player: ["vk", "456240076", "335b264da65928b8", "9h12m50s"],
     id: "Fullmeter-Cartoon_Rio",
@@ -439,7 +448,7 @@ const fullmeterCartoon = [
   {
     nameRu: "Симпсоны в кино",
     nameEn: "The Simpsons Movie",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456239971?t=15h46m52s"],
     player: ["vk", "456239971", "8ef200c9e3d9fa03", "15h46m52s"],
     id: "Fullmeter-Cartoon_Simpsons-Movie",
@@ -449,7 +458,7 @@ const fullmeterCartoon = [
   {
     nameRu: "Синдбад: Легенда семи морей",
     nameEn: "Sinbad: Legend of the Seven Seas",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241406?t=2h6m42s"],
     player: ["vk", "456241406", "eb3be1f56ddc0072", "2h6m42s"],
     id: "Fullmeter-Cartoon_Legend-of-Seven-Seas",
@@ -458,7 +467,7 @@ const fullmeterCartoon = [
   },
   {
     nameRu: "Смешарики: Начало",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241643?t=12m7s"],
     player: ["vk", "456241643", "7397e8c9becf0498", "0h12m7s"],
     id: "Fullmeter-Cartoon_Kikoriki-Beginning",
@@ -468,7 +477,7 @@ const fullmeterCartoon = [
   {
     nameRu: "Спирит: Душа прерий",
     nameEn: "Spirit: Stallion of the Cimarron",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456240956?t=11m38s"],
     player: ["vk", "456240956", "c8d8917ae26fd71f", "0h11m38s"],
     id: "Fullmeter-Cartoon_Stallion-of-Cimarron",
@@ -478,7 +487,7 @@ const fullmeterCartoon = [
   {
     nameRu: "Суперсемейка",
     nameEn: "The Incredibles",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456239966?t=6h17m19s"],
     player: ["vk", "456239966", "2c5c014d64cf1ba1", "6h17m19s"],
     id: "Fullmeter-Cartoon_The-Incredibles",
@@ -520,7 +529,7 @@ const fullmeterCartoon = [
   {
     nameRu: "Турок: Затерянный мир",
     nameEn: "Turok: Son of Stone",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241114?t=2h33m4s"],
     player: ["vk", "456241114", "b64d2d698d918071", "2h33m4s"],
     id: "Fullmeter-Cartoon_Turok-Son-of-Stone",
@@ -530,7 +539,7 @@ const fullmeterCartoon = [
   {
     nameRu: "Убить Боба",
     nameEn: "Killer Bean Forever",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240427?t=4h3m31s"],
     player: ["vk", "456240427", "bb402566bb73d6e1", "4h3m31s"],
     id: "Fullmeter-Cartoon_Killer-Bean-Forever",
@@ -540,7 +549,7 @@ const fullmeterCartoon = [
   {
     nameRu: "Фландрийский пёс",
     nameEn: "Flanders no Inu",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456239941?t=4h1m47s"],
     player: ["vk", "456239941", "9e93af22621e1653", "4h1m47s"],
     id: "Fullmeter-Cartoon_Flanders-no-Inu",
@@ -550,7 +559,7 @@ const fullmeterCartoon = [
   {
     nameRu: "Холодное сердце",
     nameEn: "Frozen",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240668?t=5m10s"],
     player: ["vk", "456240668", "26781c5cf0d7c627", "0h5m10s"],
     id: "Fullmeter-Cartoon_Frozen",
@@ -560,7 +569,7 @@ const fullmeterCartoon = [
   {
     nameRu: "Храбрая сердцем",
     nameEn: "Brave",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456240917?t=1h29m46s"],
     player: ["vk", "456240917", "f1d721e6e0099100", "1h29m46s"],
     id: "Fullmeter-Cartoon_Brave",
@@ -570,7 +579,7 @@ const fullmeterCartoon = [
   {
     nameRu: "Хранители снов",
     nameEn: "Rise of the Guardians",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240690?t=1h35m50s"],
     player: ["vk", "456240690", "4b7d283fd4cbf0a2", "1h35m50s"],
     id: "Fullmeter-Cartoon_Rise-of-Guardians",

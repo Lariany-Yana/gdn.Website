@@ -2,7 +2,7 @@ const fullmeterMovie = [
   {
     nameRu: "1+1",
     nameEn: "Intouchables",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241147?t=2h6m36s"],
     player: ["vk", "456241147", "95fb6bf37033d398", "2h6m36s"],
     id: "Fullmeter-Movie_Intouchables",
@@ -20,7 +20,7 @@ const fullmeterMovie = [
   {
     nameRu: "12 обезьян",
     nameEn: "12 Monkeys",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240580?t=2h47m10s"],
     player: ["vk", "456240580", "e6cf7c21d466cee1", "2h47m10s"],
     id: "Fullmeter-Movie_12-Monkeys",
@@ -30,7 +30,7 @@ const fullmeterMovie = [
   {
     nameRu: "12 разгневанных мужчин",
     nameEn: "12 Angry Men",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240741?t=15m10s"],
     player: ["vk", "456240741", "ce8e0e5f3d313dda", "0h15m10s"],
     id: "Fullmeter-Movie_12-Angry-Men",
@@ -55,7 +55,7 @@ const fullmeterMovie = [
   },
   {
     nameRu: "1408",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456239945?t=6h27m46s"],
     player: ["vk", "456239945", "9ef4c48613eb4368", "6h27m46s"],
     id: "Fullmeter-Movie_1408",
@@ -64,7 +64,7 @@ const fullmeterMovie = [
   },
   {
     nameRu: "1917",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240032?t=14m35s"],
     player: ["vk", "456240032", "b28533f42b2716a4", "0h14m35s"],
     id: "Fullmeter-Movie_1917",
@@ -83,7 +83,7 @@ const fullmeterMovie = [
   },
   {
     nameRu: "2012",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240682?t=2h37m0s"],
     player: ["vk", "456240682", "a10f8a811ab681ce", "2h37m0s"],
     id: "Fullmeter-Movie_2012",
@@ -92,7 +92,7 @@ const fullmeterMovie = [
   },
   {
     nameRu: "300&#0 спартанцев",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456239940?t=12h45m0s"],
     player: ["vk", "456239940", "3e1ca75647805d98", "12h45m0s"],
     id: "Fullmeter-Movie_300",
@@ -102,7 +102,7 @@ const fullmeterMovie = [
   {
     nameRu: "500&#0 дней Саммер",
     nameEn: "(500) Days of Summer",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241214?t=2m2s"],
     player: ["vk", "456241214", "55707f953c8bb6b6", "0h2m2s"],
     id: "Fullmeter-Movie_Days-of-Summer",
@@ -148,7 +148,7 @@ const fullmeterMovie = [
   {
     nameRu: "Адвокат дьявола",
     nameEn: "The Devil’s Advocate",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456240899?t=13m31s"],
     player: ["vk", "456240899", "32759e0da242205f", "0h13m31s"],
     id: "Fullmeter-Movie_Devil-Advocate",
@@ -168,7 +168,7 @@ const fullmeterMovie = [
   {
     nameRu: "Адский ад",
     nameEn: "Bloody Hell",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240656?t=8h17m0s"],
     player: ["vk", "456240656", "912be0f8eb108476", "8h17m0s"],
     id: "Fullmeter-Movie_Bloody-Hell",
@@ -206,7 +206,7 @@ const fullmeterMovie = [
   {
     nameRu: "Анна и апокалипсис",
     nameEn: "Anna and the Apocalypse",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240738?t=3h4m20s"],
     player: ["vk", "456240738", "5ce806477bd66df1", "3h4m20s"],
     id: "Fullmeter-Movie_Anna-and-the-Apocalypse",
@@ -225,7 +225,7 @@ const fullmeterMovie = [
   {
     nameRu: "Апгрейд",
     nameEn: "Upgrade",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456239987?t=13m12s"],
     player: ["vk", "456239987", "ffb8f923d96c0828", "0h13m12s"],
     id: "Fullmeter-Movie_Upgrade",
@@ -245,7 +245,7 @@ const fullmeterMovie = [
   {
     nameRu: "Астерикс и Обеликс против Цезаря",
     nameEn: "Astérix & Obélix contre César",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240053?t=3h24m0s"],
     player: ["vk", "456240053", "47ca986a02a7f4e8", "3h24m0s"],
     id: "Fullmeter-Movie_Asterix-and-Obelix",
@@ -255,7 +255,7 @@ const fullmeterMovie = [
   {
     nameRu: "Баллада Бастера Скраггса",
     nameEn: "The Ballad of Buster Scruggs",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240294?t=4h45m21s"],
     player: ["vk", "456240294", "cef9744cc9ad6516", "4h45m21s"],
     id: "Fullmeter-Movie_Ballad-of-Buster-Scruggs",
@@ -264,7 +264,7 @@ const fullmeterMovie = [
   },
   {
     nameRu: "Баллада о солдате",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456239888?t=3h54m7s"],
     player: ["vk", "456239888", "4728b7e3d172d2fe", "3h54m7s"],
     id: "Fullmeter-Movie_Ballad-of-the-Soldier",
@@ -274,7 +274,7 @@ const fullmeterMovie = [
   {
     nameRu: "Банды Нью-Йорка",
     nameEn: "Gangs of New York",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241592?t=5h47m45s"],
     player: ["vk", "456241592", "a8eab5823e656d21", "5h47m45s"],
     id: "Fullmeter-Movie_Gangs-of-New-York",
@@ -284,7 +284,7 @@ const fullmeterMovie = [
   {
     nameRu: "Барри Линдон",
     nameEn: "Barry Lyndon",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241734?t=2h11m55s"],
     player: ["vk", "456241734", "24bd4d39b5a331fc", "2h11m55s"],
     id: "Fullmeter-Movie_Barry-Lyndon",
@@ -330,7 +330,7 @@ const fullmeterMovie = [
   {
     nameRu: "Белые люди не умеют прыгать",
     nameEn: "White Men Can’t Jump",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240031?t=4h16m44s"],
     player: ["vk", "456240031", "c639926b3d1403be", "4h16m44s"],
     id: "Fullmeter-Movie_White-Men-Cant-Jump",
@@ -340,7 +340,7 @@ const fullmeterMovie = [
   {
     nameRu: "Бесславные ублюдки",
     nameEn: "Inglourious Basterds",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456239764?t=1m33s"],
     player: ["vk", "456239764", "b8d218920d82e885", "0h1m33s"],
     id: "Fullmeter-Movie_Inglourious-Basterds",
@@ -350,7 +350,7 @@ const fullmeterMovie = [
   {
     nameRu: "Бессмертный",
     nameEn: "Sisu",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241538?t=4h33m49s"],
     player: ["vk", "456241538", "c2d60599488726ed", "4h33m49s"],
     id: "Fullmeter-Movie_Sisu",
@@ -360,7 +360,7 @@ const fullmeterMovie = [
   {
     nameRu: "Бешеные псы",
     nameEn: "Reservoir Dogs",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241512?t=14m16s"],
     player: ["vk", "456241512", "26ed8be2f839b425", "0h14m16s"],
     id: "Fullmeter-Movie_Reservoir-Dogs",
@@ -397,7 +397,7 @@ const fullmeterMovie = [
   {
     nameRu: "Блэйд",
     nameEn: "Blade",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241681?t=2h32m28s"],
     player: ["vk", "456241681", "f588a65c1122176c", "2h32m28s"],
     id: "Fullmeter-Movie_Blade",
@@ -407,7 +407,7 @@ const fullmeterMovie = [
   {
     nameRu: "Бобры-зомби",
     nameEn: "Zombeavers",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241501?t=2h9m17s"],
     player: ["vk", "456241501", "6d7281dbf42720ca", "2h9m17s"],
     id: "Fullmeter-Movie_Zombeavers",
@@ -425,7 +425,7 @@ const fullmeterMovie = [
   {
     nameRu: "Большой Лебовски",
     nameEn: "The Big Lebowski",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240031?t=6h54m41s"],
     player: ["vk", "456240031", "c639926b3d1403be", "6h54m41s"],
     id: "Fullmeter-Movie_The-Big-Lebowski",
@@ -435,7 +435,7 @@ const fullmeterMovie = [
   {
     nameRu: "Борат",
     nameEn: "Borat",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240023?t=2h32m0s"],
     player: ["vk", "456240023", "5fe2f1725e8859d8", "2h32m0s"],
     id: "Fullmeter-Movie_Borat",
@@ -445,7 +445,7 @@ const fullmeterMovie = [
   {
     nameRu: "Брюс Всемогущий",
     nameEn: "Bruce Almighty",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240633?t=3h11m38s"],
     player: ["vk", "456240633", "27932340a1518673", "3h11m38s"],
     id: "Fullmeter-Movie_Bruce-Almighty",
@@ -462,7 +462,7 @@ const fullmeterMovie = [
   {
     nameRu: "Варвар",
     nameEn: "Barbarian",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456239983?t=9h5m33s"],
     player: ["vk", "456239983", "ebe63b27a9452adb", "9h5m33s"],
     id: "Fullmeter-Movie_Barbarian",
@@ -472,7 +472,7 @@ const fullmeterMovie = [
   {
     nameRu: "Великий Гэтсби",
     nameEn: "The Great Gatsby",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241147?t=7h1m45s"],
     player: ["vk", "456241147", "95fb6bf37033d398", "7h1m45s"],
     id: "Fullmeter-Movie_Great-Gatsby",
@@ -502,7 +502,7 @@ const fullmeterMovie = [
   {
     nameRu: "Вечное сияние чистого разума",
     nameEn: "Eternal Sunshine of the Spotless Mind",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241542?t=1h11m38s"],
     player: ["vk", "456241542", "497dadd4539ecc7b", "1h11m38s"],
     id: "Fullmeter-Movie_Eternal-Sunshine",
@@ -512,7 +512,7 @@ const fullmeterMovie = [
   {
     nameRu: "Вивариум",
     nameEn: "Vivarium",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241459?t=12m30s"],
     player: ["vk", "456241459", "49eab19989cfcf83", "0h12m30s"],
     id: "Fullmeter-Movie_Vivarium",
@@ -538,7 +538,7 @@ const fullmeterMovie = [
   {
     nameRu: "Во все тяжкие: El Camino",
     nameEn: "El Camino: A Breaking Bad Movie",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456239899?t=5h21m5s"],
     player: ["vk", "456239899", "309861f85143da8e", "5h21m5s"],
     id: "Fullmeter-Movie_El-Camino",
@@ -548,7 +548,7 @@ const fullmeterMovie = [
   {
     nameRu: "Война миров",
     nameEn: "War of the Worlds",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240425?t=15m44s"],
     player: ["vk", "456240425", "e7a7e7b1f9e9d79b", "0h15m44s"],
     id: "Fullmeter-Movie_War-of-the-Worlds",
@@ -558,7 +558,7 @@ const fullmeterMovie = [
   {
     nameRu: "Война миров Z",
     nameEn: "World War Z",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241232?t=11m42s"],
     player: ["vk", "456241232", "a4106cbcfdb89844", "0h11m42s"],
     id: "Fullmeter-Movie_World-War-Z",
@@ -586,7 +586,7 @@ const fullmeterMovie = [
   {
     nameRu: "Воспоминания об убийстве",
     nameEn: "Salinui chueok",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241308?t=2h17m26s"],
     player: ["vk", "456241308", "11ccc40c2ac60919", "2h17m26s"],
     id: "Fullmeter-Movie_Salinui-chueok",
@@ -596,7 +596,7 @@ const fullmeterMovie = [
   {
     nameRu: "Восставший из ада",
     nameEn: "Hellraiser",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240427?t=13m56s"],
     player: ["vk", "456240427", "bb402566bb73d6e1", "0h13m56s"],
     id: "Fullmeter-Movie_Hellraiser",
@@ -606,7 +606,7 @@ const fullmeterMovie = [
   {
     nameRu: "В пасти безумия",
     nameEn: "In the Mouth of Madness",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241553?t=4h30m35s"],
     player: ["vk", "456241553", "70e2786f4b8ec196", "4h30m35s"],
     id: "Fullmeter-Movie_Mouth-of-Madness",
@@ -662,7 +662,7 @@ const fullmeterMovie = [
   {
     nameRu: "Всегда говори «ДА»",
     nameEn: "Yes Man",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456239983?t=11h5m38s"],
     player: ["vk", "456239983", "ebe63b27a9452adb", "11h5m38s"],
     id: "Fullmeter-Movie_Yes-Man",
@@ -680,7 +680,7 @@ const fullmeterMovie = [
   {
     nameRu: "Выход Дракона",
     nameEn: "Enter the Dragon",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456239922?t=13m46s"],
     player: ["vk", "456239922", "83f31f259f3b1dc6", "0h13m46s"],
     id: "Fullmeter-Movie_Enter-the-Dragon",
@@ -700,7 +700,7 @@ const fullmeterMovie = [
   {
     nameRu: "Гангстер",
     nameEn: "American Gangster",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241341?t=14m4s"],
     player: ["vk", "456241341", "69fdea85f4bc1dc8", "0h14m4s"],
     id: "Fullmeter-Movie_American-Gangster",
@@ -710,7 +710,7 @@ const fullmeterMovie = [
   {
     nameRu: "Гангстер, коп и дьявол",
     nameEn: "Akinjeon",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456239922?t=2h22m0s"],
     player: ["vk", "456239922", "83f31f259f3b1dc6", "2h22m0s"],
     id: "Fullmeter-Movie_Akinjeon",
@@ -720,7 +720,7 @@ const fullmeterMovie = [
   {
     nameRu: "Ганнибал: Восхождение",
     nameEn: "Hannibal Rising",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241222?t=4h22m8s"],
     player: ["vk", "456241222", "de5274fbe628db7a", "4h22m8s"],
     id: "Fullmeter-Movie_Hannibal-Rising",
@@ -738,7 +738,7 @@ const fullmeterMovie = [
   {
     nameRu: "Гладиатор",
     nameEn: "Gladiator",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241514?t=12m42s"],
     player: ["vk", "456241514", "70e18a64dbddf0bf", "0h12m42s"],
     id: "Fullmeter-Movie_Gladiator",
@@ -773,7 +773,7 @@ const fullmeterMovie = [
   {
     nameRu: "Голый пистолет",
     nameEn: "The Naked Gun: from the Files of Police Squad!",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456239975?t=11h27m48s"],
     player: ["vk", "456239975", "c896b9f799983ae9", "11h27m48s"],
     id: "Fullmeter-Movie_The-Naked-Gun-1",
@@ -791,7 +791,7 @@ const fullmeterMovie = [
   {
     nameRu: "Город грехов",
     nameEn: "Sin City",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456239959?t=6h29m25s"],
     player: ["vk", "456239959", "f179fa162739b81b", "6h29m25s"],
     id: "Fullmeter-Movie_Sin-City",
@@ -801,7 +801,7 @@ const fullmeterMovie = [
   {
     nameRu: "Гость",
     nameEn: "The Guest",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240099?t=16m42s"],
     player: ["vk", "456240099", "0525806825a60f35", "0h16m42s"],
     id: "Fullmeter-Movie_The-Guest",
@@ -811,7 +811,7 @@ const fullmeterMovie = [
   {
     nameRu: "Готика",
     nameEn: "Gothika",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240078?t=12m5s"],
     player: ["vk", "456240078", "fcce65d26b391c98", "0h12m5s"],
     id: "Fullmeter-Movie_Gothika",
@@ -821,7 +821,7 @@ const fullmeterMovie = [
   {
     nameRu: "Гран Туризмо",
     nameEn: "Gran Turismo",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241538?t=1h54m25s"],
     player: ["vk", "456241538", "c2d60599488726ed", "1h54m25s"],
     id: "Fullmeter-Movie_Gran-Turismo",
@@ -831,7 +831,7 @@ const fullmeterMovie = [
   {
     nameRu: "Грань будущего",
     nameEn: "Edge of Tomorrow",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456239977?t=2h22m38s"],
     player: ["vk", "456239977", "a98b3e3a900d9adf", "2h22m38s"],
     id: "Fullmeter-Movie_Edge-of-Tomorrow",
@@ -850,7 +850,7 @@ const fullmeterMovie = [
   {
     nameRu: "Дагон",
     nameEn: "Dagon",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240600?t=1h38m10s"],
     player: ["vk", "456240600", "b8cf8d8a5d3f8a3f", "1h38m10s"],
     id: "Fullmeter-Movie_Dagon",
@@ -860,7 +860,7 @@ const fullmeterMovie = [
   {
     nameRu: "Двухсотлетний человек",
     nameEn: "Bicentennial Man",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241155?t=4h30m28s"],
     player: ["vk", "456241155", "3aa7ccb6eafc19d3", "4h30m28s"],
     id: "Fullmeter-Movie_Bicentennial-Man",
@@ -870,7 +870,7 @@ const fullmeterMovie = [
   {
     nameRu: "Девушка в подвале",
     nameEn: "Girl in the Basement",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456239777?t=3h6m37s"],
     player: ["vk", "456239777", "c6ece9adfaf92b88", "3h6m37s"],
     id: "Fullmeter-Movie_Girl-in-Basement",
@@ -880,7 +880,7 @@ const fullmeterMovie = [
   {
     nameRu: "Девятые врата",
     nameEn: "The Ninth Gate",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456240915?t=34m10s"],
     player: ["vk", "456240915", "2d793a1300b072fa", "0h34m10s"],
     id: "Fullmeter-Movie_The-Ninth-Gate",
@@ -898,7 +898,7 @@ const fullmeterMovie = [
   },
   {
     nameRu: "День выборов",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240623?t=4h31m43s"],
     player: ["vk", "456240623", "030d17966486a9b0", "4h31m43s"],
     id: "Fullmeter-Movie_Election-Day",
@@ -907,7 +907,7 @@ const fullmeterMovie = [
   },
   {
     nameRu: "День радио",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241603?t=4h14m25s"],
     player: ["vk", "456241603", "894170048e5f7fef", "4h14m25s"],
     id: "Fullmeter-Movie_Radio-Day",
@@ -917,7 +917,7 @@ const fullmeterMovie = [
   {
     nameRu: "Детские игры",
     nameEn: "Child’s Play",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456240791?t=13m40s"],
     player: ["vk", "456240791", "d197baf403eff442", "0h13m40s"],
     id: "Fullmeter-Movie_Childs-Play",
@@ -935,7 +935,7 @@ const fullmeterMovie = [
   {
     nameRu: "Джей и молчаливый Боб наносят ответный удар",
     nameEn: "Jay and Silent Bob Strike Back",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241176?t=11m0s"],
     player: ["vk", "456241176", "08ec1700bd3d6b19", "0h11m0s"],
     id: "Fullmeter-Movie_Jay-and-Silent-Bob",
@@ -945,7 +945,7 @@ const fullmeterMovie = [
   {
     nameRu: "Джонни Д.",
     nameEn: "Public Enemies",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241380?t=2h34m10s"],
     player: ["vk", "456241380", "671f543dc830b3d4", "2h34m10s"],
     id: "Fullmeter-Movie_Public-Enemies",
@@ -980,7 +980,7 @@ const fullmeterMovie = [
   {
     nameRu: "Дитя тьмы",
     nameEn: "Orphan",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240674?t=18m40s"],
     player: ["vk", "456240674", "7a6580a006818dc9", "0h18m40s"],
     id: "Fullmeter-Movie_Orphan",
@@ -1008,7 +1008,7 @@ const fullmeterMovie = [
   {
     nameRu: "Доктор Сон",
     nameEn: "Doctor Sleep",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241289?t=8h43m40s"],
     player: ["vk", "456241289", "f684eb41e1ccd0ee", "8h43m40s"],
     id: "Fullmeter-Movie_Doctor-Sleep",
@@ -1026,7 +1026,7 @@ const fullmeterMovie = [
   {
     nameRu: "Донни Браско",
     nameEn: "Donnie Brasco",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241388?t=6h33m42s"],
     player: ["vk", "456241388", "e72ecb758056d2d0", "6h33m42s"],
     id: "Fullmeter-Movie_Donnie-Brasco",
@@ -1046,7 +1046,7 @@ const fullmeterMovie = [
   {
     nameRu: "Дорога перемен",
     nameEn: "Revolutionary Road",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241703?t=11m16s"],
     player: ["vk", "456241703", "80db066f4dc3045f", "0h11m16s"],
     id: "Fullmeter-Movie_Revolutionary-Road",
@@ -1065,7 +1065,7 @@ const fullmeterMovie = [
   {
     nameRu: "Драка в блоке 99",
     nameEn: "Brawl in Cell Block 99",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240605?t=2m48s"],
     player: ["vk", "456240605", "35634b718c39d8a4", "0h2m48s"],
     id: "Fullmeter-Movie_Brawl-in-Cell-99",
@@ -1110,7 +1110,7 @@ const fullmeterMovie = [
   {
     nameRu: "Жажда скорости",
     nameEn: "Need for Speed",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241319?t=14m54s"],
     player: ["vk", "456241319", "3b5eb662e77bd181", "0h14m54s"],
     id: "Fullmeter-Movie_Need-for-Speed",
@@ -1120,7 +1120,7 @@ const fullmeterMovie = [
   {
     nameRu: "Живая сталь",
     nameEn: "Real Steel",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240062?t=16m30s"],
     player: ["vk", "456240062", "7e33b01b86b6d866", "0h16m30s"],
     id: "Fullmeter-Movie_Real-Steel",
@@ -1144,7 +1144,7 @@ const fullmeterMovie = [
   {
     nameRu: "Заводной апельсин",
     nameEn: "A Clockwork Orange",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241525?t=2h9m42s"],
     player: ["vk", "456241525", "e7d8d38ed2788113", "2h9m42s"],
     id: "Fullmeter-Movie_Clockwork-Orange",
@@ -1154,7 +1154,7 @@ const fullmeterMovie = [
   {
     nameRu: "Загадочная история Бенджамина Баттона",
     nameEn: "The Curious Case of Benjamin Button",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241357?t=10m50s"],
     player: ["vk", "456241357", "f8081a8e062cf5e9", "0h10m50s"],
     id: "Fullmeter-Movie_Case-of-Benjamin-Button",
@@ -1164,7 +1164,7 @@ const fullmeterMovie = [
   {
     nameRu: "Закатать в асфальт",
     nameEn: "Dragged Across Concrete",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240349?t=15m11s"],
     player: ["vk", "456240349", "79b9cdd7d6f927b6", "0h15m11s"],
     id: "Fullmeter-Movie_Dragged-Across-Concrete",
@@ -1182,7 +1182,7 @@ const fullmeterMovie = [
   {
     nameRu: "Запрещённый приём",
     nameEn: "Sucker Punch",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241190?t=2h2m53s"],
     player: ["vk", "456241190", "50449f8817bbd6e8", "2h2m53s"],
     id: "Fullmeter-Movie_Sucker-Punch",
@@ -1192,7 +1192,7 @@ const fullmeterMovie = [
   {
     nameRu: "Затащи меня в ад",
     nameEn: "Drag Me to Hell",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456239990?t=7h21m13s"],
     player: ["vk", "456239990", "4e82b7b1717f442c", "7h21m13s"],
     id: "Fullmeter-Movie_Drag-Me-to-Hell",
@@ -1219,7 +1219,7 @@ const fullmeterMovie = [
   {
     nameRu: "Зелёная книга",
     nameEn: "Green Book",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241153?t=6h1m49s"],
     player: ["vk", "456241153", "89c374c9227f9efe", "6h1m49s"],
     id: "Fullmeter-Movie_Green-Book",
@@ -1229,7 +1229,7 @@ const fullmeterMovie = [
   {
     nameRu: "Зелёная миля",
     nameEn: "The Green Mile",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240722?t=3h"],
     player: ["vk", "456240722", "b75081249f7c6d45", "3h"],
     id: "Fullmeter-Movie_Green-Mile",
@@ -1239,7 +1239,7 @@ const fullmeterMovie = [
   {
     nameRu: "Зодиак",
     nameEn: "Zodiac",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241340?t=6h14m24s"],
     player: ["vk", "456241340", "09c3e5c664afcca6", "6h14m24s"],
     id: "Fullmeter-Movie_Zodiac",
@@ -1249,7 +1249,7 @@ const fullmeterMovie = [
   {
     nameRu: "Зомби по имени Шон",
     nameEn: "Shaun of the Dead",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240602?t=19m50s"],
     player: ["vk", "456240602", "7c18cec55ac1020e", "0h19m50s"],
     id: "Fullmeter-Movie_Shaun-of-the-Dead",
@@ -1266,7 +1266,7 @@ const fullmeterMovie = [
   {
     nameRu: "Игра",
     nameEn: "The Game",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240484?t=13m19s"],
     player: ["vk", "456240484", "8134a2c544b94cf8", "0h13m19s"],
     id: "Fullmeter-Movie_The-Game",
@@ -1286,7 +1286,7 @@ const fullmeterMovie = [
   {
     nameRu: "Игра на понижение",
     nameEn: "The Big Short",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240009?t=8h35m30s"],
     player: ["vk", "456240009", "58b450078b67af11", "8h35m30s"],
     id: "Fullmeter-Movie_The-Big-Short",
@@ -1306,7 +1306,7 @@ const fullmeterMovie = [
   {
     nameRu: "Изгой",
     nameEn: "Cast Away",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240572?t=3h29m10s"],
     player: ["vk", "456240572", "8e9b52276f4a624f", "3h29m10s"],
     id: "Fullmeter-Movie_Cast-Away",
@@ -1340,7 +1340,7 @@ const fullmeterMovie = [
   {
     nameRu: "Интервью с вампиром",
     nameEn: "Interview with the Vampire: The Vampire Chronicles",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240581?t=6h34m40s"],
     player: ["vk", "456240581", "20e3cd86e3cbd7a5", "6h34m40s"],
     id: "Fullmeter-Movie_Interview-with-Vampire",
@@ -1350,7 +1350,7 @@ const fullmeterMovie = [
   {
     nameRu: "Интерстеллар",
     nameEn: "Interstellar",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241436?t=5h10m12s"],
     player: ["vk", "456241436", "1becdf0c40199864", "5h10m12s"],
     id: "Fullmeter-Movie_Interstellar",
@@ -1360,7 +1360,7 @@ const fullmeterMovie = [
   {
     nameRu: "Искусственный разум",
     nameEn: "Artificial Intelligence: AI",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241816?t=4h28m40s"],
     player: ["vk", "456241816", "5f9974c60abca1de", "4h28m40s"],
     id: "Fullmeter-Movie_Artificial-Intelligence",
@@ -1370,7 +1370,7 @@ const fullmeterMovie = [
   {
     nameRu: "Исходный код",
     nameEn: "Source Code",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240663?t=41m47s"],
     player: ["vk", "456240663", "0290aab6012b4b16", "0h41m47s"],
     id: "Fullmeter-Movie_Source-Code",
@@ -1380,7 +1380,7 @@ const fullmeterMovie = [
   {
     nameRu: "Исчезновение",
     nameEn: "Spoorloos",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456240936?t=12m6s"],
     player: ["vk", "456240936", "f22a99e5b4722dca", "0h12m6s"],
     id: "Fullmeter-Movie_Spoorloos",
@@ -1400,7 +1400,7 @@ const fullmeterMovie = [
   {
     nameRu: "Казино",
     nameEn: "Casino",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241318?t=12m15s"],
     player: ["vk", "456241318", "c5263dab4e45e61f", "0h12m15s"],
     id: "Fullmeter-Movie_Casino",
@@ -1410,7 +1410,7 @@ const fullmeterMovie = [
   {
     nameRu: "Казино Рояль",
     nameEn: "Casino Royale",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241696?t=3h50m24s"],
     player: ["vk", "456241696", "eaf061493a9124ec", "3h50m24s"],
     id: "Fullmeter-Movie_Casino-Royale",
@@ -1440,7 +1440,7 @@ const fullmeterMovie = [
   {
     nameRu: "Князь тьмы",
     nameEn: "Prince of Darkness",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241606?t=13m16s"],
     player: ["vk", "456241606", "24bacabbe724b80b", "0h13m16s"],
     id: "Fullmeter-Movie_Prince-of-Darkness",
@@ -1458,7 +1458,7 @@ const fullmeterMovie = [
   {
     nameRu: "Константин: Повелитель тьмы",
     nameEn: "Constantine",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456240989"],
     player: ["vk", "456240989", "0508a01362fd28f0", "0h0m0s"],
     id: "Fullmeter-Movie_Constantine",
@@ -1487,7 +1487,7 @@ const fullmeterMovie = [
   {
     nameRu: "Кошмар на улице Вязов",
     nameEn: "A Nightmare on Elm Street",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240048?t=5h7m15s"],
     player: ["vk", "456240048", "0617745b32a96eb9", "5h7m15s"],
     id: "Fullmeter-Movie_Nightmare-on-Elm-Street",
@@ -1520,7 +1520,7 @@ const fullmeterMovie = [
   {
     nameRu: "Криминальное чтиво",
     nameEn: "Pulp Fiction",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240678?t=2h7m0s"],
     player: ["vk", "456240678", "fb133ee9f1032532", "2h7m0s"],
     id: "Fullmeter-Movie_Pulp-Fiction",
@@ -1530,7 +1530,7 @@ const fullmeterMovie = [
   {
     nameRu: "Кровавый четверг",
     nameEn: "Thursday",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240000?t=8h4m38s"],
     player: ["vk", "456240000", "d3d05ae83dcac428", "8h4m38s"],
     id: "Fullmeter-Movie_Thursday",
@@ -1540,7 +1540,7 @@ const fullmeterMovie = [
   {
     nameRu: "Кровью и потом: Анаболики",
     nameEn: "Pain & Gain",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241400?t=6h20m7s"],
     player: ["vk", "456241400", "eeaaf896e258e840", "6h20m7s"],
     id: "Fullmeter-Movie_Pain-Gain",
@@ -1550,7 +1550,7 @@ const fullmeterMovie = [
   {
     nameRu: "Кролик Джоджо",
     nameEn: "Jojo Rabbit",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240105?t=2h4m15s"],
     player: ["vk", "456240105", "acfe581f31b39fe0", "2h4m15s"],
     id: "Fullmeter-Movie_Jojo-Rabbit",
@@ -1560,7 +1560,7 @@ const fullmeterMovie = [
   {
     nameRu: "Крупная рыба",
     nameEn: "Big Fish",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456239882?t=3h50m30s"],
     player: ["vk", "456239882", "8561895225557371", "3h50m30s"],
     id: "Fullmeter-Movie_Big-Fish",
@@ -1570,7 +1570,7 @@ const fullmeterMovie = [
   {
     nameRu: "Кто там",
     nameEn: "Knock Knock",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456239847?t=4h57m50s"],
     player: ["vk", "456239847", "8fe52f55e7484a0e", "4h57m50s"],
     id: "Fullmeter-Movie_Knock-Knock",
@@ -1587,7 +1587,7 @@ const fullmeterMovie = [
   {
     nameRu: "Кулак ярости",
     nameEn: "Jing wu men",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456239895?t=2m18s"],
     player: ["vk", "456239895", "9e8f03a9729fa608", "0h2m18s"],
     id: "Fullmeter-Movie_Jing-wu-men",
@@ -1597,7 +1597,7 @@ const fullmeterMovie = [
   {
     nameRu: "Кунг Фьюри",
     nameEn: "Kung Fury",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456239823?t=2h21m16s"],
     player: ["vk", "456239823", "e1d0b8414ec6d988", "2h21m16s"],
     id: "Fullmeter-Movie_Kung-Fury",
@@ -1607,7 +1607,7 @@ const fullmeterMovie = [
   {
     nameRu: "Кэрри",
     nameEn: "Carrie",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456240936?t=2h26m52s"],
     player: ["vk", "456240936", "f22a99e5b4722dca", "2h26m52s"],
     id: "Fullmeter-Movie_Carrie",
@@ -1627,7 +1627,7 @@ const fullmeterMovie = [
   {
     nameRu: "Лабиринт Фавна",
     nameEn: "El laberinto del fauno",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241321?t=6h49m53s"],
     player: ["vk", "456241321", "4142a4517f334ea5", "6h49m53s"],
     id: "Fullmeter-Movie_Laberinto-del-fauno",
@@ -1646,7 +1646,7 @@ const fullmeterMovie = [
   {
     nameRu: "Легенда",
     nameEn: "Legend",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456239882?t=6h16m8s"],
     player: ["vk", "456239882", "8561895225557371", "6h16m8s"],
     id: "Fullmeter-Movie_Legend",
@@ -1656,7 +1656,7 @@ const fullmeterMovie = [
   {
     nameRu: "Леон",
     nameEn: "Léon",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456239871?t=3h31m20s"],
     player: ["vk", "456239871", "84f23cc52ab6bda5", "3h31m20s"],
     id: "Fullmeter-Movie_Leon",
@@ -1666,7 +1666,7 @@ const fullmeterMovie = [
   {
     nameRu: "Лето 84",
     nameEn: "Summer of 84",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456240864?t=7h37m10s"],
     player: ["vk", "456240864", "f71576a395142c37", "7h37m10s"],
     id: "Fullmeter-Movie_Summer-84",
@@ -1676,7 +1676,7 @@ const fullmeterMovie = [
   {
     nameRu: "Линкольн",
     nameEn: "Lincoln",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456239973?t=6h55m55s"],
     player: ["vk", "456239973", "eb7eafa33b21891b", "6h55m55s"],
     id: "Fullmeter-Movie_Lincoln",
@@ -1686,7 +1686,7 @@ const fullmeterMovie = [
   {
     nameRu: "Линкольн для адвоката",
     nameEn: "The Lincoln Lawyer",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241306?t=2h10m1s"],
     player: ["vk", "456241306", "2c5661194f0c5aac", "2h10m1s"],
     id: "Fullmeter-Movie_The-Lincoln-Lawyer",
@@ -1696,7 +1696,7 @@ const fullmeterMovie = [
   {
     nameRu: "Лицо со шрамом",
     nameEn: "Scarface",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456240806?t=3m35s"],
     player: ["vk", "456240806", "743c730941c2da88", "0h3m35s"],
     id: "Fullmeter-Movie_Scarface",
@@ -1706,7 +1706,7 @@ const fullmeterMovie = [
   {
     nameRu: "Любовь и другие лекарства",
     nameEn: "Love & Other Drugs",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241430?t=12m16s"],
     player: ["vk", "456241430", "beb05ab7d4c5470e", "0h12m16s"],
     id: "Fullmeter-Movie_Love-Other-Drugs",
@@ -1716,7 +1716,7 @@ const fullmeterMovie = [
   {
     nameRu: "Люди в чёрном",
     nameEn: "Men in Black",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241671?t=3h21m12s"],
     player: ["vk", "456241671", "4da5df76c6f8a1bf", "3h21m12s"],
     id: "Fullmeter-Movie_Men-in-Black",
@@ -1726,7 +1726,7 @@ const fullmeterMovie = [
   {
     nameRu: "Магнолия",
     nameEn: "Magnolia",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241689?t=4h16m50s"],
     player: ["vk", "456241689", "d6de417cb869a9b6", "4h16m50s"],
     id: "Fullmeter-Magnolia",
@@ -1736,7 +1736,7 @@ const fullmeterMovie = [
   {
     nameRu: "Майор Пэйн",
     nameEn: "Major Payne",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240610"],
     player: ["vk", "456240610", "f22ee22d3ece97db", "0h0m0s"],
     id: "Fullmeter-Movie_Major-Payne",
@@ -1746,7 +1746,7 @@ const fullmeterMovie = [
   {
     nameRu: "Малышка на миллион",
     nameEn: "Million Dollar Baby",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240425?t=4h31m32s"],
     player: ["vk", "456240425", "e7a7e7b1f9e9d79b", "4h31m32s"],
     id: "Fullmeter-Movie_Million-Dollar-Baby",
@@ -1806,7 +1806,7 @@ const fullmeterMovie = [
   {
     nameRu: "Марсианин",
     nameEn: "The Martian",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241133?t=22m47s"],
     player: ["vk", "456241133", "13d441cbaa2dc695", "0h22m47s"],
     id: "Fullmeter-Movie_The-Martian",
@@ -1842,7 +1842,7 @@ const fullmeterMovie = [
   {
     nameRu: "Мемуары гейши",
     nameEn: "Memoirs of a Geisha",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241671?t=29m22s"],
     player: ["vk", "456241671", "4da5df76c6f8a1bf", "0h29m22s"],
     id: "Fullmeter-Movie_Memoirs-of-Geisha",
@@ -1861,7 +1861,7 @@ const fullmeterMovie = [
   {
     nameRu: "Месть нерожденному",
     nameEn: "À l’intérieur",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240600?t=10m21s"],
     player: ["vk", "456240600", "b8cf8d8a5d3f8a3f", "0h10m21s"],
     id: "Fullmeter-Movie_Inside",
@@ -1871,7 +1871,7 @@ const fullmeterMovie = [
   {
     nameRu: "Мизери",
     nameEn: "Misery",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241574?t=16m48s"],
     player: ["vk", "456241574", "3a490938c0d4769a", "0h16m48s"],
     id: "Fullmeter-Movie_Misery",
@@ -1881,7 +1881,7 @@ const fullmeterMovie = [
   {
     nameRu: "Микки 17",
     nameEn: "Mickey 17",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241603?t=6h22m12s"],
     player: ["vk", "456241603", "894170048e5f7fef", "6h22m12s"],
     id: "Fullmeter-Movie_Mickey-17",
@@ -1891,7 +1891,7 @@ const fullmeterMovie = [
   {
     nameRu: "Милые кости",
     nameEn: "The Lovely Bones",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241593?t=4h30m47s"],
     player: ["vk", "456241593", "d3fe93aa109b1872", "4h30m47s"],
     id: "Fullmeter-Movie_Lovely-Bones",
@@ -1901,7 +1901,7 @@ const fullmeterMovie = [
   {
     nameRu: "Мулен Руж",
     nameEn: "Moulin Rouge!",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456240968?t=10m47s"],
     player: ["vk", "456240968", "cd8fd46f44651f12", "0h10m47s"],
     id: "Fullmeter-Movie_Moulin-Rouge",
@@ -1911,7 +1911,7 @@ const fullmeterMovie = [
   {
     nameRu: "Муха",
     nameEn: "The Fly",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456239954?t=8h3m20s"],
     player: ["vk", "456239954", "526660b051585da7", "8h3m20s"],
     id: "Fullmeter-Movie_The-Fly",
@@ -1938,7 +1938,7 @@ const fullmeterMovie = [
   {
     nameRu: "Мышиная охота",
     nameEn: "Mousehunt",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240726?t=3h59m30s"],
     player: ["vk", "456240726", "051681387bc03500", "3h59m30s"],
     id: "Fullmeter-Movie_Mousehunt",
@@ -1956,7 +1956,7 @@ const fullmeterMovie = [
   {
     nameRu: "На Западном фронте без перемен",
     nameEn: "Im Westen nichts Neues",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240680?t=2h3m30s"],
     player: ["vk", "456240680", "c8431f001349148f", "2h3m30s"],
     id: "Fullmeter-Movie_Im-Westen-nichts-Neues",
@@ -1966,7 +1966,7 @@ const fullmeterMovie = [
   {
     nameRu: "На игле",
     nameEn: "Trainspotting",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456239903?t=12m23s"],
     player: ["vk", "456239903", "34e019557f4c0f19", "0h12m23s"],
     id: "Fullmeter-Movie_Trainspotting",
@@ -1976,7 +1976,7 @@ const fullmeterMovie = [
   {
     nameRu: "На крючке",
     nameEn: "Eagle Eye",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241432?t=8h1m9s"],
     player: ["vk", "456241432", "461fa13f62c6275e", "8h1m9s"],
     id: "Fullmeter-Movie_Eagle-Eye",
@@ -1993,7 +1993,7 @@ const fullmeterMovie = [
   {
     nameRu: "Начало",
     nameEn: "Inception",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241462?t=13m36s"],
     player: ["vk", "456241462", "d2feae7b8a02c91b", "0h13m36s"],
     id: "Fullmeter-Movie_Inception",
@@ -2003,7 +2003,7 @@ const fullmeterMovie = [
   {
     nameRu: "Невероятная жизнь Уолтера Митти",
     nameEn: "The Secret Life of Walter Mitty",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456239943?t=8h24m52s"],
     player: ["vk", "456239943", "a213ccef1d734f77", "8h24m52s"],
     id: "Fullmeter-Movie_Secret-Life-of-Walter-Mitty",
@@ -2012,7 +2012,7 @@ const fullmeterMovie = [
   },
   {
     nameRu: "Невероятные приключения итальянцев в России",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456239953?t=12m0s"],
     player: ["vk", "456239953", "43872b6ec4f482a0", "0h12m0s"],
     id: "Fullmeter-Movie_Adventures-of-Italians-in-Russia",
@@ -2022,7 +2022,7 @@ const fullmeterMovie = [
   {
     nameRu: "Недруги",
     nameEn: "Hostiles",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241505?t=2h20m12s"],
     player: ["vk", "456241505", "15cf9f83604a9627", "2h20m12s"],
     id: "Fullmeter-Movie_Hostiles",
@@ -2032,7 +2032,7 @@ const fullmeterMovie = [
   {
     nameRu: "Не дыши",
     nameEn: "Don’t Breathe",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241591?t=3h27m58s"],
     player: ["vk", "456241591", "fc93feed2598e849", "3h27m58s"],
     id: "Fullmeter-Movie_Dont-Breathe",
@@ -2060,7 +2060,7 @@ const fullmeterMovie = [
   {
     nameRu: "Неогранённые алмазы",
     nameEn: "Uncut Gems",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456239944?t=10h38m5s"],
     player: ["vk", "456239944", "884349afb471db09", "10h38m5s"],
     id: "Fullmeter-Movie_Uncut-Gems",
@@ -2070,7 +2070,7 @@ const fullmeterMovie = [
   {
     nameRu: "Непрощенный",
     nameEn: "Unforgiven",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241413?t=4h1m16s"],
     player: ["vk", "456241413", "a9a857f7b6acb796", "4h1m16s"],
     id: "Fullmeter-Movie_Unforgiven",
@@ -2089,7 +2089,7 @@ const fullmeterMovie = [
   {
     nameRu: "Нефть",
     nameEn: "There Will Be Blood",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456239953?t=5h29m24s"],
     player: ["vk", "456239953", "43872b6ec4f482a0", "5h29m24s"],
     id: "Fullmeter-Movie_There-Will-Be-Blood",
@@ -2108,7 +2108,7 @@ const fullmeterMovie = [
   {
     nameRu: "Никто",
     nameEn: "Nobody",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456239871?t=1h42m15s"],
     player: ["vk", "456239871", "84f23cc52ab6bda5", "1h42m15s"],
     id: "Fullmeter-Movie_Nobody",
@@ -2127,7 +2127,7 @@ const fullmeterMovie = [
   {
     nameRu: "Носферату",
     nameEn: "Nosferatu",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241610?t=6h52m48s"],
     player: ["vk", "456241610", "65f2ae49948cc275", "6h52m48s"],
     id: "Fullmeter-Movie_Nosferatu",
@@ -2137,7 +2137,7 @@ const fullmeterMovie = [
   {
     nameRu: "Ночные игры",
     nameEn: "Game Night",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456239819?t=4h32m54s"],
     player: ["vk", "456239819", "acfbfb92674cef0c", "4h32m54s"],
     id: "Fullmeter-Movie_Game-Night",
@@ -2165,7 +2165,7 @@ const fullmeterMovie = [
   {
     nameRu: "Общество мёртвых поэтов",
     nameEn: "Dead Poets Society",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240442?t=2h4m35s"],
     player: ["vk", "456240442", "d8c80450715b5038", "2h4m35s"],
     id: "Fullmeter-Movie_Dead-Poets-Society",
@@ -2183,7 +2183,7 @@ const fullmeterMovie = [
   {
     nameRu: "Однажды в… Голливуде",
     nameEn: "Once Upon a Time in… Hollywood",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456239818?t=15m34s"],
     player: ["vk", "456239818", "5d2030a2451bb363", "0h15m34s"],
     id: "Fullmeter-Movie_Once-Upon-in-Hollywood",
@@ -2193,7 +2193,7 @@ const fullmeterMovie = [
   {
     nameRu: "Озеро Мунго",
     nameEn: "Lake Mungo",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456240852?t=14m30s"],
     player: ["vk", "456240852", "6c4538a265f69d6e", "0h14m30s"],
     id: "Fullmeter-Movie_Lake-Mungo",
@@ -2203,7 +2203,7 @@ const fullmeterMovie = [
   {
     nameRu: "Окулус",
     nameEn: "Oculus",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240680?t=15s"],
     player: ["vk", "456240680", "c8431f001349148f", "0h0m15s"],
     id: "Fullmeter-Movie_Oculus",
@@ -2213,7 +2213,7 @@ const fullmeterMovie = [
   {
     nameRu: "Олдбой",
     nameEn: "Oldeuboi",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456239953?t=8h41m41s"],
     player: ["vk", "456239953", "43872b6ec4f482a0", "8h41m41s"],
     id: "Fullmeter-Movie_Oldeuboi",
@@ -2231,7 +2231,7 @@ const fullmeterMovie = [
   {
     nameRu: "Омерзительная восьмерка",
     nameEn: "The Hateful Eight",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456240824?t=11m31s"],
     player: ["vk", "456240824", "61793b5a064b0199", "0h11m31s"],
     id: "Fullmeter-Movie_Hateful-Eight",
@@ -2266,7 +2266,7 @@ const fullmeterMovie = [
   {
     nameRu: "Оппенгеймер",
     nameEn: "Oppenheimer",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456240895?t=12m0s"],
     player: ["vk", "456240895", "f0dd218891bfaab2", "0h12m0s"],
     id: "Fullmeter-Movie_Oppenheimer",
@@ -2276,7 +2276,7 @@ const fullmeterMovie = [
   {
     nameRu: "Оружейный барон",
     nameEn: "Lord of War",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241704?t=4h50m1s"],
     player: ["vk", "456241704", "31fdd430f6039288", "4h50m1s"],
     id: "Fullmeter-Movie_Lord-of-War",
@@ -2294,7 +2294,7 @@ const fullmeterMovie = [
   {
     nameRu: "Особо опасен",
     nameEn: "Wanted",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241596?t=4h51m10s"],
     player: ["vk", "456241596", "ea3ecc58e2df2f7f", "4h51m10s"],
     id: "Fullmeter-Movie_Wanted",
@@ -2331,7 +2331,7 @@ const fullmeterMovie = [
   {
     nameRu: "Отступники",
     nameEn: "The Departed",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241338"],
     player: ["vk", "456241338", "850e735cc5e985a2", "0h0m0s"],
     id: "Fullmeter-Movie_The-Departed",
@@ -2368,7 +2368,7 @@ const fullmeterMovie = [
   {
     nameRu: "Очень эпическое кино",
     nameEn: "Epic Movie",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456240876?t=2h42m10s"],
     player: ["vk", "456240876", "cdfee117b239db91", "2h42m10s"],
     id: "Fullmeter-Movie_Epic-Movie",
@@ -2407,7 +2407,7 @@ const fullmeterMovie = [
   {
     nameRu: "Пианист",
     nameEn: "The Pianist",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456239740?t=7h21m30s"],
     player: ["vk", "456239740", "144459dbd5c2dd26", "7h21m30s"],
     id: "Fullmeter-Movie_The-Pianist",
@@ -2433,7 +2433,7 @@ const fullmeterMovie = [
   {
     nameRu: "Пир",
     nameEn: "Feast",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240427?t=2h13m57s"],
     player: ["vk", "456240427", "bb402566bb73d6e1", "2h13m57s"],
     id: "Fullmeter-Movie_Feast",
@@ -2484,7 +2484,7 @@ const fullmeterMovie = [
   {
     nameRu: "Пленницы",
     nameEn: "Prisoners",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240613?t=4h5m37s"],
     player: ["vk", "456240613", "ac8e9242402aa55b", "4h5m37s"],
     id: "Fullmeter-Movie_Prisoners",
@@ -2494,7 +2494,7 @@ const fullmeterMovie = [
   {
     nameRu: "Повелители хаоса",
     nameEn: "Lords of Chaos",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241377?t=4h17m2s"],
     player: ["vk", "456241377", "933ead3ff8162959", "4h17m2s"],
     id: "Fullmeter-Movie_Lords-of-Chaos",
@@ -2504,7 +2504,7 @@ const fullmeterMovie = [
   {
     nameRu: "Подглядывающий",
     nameEn: "Peeping Tom",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240048?t=2h56m39s"],
     player: ["vk", "456240048", "0617745b32a96eb9", "2h56m39s"],
     id: "Fullmeter-Movie_Peeping-Tom",
@@ -2514,7 +2514,7 @@ const fullmeterMovie = [
   {
     nameRu: "Подземелья и драконы: Честь среди воров",
     nameEn: "Dungeons & Dragons: Honor Among Thieves",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240001?t=11h6m34s"],
     player: ["vk", "456240001", "55c8b56238edc9f2", "11h6m34s"],
     id: "Fullmeter-Movie_DnD-Honor-Among-Thieves",
@@ -2524,7 +2524,7 @@ const fullmeterMovie = [
   {
     nameRu: "Подозрительные лица",
     nameEn: "The Usual Suspects",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241311?t=11m53s"],
     player: ["vk", "456241311", "6ec0e5eb8e2a7723", "0h11m53s"],
     id: "Fullmeter-Movie_Usual-Suspects",
@@ -2543,7 +2543,7 @@ const fullmeterMovie = [
   {
     nameRu: "Поймай меня, если сможешь",
     nameEn: "Catch Me If You Can",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240633?t=5h20m10s"],
     player: ["vk", "456240633", "27932340a1518673", "5h20m10s"],
     id: "Fullmeter-Movie_Catch-Me-If-You-Can",
@@ -2560,7 +2560,7 @@ const fullmeterMovie = [
   {
     nameRu: "Попутчик",
     nameEn: "The Hitcher",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240089?t=2h37m48s"],
     player: ["vk", "456240089", "f918b7e3c2a96192", "2h37m48s"],
     id: "Fullmeter-Movie_The-Hitcher",
@@ -2570,7 +2570,7 @@ const fullmeterMovie = [
   {
     nameRu: "Порочные игры",
     nameEn: "Stoker",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241484?t=13m27s"],
     player: ["vk", "456241484", "ef65e2bb81c34028", "0h13m27s"],
     id: "Fullmeter-Movie_Stoker",
@@ -2598,7 +2598,7 @@ const fullmeterMovie = [
   {
     nameRu: "Поссум",
     nameEn: "Possum",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456240788?t=2h12m20s"],
     player: ["vk", "456240788", "3c86739f2d917aad", "2h12m20s"],
     id: "Fullmeter-Movie_Possum",
@@ -2608,7 +2608,7 @@ const fullmeterMovie = [
   {
     nameRu: "Почему он?",
     nameEn: "Why Him?",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241416?t=6h51m34s"],
     player: ["vk", "456241416", "1af13d6c09551a2f", "6h51m34s"],
     id: "Fullmeter-Movie_Why-Him",
@@ -2618,7 +2618,7 @@ const fullmeterMovie = [
   {
     nameRu: "Правдивая ложь",
     nameEn: "True Lies",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240009?t=11h18m8s"],
     player: ["vk", "456240009", "58b450078b67af11", "11h18m8s"],
     id: "Fullmeter-Movie_True-Lies",
@@ -2628,7 +2628,7 @@ const fullmeterMovie = [
   {
     nameRu: "Прибытие",
     nameEn: "Arrival",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456240876?t=12m25s"],
     player: ["vk", "456240876", "cdfee117b239db91", "0h12m25s"],
     id: "Fullmeter-Movie_Arrival",
@@ -2638,7 +2638,7 @@ const fullmeterMovie = [
   {
     nameRu: "Привидение",
     nameEn: "Ghost",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240661?t=2h32m30s"],
     player: ["vk", "456240661", "c2bce7dee9df423a", "2h32m30s"],
     id: "Fullmeter-Movie_Ghost",
@@ -2658,7 +2658,7 @@ const fullmeterMovie = [
   {
     nameRu: "Пристрели их",
     nameEn: "Shoot 'Em Up",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456239959?t=8h55m57s"],
     player: ["vk", "456239959", "f179fa162739b81b", "8h55m57s"],
     id: "Fullmeter-Movie_Shoot-Em-Up",
@@ -2678,7 +2678,7 @@ const fullmeterMovie = [
   {
     nameRu: "Проклятый путь",
     nameEn: "Road to Perdition",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241391?t=4h1m50s"],
     player: ["vk", "456241391", "4151cd3ca48c8203", "4h1m50s"],
     id: "Fullmeter-Movie_Road-to-Perdition",
@@ -2698,7 +2698,7 @@ const fullmeterMovie = [
   {
     nameRu: "Прочь",
     nameEn: "Get Out",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456239989?t=5h50m2s"],
     player: ["vk", "456239989", "e9b57077870bc615", "5h50m2s"],
     id: "Fullmeter-Movie_Get-Out",
@@ -2732,7 +2732,7 @@ const fullmeterMovie = [
   {
     nameRu: "Пэрл",
     nameEn: "Pearl",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456240903?t=1h22m33s"],
     player: ["vk", "456240903", "794ea9117ab1a147", "1h22m33s"],
     id: "Fullmeter-Movie_Pearl",
@@ -2742,7 +2742,7 @@ const fullmeterMovie = [
   {
     nameRu: "Пятый элемент",
     nameEn: "The Fifth Element",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241436?t=2h20m47s"],
     player: ["vk", "456241436", "1becdf0c40199864", "2h20m47s"],
     id: "Fullmeter-Movie_The-Fifth-Element",
@@ -2752,7 +2752,7 @@ const fullmeterMovie = [
   {
     nameRu: "Рассвет мертвецов",
     nameEn: "Dawn of the Dead",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240162?&t=6h36m30s"],
     player: ["vk", "456240162?&t=6h36m30s", "930a61fdc40bc795", "0h0m0s"],
     id: "Fullmeter-Movie_Dawn-of-the-Dead",
@@ -2770,7 +2770,7 @@ const fullmeterMovie = [
   {
     nameRu: "Ребенок Розмари",
     nameEn: "Rosemary’s Baby",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240048?t=12m49s"],
     player: ["vk", "456240048", "0617745b32a96eb9", "0h12m49s"],
     id: "Fullmeter-Movie_Rosemary-Baby",
@@ -2794,7 +2794,7 @@ const fullmeterMovie = [
   {
     nameRu: "Реквием по мечте",
     nameEn: "Requiem for a Dream",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456239931?t=7h12m22s"],
     player: ["vk", "456239931", "eff339bfab9fd5da", "7h12m22s"],
     id: "Fullmeter-Movie_Requiem-for-a-Dream",
@@ -2812,7 +2812,7 @@ const fullmeterMovie = [
   {
     nameRu: "Робот по имени Чаппи",
     nameEn: "Chappie",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241433?t=4h32m40s"],
     player: ["vk", "456241433", "7b32762b8bc55d0e", "4h32m40s"],
     id: "Fullmeter-Movie_Chappie",
@@ -2822,7 +2822,7 @@ const fullmeterMovie = [
   {
     nameRu: "Рок-волна",
     nameEn: "Pirate Radio",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456239943?t=14m32s"],
     player: ["vk", "456239943", "a213ccef1d734f77", "0h14m32s"],
     id: "Fullmeter-Movie_Pirate-Radio",
@@ -2840,7 +2840,7 @@ const fullmeterMovie = [
   {
     nameRu: "Сайлент Хилл",
     nameEn: "Silent Hill",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241342?t=2h18m11s"],
     player: ["vk", "456241342", "9c68f94826192f7c", "2h18m11s"],
     id: "Fullmeter-Movie_Silent-Hill",
@@ -2849,7 +2849,7 @@ const fullmeterMovie = [
   },
   {
     nameRu: "Самая большая Луна",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241422?t=1h14m12s"],
     player: ["vk", "456241422", "c22c1108019a8806", "1h14m12s"],
     id: "Fullmeter-Movie_The-largest-Moon",
@@ -2868,7 +2868,7 @@ const fullmeterMovie = [
   {
     nameRu: "Семь",
     nameEn: "Seven",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241318?t=3h58m52s"],
     player: ["vk", "456241318", "c5263dab4e45e61f", "3h58m52s"],
     id: "Fullmeter-Movie_Seven",
@@ -2878,7 +2878,7 @@ const fullmeterMovie = [
   {
     nameRu: "Семь жизней",
     nameEn: "Seven Pounds",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240581?t=4h7m21s"],
     player: ["vk", "456240581", "20e3cd86e3cbd7a5", "4h7m21s"],
     id: "Fullmeter-Movie_Seven-Pounds",
@@ -2905,7 +2905,7 @@ const fullmeterMovie = [
   {
     nameRu: "Сквозь горизонт",
     nameEn: "Event Horizon",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241161"],
     player: ["vk", "456241161", "dd5b67fced9ee91a", "0h0m0s"],
     id: "Fullmeter-Movie_Event-Horizon",
@@ -2915,7 +2915,7 @@ const fullmeterMovie = [
   {
     nameRu: "Скинамаринк",
     nameEn: "Skinamarink",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456240853?t=12m44s"],
     player: ["vk", "456240853", "cd2c15c17561c0e1", "0h12m44s"],
     id: "Fullmeter-Movie_Skinamarink",
@@ -2951,7 +2951,7 @@ const fullmeterMovie = [
   },
   {
     nameRu: "Собачье сердце",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456240956?t=1h51m40s"],
     player: ["vk", "456240956", "c8d8917ae26fd71f", "1h51m40s"],
     id: "Fullmeter-Movie_Dog-heart",
@@ -2969,7 +2969,7 @@ const fullmeterMovie = [
   {
     nameRu: "Солдаты неудачи",
     nameEn: "Tropic Thunder",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456239930?t=5h37m15s"],
     player: ["vk", "456239930", "ecf10096588f7c42", "5h37m15s"],
     id: "Fullmeter-Movie_Tropic-Thunder",
@@ -2979,7 +2979,7 @@ const fullmeterMovie = [
   {
     nameRu: "Солнце моё",
     nameEn: "Aftersun",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456239930?t=5h37m15s"],
     player: ["vk", "456239930", "ecf10096588f7c42", "5h37m15s"],
     id: "Fullmeter-Movie_Aftersun",
@@ -3009,7 +3009,7 @@ const fullmeterMovie = [
   {
     nameRu: "Социальная сеть",
     nameEn: "The Social Network",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240685?t=1h57m"],
     player: ["vk", "456240685", "c7d82bbf58ac0ed2", "1h57m0s"],
     id: "Fullmeter-Movie_Social-Network",
@@ -3036,7 +3036,7 @@ const fullmeterMovie = [
   {
     nameRu: "Спуск",
     nameEn: "The Descent",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240678?t=0s"],
     player: ["vk", "456240678", "fb133ee9f1032532", "0h0m0s"],
     id: "Fullmeter-Movie_The-Descent",
@@ -3046,7 +3046,7 @@ const fullmeterMovie = [
   {
     nameRu: "Стажёр",
     nameEn: "The Intern",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241147?t=4h25m44s"],
     player: ["vk", "456241147", "95fb6bf37033d398", "4h25m44s"],
     id: "Fullmeter-Movie_The-Intern",
@@ -3056,7 +3056,7 @@ const fullmeterMovie = [
   {
     nameRu: "Стальная хватка",
     nameEn: "The Iron Claw",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241234?t=11m42s"],
     player: ["vk", "456241234", "a0c9c10372703321", "0h11m42s"],
     id: "Fullmeter-Movie_Iron-Claw",
@@ -3075,7 +3075,7 @@ const fullmeterMovie = [
   {
     nameRu: "Страшная воля богов",
     nameEn: "Kamisama no iu tôri",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456239820?t=5h14s"],
     player: ["vk", "456239820", "94cc979e0ff110f7", "5h0m14s"],
     id: "Fullmeter-Movie_Kamisama-no-iu-tori",
@@ -3085,7 +3085,7 @@ const fullmeterMovie = [
   {
     nameRu: "Стрингер",
     nameEn: "Nightcrawler",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456239760?t=5m0s"],
     player: ["vk", "456239760", "5abec7bd8efcde48", "0h5m0s"],
     id: "Fullmeter-Movie_Nightcrawler",
@@ -3095,7 +3095,7 @@ const fullmeterMovie = [
   {
     nameRu: "Судья Дредд",
     nameEn: "Dredd",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456239786?t=2h21m0s"],
     player: ["vk", "456239786", "dee3abd23e4538a5", "2h21m0s"],
     id: "Fullmeter-Movie_Dredd",
@@ -3105,7 +3105,7 @@ const fullmeterMovie = [
   {
     nameRu: "Суини Тодд, демон-парикмахер с Флит-стрит",
     nameEn: "Sweeney Todd: The Demon Barber of Fleet Street",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456240957?t=13m54s"],
     player: ["vk", "456240957", "40bd220dd0919f9c", "0h13m54s"],
     id: "Fullmeter-Movie_Demon-Barber-of-Fleet-Street",
@@ -3132,7 +3132,7 @@ const fullmeterMovie = [
   {
     nameRu: "Схватка",
     nameEn: "Heat",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241311?t=2h23m32s"],
     player: ["vk", "456241311", "6ec0e5eb8e2a7723", "2h23m32s"],
     id: "Fullmeter-Movie_Heat",
@@ -3142,7 +3142,7 @@ const fullmeterMovie = [
   {
     nameRu: "Счастливое число Слевина",
     nameEn: "Lucky Number Slevin",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456239975?t=9h12m45s"],
     player: ["vk", "456239975", "c896b9f799983ae9", "9h12m45s"],
     id: "Fullmeter-Movie_Lucky-Number-Slevin",
@@ -3183,7 +3183,7 @@ const fullmeterMovie = [
   {
     nameRu: "Тайное окно",
     nameEn: "Secret Window",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241308?t=12m45s"],
     player: ["vk", "456241308", "11ccc40c2ac60919", "0h12m45s"],
     id: "Fullmeter-Movie_Secret-Window",
@@ -3219,7 +3219,7 @@ const fullmeterMovie = [
   {
     nameRu: "Темные времена",
     nameEn: "Darkest Hour",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456239909?t=13m22s"],
     player: ["vk", "456239909", "c8e2b348fccede3b", "0h13m22s"],
     id: "Fullmeter-Movie_Darkest-Hour",
@@ -3239,7 +3239,7 @@ const fullmeterMovie = [
   {
     nameRu: "Типа крутые легавые",
     nameEn: "Hot Fuzz",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456239902?t=7h12m0s"],
     player: ["vk", "456239902", "98c577288702a835", "7h12m0s"],
     id: "Fullmeter-Movie_Hot-Fuzz",
@@ -3249,7 +3249,7 @@ const fullmeterMovie = [
   {
     nameRu: "Тихоокеанский рубеж",
     nameEn: "Pacific Rim",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456239835"],
     player: ["vk", "456239835", "8e37ddc35193f67f", "0h0m0s"],
     id: "Fullmeter-Movie_Pacific-Rim",
@@ -3275,7 +3275,7 @@ const fullmeterMovie = [
   {
     nameRu: "Трасса 60",
     nameEn: "Interstate 60: Episodes of the Road",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240009?t=6h16m17s"],
     player: ["vk", "456240009", "58b450078b67af11", "6h16m17s"],
     id: "Fullmeter-Movie_Interstate-60",
@@ -3294,7 +3294,7 @@ const fullmeterMovie = [
   {
     nameRu: "Тренировочный день",
     nameEn: "Training Day",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241309?t=10m27s"],
     player: ["vk", "456241309", "91a0cc535afc15d1", "0h10m27s"],
     id: "Fullmeter-Movie_Training-Day",
@@ -3399,7 +3399,7 @@ const fullmeterMovie = [
   {
     nameRu: "Форрест Гамп",
     nameEn: "Forrest Gump",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240688?t=19m30s"],
     player: ["vk", "456240688", "47feb40cea7d5418", "0h19m30s"],
     id: "Fullmeter-Movie_Forrest-Gump",
@@ -3417,7 +3417,7 @@ const fullmeterMovie = [
   {
     nameRu: "Хардкор",
     nameEn: "Hardcore Henry",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240206?t=2h53m55s"],
     player: ["vk", "456240206", "48d304b352ba6d3e", "2h53m55s"],
     id: "Fullmeter-Movie_Hardcore-Henry",
@@ -3501,7 +3501,7 @@ const fullmeterMovie = [
   {
     nameRu: "Царство небесное",
     nameEn: "Kingdom of Heaven",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241687?t=12m17s"],
     player: ["vk", "456241687", "eaeffea4325074a7", "0h12m17s"],
     id: "Fullmeter-Movie_Kingdom-of-Heaven",
@@ -3511,7 +3511,7 @@ const fullmeterMovie = [
   {
     nameRu: "Чарли и шоколадная фабрика",
     nameEn: "Charlie and the Chocolate Factory",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240089?t=13m1s"],
     player: ["vk", "456240089", "f918b7e3c2a96192", "0h13m1s"],
     id: "Fullmeter-Movie_Charlie-and-Chocolate-Factory",
@@ -3529,7 +3529,7 @@ const fullmeterMovie = [
   {
     nameRu: "Человек дождя",
     nameEn: "Rain Man",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241260?t=11m52s"],
     player: ["vk", "456241260", "a2909bda54f95867", "0h11m52s"],
     id: "Fullmeter-Movie_Rain-Man",
@@ -3539,7 +3539,7 @@ const fullmeterMovie = [
   {
     nameRu: "Чернокнижник",
     nameEn: "Warlock",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241078?t=2h53m0s"],
     player: ["vk", "456241078", "a6af7e250fc04723", "2h53m0s"],
     id: "Fullmeter-Movie_Warlock",
@@ -3549,7 +3549,7 @@ const fullmeterMovie = [
   {
     nameRu: "Чёрный лебедь",
     nameEn: "Black Swan",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241458?t=11m16s"],
     player: ["vk", "456241458", "a4a457374601b85c", "0h11m16s"],
     id: "Fullmeter-Movie_Black-Swan",
@@ -3559,7 +3559,7 @@ const fullmeterMovie = [
   {
     nameRu: "Чикаго",
     nameEn: "Chicago",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241539?t=11m4s"],
     player: ["vk", "456241539", "0096a7f8ab077394", "0h11m4s"],
     id: "Fullmeter-Movie_Chicago",
@@ -3569,7 +3569,7 @@ const fullmeterMovie = [
   {
     nameRu: "Что гложет Гилберта Грейпа",
     nameEn: "What’s Eating Gilbert Grape",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241551?t=6h12m37s"],
     player: ["vk", "456241551", "e6ab3ad6c66766f2", "6h12m37s"],
     id: "Fullmeter-Movie_What-Eating-Gilbert-Grape",
@@ -3587,7 +3587,7 @@ const fullmeterMovie = [
   {
     nameRu: "Шалун",
     nameEn: "Little Man",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240425?t=2h34m1s"],
     player: ["vk", "456240425", "e7a7e7b1f9e9d79b", "2h34m1s"],
     id: "Fullmeter-Movie_Little-Man",
@@ -3649,7 +3649,7 @@ const fullmeterMovie = [
   {
     nameRu: "Эквилибриум",
     nameEn: "Equilibrium",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241551?t=4h6m2s"],
     player: ["vk", "456241551", "e6ab3ad6c66766f2", "4h6m2s"],
     id: "Fullmeter-Movie_Equilibrium",
@@ -3668,7 +3668,7 @@ const fullmeterMovie = [
   {
     nameRu: "Я, робот",
     nameEn: "I, Robot",
-    donutTerms: "donut-lvl-3",
+    donutTerms: "donut-lvl-2",
     titleLink: ["vk", "456241436?t=11m10s"],
     player: ["vk", "456241436", "1becdf0c40199864", "0h11m10s"],
     id: "Fullmeter-Movie_I-Robot",
@@ -3678,7 +3678,7 @@ const fullmeterMovie = [
   {
     nameRu: "Я иду искать",
     nameEn: "Ready or Not",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240685?t=0s"],
     player: ["vk", "456240685", "c7d82bbf58ac0ed2", "0h0m0s"],
     id: "Fullmeter-Movie_Ready-or-Not",

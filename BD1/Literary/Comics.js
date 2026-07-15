@@ -3,7 +3,7 @@ const literatureComics = [
     nameRu: "Бэтмен, который смеётся (2017)",
     nameEn: "The Batman Who Laughs",
     titleStatus: "Прочитано: До финала",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     titleLink: ["vk", "456240162?t=12m57s"],
     player: ["vk", "456240162", "930a61fdc40bc795", "0h12m57s"],
 
@@ -15,7 +15,7 @@ const literatureComics = [
     nameRu: "Марвел Зомби",
     nameEn: "Marvel Zombies",
     titleStatus: "Прочитано: 3 Эпизода",
-    donutTerms: "donut-lvl-2",
+    donutTerms: "donut-lvl-1",
     id: "Literary-Comics_Marvel-Zombies",
     posterImage: "https://static.tildacdn.com/tild3030-6433-4939-b063-363563626661/_Marvel_Zombies.webp",
     cardType: "literature-Comics",
