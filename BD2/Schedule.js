@@ -27,17 +27,24 @@ const scheduleDatabase = [
   {
     nameRu: "Викинги",
     nameEn: "Vikings",
-    scheduleRemark: "Сериал × Начало в 16:00 по МСК",
+    scheduleRemark: "Сериал × 3 Сезон 8-10 Эпизод",
     scheduleType: "schedule-current",
     date: "15.07.26",
   },
   {
-    nameRu: "Годнеслот",
-    scheduleRemark: "Фильм × Начало в 19:00 по МСК",
+    nameRu: "Головокружение",
+    nameEn: "Vertigo",
+    scheduleRemark: "Фильм",
     scheduleType: "schedule-current",
     date: "15.07.26",
   },
   // Четверг
+  {
+    nameRu: "Phasmophobia",
+    scheduleRemark: "Игра × Начало в 14:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "16.07.26",
+  },
   {
     nameRu: "Warhammer 40 000: Rogue Trader",
     scheduleRemark: "Игра × Начало в 16:00 по МСК",

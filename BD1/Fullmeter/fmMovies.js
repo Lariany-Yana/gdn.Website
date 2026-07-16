@@ -763,6 +763,15 @@ const fullmeterMovie = [
     cardType: "fullmeter-Movie",
   },
   {
+    nameRu: "Головокружение || Вертиго",
+    nameEn: "Vertigo",
+    titleLink: ["vk", "456241865?t=2h52m54s"],
+    player: ["vk", "456241865", "c94335fde4a3dab2", "2h52m54s"],
+    id: "Fullmeter-Movie_Vertigo",
+    posterImage: "https://static.tildacdn.com/tild3661-3530-4330-a233-386335396233/img.webp",
+    cardType: "fullmeter-Movie",
+  },
+  {
     nameRu: "Голодные игры",
     nameEn: "The Hunger Games",
     titleStatus: "Сборник",

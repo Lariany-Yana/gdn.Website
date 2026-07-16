@@ -76,26 +76,6 @@ const ordersDatabase = [
     ],
   },
   {
-    nameRu: "Викинги",
-    nameEn: "Vikings",
-    orderRemark: "Сериал × В заказе: 3 Сезон 6-10/10 Эпизод",
-    cardType: "order-during",
-    id: "order_Vikings-3",
-    items: [
-      {
-        nickname: "Без имени",
-        slot: "3.5", // 1-7 Эпизод
-        date: "Без даты",
-        was: "was",
-      },
-      {
-        nickname: "Без имени",
-        slot: "1.5", // 6-10 Эпизод
-        date: "Без даты",
-      },
-    ],
-  },
-  {
     nameRu: "Опорный Пункт",
     nameEn: "FireBase",
     orderRemark: "Мини-Фильм",
@@ -1049,19 +1029,6 @@ const ordersDatabase = [
     ],
   },
   {
-    nameRu: "Годнеслот",
-    personalOrder: "user_Katya",
-    cardType: "order-waiting",
-    id: "order_008",
-    items: [
-      {
-        nickname: "Твою мать!",
-        slot: "1",
-        date: "09.06.26",
-      },
-    ],
-  },
-  {
     nameRu: "Ангельские ритмы!",
     nameEn: "Angel Beats!",
     orderRemark: "Аниме × В заказе: 1 Сезон 1-4/13 Эпизод",
@@ -1385,7 +1352,7 @@ const ordersDatabase = [
   {
     nameRu: "Игра лжецов",
     nameEn: "Liar Game",
-    orderRemark: "Манга, 7 Слотов",
+    orderRemark: "Манга ⨯ 7 Слотов",
     cardType: "order-frozen",
     id: "order_Liar-Game",
     items: [
@@ -1398,6 +1365,15 @@ const ordersDatabase = [
   },
   //#endregion
   //#region ~Свапы~
+  {
+    nameRu_1: "Годнеслот (09.06.26 ⨯ Твою мать!)",
+    nameRu_2: "Головокружение",
+    nameEn_2: "Vertigo",
+    orderRemark_1: "1 Слот > Фильм",
+    orderRemark_2: "Свап был 15.07.26 (Годень)",
+    cardType: "order-switch",
+    items: [],
+  },
   {
     nameRu_1: "Сверхъестественное",
     nameEn_1: "Supernatural",
@@ -1452,6 +1428,33 @@ const ordersDatabase = [
   },
   //#endregion
   //#region ~Просмотренное~
+  {
+    nameRu: "Головокружение",
+    nameEn: "Vertigo",
+    cardType: "order-finished",
+    items: [
+      {
+        nickname: "Твою мать!",
+        slot: "1",
+        date: "09.06.26",
+        was: "was",
+      },
+    ],
+  },
+  {
+    nameRu: "Викинги",
+    nameEn: "Vikings",
+    orderRemark: "Сериал × В заказе: 3 Сезон 6-10/10 Эпизод",
+    cardType: "order-finished",
+    items: [
+      {
+        nickname: "Без имени",
+        slot: "5", // 1-10 Эпизод
+        date: "Без даты",
+        was: "was",
+      },
+    ],
+  },
   {
     nameRu: "Первородный грех Такопи",
     nameEn: "Takopii no Genzai",
