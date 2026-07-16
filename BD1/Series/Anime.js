@@ -1417,7 +1417,7 @@ const seriesAnime = [
     cardType: "series-Anime",
   },
   {
-    nameRu: "Судьба/Начало / Фэйт/Зеро",
+    nameRu: "Судьба/Начало || Фэйт/Зеро",
     nameEn: "Fate/Zero",
     titleStatus: "Просмотрено: 2 Сезона",
     id: "Series-Anime_Fate-Zero",
@@ -1449,6 +1449,14 @@ const seriesAnime = [
     donutTerms: "donut-lvl-1",
     id: "Series-Anime_Darker-than-Black",
     posterImage: "https://static.tildacdn.com/tild6337-3563-4332-b962-333337636562/_.webp",
+    cardType: "series-Anime",
+  },
+  {
+    nameRu: "Токийские мстители",
+    nameEn: "Tokyo Revengers",
+    titleStatus: "Просмотрено: 1 Сезон 1-6/24 Эпизод",
+    id: "Series-Anime_Tokyo-Revengers",
+    posterImage: "https://static.tildacdn.com/tild3261-3736-4365-a564-383239353861/img.webp",
     cardType: "series-Anime",
   },
   {

@@ -2069,7 +2069,7 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-4 Эпизод",
-          lost: "lost",
+          titleLink: ["boosty", "hiddenarchive/posts/27d440e0-c52e-4061-abfb-f9e5bce940e6"],
         },
         {
           title: "5-8 Эпизод",
@@ -2816,7 +2816,7 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-8 Эпизод",
-          lost: "lost",
+          titleLink: ["boosty", "hiddenarchive/posts/d64351d7-e8db-4dc2-b312-5857b3a9acb2"],
         },
         {
           title: "9-12 Эпизод",
@@ -3592,7 +3592,7 @@ const seriesAnimePopups = {
         },
         {
           title: "5-8 Эпизод",
-          lost: "lost",
+          titleLink: ["boosty", "hiddenarchive/posts/a4e4dec3-cc5b-4c7b-90ae-3c981765b0c5"],
         },
         {
           title: "9-12 Эпизод",

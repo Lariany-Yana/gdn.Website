@@ -280,7 +280,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Джон Уик 3",
       nameEn: "John Wick: Chapter 3 – Parabellum",
-      titleLost: "lost",
+      titleLink: ["boosty", "hiddenarchive/posts/9f40b936-052b-4e3f-a923-119a489d4faf"],
       id: "Fullmeter-Movie_John-Wick-3",
       posterImage: "https://static.tildacdn.com/tild3866-3836-4535-b966-653762323834/img.webp",
       cardType: "fullmeter-Movie",
