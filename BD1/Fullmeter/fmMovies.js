@@ -2560,6 +2560,16 @@ const fullmeterMovie = [
     cardType: "fullmeter-Movie",
   },
   {
+    nameRu: "Пока не сыграл в ящик",
+    nameEn: "The Bucket List",
+    donutTerms: "donut-lvl-3",
+    titleLink: ["vk", "456241866?t=2h14m31s"],
+    player: ["vk", "456241866", "0fd0ccb60ca2d898", "2h14m31s"],
+    id: "Fullmeter-Movie_The-Bucket-List",
+    posterImage: "https://static.tildacdn.com/tild3861-3232-4430-b534-333434383664/img.webp",
+    cardType: "fullmeter-Movie",
+  },
+  {
     nameRu: "Помни",
     nameEn: "Memento",
     titleLost: "lost",

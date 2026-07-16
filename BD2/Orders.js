@@ -133,6 +133,7 @@ const ordersDatabase = [
         nickname: "Ekemlyr",
         slot: "1",
         date: "29.03.26",
+        was: "was",
       },
       {
         nickname: "Ekemlyr",
@@ -161,20 +162,6 @@ const ordersDatabase = [
         nickname: "Ториан",
         slot: "1.5",
         date: "09.07.25",
-      },
-    ],
-  },
-  {
-    nameRu: "Пока не сыграл в ящик",
-    nameEn: "The Bucket List",
-    orderRemark: "Фильм",
-    cardType: "order-during",
-    id: "order_The-Bucket-List",
-    items: [
-      {
-        nickname: "Кирвин",
-        slot: "1",
-        date: "10.06.25",
       },
     ],
   },
@@ -1429,8 +1416,23 @@ const ordersDatabase = [
   //#endregion
   //#region ~Просмотренное~
   {
+    nameRu: "Пока не сыграл в ящик",
+    nameEn: "The Bucket List",
+    orderRemark: "Фильм",
+    cardType: "order-finished",
+    items: [
+      {
+        nickname: "Кирвин",
+        slot: "1",
+        date: "10.06.25",
+        was: "was",
+      },
+    ],
+  },
+  {
     nameRu: "Головокружение",
     nameEn: "Vertigo",
+    orderRemark: "Фильм",
     cardType: "order-finished",
     items: [
       {

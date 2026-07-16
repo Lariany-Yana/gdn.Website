@@ -2246,4 +2246,16 @@ const amusementGamesPopups = {
       ],
     },
   ],
+  "Amusement-Games_Warhammer-40K-Rogue-Trader": [
+    {
+      seasonName: "",
+      items: [
+        {
+          title: "1 Эпизод",
+          titleLink: ["vk", "456241866?t=11m24s"],
+          player: ["vk", "456241866", "0fd0ccb60ca2d898", "0h11m24s"],
+        },
+      ],
+    },
+  ],
 };

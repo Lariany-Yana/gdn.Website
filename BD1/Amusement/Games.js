@@ -650,4 +650,12 @@ const amusementGames = [
     posterImage: "https://static.tildacdn.com/tild3166-3065-4361-a164-333963646633/Undertale.webp",
     cardType: "amusement-Game",
   },
+  {
+    nameRu: "Warhammer 40 000: Rogue Trader",
+    titleStatus: "Наиграно: 2 Часа",
+    donutTerms: "donut-lvl-3",
+    id: "Amusement-Games_Warhammer-40K-Rogue-Trader",
+    posterImage: "https://static.tildacdn.com/tild3263-3431-4363-a433-363131613736/img.webp",
+    cardType: "amusement-Game",
+  },
 ];

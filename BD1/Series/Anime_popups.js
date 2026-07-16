@@ -3810,7 +3810,7 @@ const seriesAnimePopups = {
         },
         {
           title: "16-19 Эпизод",
-          lost: "lost",
+          titleLink: ["boosty", "hiddenarchive/posts/31248918-31f0-42a2-847d-5b51f78deb96"],
         },
         {
           title: "20-21 Эпизод",
@@ -8221,6 +8221,21 @@ const seriesAnimePopups = {
       ],
     },
   ],
+  "Series-Anime_Tokyo-Revengers": [
+    {
+      seasonName: "1 Сезон",
+      items: [
+        {
+          title: "1-4 Эпизод",
+          titleLink: ["boosty", "hiddenarchive/posts/2c56bf79-bd8f-4252-823a-74ae90936e39"],
+        },
+        {
+          title: "5-6 Эпизод",
+          titleLink: ["boosty", "hiddenarchive/posts/3a157542-be0c-4d5d-a844-cf94d123998d"],
+        },
+      ],
+    },
+  ],
   "Series-Anime_Toriko": [
     {
       seasonName: "1 Сезон",
@@ -8555,7 +8570,7 @@ const seriesAnimePopups = {
         },
         {
           title: "53-56 Эпизод",
-          lost: "lost",
+          titleLink: ["boosty", "hiddenarchive/posts/6fef24d6-33fc-4db2-a631-c3d35f92bbbb"],
         },
         {
           title: "57-60 Эпизод",
