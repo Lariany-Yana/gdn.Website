@@ -54,8 +54,7 @@ const scheduleDatabase = [
   },
   // Пятница
   {
-    nameRu: "Tainted Grail: The Fall of Avalon",
-    scheduleRemark: "Игра × Начало в 16:00? по МСК",
+    nameRu: "Стрим не состоялся :[",
     scheduleType: "schedule-current",
     date: "17.07.26",
   },
