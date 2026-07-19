@@ -4,7 +4,7 @@ const scheduleDatabase = [
   {
     nameRu: "Название",
     nameEn: "Название",
-    scheduleRemark: " × Начало в 15:00 по МСК",
+    scheduleRemark: " × Начало в 16:00 по МСК",
     scheduleType: "schedule-current",
     date: "00.06.26",
   },
@@ -54,7 +54,7 @@ const scheduleDatabase = [
   },
   // Пятница
   {
-    nameRu: "Стрим не состоялся :[",
+    nameRu: "Стрим не состоялся",
     scheduleType: "schedule-current",
     date: "17.07.26",
   },
@@ -66,7 +66,9 @@ const scheduleDatabase = [
   },
   // Воскресенье
   {
-    nameRu: "Стрим вполне вероятен",
+    nameRu: "Дружба — это чудо",
+    nameEn: "My Little Pony: Friendship is Magic",
+    scheduleRemark: "Мультсериал × Начало в 16:00 по МСК",
     scheduleType: "schedule-current",
     date: "19.07.26",
   },
