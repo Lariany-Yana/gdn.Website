@@ -66,9 +66,9 @@ const scheduleDatabase = [
   },
   // Воскресенье
   {
-    nameRu: "Дружба — это чудо",
-    nameEn: "My Little Pony: Friendship is Magic",
-    scheduleRemark: "Мультсериал × Начало в 16:00 по МСК",
+    nameRu: "Бездарная Нана",
+    nameEn: "Munou na Nana / Talentless Nana",
+    scheduleRemark: "Манга × Начало в 16:00 по МСК",
     scheduleType: "schedule-current",
     date: "19.07.26",
   },
