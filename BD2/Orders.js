@@ -18,6 +18,41 @@ const ordersDatabase = [
 
   //#region ~В процессе~
   {
+    nameRu: "Crusader Kings III",
+    orderRemark: "Игра",
+    personalOrder: "user_Izida",
+    cardType: "order-during",
+    id: "order_Crusader-Kings-3",
+    items: [
+      {
+        nickname: "Izida-Sama",
+        slot: "1",
+        date: "06.06.26",
+        was: "was",
+      },
+      {
+        nickname: "Izida-Sama",
+        slot: "1",
+        date: "06.06.26",
+      },
+    ],
+  },
+  {
+    nameRu: "Бездарная Нана",
+    nameEn: "Munou na Nana",
+    orderRemark: "Манга × Прочитано: 1-8/122 Главы",
+    cardType: "order-during",
+    id: "order_Munou-na-Nana",
+    items: [
+      {
+        nickname: "Эклер",
+        slot: "1", // 1-10 Главы
+        date: "Без даты",
+        was: "was",
+      },
+    ],
+  },
+  {
     nameRu: "Семь смертных грехов",
     nameEn: "Nanatsu no Taizai / The Seven Deadly Sins",
     orderRemark: "Аниме × В заказе: 1 Сезон 17-24/24 Эпизод",
@@ -998,20 +1033,6 @@ const ordersDatabase = [
         nickname: "Nightmare336",
         slot: "3.25",
         date: "24.05.26",
-      },
-    ],
-  },
-  {
-    nameRu: "Crusader Kings III",
-    orderRemark: "Игра",
-    personalOrder: "user_Izida",
-    cardType: "order-waiting",
-    id: "order_Crusader-Kings-3",
-    items: [
-      {
-        nickname: "Izida-Sama",
-        slot: "2",
-        date: "06.06.26",
       },
     ],
   },

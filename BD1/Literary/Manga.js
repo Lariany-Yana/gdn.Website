@@ -9,6 +9,15 @@ const literatureManga = [
     cardType: "literature-Manga",
   },
   {
+    nameRu: "Бездарная Нана",
+    nameEn: "Munou na Nana",
+    titleStatus: "Прочитано: 1-8/122 Главы",
+    donutTerms: "donut-lvl-3",
+    id: "Literary-Manga_Munou-na-Nana",
+    posterImage: "https://static.tildacdn.com/tild6365-3262-4734-a132-666230306437/img.webp",
+    cardType: "literature-Manga",
+  },
+  {
     nameRu: "Берсерк",
     nameEn: "Berserk",
     titleStatus: "Прочитано: 1-359/↻ Главы",
@@ -23,15 +32,6 @@ const literatureManga = [
     titleStatus: "Прочитано: До финала",
     id: "Literary-Manga_Blame",
     posterImage: "https://static.tildacdn.com/tild3066-3461-4434-a234-396430373239/_Blame.webp",
-    cardType: "literature-Manga",
-  },
-  {
-    nameRu: "Нойз",
-    nameEn: "NOiSE",
-    titleStatus: "Прочитано: До финала",
-    titleLink: ["boosty", "hiddenarchive/posts/8d5abd28-5eb8-463a-bd38-48b37fd2b2b1"],
-    id: "Literary-Manga_NOiSE",
-    posterImage: "https://static.tildacdn.com/tild3833-3364-4134-b636-656636313731/img.webp",
     cardType: "literature-Manga",
   },
   {
@@ -198,6 +198,15 @@ const literatureManga = [
     donutTerms: "donut-lvl-1",
     id: "Literary-Manga_Steel-Ball-Run",
     posterImage: "https://static.tildacdn.com/tild3566-6532-4363-b232-353737663231/_JoJos_Bizarre_Adven.webp",
+    cardType: "literature-Manga",
+  },
+  {
+    nameRu: "Нойз",
+    nameEn: "NOiSE",
+    titleStatus: "Прочитано: До финала",
+    titleLink: ["boosty", "hiddenarchive/posts/8d5abd28-5eb8-463a-bd38-48b37fd2b2b1"],
+    id: "Literary-Manga_NOiSE",
+    posterImage: "https://static.tildacdn.com/tild3833-3364-4134-b636-656636313731/img.webp",
     cardType: "literature-Manga",
   },
   {

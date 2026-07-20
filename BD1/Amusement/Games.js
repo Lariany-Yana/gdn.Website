@@ -78,6 +78,14 @@ const amusementGames = [
     cardType: "amusement-Game",
   },
   {
+    nameRu: "Crusader Kings III",
+    titleStatus: "Наиграно: 2 Часа",
+    donutTerms: "donut-lvl-3",
+    id: "Amusement-Games_Crusader-Kings-3",
+    posterImage: "https://static.tildacdn.com/tild3934-3562-4234-b865-343930316639/img.webp",
+    cardType: "amusement-Game",
+  },
+  {
     nameRu: "Cuphead",
     titleStatus: "Наиграно: До финала + DLC",
     donutTerms: "donut-lvl-1",

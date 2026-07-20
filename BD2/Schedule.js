@@ -10,70 +10,6 @@ const scheduleDatabase = [
   },
 	*/
   //#endregion
-
-  // Понедельник
-  {
-    nameRu: "Стрим невозможен",
-    scheduleType: "schedule-current",
-    date: "13.07.26",
-  },
-  // Вторник
-  {
-    nameRu: "Стрим не состоялся",
-    scheduleType: "schedule-current",
-    date: "14.07.26",
-  },
-  // Среда
-  {
-    nameRu: "Викинги",
-    nameEn: "Vikings",
-    scheduleRemark: "Сериал × 3 Сезон 8-10 Эпизод",
-    scheduleType: "schedule-current",
-    date: "15.07.26",
-  },
-  {
-    nameRu: "Головокружение",
-    nameEn: "Vertigo",
-    scheduleRemark: "Фильм",
-    scheduleType: "schedule-current",
-    date: "15.07.26",
-  },
-  // Четверг
-  {
-    nameRu: "Warhammer 40 000: Rogue Trader",
-    scheduleRemark: "Игра",
-    scheduleType: "schedule-current",
-    date: "16.07.26",
-  },
-  {
-    nameRu: "Пока не сыграл в ящик",
-    nameEn: "The Bucket List",
-    scheduleRemark: "Фильм",
-    scheduleType: "schedule-current",
-    date: "16.07.26",
-  },
-  // Пятница
-  {
-    nameRu: "Стрим не состоялся",
-    scheduleType: "schedule-current",
-    date: "17.07.26",
-  },
-  // Суббота
-  {
-    nameRu: "Стрим невозможен",
-    scheduleType: "schedule-current",
-    date: "18.07.26",
-  },
-  // Воскресенье
-  {
-    nameRu: "Бездарная Нана",
-    nameEn: "Munou na Nana / Talentless Nana",
-    scheduleRemark: "Манга × Начало в 16:00 по МСК",
-    scheduleType: "schedule-current",
-    date: "19.07.26",
-  },
-  //#region Июль
-  /* ШАБЛОН
   // Понедельник
   {
     nameRu: "Стрим невозможен",
@@ -116,6 +52,9 @@ const scheduleDatabase = [
     scheduleType: "schedule-current",
     date: "26.07.26",
   },
+
+  //#region Июль
+  /* ШАБЛОН
   // Понедельник
   {
     nameRu: "Стрим невозможен",
@@ -2557,6 +2496,73 @@ const scheduleDatabase = [
     scheduleRemark: "Аниме × 1 Сезон 1-6 Эпизод",
     scheduleType: "schedule-past",
     date: "12.07.26",
+  },
+  // Понедельник
+  {
+    nameRu: "Стрим невозможен",
+    scheduleType: "schedule-past",
+    date: "13.07.26",
+  },
+  // Вторник
+  {
+    nameRu: "Стрим не состоялся",
+    scheduleType: "schedule-past",
+    date: "14.07.26",
+  },
+  // Среда
+  {
+    nameRu: "Викинги",
+    nameEn: "Vikings",
+    scheduleRemark: "Сериал × 3 Сезон 8-10 Эпизод",
+    scheduleType: "schedule-past",
+    date: "15.07.26",
+  },
+  {
+    nameRu: "Головокружение",
+    nameEn: "Vertigo",
+    scheduleRemark: "Фильм",
+    scheduleType: "schedule-past",
+    date: "15.07.26",
+  },
+  // Четверг
+  {
+    nameRu: "Warhammer 40 000: Rogue Trader",
+    scheduleRemark: "Игра",
+    scheduleType: "schedule-past",
+    date: "16.07.26",
+  },
+  {
+    nameRu: "Пока не сыграл в ящик",
+    nameEn: "The Bucket List",
+    scheduleRemark: "Фильм",
+    scheduleType: "schedule-past",
+    date: "16.07.26",
+  },
+  // Пятница
+  {
+    nameRu: "Стрим не состоялся",
+    scheduleType: "schedule-past",
+    date: "17.07.26",
+  },
+  // Суббота
+  {
+    nameRu: "Стрим невозможен",
+    scheduleType: "schedule-past",
+    date: "18.07.26",
+  },
+  // Воскресенье
+  {
+    nameRu: "Crusader Kings III",
+    scheduleRemark: "Игра",
+    scheduleType: "schedule-past",
+    date: "19.07.26",
+  },
+  {
+    nameRu: "Бездарная Нана",
+    nameEn: "Munou na Nana / Talentless Nana",
+    scheduleRemark: "Манга × 1-8 Главы",
+    scheduleType: "schedule-past",
+    date: "19.07.26",
   },
   //#endregion
 ];

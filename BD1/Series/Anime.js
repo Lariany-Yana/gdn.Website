@@ -116,7 +116,7 @@ const seriesAnime = [
   },
   {
     nameRu: "Бездарная Нана",
-    nameEn: "Munou na Nana / Talentless Nana",
+    nameEn: "Talentless Nana",
     titleStatus: "Просмотрено: 1-13/13 Эпизод",
     id: "Series-Anime_Talentless-Nana",
     posterImage: "https://static.tildacdn.com/tild6537-6536-4634-b465-356363643032/_.webp",

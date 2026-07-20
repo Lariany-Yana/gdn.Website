@@ -35,6 +35,18 @@ const literatureMangaPopups = {
       ],
     },
   ],
+  "Literary-Manga_Munou-na-Nana": [
+    {
+      seasonName: "",
+      items: [
+        {
+          title: "1-8 Главы",
+          titleLink: ["vk", "456241867?t=12m52s"],
+          player: ["vk", "456241867", "57835aad5977588d", "2h31m48s"],
+        },
+      ],
+    },
+  ],
   "Literary-Manga_Berserk": [
     {
       seasonName: "",

@@ -330,6 +330,18 @@ const amusementGamesPopups = {
       ],
     },
   ],
+  "Amusement-Games_Crusader-Kings-3": [
+    {
+      seasonName: "",
+      items: [
+        {
+          title: "1 Эпизод",
+          titleLink: ["vk", "456241867?t=12m52s"],
+          player: ["vk", "456241867", "57835aad5977588d", "0h12m52s"],
+        },
+      ],
+    },
+  ],
   "Amusement-Games_Cuphead": [
     {
       seasonName: "",
