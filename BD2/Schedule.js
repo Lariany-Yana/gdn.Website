@@ -20,25 +20,25 @@ const scheduleDatabase = [
   {
     nameRu: "Дружба — это чудо",
     nameEn: "My Little Pony: Friendship is Magic",
-    scheduleRemark: "Мультсериал × Начало в 17:00 по МСК",
+    scheduleRemark: "Мультсериал × Разные эпизоды",
     scheduleType: "schedule-current",
     date: "21.07.26",
   },
   {
     nameRu: "Рим",
     nameEn: "Rome",
-    scheduleRemark: "Сериал × Начало в 19:00 по МСК",
-    scheduleType: "schedule-current",
-    date: "21.07.26",
-  },
-  {
-    nameRu: "Невеста чародея",
-    nameEn: "Mahoutsukai no Yome",
-    scheduleRemark: "Аниме × Начало в 21:00 по МСК",
+    scheduleRemark: "Сериал × 1 Сезон 5-6 Эпизод",
     scheduleType: "schedule-current",
     date: "21.07.26",
   },
   // Среда
+  {
+    nameRu: "Невеста чародея",
+    nameEn: "Mahoutsukai no Yome",
+    scheduleRemark: "Аниме × Начало в 14:00? по МСК",
+    scheduleType: "schedule-current",
+    date: "21.07.26",
+  },
   {
     nameRu: "Бумажный дом",
     nameEn: "La casa de papel",

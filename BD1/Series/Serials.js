@@ -522,7 +522,7 @@ const seriesSerials = [
   {
     nameRu: "Рим",
     nameEn: "Rome",
-    titleStatus: "Просмотрено: 1 Сезон 1-4/12 Эпизод",
+    titleStatus: "Просмотрено: 1 Сезон 1-6/12 Эпизод",
     donutTerms: "donut-lvl-3",
     id: "Series-Serials_Rome",
     posterImage: "https://static.tildacdn.com/tild3362-3139-4838-b139-373436313134/img.webp",

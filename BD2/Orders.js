@@ -53,6 +53,21 @@ const ordersDatabase = [
     ],
   },
   {
+    nameRu: "Дружба — это чудо",
+    nameEn: "My Little Pony: Friendship is Magic",
+    orderRemark: "Мультсериал",
+    cardType: "order-during",
+    id: "order_My-Little-Pony",
+    items: [
+      {
+        nickname: "Эклер",
+        slot: "1",
+        date: "Без даты",
+        was: "was",
+      },
+    ],
+  },
+  {
     nameRu: "Семь смертных грехов",
     nameEn: "Nanatsu no Taizai / The Seven Deadly Sins",
     orderRemark: "Аниме × В заказе: 1 Сезон 17-24/24 Эпизод",
@@ -81,7 +96,7 @@ const ordersDatabase = [
   {
     nameRu: "Рим",
     nameEn: "Rome",
-    orderRemark: "Сериал × В заказе: 1 Сезон 5-12/12 Эпизод",
+    orderRemark: "Сериал × В заказе: 1 Сезон 7-12/12 Эпизод",
     personalOrder: "user_Misty",
     cardType: "order-during",
     id: "order_Rome-1",
@@ -100,7 +115,13 @@ const ordersDatabase = [
       },
       {
         nickname: "Мисти",
-        slot: "2", // 1 Сезон 5-8 Эпизод
+        slot: "1", // 1 Сезон 5-6 Эпизод
+        date: "10.06.25",
+        was: "was",
+      },
+      {
+        nickname: "Мисти",
+        slot: "1", // 1 Сезон 7-8 Эпизод
         date: "10.06.25",
       },
       {

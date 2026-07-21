@@ -727,6 +727,11 @@ const seriesCartoonsPopups = {
           titleLink: ["vk", "456241714?t=1h52m40s"],
           player: ["vk", "456241714", "554da5bad90bff92", "1h52m40s"],
         },
+        {
+          title: "Разные эпизоды от 21.07.2026",
+          titleLink: ["vk", "456241868?t=2h6m21s"],
+          player: ["vk", "456241868", "6e306a0b2b8945f9", "2h6m21s"],
+        },
       ],
     },
     { pasteCard: "Fullmeter-Equestria-Girls" },
