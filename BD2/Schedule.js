@@ -18,7 +18,23 @@ const scheduleDatabase = [
   },
   // Вторник
   {
-    nameRu: "Стрим вполне вероятен",
+    nameRu: "Дружба — это чудо",
+    nameEn: "My Little Pony: Friendship is Magic",
+    scheduleRemark: "Мультсериал × Начало в 16:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "21.07.26",
+  },
+  {
+    nameRu: "Рим",
+    nameEn: "Rome",
+    scheduleRemark: "Сериал × Начало в 18:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "21.07.26",
+  },
+  {
+    nameRu: "Невеста чародея",
+    nameEn: "Mahoutsukai no Yome",
+    scheduleRemark: "Аниме × Начало в 20:00 по МСК",
     scheduleType: "schedule-current",
     date: "21.07.26",
   },
