@@ -661,9 +661,11 @@ button {
   font-weight: bold !important;
   &.donut-lvl-1 {
     color: var(--DONUT-color-1);
+		&::after {content: " и выше";}
   }
   &.donut-lvl-2 {
     color: var(--DONUT-color-2);
+		&::after {content: " и выше";}
   }
   &.donut-lvl-3 {
     color: var(--DONUT-color-3);
