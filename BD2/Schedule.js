@@ -37,7 +37,7 @@ const scheduleDatabase = [
     nameEn: "Mahoutsukai no Yome",
     scheduleRemark: "Аниме × Начало в 14:00? по МСК",
     scheduleType: "schedule-current",
-    date: "21.07.26",
+    date: "22.07.26",
   },
   {
     nameRu: "Бумажный дом",
