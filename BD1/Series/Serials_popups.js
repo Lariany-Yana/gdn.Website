@@ -267,6 +267,16 @@ const seriesSerialsPopups = {
         },
       ],
     },
+    {
+      seasonName: "1 Сезон",
+      items: [
+        {
+          title: "1-2 Эпизод",
+          titleLink: ["vk", "456241869?t=12m5s"],
+          player: ["vk", "456241869", "2410b0a840546cea", "0h12m5s"],
+        },
+      ],
+    },
   ],
 
   "Series-Serials_WandaVision": [
@@ -3605,6 +3615,11 @@ const seriesSerialsPopups = {
           title: "1-2 Эпизод",
           titleLink: ["vk", "456241863?t=2h5m42s"],
           player: ["vk", "456241863", "3569ae36c8ce89b8", "2h5m42s"],
+        },
+        {
+          title: "3-6 Эпизод",
+          titleLink: ["vk", "456241869?t=12m5s"],
+          player: ["vk", "456241869", "2410b0a840546cea", "1h56m21s"],
         },
       ],
     },

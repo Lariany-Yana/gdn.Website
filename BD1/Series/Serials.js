@@ -47,7 +47,7 @@ const seriesSerials = [
   {
     nameRu: "Бумажный дом",
     nameEn: "La casa de papel",
-    titleStatus: "Просмотрено: 1 Сезон 1-13/13 Эпизод",
+    titleStatus: "Просмотрено: 1 Сезон, 2 Сезон 1-2/9 Эпизод",
     donutTerms: "donut-lvl-2",
     id: "Series-Serials_La-casa-de-papel",
     posterImage: "https://static.tildacdn.com/tild6332-3965-4736-b234-393962636438/_.webp",
@@ -583,7 +583,7 @@ const seriesSerials = [
   {
     nameRu: "Соколиный глаз",
     nameEn: "Hawkeye",
-    titleStatus: "Просмотрено: 1-2/6 Эпизод",
+    titleStatus: "Просмотрено: 1-6/6 Эпизод",
     donutTerms: "donut-lvl-3",
     id: "Series-Serials_Hawkeye",
     posterImage: "https://static.tildacdn.com/tild6334-3931-4238-a430-663731343036/img.webp",

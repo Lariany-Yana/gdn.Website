@@ -18,52 +18,43 @@ const ordersDatabase = [
 
   //#region ~В процессе~
   {
-    nameRu: "Crusader Kings III",
-    orderRemark: "Игра",
-    personalOrder: "user_Izida",
+    nameRu: "Невеста чародея",
+    nameEn: "Mahoutsukai no Yome",
+    orderRemark: "Аниме × В заказе: 1 Сезон 9-24/24 Эпизод",
     cardType: "order-during",
-    id: "order_Crusader-Kings-3",
+    id: "order_Mahoutsukai-no-Yome",
     items: [
       {
-        nickname: "Izida-Sama",
-        slot: "1",
-        date: "06.06.26",
+        nickname: "АйзенBBC",
+        slot: "1", // 1 Сезон 1-4 Эпизод
+        date: "25.05.25",
         was: "was",
       },
       {
-        nickname: "Izida-Sama",
-        slot: "1",
-        date: "06.06.26",
-      },
-    ],
-  },
-  {
-    nameRu: "Бездарная Нана",
-    nameEn: "Munou na Nana",
-    orderRemark: "Манга × Прочитано: 1-8/122 Главы",
-    cardType: "order-during",
-    id: "order_Munou-na-Nana",
-    items: [
-      {
-        nickname: "Эклер",
-        slot: "1", // 1-10 Главы
-        date: "Без даты",
+        nickname: "АйзенBBC",
+        slot: "1", // 1 Сезон 5-8 Эпизод
+        date: "23.07.25",
         was: "was",
       },
-    ],
-  },
-  {
-    nameRu: "Дружба — это чудо",
-    nameEn: "My Little Pony: Friendship is Magic",
-    orderRemark: "Мультсериал",
-    cardType: "order-during",
-    id: "order_My-Little-Pony",
-    items: [
       {
-        nickname: "Эклер",
-        slot: "1",
-        date: "Без даты",
-        was: "was",
+        nickname: "АйзенBBC",
+        slot: "1", // 1 Сезон 9-12 Эпизод
+        date: "24.08.25",
+      },
+      {
+        nickname: "АйзенBBC",
+        slot: "1", // 1 Сезон 13-16 Эпизод
+        date: "21.09.25",
+      },
+      {
+        nickname: "АйзенBBC",
+        slot: "1", // 1 Сезон 17-20 Эпизод
+        date: "21.10.25",
+      },
+      {
+        nickname: "АйзенBBC",
+        slot: "1", // 1 Сезон 21-24 Эпизод
+        date: "21.11.25",
       },
     ],
   },
@@ -132,50 +123,28 @@ const ordersDatabase = [
     ],
   },
   {
-    nameRu: "Опорный Пункт",
-    nameEn: "FireBase",
-    orderRemark: "Мини-Фильм",
+    nameRu: "Бумажный дом",
+    nameEn: "La casa de papel",
+    orderRemark: "Сериал × В заказе: 2 Сезон 3-5/9 Эпизод",
     cardType: "order-during",
-    id: "order_FireBase",
+    id: "order_La-casa-de-papel-2",
     items: [
       {
-        nickname: "Ториан",
-        slot: "0.25",
-        date: "23.05.25",
-      },
-    ],
-  },
-  {
-    nameRu: "Ракка",
-    nameEn: "Rakka",
-    orderRemark: "Мини-Фильм",
-    cardType: "order-during",
-    id: "order_Rakka",
-    items: [
-      {
-        nickname: "Ториан",
-        slot: "0.25",
-        date: "23.05.25",
-      },
-    ],
-  },
-  {
-    nameRu: "Соколиный глаз",
-    nameEn: "Hawkeye",
-    orderRemark: "Сериал × В заказе: 1 Сезон 3-6/6 Эпизод",
-    cardType: "order-during",
-    id: "order_Hawkeye",
-    items: [
-      {
-        nickname: "Сулейка",
-        slot: "1", // 1 Сезон 1-2 Эпизод
-        date: "23.05.25",
+        nickname: "lucky_god_man",
+        slot: "0.5", // 2 Сезон 1 Эпизод
+        date: "20.08.25",
         was: "was",
       },
       {
-        nickname: "Сулейка",
-        slot: "2", // 1 Сезон 3-6 Эпизод
-        date: "23.05.25",
+        nickname: "lucky_god_man",
+        slot: "0.5", // 2 Сезон 2 Эпизод
+        date: "28.08.25",
+        was: "was",
+      },
+      {
+        nickname: "lucky_god_man",
+        slot: "1.5", // 2 Сезон 3-5 Эпизод
+        date: "28.08.25",
       },
     ],
   },
@@ -209,6 +178,26 @@ const ordersDatabase = [
     ],
   },
   {
+    nameRu: "Crusader Kings III",
+    orderRemark: "Игра",
+    personalOrder: "user_Izida",
+    cardType: "order-during",
+    id: "order_Crusader-Kings-3",
+    items: [
+      {
+        nickname: "Izida-Sama",
+        slot: "1",
+        date: "06.06.26",
+        was: "was",
+      },
+      {
+        nickname: "Izida-Sama",
+        slot: "1",
+        date: "06.06.26",
+      },
+    ],
+  },
+  {
     nameRu: "Tainted Grail: The Fall of Avalon",
     orderRemark: "Игра",
     cardType: "order-during",
@@ -222,43 +211,30 @@ const ordersDatabase = [
     ],
   },
   {
-    nameRu: "Невеста чародея",
-    nameEn: "Mahoutsukai no Yome",
-    orderRemark: "Аниме × В заказе: 1 Сезон 9-24/24 Эпизод",
+    nameRu: "Опорный Пункт",
+    nameEn: "FireBase",
+    orderRemark: "Мини-Фильм",
     cardType: "order-during",
-    id: "order_Mahoutsukai-no-Yome",
+    id: "order_FireBase",
     items: [
       {
-        nickname: "АйзенBBC",
-        slot: "1", // 1 Сезон 1-4 Эпизод
-        date: "25.05.25",
-        was: "was",
+        nickname: "Ториан",
+        slot: "0.25",
+        date: "23.05.25",
       },
+    ],
+  },
+  {
+    nameRu: "Ракка",
+    nameEn: "Rakka",
+    orderRemark: "Мини-Фильм",
+    cardType: "order-during",
+    id: "order_Rakka",
+    items: [
       {
-        nickname: "АйзенBBC",
-        slot: "1", // 1 Сезон 5-8 Эпизод
-        date: "23.07.25",
-        was: "was",
-      },
-      {
-        nickname: "АйзенBBC",
-        slot: "1", // 1 Сезон 9-12 Эпизод
-        date: "24.08.25",
-      },
-      {
-        nickname: "АйзенBBC",
-        slot: "1", // 1 Сезон 13-16 Эпизод
-        date: "21.09.25",
-      },
-      {
-        nickname: "АйзенBBC",
-        slot: "1", // 1 Сезон 17-20 Эпизод
-        date: "21.10.25",
-      },
-      {
-        nickname: "АйзенBBC",
-        slot: "1", // 1 Сезон 21-24 Эпизод
-        date: "21.11.25",
+        nickname: "Ториан",
+        slot: "0.25",
+        date: "23.05.25",
       },
     ],
   },
@@ -277,47 +253,32 @@ const ordersDatabase = [
     ],
   },
   {
-    nameRu: "Летнее время",
-    nameEn: "Summertime Render",
-    orderRemark: "Аниме × В заказе: 1 Сезон 1-5/25 Эпизод",
+    nameRu: "Бездарная Нана",
+    nameEn: "Munou na Nana",
+    orderRemark: "Манга × Прочитано: 1-8/122 Главы",
     cardType: "order-during",
-    id: "order_Summertime-Render",
+    id: "order_Munou-na-Nana",
     items: [
       {
-        nickname: "Krang",
-        slot: "1.25", // 1 Сезон 1-5 Эпизод
-        date: "27.07.25",
+        nickname: "Эклер",
+        slot: "1", // 1-10 Главы
+        date: "Без даты",
+        was: "was",
       },
     ],
   },
   {
-    nameRu: "Бумажный дом",
-    nameEn: "La casa de papel",
-    orderRemark: "Сериал × В заказе: 2 Сезон 1-5/9 Эпизод",
+    nameRu: "Дружба — это чудо",
+    nameEn: "My Little Pony: Friendship is Magic",
+    orderRemark: "Мультсериал",
     cardType: "order-during",
-    id: "order_La-casa-de-papel-2",
+    id: "order_My-Little-Pony",
     items: [
       {
-        nickname: "lucky_god_man",
-        slot: "0.5", // 2 Сезон 1 Эпизод
-        date: "20.08.25",
-      },
-      {
-        nickname: "lucky_god_man",
-        slot: "2", // 2 Сезон 2-5 Эпизод
-        date: "28.08.25",
-      },
-    ],
-  },
-  {
-    nameRu: "Годнеслот Тарковского",
-    cardType: "order-during",
-    id: "order_Tarkovsky",
-    items: [
-      {
-        nickname: "Кирвин",
+        nickname: "Эклер",
         slot: "1",
-        date: "23.02.26",
+        date: "Без даты",
+        was: "was",
       },
     ],
   },
@@ -459,7 +420,6 @@ const ordersDatabase = [
   },
   {
     nameRu: "The Alters",
-    nameEn: "(16 Июля выходит большое DLC)",
     orderRemark: "Игра",
     cardType: "order-waiting",
     id: "order_The-Alters",
@@ -484,6 +444,20 @@ const ordersDatabase = [
       {
         nickname: "Madaofist",
         slot: "1.75",
+        date: "27.07.25",
+      },
+    ],
+  },
+  {
+    nameRu: "Летнее время",
+    nameEn: "Summertime Render",
+    orderRemark: "Аниме × В заказе: 1 Сезон 1-5/25 Эпизод",
+    cardType: "order-waiting",
+    id: "order_Summertime-Render",
+    items: [
+      {
+        nickname: "Krang",
+        slot: "1.25", // 1 Сезон 1-5 Эпизод
         date: "27.07.25",
       },
     ],
@@ -842,6 +816,18 @@ const ordersDatabase = [
       {
         nickname: "Бурят",
         slot: "4.5",
+        date: "23.02.26",
+      },
+    ],
+  },
+  {
+    nameRu: "Годнеслот Тарковского",
+    cardType: "order-waiting",
+    id: "order_Tarkovsky",
+    items: [
+      {
+        nickname: "Кирвин",
+        slot: "1",
         date: "23.02.26",
       },
     ],
@@ -1457,6 +1443,20 @@ const ordersDatabase = [
   },
   //#endregion
   //#region ~Просмотренное~
+  {
+    nameRu: "Соколиный глаз",
+    nameEn: "Hawkeye",
+    orderRemark: "Сериал × Просмотрено: 1 Сезон 1-6/6 Эпизод",
+    cardType: "order-finished",
+    items: [
+      {
+        nickname: "Сулейка",
+        slot: "3", // 1 Сезон 1-6 Эпизод
+        date: "23.05.25",
+        was: "was",
+      },
+    ],
+  },
   {
     nameRu: "Пока не сыграл в ящик",
     nameEn: "The Bucket List",
