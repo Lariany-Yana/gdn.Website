@@ -48,22 +48,22 @@ const scheduleDatabase = [
   },
   // Четверг
   {
-    nameRu: "Семь смертных грехов",
-    nameEn: "Nanatsu no Taizai / The Seven Deadly Sins",
-    scheduleRemark: "Аниме × Начало в ??:00 по МСК",
-    scheduleType: "schedule-current",
-    date: "23.07.26",
-  },
-  {
-    nameRu: "Невеста чародея",
-    nameEn: "Mahoutsukai no Yome",
-    scheduleRemark: "Аниме × Начало в ??:00 по МСК",
+    nameRu: "Стрим не состоялся",
     scheduleType: "schedule-current",
     date: "23.07.26",
   },
   // Пятница
   {
-    nameRu: "Стрим вполне вероятен",
+    nameRu: "Семь смертных грехов",
+    nameEn: "Nanatsu no Taizai / The Seven Deadly Sins",
+    scheduleRemark: "Аниме × Начало в ??:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "24.07.26",
+  },
+  {
+    nameRu: "Невеста чародея",
+    nameEn: "Mahoutsukai no Yome",
+    scheduleRemark: "Аниме × Начало в ??:00 по МСК",
     scheduleType: "schedule-current",
     date: "24.07.26",
   },
