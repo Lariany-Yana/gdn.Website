@@ -56,13 +56,12 @@ const scheduleDatabase = [
   {
     nameRu: "Невеста чародея",
     nameEn: "Mahoutsukai no Yome",
-    scheduleRemark: "Аниме × Начало в 16:00 по МСК",
+    scheduleRemark: "Аниме × 1 Сезон 9-16 Эпизод",
     scheduleType: "schedule-current",
     date: "24.07.26",
   },
   {
-    nameRu: "Warhammer 40 000: Rogue Trader",
-    scheduleRemark: "Игра × Начало в 20:00 по МСК",
+    nameRu: "Покер",
     scheduleType: "schedule-current",
     date: "24.07.26",
   },

@@ -20,7 +20,7 @@ const ordersDatabase = [
   {
     nameRu: "Невеста чародея",
     nameEn: "Mahoutsukai no Yome",
-    orderRemark: "Аниме × В заказе: 1 Сезон 9-24/24 Эпизод",
+    orderRemark: "Аниме × В заказе: 1 Сезон 17-24/24 Эпизод",
     cardType: "order-during",
     id: "order_Mahoutsukai-no-Yome",
     items: [
@@ -40,11 +40,13 @@ const ordersDatabase = [
         nickname: "АйзенBBC",
         slot: "1", // 1 Сезон 9-12 Эпизод
         date: "24.08.25",
+        was: "was",
       },
       {
         nickname: "АйзенBBC",
         slot: "1", // 1 Сезон 13-16 Эпизод
         date: "21.09.25",
+        was: "was",
       },
       {
         nickname: "АйзенBBC",
