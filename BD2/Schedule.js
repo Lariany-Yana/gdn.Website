@@ -54,16 +54,15 @@ const scheduleDatabase = [
   },
   // Пятница
   {
-    nameRu: "Семь смертных грехов",
-    nameEn: "Nanatsu no Taizai / The Seven Deadly Sins",
-    scheduleRemark: "Аниме × Начало в ??:00 по МСК",
+    nameRu: "Невеста чародея",
+    nameEn: "Mahoutsukai no Yome",
+    scheduleRemark: "Аниме × Начало в 16:00 по МСК",
     scheduleType: "schedule-current",
     date: "24.07.26",
   },
   {
-    nameRu: "Невеста чародея",
-    nameEn: "Mahoutsukai no Yome",
-    scheduleRemark: "Аниме × Начало в ??:00 по МСК",
+    nameRu: "Warhammer 40 000: Rogue Trader",
+    scheduleRemark: "Игра × Начало в 20:00 по МСК",
     scheduleType: "schedule-current",
     date: "24.07.26",
   },
@@ -75,7 +74,22 @@ const scheduleDatabase = [
   },
   // Воскресенье
   {
-    nameRu: "Стрим вполне вероятен",
+    nameRu: "Crusader Kings III",
+    scheduleRemark: "Игра × Начало в 14:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "26.07.26",
+  },
+  {
+    nameRu: "Невеста чародея",
+    nameEn: "Mahoutsukai no Yome",
+    scheduleRemark: "Аниме × Начало в 18:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "26.07.26",
+  },
+  {
+    nameRu: "Рим",
+    nameEn: "Rome",
+    scheduleRemark: "Сериал × Начало в 20:00 по МСК",
     scheduleType: "schedule-current",
     date: "26.07.26",
   },
