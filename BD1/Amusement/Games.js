@@ -79,7 +79,7 @@ const amusementGames = [
   },
   {
     nameRu: "Crusader Kings III",
-    titleStatus: "Наиграно: 2 Часа",
+    titleStatus: "Наиграно: 6 Часов",
     donutTerms: "donut-lvl-3",
     id: "Amusement-Games_Crusader-Kings-3",
     posterImage: "https://static.tildacdn.com/tild3934-3562-4234-b865-343930316639/img.webp",

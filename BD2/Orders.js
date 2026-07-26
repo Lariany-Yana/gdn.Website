@@ -18,49 +18,6 @@ const ordersDatabase = [
 
   //#region ~В процессе~
   {
-    nameRu: "Невеста чародея",
-    nameEn: "Mahoutsukai no Yome",
-    orderRemark: "Аниме × В заказе: 1 Сезон 17-24/24 Эпизод",
-    cardType: "order-during",
-    id: "order_Mahoutsukai-no-Yome",
-    items: [
-      {
-        nickname: "АйзенBBC",
-        slot: "1", // 1 Сезон 1-4 Эпизод
-        date: "25.05.25",
-        was: "was",
-      },
-      {
-        nickname: "АйзенBBC",
-        slot: "1", // 1 Сезон 5-8 Эпизод
-        date: "23.07.25",
-        was: "was",
-      },
-      {
-        nickname: "АйзенBBC",
-        slot: "1", // 1 Сезон 9-12 Эпизод
-        date: "24.08.25",
-        was: "was",
-      },
-      {
-        nickname: "АйзенBBC",
-        slot: "1", // 1 Сезон 13-16 Эпизод
-        date: "21.09.25",
-        was: "was",
-      },
-      {
-        nickname: "АйзенBBC",
-        slot: "1", // 1 Сезон 17-20 Эпизод
-        date: "21.10.25",
-      },
-      {
-        nickname: "АйзенBBC",
-        slot: "1", // 1 Сезон 21-24 Эпизод
-        date: "21.11.25",
-      },
-    ],
-  },
-  {
     nameRu: "Семь смертных грехов",
     nameEn: "Nanatsu no Taizai / The Seven Deadly Sins",
     orderRemark: "Аниме × В заказе: 1 Сезон 17-24/24 Эпизод",
@@ -196,6 +153,13 @@ const ordersDatabase = [
         nickname: "Izida-Sama",
         slot: "1",
         date: "06.06.26",
+        was: "was",
+      },
+      {
+        nickname: "26.07.26",
+        slot: "1",
+        date: "В уточнении",
+        was: "owe",
       },
     ],
   },
@@ -1445,6 +1409,50 @@ const ordersDatabase = [
   },
   //#endregion
   //#region ~Просмотренное~
+  {
+    nameRu: "Невеста чародея",
+    nameEn: "Mahoutsukai no Yome",
+    orderRemark: "Аниме × Просмотрено: 1 Сезон 1-24/24 Эпизод",
+    cardType: "order-finished",
+    items: [
+      {
+        nickname: "АйзенBBC",
+        slot: "1", // 1 Сезон 1-4 Эпизод
+        date: "25.05.25",
+        was: "was",
+      },
+      {
+        nickname: "АйзенBBC",
+        slot: "1", // 1 Сезон 5-8 Эпизод
+        date: "23.07.25",
+        was: "was",
+      },
+      {
+        nickname: "АйзенBBC",
+        slot: "1", // 1 Сезон 9-12 Эпизод
+        date: "24.08.25",
+        was: "was",
+      },
+      {
+        nickname: "АйзенBBC",
+        slot: "1", // 1 Сезон 13-16 Эпизод
+        date: "21.09.25",
+        was: "was",
+      },
+      {
+        nickname: "АйзенBBC",
+        slot: "1", // 1 Сезон 17-20 Эпизод
+        date: "21.10.25",
+        was: "was",
+      },
+      {
+        nickname: "АйзенBBC",
+        slot: "1", // 1 Сезон 21-24 Эпизод
+        date: "21.11.25",
+        was: "was",
+      },
+    ],
+  },
   {
     nameRu: "Соколиный глаз",
     nameEn: "Hawkeye",

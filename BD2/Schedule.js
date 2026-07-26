@@ -10,91 +10,7 @@ const scheduleDatabase = [
   },
 	*/
   //#endregion
-  // Понедельник
-  {
-    nameRu: "Стрим невозможен",
-    scheduleType: "schedule-current",
-    date: "20.07.26",
-  },
-  // Вторник
-  {
-    nameRu: "Дружба — это чудо",
-    nameEn: "My Little Pony: Friendship is Magic",
-    scheduleRemark: "Мультсериал × Разные эпизоды",
-    scheduleType: "schedule-current",
-    date: "21.07.26",
-  },
-  {
-    nameRu: "Рим",
-    nameEn: "Rome",
-    scheduleRemark: "Сериал × 1 Сезон 5-6 Эпизод",
-    scheduleType: "schedule-current",
-    date: "21.07.26",
-  },
-  // Среда
-  {
-    nameRu: "Бумажный дом",
-    nameEn: "La casa de papel",
-    scheduleRemark: "Сериал × 2 Сезон 1-2 Эпизод",
-    scheduleType: "schedule-current",
-    date: "22.07.26",
-  },
-  {
-    nameRu: "Соколиный глаз",
-    nameEn: "Hawkeye",
-    scheduleRemark: "Сериал × 1 Сезон 3-6 Эпизод",
-    scheduleType: "schedule-current",
-    date: "22.07.26",
-  },
-  // Четверг
-  {
-    nameRu: "Стрим не состоялся",
-    scheduleType: "schedule-current",
-    date: "23.07.26",
-  },
-  // Пятница
-  {
-    nameRu: "Невеста чародея",
-    nameEn: "Mahoutsukai no Yome",
-    scheduleRemark: "Аниме × 1 Сезон 9-16 Эпизод",
-    scheduleType: "schedule-current",
-    date: "24.07.26",
-  },
-  {
-    nameRu: "Покер",
-    scheduleType: "schedule-current",
-    date: "24.07.26",
-  },
-  // Суббота
-  {
-    nameRu: "Стрим невозможен",
-    scheduleType: "schedule-current",
-    date: "25.07.26",
-  },
-  // Воскресенье
-  {
-    nameRu: "Crusader Kings III",
-    scheduleRemark: "Игра × Начало в 14:00 по МСК",
-    scheduleType: "schedule-current",
-    date: "26.07.26",
-  },
-  {
-    nameRu: "Невеста чародея",
-    nameEn: "Mahoutsukai no Yome",
-    scheduleRemark: "Аниме × Начало в 18:00 по МСК",
-    scheduleType: "schedule-current",
-    date: "26.07.26",
-  },
-  {
-    nameRu: "Рим",
-    nameEn: "Rome",
-    scheduleRemark: "Сериал × Начало в 20:00 по МСК",
-    scheduleType: "schedule-current",
-    date: "26.07.26",
-  },
 
-  //#region Июль
-  /* ШАБЛОН
   // Понедельник
   {
     nameRu: "Стрим невозможен",
@@ -137,8 +53,7 @@ const scheduleDatabase = [
     scheduleType: "schedule-current",
     date: "02.08.26",
   },
-	*/
-  //#endregion
+
   //#region Август
   /* ШАБЛОН
   // Понедельник
@@ -2603,6 +2518,81 @@ const scheduleDatabase = [
     scheduleRemark: "Манга × 1-8 Главы",
     scheduleType: "schedule-past",
     date: "19.07.26",
+  },
+  // Понедельник
+  {
+    nameRu: "Стрим невозможен",
+    scheduleType: "schedule-past",
+    date: "20.07.26",
+  },
+  // Вторник
+  {
+    nameRu: "Дружба — это чудо",
+    nameEn: "My Little Pony: Friendship is Magic",
+    scheduleRemark: "Мультсериал × Разные эпизоды",
+    scheduleType: "schedule-past",
+    date: "21.07.26",
+  },
+  {
+    nameRu: "Рим",
+    nameEn: "Rome",
+    scheduleRemark: "Сериал × 1 Сезон 5-6 Эпизод",
+    scheduleType: "schedule-past",
+    date: "21.07.26",
+  },
+  // Среда
+  {
+    nameRu: "Бумажный дом",
+    nameEn: "La casa de papel",
+    scheduleRemark: "Сериал × 2 Сезон 1-2 Эпизод",
+    scheduleType: "schedule-past",
+    date: "22.07.26",
+  },
+  {
+    nameRu: "Соколиный глаз",
+    nameEn: "Hawkeye",
+    scheduleRemark: "Сериал × 1 Сезон 3-6 Эпизод",
+    scheduleType: "schedule-past",
+    date: "22.07.26",
+  },
+  // Четверг
+  {
+    nameRu: "Стрим не состоялся",
+    scheduleType: "schedule-past",
+    date: "23.07.26",
+  },
+  // Пятница
+  {
+    nameRu: "Невеста чародея",
+    nameEn: "Mahoutsukai no Yome",
+    scheduleRemark: "Аниме × 1 Сезон 9-16 Эпизод",
+    scheduleType: "schedule-past",
+    date: "24.07.26",
+  },
+  {
+    nameRu: "Покер",
+    scheduleType: "schedule-past",
+    date: "24.07.26",
+  },
+  // Суббота
+  {
+    nameRu: "Стрим невозможен",
+    scheduleType: "schedule-past",
+    date: "25.07.26",
+  },
+  // Воскресенье
+  {
+    nameRu: "Crusader Kings III",
+    scheduleRemark: "Игра",
+    scheduleType: "schedule-past",
+    date: "26.07.26",
+  },
+  {
+    nameRu: "Невеста чародея",
+    nameEn: "Mahoutsukai no Yome",
+    scheduleRemark: "Аниме × 1 Сезон 17-24 Эпизод",
+    scheduleType: "schedule-past",
+    date: "26.07.26",
   },
   //#endregion
 ];
