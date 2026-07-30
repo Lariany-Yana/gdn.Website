@@ -31,7 +31,22 @@ const scheduleDatabase = [
   },
   // Четверг
   {
-    nameRu: "Стрим вполне вероятен",
+    nameRu: "Сто девушек, которые очень сильно тебя любят",
+    nameEn: "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
+    scheduleRemark: "Аниме × Начало в 16:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "30.07.26",
+  },
+  {
+    nameRu: "Рим",
+    nameEn: "Rome",
+    scheduleRemark: "Сериал × Начало в 18:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "30.07.26",
+  },
+  {
+    nameRu: "Warhammer 40 000: Rogue Trader",
+    scheduleRemark: "Игра × Начало в 20:00 по МСК",
     scheduleType: "schedule-current",
     date: "30.07.26",
   },

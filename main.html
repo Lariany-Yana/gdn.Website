@@ -245,6 +245,8 @@
     <template id="About-New">
       <button class="popup-exit"></button>
       <div class="custom-content">
+        <h1>Что нового от 30.07.26</h1>
+        <p><span class="RGB-accent">Упразднение функции в окне «Настройки»</span><br />Функция выбора домена ВК была удалена так как ВК теперь всегда перенаправляет на новый домен.</p>
         <h1>Что нового от 05.07.26</h1>
         <p><span class="RGB-accent">Новая функция в разделе «Тайтлы» – Плеер</span><br />Для сайта добавлена функция просмотра контента в плеере прямо на сайте не переходя по ссылкам (где возможно). При желании возможно отключить.<br />Обратите внимание, что для просмотра чего-либо необходимо иметь авторизацию в ВК на текущем браузере и состоять в группе ВК.</p>
         <p><span class="RGB-accent">Новая функция в окне «Настройки»</span><br />Для функции плеера добавлена возможность его отключения, в этом случае будут использоваться ссылки (как раньше) и открывать новую страницу. По-умолчанию плеер используется.</p>
@@ -278,9 +280,6 @@
 
     <template id="About-Prefs">
       <button class="popup-exit"></button>
-      <div class="custom-content settings">
-        <p>Домен ВК: <a onclick="setVKDomain('old')">Старый (vk.com)</a> / <a onclick="setVKDomain('new')">Новый (vkvideo.ru)</a></p>
-      </div>
       <div class="custom-content settings">
         <!--prettier-ignore-->
         <p>Плеер: <a onclick="setPlayerStatus(false);">Не использовать</a> / <a onclick="setPlayerStatus(true);">Использовать</a></p>
