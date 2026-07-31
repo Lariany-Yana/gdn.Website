@@ -8069,6 +8069,16 @@ const seriesAnimePopups = {
         },
       ],
     },
+    {
+      seasonName: "2 Сезон",
+      items: [
+        {
+          title: "1-4 Эпизод",
+          titleLink: ["vk", "456241873?t=0h13m53s"],
+          player: ["vk", "456241873", "2716cf0998717b30", "0h13m53s"],
+        },
+      ],
+    },
   ],
   "Series-Anime_Houseki-no-Kuni": [
     {
