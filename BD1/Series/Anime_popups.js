@@ -8070,7 +8070,7 @@ const seriesAnimePopups = {
       ],
     },
     {
-      seasonName: "2 Сезон",
+      seasonName: "3 Сезон",
       items: [
         {
           title: "1-4 Эпизод",
