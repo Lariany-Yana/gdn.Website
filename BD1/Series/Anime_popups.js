@@ -9343,8 +9343,20 @@ const seriesAnimePopups = {
       seasonName: "1 Сезон",
       items: [
         {
-          title: "1-25 Эпизод",
-          lost: "lost",
+          title: "1-4 Эпизод",
+          titleLink: ["boosty", "hiddenarchive/posts/ac6e4f72-a493-4e9f-8be5-b9ccbb63648e?share=post_link"],
+        },
+        {
+          title: "5-9 Эпизод",
+          titleLink: ["boosty", "hiddenarchive/posts/90b8045c-12c4-4a42-ab58-3a64a5f55f5a?share=post_link"],
+        },
+        {
+          title: "10-15 Эпизод",
+          titleLink: ["boosty", "hiddenarchive/posts/7b3b47d4-d469-4c7d-9c85-d49fd8115479?share=post_link"],
+        },
+        {
+          title: "16-25 Эпизод",
+          titleLink: ["boosty", "hiddenarchive/posts/2868b617-7426-4eee-8a2e-1c6388e6ada0?share=post_link"],
         },
       ],
     },
