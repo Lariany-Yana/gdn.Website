@@ -604,12 +604,11 @@ const fullmeterCartoon = [
     cardType: "fullmeter-Cartoon",
   },
   {
-    nameRu: "Шрек 2",
-    nameEn: "Shrek 2",
-    titleLink: ["vk", "456239238"],
-    player: ["vk", "456239238", "518e20ecc98f0df1", "0h0m0s"],
-    id: "Fullmeter-Cartoon_Shrek-2",
-    posterImage: "https://static.tildacdn.com/tild3363-6433-4166-b339-613639643839/img.webp",
+    nameRu: "Шрек",
+    nameEn: "Shrek",
+    titleStatus: "Сборник",
+    id: "Fullmeter-Cartoon_Shrek",
+    posterImage: "https://static.tildacdn.com/tild3165-6662-4635-b165-316331356436/img.webp",
     cardType: "fullmeter-Cartoon",
   },
   {

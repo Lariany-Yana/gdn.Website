@@ -461,4 +461,25 @@ const fullmeterCartoonPopups = {
       cardType: "fullmeter-Cartoon",
     },
   ],
+  "Fullmeter-Cartoon_Shrek": [
+    {
+      nameRu: "Шрек 2",
+      nameEn: "Shrek 2",
+      titleLink: ["vk", "456239238"],
+      player: ["vk", "456239238", "518e20ecc98f0df1", "0h0m0s"],
+      id: "Fullmeter-Cartoon_Shrek-2",
+      posterImage: "https://static.tildacdn.com/tild3363-6433-4166-b339-613639643839/img.webp",
+      cardType: "fullmeter-Cartoon",
+    },
+    {
+      nameRu: "Шрек Третий",
+      nameEn: "Shrek the Third",
+      donutTerms: "donut-lvl-3",
+      titleLink: ["vk", "456241874?t=2h47m27s"],
+      player: ["vk", "456241874", "9184f9c969d111b9", "2h47m27s"],
+      id: "Fullmeter-Cartoon_Shrek-3",
+      posterImage: "https://static.tildacdn.com/tild6365-6434-4462-a261-633161656439/img.webp",
+      cardType: "fullmeter-Cartoon",
+    },
+  ],
 };

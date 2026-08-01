@@ -1092,6 +1092,16 @@ const seriesSerialsPopups = {
         },
       ],
     },
+    {
+      seasonName: "8 Сезон",
+      items: [
+        {
+          title: "1-2 Эпизод",
+          titleLink: ["vk", "456241874?t=14m17s"],
+          player: ["vk", "456241874", "9184f9c969d111b9", "0h14m17s"],
+        },
+      ],
+    },
   ],
   "Series-Serials_The-Vampire-Diaries": [
     {

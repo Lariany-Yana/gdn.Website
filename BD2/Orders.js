@@ -18,6 +18,35 @@ const ordersDatabase = [
 
   //#region ~В процессе~
   {
+    nameRu: "Шрек Третий",
+    nameEn: "Shrek the Third",
+    orderRemark: "Мультфильм",
+    cardType: "order-during",
+    items: [
+      {
+        nickname: "Без имени",
+        slot: "1",
+        date: "Без даты",
+        was: "owe",
+      },
+    ],
+  },
+  {
+    nameRu: "Декстер",
+    nameEn: "Dexter",
+    orderRemark: "Сериал ⨯ Просмотрено: 8 Сезон 1-2/12 Эпизод",
+    cardType: "order-during",
+    id: "order_Dexter-8",
+    items: [
+      {
+        nickname: "Без имени",
+        slot: "1", // 8 Сезон 1-2 Эпизод
+        date: "Без даты",
+        was: "owe",
+      },
+    ],
+  },
+  {
     nameRu: "Сто девушек, которые очень сильно тебя любят",
     nameEn: "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
     orderRemark: "Аниме × Просмотрено: 3 Сезон 1-4/↻ Эпизод",
@@ -851,7 +880,7 @@ const ordersDatabase = [
     id: "order_Kimetsu-no-Yaiba-Movie-1",
     items: [
       {
-        nickname: "Аноним",
+        nickname: "Демон21",
         slot: "1",
         date: "15.03.26",
       },

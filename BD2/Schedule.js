@@ -52,7 +52,16 @@ const scheduleDatabase = [
   },
   // Пятница
   {
-    nameRu: "Стрим вполне вероятен",
+    nameRu: "Декстер",
+    nameEn: "Dexter",
+    scheduleRemark: "Сериал × 8 Сезон 1-2 Эпизод",
+    scheduleType: "schedule-current",
+    date: "31.07.26",
+  },
+  {
+    nameRu: "Шрэк Третий",
+    nameEn: "Shrek the Third",
+    scheduleRemark: "Мультфильм",
     scheduleType: "schedule-current",
     date: "31.07.26",
   },
