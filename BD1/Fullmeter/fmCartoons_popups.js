@@ -481,5 +481,15 @@ const fullmeterCartoonPopups = {
       posterImage: "https://static.tildacdn.com/tild6365-6434-4462-a261-633161656439/img.webp",
       cardType: "fullmeter-Cartoon",
     },
+    {
+      nameRu: "Шрек навсегда",
+      nameEn: "Shrek Forever After",
+      donutTerms: "donut-lvl-3",
+      titleLink: ["vk", "456241875?t=12m21s"],
+      player: ["vk", "456241875", "d9080b044d9f97ed", "0h12m21s"],
+      id: "Fullmeter-Cartoon_Shrek-4",
+      posterImage: "https://static.tildacdn.com/tild3662-6638-4530-a436-346363303564/img.webp",
+      cardType: "fullmeter-Cartoon",
+    },
   ],
 };

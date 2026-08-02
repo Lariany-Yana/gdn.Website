@@ -18,6 +18,20 @@ const ordersDatabase = [
 
   //#region ~В процессе~
   {
+    nameRu: "Шрек навсегда",
+    nameEn: "Shrek Forever After",
+    orderRemark: "Мультфильм",
+    cardType: "order-during",
+    items: [
+      {
+        nickname: "Без имени",
+        slot: "1",
+        date: "Без даты",
+        was: "owe",
+      },
+    ],
+  },
+  {
     nameRu: "Шрек Третий",
     nameEn: "Shrek the Third",
     orderRemark: "Мультфильм",
@@ -202,9 +216,9 @@ const ordersDatabase = [
         was: "was",
       },
       {
-        nickname: "26.07.26",
-        slot: "1",
-        date: "В уточнении",
+        nickname: "Без даты",
+        slot: "3",
+        date: "Без имени",
         was: "owe",
       },
     ],

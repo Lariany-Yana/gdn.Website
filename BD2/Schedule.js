@@ -15,75 +15,6 @@ const scheduleDatabase = [
   {
     nameRu: "Стрим невозможен",
     scheduleType: "schedule-current",
-    date: "27.07.26",
-  },
-  // Вторник
-  {
-    nameRu: "Стрим не состоялся",
-    scheduleType: "schedule-current",
-    date: "28.07.26",
-  },
-  // Среда
-  {
-    nameRu: "Стрим не состоялся",
-    scheduleType: "schedule-current",
-    date: "29.07.26",
-  },
-  // Четверг
-  {
-    nameRu: "Сто девушек, которые очень сильно тебя любят",
-    nameEn: "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
-    scheduleRemark: "Аниме × 3 Сезон 1-4 Эпизод",
-    scheduleType: "schedule-current",
-    date: "30.07.26",
-  },
-  {
-    nameRu: "Рим",
-    nameEn: "Rome",
-    scheduleRemark: "Сериал × 1 Сезон 7-8 Эпизод",
-    scheduleType: "schedule-current",
-    date: "30.07.26",
-  },
-  {
-    nameRu: "Warhammer 40 000: Rogue Trader",
-    scheduleRemark: "Игра",
-    scheduleType: "schedule-current",
-    date: "30.07.26",
-  },
-  // Пятница
-  {
-    nameRu: "Декстер",
-    nameEn: "Dexter",
-    scheduleRemark: "Сериал × 8 Сезон 1-2 Эпизод",
-    scheduleType: "schedule-current",
-    date: "31.07.26",
-  },
-  {
-    nameRu: "Шрэк Третий",
-    nameEn: "Shrek the Third",
-    scheduleRemark: "Мультфильм",
-    scheduleType: "schedule-current",
-    date: "31.07.26",
-  },
-  // Суббота
-  {
-    nameRu: "Стрим невозможен",
-    scheduleType: "schedule-current",
-    date: "01.08.26",
-  },
-  // Воскресенье
-  {
-    nameRu: "Стрим вполне вероятен",
-    scheduleType: "schedule-current",
-    date: "02.08.26",
-  },
-
-  //#region Август
-  /* ШАБЛОН
-  // Понедельник
-  {
-    nameRu: "Стрим невозможен",
-    scheduleType: "schedule-current",
     date: "03.08.26",
   },
   // Вторник
@@ -116,6 +47,9 @@ const scheduleDatabase = [
     scheduleType: "schedule-current",
     date: "08.08.26",
   },
+
+  //#region Август
+  /* ШАБЛОН
   // Воскресенье
   {
     nameRu: "Стрим вполне вероятен",
@@ -2617,6 +2551,82 @@ const scheduleDatabase = [
     scheduleRemark: "Аниме × 1 Сезон 17-24 Эпизод",
     scheduleType: "schedule-past",
     date: "26.07.26",
+  },
+  // Понедельник
+  {
+    nameRu: "Стрим невозможен",
+    scheduleType: "schedule-past",
+    date: "27.07.26",
+  },
+  // Вторник
+  {
+    nameRu: "Стрим не состоялся",
+    scheduleType: "schedule-past",
+    date: "28.07.26",
+  },
+  // Среда
+  {
+    nameRu: "Стрим не состоялся",
+    scheduleType: "schedule-past",
+    date: "29.07.26",
+  },
+  // Четверг
+  {
+    nameRu: "Сто девушек, которые очень сильно тебя любят",
+    nameEn: "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
+    scheduleRemark: "Аниме × 3 Сезон 1-4 Эпизод",
+    scheduleType: "schedule-past",
+    date: "30.07.26",
+  },
+  {
+    nameRu: "Рим",
+    nameEn: "Rome",
+    scheduleRemark: "Сериал × 1 Сезон 7-8 Эпизод",
+    scheduleType: "schedule-past",
+    date: "30.07.26",
+  },
+  {
+    nameRu: "Warhammer 40 000: Rogue Trader",
+    scheduleRemark: "Игра",
+    scheduleType: "schedule-past",
+    date: "30.07.26",
+  },
+  // Пятница
+  {
+    nameRu: "Декстер",
+    nameEn: "Dexter",
+    scheduleRemark: "Сериал × 8 Сезон 1-2 Эпизод",
+    scheduleType: "schedule-past",
+    date: "31.07.26",
+  },
+  {
+    nameRu: "Шрэк Третий",
+    nameEn: "Shrek the Third",
+    scheduleRemark: "Мультфильм",
+    scheduleType: "schedule-past",
+    date: "31.07.26",
+  },
+  //#endregion
+  //#region Старое: Июнь 26
+  // Суббота
+  {
+    nameRu: "Стрим невозможен",
+    scheduleType: "schedule-past",
+    date: "01.08.26",
+  },
+  // Воскресенье
+  {
+    nameRu: "Crusader Kings III",
+    scheduleRemark: "Игра",
+    scheduleType: "schedule-past",
+    date: "02.08.26",
+  },
+  {
+    nameRu: "Шрек навсегда",
+    nameEn: "Shrek Forever After",
+    scheduleRemark: "Мультфильм",
+    scheduleType: "schedule-past",
+    date: "02.08.26",
   },
   //#endregion
 ];
