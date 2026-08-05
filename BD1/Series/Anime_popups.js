@@ -3778,6 +3778,7 @@ const seriesAnimePopups = {
         },
       ],
     },
+    { pasteCard: "Fullmeter-Anime_Kimetsu-no-Yaiba-Akaza-Sairai" },
   ],
   "Series-Anime_Cowboy-Bebop": [
     {

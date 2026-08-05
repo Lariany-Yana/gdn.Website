@@ -138,6 +138,16 @@ const fullmeterAnime = [
     cardType: "fullmeter-Anime",
   },
   {
+    nameRu: "Клинок, рассекающий демонов: Бесконечный замок — Возвращение Акадзы",
+    nameEn: "Kimetsu no Yaiba Movie 1: Mugenjou-hen - Akaza Sairai",
+    donutTerms: "donut-lvl-3",
+    titleLink: ["vk", "456241877?t=2h28m53s"],
+    player: ["vk", "456241877", "a20554becf3ea0a2", "2h28m53s"],
+    id: "Fullmeter-Anime_Kimetsu-no-Yaiba-Akaza-Sairai",
+    posterImage: "https://static.tildacdn.com/tild3330-3732-4135-a636-303461326430/img.webp",
+    cardType: "fullmeter-Anime",
+  },
+  {
     nameRu: "Ковбой Бибоп: Достучаться до небес",
     nameEn: "Cowboy Bebop: Tengoku no Tobira",
     titleLink: ["vk", "456239293"],

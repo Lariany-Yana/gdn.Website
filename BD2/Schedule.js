@@ -27,21 +27,14 @@ const scheduleDatabase = [
   {
     nameRu: "Рим",
     nameEn: "Rome",
-    scheduleRemark: "Сериал × Начало в 16:00 по МСК",
+    scheduleRemark: "Сериал × 1 Сезон 9-10 Эпизод",
     scheduleType: "schedule-current",
     date: "05.08.26",
   },
   {
     nameRu: "Клинок, рассекающий демонов: Бесконечный замок — Возвращение Акадзы",
     nameEn: "Kimetsu no Yaiba Movie 1: Mugenjou-hen - Akaza Sairai",
-    scheduleRemark: "Полнометражка × Начало в 18:00 по МСК",
-    scheduleType: "schedule-current",
-    date: "05.08.26",
-  },
-  {
-    nameRu: "Летнее время",
-    nameEn: "Summertime Render",
-    scheduleRemark: "Аниме × Начало в 20:00 по МСК",
+    scheduleRemark: "Полнометражка",
     scheduleType: "schedule-current",
     date: "05.08.26",
   },

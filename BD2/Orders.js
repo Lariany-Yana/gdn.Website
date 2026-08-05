@@ -104,7 +104,7 @@ const ordersDatabase = [
   {
     nameRu: "Рим",
     nameEn: "Rome",
-    orderRemark: "Сериал × В заказе: 1 Сезон 9-12/12 Эпизод",
+    orderRemark: "Сериал × В заказе: 1 Сезон 11-12/12 Эпизод",
     personalOrder: "user_Misty",
     cardType: "order-during",
     id: "order_Rome-1",
@@ -135,7 +135,13 @@ const ordersDatabase = [
       },
       {
         nickname: "Мисти",
-        slot: "2", // 1 Сезон 9-12 Эпизод
+        slot: "1", // 1 Сезон 9-10 Эпизод
+        date: "17.07.25",
+        was: "was",
+      },
+      {
+        nickname: "Мисти",
+        slot: "1", // 1 Сезон 11-12 Эпизод
         date: "17.07.25",
       },
     ],
@@ -887,20 +893,6 @@ const ordersDatabase = [
     ],
   },
   {
-    nameRu: "Клинок, рассекающий демонов: Бесконечный замок — Возвращение Акадзы",
-    nameEn: "Kimetsu no Yaiba Movie 1: Mugenjou-hen - Akaza Sairai",
-    orderRemark: "Полнометражка",
-    cardType: "order-waiting",
-    id: "order_Kimetsu-no-Yaiba-Movie-1",
-    items: [
-      {
-        nickname: "Демон21",
-        slot: "1",
-        date: "15.03.26",
-      },
-    ],
-  },
-  {
     nameRu: "Пустой слот",
     cardType: "order-waiting",
     id: "order_005",
@@ -1469,6 +1461,20 @@ const ordersDatabase = [
   },
   //#endregion
   //#region ~Просмотренное~
+  {
+    nameRu: "Клинок, рассекающий демонов: Бесконечный замок — Возвращение Акадзы",
+    nameEn: "Kimetsu no Yaiba Movie 1: Mugenjou-hen - Akaza Sairai",
+    orderRemark: "Полнометражка",
+    cardType: "order-finished",
+    items: [
+      {
+        nickname: "Демон21",
+        slot: "1",
+        date: "15.03.26",
+        was: "was",
+      },
+    ],
+  },
   {
     nameRu: "Невеста чародея",
     nameEn: "Mahoutsukai no Yome",

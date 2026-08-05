@@ -690,7 +690,7 @@ const seriesAnime = [
   {
     nameRu: "Клинок, рассекающий демонов",
     nameEn: "Kimetsu no Yaiba / Demon Slayer",
-    titleStatus: "Просмотрено: 4 Сезона + Фильм",
+    titleStatus: "Просмотрено: 4 Сезона + Фильмы",
     donutTerms: "donut-lvl-1",
     id: "Series-Anime_Kimetsu-no-Yaiba",
     posterImage: "https://static.tildacdn.com/tild3166-6264-4562-b834-663362623662/__.webp",
