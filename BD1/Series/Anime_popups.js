@@ -8298,6 +8298,15 @@ const seriesAnimePopups = {
         },
       ],
     },
+    {
+      seasonName: "OVA",
+      items: [
+        {
+          title: "1-2 Эпизод",
+          titleLink: ["boosty", "hiddenarchive/posts/502d4039-660e-4fac-9789-88a74eea468d"],
+        },
+      ],
+    },
   ],
   "Series-Anime_Toriko": [
     {
@@ -8539,6 +8548,25 @@ const seriesAnimePopups = {
           title: "1-4 Эпизод",
           titleLink: ["vk", "456241791?t=12m23s"],
           player: ["vk", "456241791", "064ee334e3fa9e12", "0h12m23s"],
+        },
+      ],
+    },
+  ],
+  "Series-Anime_Tonikaku-Kawaii": [
+    {
+      seasonName: "1 Сезон",
+      items: [
+        {
+          title: "1-4 Эпизод",
+          lost: "lost",
+        },
+        {
+          title: "5-7 Эпизод",
+          titleLink: ["boosty", "hiddenarchive/posts/b32851a5-8598-4c08-87e1-33e325fa52e3"],
+        },
+        {
+          title: "8-12 Эпизод",
+          titleLink: ["boosty", "hiddenarchive/posts/c950ac7a-88b9-441c-8dfb-1fde52d4a77f"],
         },
       ],
     },

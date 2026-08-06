@@ -1520,6 +1520,14 @@ const seriesAnime = [
     cardType: "series-Anime",
   },
   {
+    nameRu: "Унеси меня на Луну",
+    nameEn: "Tonikaku Kawaii",
+    titleStatus: "Просмотрено: 1-12/12 Эпизод",
+    id: "Series-Anime_Tonikaku-Kawaii",
+    posterImage: "https://static.tildacdn.com/tild3763-6163-4964-a465-366165383665/img.webp",
+    cardType: "series-Anime",
+  },
+  {
     nameRu: "Усопшие",
     nameEn: "Shiki",
     titleStatus: "Просмотрено: 1-22/22 Эпизод",
