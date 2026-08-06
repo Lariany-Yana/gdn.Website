@@ -1311,7 +1311,7 @@ const seriesCartoonsPopups = {
         },
         {
           title: "191-213 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/30ffc796-0ef2-454e-a632-19ef3bd1b804?share=success_publish_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/30ffc796-0ef2-454e-a632-19ef3bd1b804"],
         },
       ],
     },
@@ -1320,7 +1320,7 @@ const seriesCartoonsPopups = {
       items: [
         {
           title: "1-18 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/52cc11cc-50d7-4913-bb91-76448abbaf6f?share=success_publish_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/52cc11cc-50d7-4913-bb91-76448abbaf6f"],
         },
         {
           title: "19-24 Эпизод",

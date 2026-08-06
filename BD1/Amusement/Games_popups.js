@@ -2019,7 +2019,7 @@ const amusementGamesPopups = {
         },
         {
           title: "3 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/53eeff31-909c-414c-b41f-1e46db5c3cfa?share=success_publish_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/53eeff31-909c-414c-b41f-1e46db5c3cfa"],
         },
       ],
     },

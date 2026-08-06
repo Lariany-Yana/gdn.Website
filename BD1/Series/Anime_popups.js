@@ -1748,7 +1748,7 @@ const seriesAnimePopups = {
         },
         {
           title: "1070-1075 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/dfa1a18f-cd9f-4289-a19b-3060d911d089?share=success_publish_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/dfa1a18f-cd9f-4289-a19b-3060d911d089"],
         },
         {
           title: "1075-1089 Эпизод",
@@ -5352,7 +5352,7 @@ const seriesAnimePopups = {
         },
         {
           title: "17-25 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/e140feee-bdec-4fea-9c77-1b756d4597bd?share=success_publish_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/e140feee-bdec-4fea-9c77-1b756d4597bd"],
         },
       ],
     },
@@ -7497,7 +7497,7 @@ const seriesAnimePopups = {
         },
         {
           title: "5-8 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/5e578430-887a-416a-aa74-5dcac662b3fd?share=success_publish_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/5e578430-887a-416a-aa74-5dcac662b3fd"],
         },
         {
           title: "9-12 Эпизод",
@@ -8046,7 +8046,7 @@ const seriesAnimePopups = {
       items: [
         {
           title: "1-12 Эпизод",
-          titleLink: ["boosty", "hiddenarchive/posts/9a2a50c7-af91-4566-ab1d-939e8890a675?share=success_publish_link"],
+          titleLink: ["boosty", "hiddenarchive/posts/9a2a50c7-af91-4566-ab1d-939e8890a675"],
         },
       ],
     },
@@ -8253,6 +8253,48 @@ const seriesAnimePopups = {
         {
           title: "5-6 Эпизод",
           titleLink: ["boosty", "hiddenarchive/posts/3a157542-be0c-4d5d-a844-cf94d123998d"],
+        },
+      ],
+    },
+  ],
+  "Series-Anime_Tokyo-Ghoul": [
+    {
+      seasonName: "1 Сезон",
+      items: [
+        {
+          title: "1-12 Эпизод",
+          lost: "lost",
+        },
+      ],
+    },
+    {
+      seasonName: "2 Сезон",
+      items: [
+        {
+          title: "1-12 Эпизод",
+          lost: "lost",
+        },
+      ],
+    },
+    {
+      seasonName: "3 Сезон",
+      items: [
+        {
+          title: "1-12 Эпизод",
+          lost: "lost",
+        },
+      ],
+    },
+    {
+      seasonName: "4 Сезон",
+      items: [
+        {
+          title: "1-7 Эпизод",
+          lost: "lost",
+        },
+        {
+          title: "8-12 Эпизод",
+          titleLink: ["boosty", "hiddenarchive/posts/e9a04038-cede-4f8f-80e0-6fa017b29853"],
         },
       ],
     },
@@ -9124,6 +9166,21 @@ const seriesAnimePopups = {
           title: "9-12 Эпизод",
           titleLink: ["vk", "456240260?t=11m45s"],
           player: ["vk", "456240260", "67a92a520361bfa1", "0h11m45s"],
+        },
+      ],
+    },
+  ],
+  "Series-Anime_Charlotte": [
+    {
+      seasonName: "1 Сезон",
+      items: [
+        {
+          title: "1-4 Эпизод",
+          titleLink: ["boosty", "hiddenarchive/posts/3b27e471-765d-445a-b4f2-595f66eec897"],
+        },
+        {
+          title: "5-12 Эпизод",
+          lost: "lost",
         },
       ],
     },

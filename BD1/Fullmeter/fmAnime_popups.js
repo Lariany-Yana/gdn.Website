@@ -83,7 +83,7 @@ const fullmeterAnimePopups = {
     {
       nameRu: "История начала || Девочка-волшебница Мадока",
       nameEn: "Hajimari no monogatari || Mahou Shoujo Madoka★Magica",
-      titleLink: ["boosty", "hiddenarchive/posts/04fdb968-94e6-4f90-a9c6-e17f30299e1c?share=success_publish_link"],
+      titleLink: ["boosty", "hiddenarchive/posts/04fdb968-94e6-4f90-a9c6-e17f30299e1c"],
       id: "Fullmeter-Anime_Mahou-Shoujo-Madoka-Magica-1",
       posterImage: "https://static.tildacdn.com/tild3965-3232-4735-b163-393232633936/img.webp",
       cardType: "fullmeter-Anime",
@@ -99,7 +99,7 @@ const fullmeterAnimePopups = {
     {
       nameRu: "История восстания || Девочка-волшебница Мадока",
       nameEn: "Hangyaku no monogatari || Mahou Shoujo Madoka★Magica",
-      titleLink: ["boosty", "hiddenarchive/posts/d5233c9c-7a01-4b9a-95ed-897662fedf0b?share=success_publish_link"],
+      titleLink: ["boosty", "hiddenarchive/posts/d5233c9c-7a01-4b9a-95ed-897662fedf0b"],
       id: "Fullmeter-Anime_Mahou-Shoujo-Madoka-Magica-3",
       posterImage: "https://static.tildacdn.com/tild3334-3163-4631-a162-353864383236/img.webp",
       cardType: "fullmeter-Anime",

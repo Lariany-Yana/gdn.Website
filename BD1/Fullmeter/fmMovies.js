@@ -12,7 +12,7 @@ const fullmeterMovie = [
   {
     nameRu: "12 лет рабства",
     nameEn: "12 Years a Slave",
-    titleLink: ["boosty", "hiddenarchive/posts/62d1470d-e31d-4721-a13a-da3d2b65afcf?share=success_publish_link"],
+    titleLink: ["boosty", "hiddenarchive/posts/62d1470d-e31d-4721-a13a-da3d2b65afcf"],
     id: "Fullmeter-Movie_12-Years-a-Slave",
     posterImage: "https://static.tildacdn.com/tild3935-6431-4834-a238-363632303134/img.webp",
     cardType: "fullmeter-Movie",
@@ -389,7 +389,7 @@ const fullmeterMovie = [
   {
     nameRu: "Блеф. История обмана и мошенничества",
     nameEn: "Bluff. storia di truffe e di imbroglioni",
-    titleLink: ["boosty", "hiddenarchive/posts/71a7a8c9-c023-409e-acd2-e28c2ef2b78c?share=success_publish_link"],
+    titleLink: ["boosty", "hiddenarchive/posts/71a7a8c9-c023-409e-acd2-e28c2ef2b78c"],
     id: "Fullmeter-Movie_Bluff",
     posterImage: "https://static.tildacdn.com/tild3534-3965-4836-b936-623537343138/photo.webp",
     cardType: "fullmeter-Movie",
@@ -417,7 +417,7 @@ const fullmeterMovie = [
   {
     nameRu: "Богемская рапсодия",
     nameEn: "Bohemian Rhapsody",
-    titleLink: ["boosty", "hiddenarchive/posts/1c85c7cb-86e1-4e8e-96be-20e4c90eb284?share=success_publish_link"],
+    titleLink: ["boosty", "hiddenarchive/posts/1c85c7cb-86e1-4e8e-96be-20e4c90eb284"],
     id: "Fullmeter-Movie_Bohemian-Rhapsody",
     posterImage: "https://static.tildacdn.com/tild6337-3737-4534-b066-613830323634/_.webp",
     cardType: "fullmeter-Movie",
@@ -568,7 +568,7 @@ const fullmeterMovie = [
   {
     nameRu: "Волк с Уолл-стрит",
     nameEn: "The Wolf of Wall Street",
-    titleLink: ["boosty", "hiddenarchive/posts/2a10acb8-655e-4e33-8399-6f5f62f61abc?share=success_publish_link"],
+    titleLink: ["boosty", "hiddenarchive/posts/2a10acb8-655e-4e33-8399-6f5f62f61abc"],
     id: "Fullmeter-Movie_Wolf-of-Wall-Street",
     posterImage: "https://static.tildacdn.com/tild6439-6666-4735-a566-383066306137/__-.webp",
     cardType: "fullmeter-Movie",

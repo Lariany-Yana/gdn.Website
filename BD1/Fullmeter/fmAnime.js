@@ -307,7 +307,7 @@ const fullmeterAnime = [
   {
     nameRu: "Сад изящных слов",
     nameEn: "Kotonoha no Niwa",
-    titleLink: ["boosty", "hiddenarchive/posts/d94f37be-723b-48b3-aee5-3e17abfb323e?share=success_publish_link"],
+    titleLink: ["boosty", "hiddenarchive/posts/d94f37be-723b-48b3-aee5-3e17abfb323e"],
     id: "Fullmeter-Anime_Kotonoha-no-Niwa",
     posterImage: "https://static.tildacdn.com/tild3133-6539-4063-b338-303566626665/img.webp",
     cardType: "fullmeter-Anime",

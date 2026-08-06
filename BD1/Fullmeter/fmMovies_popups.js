@@ -1009,7 +1009,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Дэдпул и Росомаха || Марвел Люди-Икс",
       nameEn: "Deadpool & Wolverine || Marvel X-Men",
-      titleLink: ["boosty", "hiddenarchive/posts/d4ed6717-5899-438a-8b78-ebc9c3561f0a?share=success_publish_link"],
+      titleLink: ["boosty", "hiddenarchive/posts/d4ed6717-5899-438a-8b78-ebc9c3561f0a"],
       id: "Fullmeter-Movie_Marvel-X-Men-Deadpool-Wolverine",
       posterImage: "https://static.tildacdn.com/tild6337-3062-4266-a163-363533376465/img.webp",
       cardType: "fullmeter-Movie",
@@ -1083,7 +1083,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Обитель зла",
       nameEn: "Resident Evil",
-      titleLink: ["boosty", "hiddenarchive/posts/d7d330c4-9ab8-443f-afc3-85322f9f6b6a?share=success_publish_link"],
+      titleLink: ["boosty", "hiddenarchive/posts/d7d330c4-9ab8-443f-afc3-85322f9f6b6a"],
       id: "Fullmeter-Movie_Resident-Evil-1",
       posterImage: "https://static.tildacdn.com/tild6632-3866-4066-b931-613237623038/img.webp",
       cardType: "fullmeter-Movie",
@@ -1091,7 +1091,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Апокалипсис || Обитель зла",
       nameEn: "Apocalypse || Resident Evil",
-      titleLink: ["boosty", "hiddenarchive/posts/0bafa191-4e5a-43d0-9ff1-ea6f43b25a2c?share=success_publish_link"],
+      titleLink: ["boosty", "hiddenarchive/posts/0bafa191-4e5a-43d0-9ff1-ea6f43b25a2c"],
       id: "Fullmeter-Movie_Resident-Evil-2",
       posterImage: "https://static.tildacdn.com/tild6531-3135-4561-a232-343963616161/img.webp",
       cardType: "fullmeter-Movie",
@@ -1305,7 +1305,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Сумерки",
       nameEn: "Twilight",
-      titleLink: ["boosty", "hiddenarchive/posts/efdc67c8-2be3-42b5-ab0f-7e3a2a9266b2?share=success_publish_link"],
+      titleLink: ["boosty", "hiddenarchive/posts/efdc67c8-2be3-42b5-ab0f-7e3a2a9266b2"],
       id: "Fullmeter-Movie_Twilight-Saga-1",
       posterImage: "https://static.tildacdn.com/tild3466-6235-4562-b462-383535383837/img.webp",
       cardType: "fullmeter-Movie",
@@ -1313,7 +1313,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Новолуние || Сумерки",
       nameEn: "New Moon || Twilight",
-      titleLink: ["boosty", "hiddenarchive/posts/0e37897e-c5bb-4e37-8a37-7cc7fa7739a7?share=success_publish_link"],
+      titleLink: ["boosty", "hiddenarchive/posts/0e37897e-c5bb-4e37-8a37-7cc7fa7739a7"],
       id: "Fullmeter-Movie_Twilight-Saga-2",
       posterImage: "https://static.tildacdn.com/tild3963-3961-4238-b739-356631353530/img.webp",
       cardType: "fullmeter-Movie",
@@ -1331,7 +1331,7 @@ const fullmeterMoviePopups = {
     {
       nameRu: "Рассвет: Часть 1 || Сумерки",
       nameEn: "Breaking Dawn – Part 1 || Twilight",
-      titleLink: ["boosty", "hiddenarchive/posts/9ef9ed70-8dc2-4e81-8d00-89830deff6eb?share=success_publish_link"],
+      titleLink: ["boosty", "hiddenarchive/posts/9ef9ed70-8dc2-4e81-8d00-89830deff6eb"],
       id: "Fullmeter-Movie_Twilight-Saga-4",
       posterImage: "https://static.tildacdn.com/tild3231-6138-4831-b434-633132393231/img.webp",
       cardType: "fullmeter-Movie",

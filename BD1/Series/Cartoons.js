@@ -280,7 +280,7 @@ const seriesCartoons = [
   {
     nameRu: "Принц Галактики",
     titleStatus: "Просмотрено: 1-4/12 Эпизод",
-    titleLink: ["boosty", "hiddenarchive/posts/8e4a5bd9-a36e-463d-94b6-1a26f00636b2?share=success_publish_link"],
+    titleLink: ["boosty", "hiddenarchive/posts/8e4a5bd9-a36e-463d-94b6-1a26f00636b2"],
     id: "Series-Cartoon_Prince-of-the-Galaxy",
     posterImage: "https://static.tildacdn.com/tild3835-3536-4362-b135-656265613730/_.webp",
     cardType: "series-Cartoon",
