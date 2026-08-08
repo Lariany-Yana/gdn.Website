@@ -46,7 +46,15 @@ const scheduleDatabase = [
   },
   // Пятница
   {
-    nameRu: "Стрим вполне вероятен",
+    nameRu: "Warhammer 40 000: Rogue Trader",
+    scheduleRemark: "Игра",
+    scheduleType: "schedule-current",
+    date: "07.08.26",
+  },
+  {
+    nameRu: "Телохранитель",
+    nameEn: "Yojimbo",
+    scheduleRemark: "Фильм",
     scheduleType: "schedule-current",
     date: "07.08.26",
   },

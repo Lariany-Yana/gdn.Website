@@ -194,6 +194,7 @@ const ordersDatabase = [
         nickname: "Ekemlyr",
         slot: "1",
         date: "21.04.26",
+        was: "was",
       },
       {
         nickname: "Ekemlyr",
@@ -853,18 +854,6 @@ const ordersDatabase = [
     ],
   },
   {
-    nameRu: "Годнеслот Тарковского",
-    cardType: "order-waiting",
-    id: "order_Tarkovsky",
-    items: [
-      {
-        nickname: "Кирвин",
-        slot: "1",
-        date: "23.02.26",
-      },
-    ],
-  },
-  {
     nameRu: "Со склонов Кокурико",
     nameEn: "Kokuriko-zaka kara",
     orderRemark: "Полнометражка",
@@ -1399,6 +1388,15 @@ const ordersDatabase = [
   //#endregion
   //#region ~Свапы~
   {
+    nameRu_1: "Годнеслот (23.02.26 ⨯ Кирвин)",
+    nameRu_2: "Телохранитель",
+    nameEn_2: "Yojimbo",
+    orderRemark_1: "1 Слот > Фильм",
+    orderRemark_2: "Свап был 07.08.26 (Годень)",
+    cardType: "order-switch",
+    items: [],
+  },
+  {
     nameRu_1: "Годнеслот (09.06.26 ⨯ Твою мать!)",
     nameRu_2: "Головокружение",
     nameEn_2: "Vertigo",
@@ -1461,6 +1459,20 @@ const ordersDatabase = [
   },
   //#endregion
   //#region ~Просмотренное~
+  {
+    nameRu: "Телохранитель",
+    nameEn: "Yojimbo",
+    orderRemark: "Полнометражка",
+    cardType: "order-finished",
+    items: [
+      {
+        nickname: "Кирвин",
+        slot: "1",
+        date: "23.02.26",
+        was: "was",
+      },
+    ],
+  },
   {
     nameRu: "Клинок, рассекающий демонов: Бесконечный замок — Возвращение Акадзы",
     nameEn: "Kimetsu no Yaiba Movie 1: Mugenjou-hen - Akaza Sairai",

@@ -3236,6 +3236,16 @@ const fullmeterMovie = [
     cardType: "fullmeter-Movie",
   },
   {
+    nameRu: "Телохранитель",
+    nameEn: "Yojimbo",
+    donutTerms: "donut-lvl-3",
+    titleLink: ["vk", "456241878?t=2h41m53s"],
+    player: ["vk", "456241878", "244e945b978fdbac", "2h41m53s"],
+    id: "Fullmeter-Movie_Yojimbo",
+    posterImage: "https://static.tildacdn.com/tild6162-3465-4965-a133-303133303839/img.webp",
+    cardType: "fullmeter-Movie",
+  },
+  {
     nameRu: "Темные времена",
     nameEn: "Darkest Hour",
     donutTerms: "donut-lvl-1",

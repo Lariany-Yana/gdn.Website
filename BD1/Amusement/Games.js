@@ -660,7 +660,7 @@ const amusementGames = [
   },
   {
     nameRu: "Warhammer 40 000: Rogue Trader",
-    titleStatus: "Наиграно: 4 Часа",
+    titleStatus: "Наиграно: 6 Часов",
     donutTerms: "donut-lvl-3",
     id: "Amusement-Games_Warhammer-40K-Rogue-Trader",
     posterImage: "https://static.tildacdn.com/tild3263-3431-4363-a433-363131613736/img.webp",
