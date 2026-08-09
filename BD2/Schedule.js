@@ -67,13 +67,12 @@ const scheduleDatabase = [
   // Воскресенье
   {
     nameRu: "Crusader Kings III",
-    scheduleRemark: "Игра × Начало в 14:00 по МСК",
+    scheduleRemark: "Игра",
     scheduleType: "schedule-current",
     date: "09.08.26",
   },
   {
-    nameRu: "Годнеслот",
-    scheduleRemark: "Начало в 18:00 по МСК",
+    nameRu: "Покер",
     scheduleType: "schedule-current",
     date: "09.08.26",
   },

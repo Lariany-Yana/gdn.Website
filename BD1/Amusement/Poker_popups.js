@@ -10,6 +10,11 @@ const amusementPokerPopups = {
       seasonName: "2026",
       items: [
         {
+          title: "9 Августа",
+          titleLink: ["vk", "456241880"],
+          player: ["vk", "456241880", "0e12eeb55f687f1e", "0h0m0s"],
+        },
+        {
           title: "24 Июля",
           titleLink: ["vk", "456241871"],
           player: ["vk", "456241871", "2e3066efd9037182", "0h0m0s"],
