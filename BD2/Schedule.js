@@ -66,7 +66,14 @@ const scheduleDatabase = [
   },
   // Воскресенье
   {
-    nameRu: "Стрим вполне вероятен",
+    nameRu: "Crusader Kings III",
+    scheduleRemark: "Игра × Начало в 14:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "09.08.26",
+  },
+  {
+    nameRu: "Годнеслот",
+    scheduleRemark: "Начало в 18:00 по МСК",
     scheduleType: "schedule-current",
     date: "09.08.26",
   },
