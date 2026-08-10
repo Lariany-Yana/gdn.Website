@@ -15,74 +15,6 @@ const scheduleDatabase = [
   {
     nameRu: "Стрим невозможен",
     scheduleType: "schedule-current",
-    date: "03.08.26",
-  },
-  // Вторник
-  {
-    nameRu: "Стрим не состоялся",
-    scheduleType: "schedule-current",
-    date: "04.08.26",
-  },
-  // Среда
-  {
-    nameRu: "Рим",
-    nameEn: "Rome",
-    scheduleRemark: "Сериал × 1 Сезон 9-10 Эпизод",
-    scheduleType: "schedule-current",
-    date: "05.08.26",
-  },
-  {
-    nameRu: "Клинок, рассекающий демонов: Бесконечный замок — Возвращение Акадзы",
-    nameEn: "Kimetsu no Yaiba Movie 1: Mugenjou-hen - Akaza Sairai",
-    scheduleRemark: "Полнометражка",
-    scheduleType: "schedule-current",
-    date: "05.08.26",
-  },
-  // Четверг
-  {
-    nameRu: "Стрим не состоялся",
-    scheduleType: "schedule-current",
-    date: "06.08.26",
-  },
-  // Пятница
-  {
-    nameRu: "Warhammer 40 000: Rogue Trader",
-    scheduleRemark: "Игра",
-    scheduleType: "schedule-current",
-    date: "07.08.26",
-  },
-  {
-    nameRu: "Телохранитель",
-    nameEn: "Yojimbo",
-    scheduleRemark: "Фильм",
-    scheduleType: "schedule-current",
-    date: "07.08.26",
-  },
-  // Суббота
-  {
-    nameRu: "Стрим невозможен",
-    scheduleType: "schedule-current",
-    date: "08.08.26",
-  },
-  // Воскресенье
-  {
-    nameRu: "Crusader Kings III",
-    scheduleRemark: "Игра",
-    scheduleType: "schedule-current",
-    date: "09.08.26",
-  },
-  {
-    nameRu: "Покер",
-    scheduleType: "schedule-current",
-    date: "09.08.26",
-  },
-
-  //#region Август
-  /* ШАБЛОН
-  // Понедельник
-  {
-    nameRu: "Стрим невозможен",
-    scheduleType: "schedule-current",
     date: "10.08.26",
   },
   // Вторник
@@ -121,6 +53,9 @@ const scheduleDatabase = [
     scheduleType: "schedule-current",
     date: "16.08.26",
   },
+
+  //#region Август
+  /* ШАБЛОН
   // Понедельник
   {
     nameRu: "Стрим невозможен",
@@ -2630,7 +2565,7 @@ const scheduleDatabase = [
     date: "31.07.26",
   },
   //#endregion
-  //#region Старое: Июнь 26
+  //#region Старое: Август 26
   // Суббота
   {
     nameRu: "Стрим невозможен",
@@ -2650,6 +2585,71 @@ const scheduleDatabase = [
     scheduleRemark: "Мультфильм",
     scheduleType: "schedule-past",
     date: "02.08.26",
+  },
+  // Понедельник
+  {
+    nameRu: "Стрим невозможен",
+    scheduleType: "schedule-past",
+    date: "03.08.26",
+  },
+  // Вторник
+  {
+    nameRu: "Стрим не состоялся",
+    scheduleType: "schedule-past",
+    date: "04.08.26",
+  },
+  // Среда
+  {
+    nameRu: "Рим",
+    nameEn: "Rome",
+    scheduleRemark: "Сериал × 1 Сезон 9-10 Эпизод",
+    scheduleType: "schedule-past",
+    date: "05.08.26",
+  },
+  {
+    nameRu: "Клинок, рассекающий демонов: Бесконечный замок — Возвращение Акадзы",
+    nameEn: "Kimetsu no Yaiba Movie 1: Mugenjou-hen - Akaza Sairai",
+    scheduleRemark: "Полнометражка",
+    scheduleType: "schedule-past",
+    date: "05.08.26",
+  },
+  // Четверг
+  {
+    nameRu: "Стрим не состоялся",
+    scheduleType: "schedule-past",
+    date: "06.08.26",
+  },
+  // Пятница
+  {
+    nameRu: "Warhammer 40 000: Rogue Trader",
+    scheduleRemark: "Игра",
+    scheduleType: "schedule-past",
+    date: "07.08.26",
+  },
+  {
+    nameRu: "Телохранитель",
+    nameEn: "Yojimbo",
+    scheduleRemark: "Фильм",
+    scheduleType: "schedule-past",
+    date: "07.08.26",
+  },
+  // Суббота
+  {
+    nameRu: "Стрим невозможен",
+    scheduleType: "schedule-past",
+    date: "08.08.26",
+  },
+  // Воскресенье
+  {
+    nameRu: "Crusader Kings III",
+    scheduleRemark: "Игра",
+    scheduleType: "schedule-past",
+    date: "09.08.26",
+  },
+  {
+    nameRu: "Покер",
+    scheduleType: "schedule-past",
+    date: "09.08.26",
   },
   //#endregion
 ];
