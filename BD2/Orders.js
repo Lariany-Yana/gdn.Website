@@ -18,6 +18,82 @@ const ordersDatabase = [
 
   //#region ~В процессе~
   {
+    nameRu: "Бумажный дом",
+    nameEn: "La casa de papel",
+    orderRemark: "Сериал × В заказе: 2 Сезон 5/9 Эпизод",
+    cardType: "order-during",
+    id: "order_La-casa-de-papel-2",
+    items: [
+      {
+        nickname: "lucky_god_man",
+        slot: "0.5", // 2 Сезон 1 Эпизод
+        date: "20.08.25",
+        was: "was",
+      },
+      {
+        nickname: "lucky_god_man",
+        slot: "0.5", // 2 Сезон 2 Эпизод
+        date: "28.08.25",
+        was: "was",
+      },
+      {
+        nickname: "lucky_god_man",
+        slot: "1.5", // 2 Сезон 3-5 Эпизод
+        date: "28.08.25",
+      },
+    ],
+  },
+  {
+    nameRu: "Готэм",
+    nameEn: "Gotham",
+    orderRemark: "Сериал × В заказе: 1 Сезон 2-22/22 Эпизод",
+    personalOrder: "user_Katya",
+    cardType: "order-during",
+    id: "order_Gotham-1",
+    items: [
+      {
+        nickname: "Твою мать!",
+        slot: "0.5", // 1 Сезон 1 Эпизод
+        date: "12.10.25",
+        was: "was",
+      },
+      {
+        nickname: "Твою мать!",
+        slot: "1.5", // 1 Сезон 2-4 Эпизод
+        date: "12.10.25",
+      },
+      {
+        nickname: "Твою мать!",
+        slot: "1", // 1 Сезон 5-6 Эпизод
+        date: "25.11.25",
+      },
+      {
+        nickname: "Твою мать!",
+        slot: "1", // 1 Сезон 7-8 Эпизод
+        date: "26.12.25",
+      },
+      {
+        nickname: "Твою мать!",
+        slot: "7", // 1 Сезон 9-22 Эпизод
+        date: "08.01.26",
+      },
+    ],
+  },
+  {
+    nameRu: "Викинги",
+    nameEn: "Vikings",
+    orderRemark: "Сериал × Просмотрено: 4 Сезон 1-2/20 Эпизод",
+    cardType: "order-during",
+    items: [
+      {
+        nickname: "Без имени",
+        slot: "1", // 1-2 Эпизод
+        date: "Без даты",
+        was: "owe",
+      },
+    ],
+  },
+  {
     nameRu: "Аладдин",
     nameEn: "Aladdin",
     orderRemark: "Мультфильм",
@@ -167,32 +243,6 @@ const ordersDatabase = [
     ],
   },
   {
-    nameRu: "Бумажный дом",
-    nameEn: "La casa de papel",
-    orderRemark: "Сериал × В заказе: 2 Сезон 3-5/9 Эпизод",
-    cardType: "order-during",
-    id: "order_La-casa-de-papel-2",
-    items: [
-      {
-        nickname: "lucky_god_man",
-        slot: "0.5", // 2 Сезон 1 Эпизод
-        date: "20.08.25",
-        was: "was",
-      },
-      {
-        nickname: "lucky_god_man",
-        slot: "0.5", // 2 Сезон 2 Эпизод
-        date: "28.08.25",
-        was: "was",
-      },
-      {
-        nickname: "lucky_god_man",
-        slot: "1.5", // 2 Сезон 3-5 Эпизод
-        date: "28.08.25",
-      },
-    ],
-  },
-  {
     nameRu: "Warhammer 40 000: Rogue Trader",
     orderRemark: "Игра",
     cardType: "order-during",
@@ -247,91 +297,6 @@ const ordersDatabase = [
         slot: "5",
         date: "Без имени",
         was: "owe",
-      },
-    ],
-  },
-  {
-    nameRu: "Tainted Grail: The Fall of Avalon",
-    orderRemark: "Игра",
-    cardType: "order-during",
-    id: "order_Tainted-Grail",
-    items: [
-      {
-        nickname: "Ториан",
-        slot: "1.5",
-        date: "09.07.25",
-      },
-    ],
-  },
-  {
-    nameRu: "Опорный Пункт",
-    nameEn: "FireBase",
-    orderRemark: "Мини-Фильм",
-    cardType: "order-during",
-    id: "order_FireBase",
-    items: [
-      {
-        nickname: "Ториан",
-        slot: "0.25",
-        date: "23.05.25",
-      },
-    ],
-  },
-  {
-    nameRu: "Ракка",
-    nameEn: "Rakka",
-    orderRemark: "Мини-Фильм",
-    cardType: "order-during",
-    id: "order_Rakka",
-    items: [
-      {
-        nickname: "Ториан",
-        slot: "0.25",
-        date: "23.05.25",
-      },
-    ],
-  },
-  {
-    nameRu: "Целитель Адамс",
-    nameEn: "Patch Adams",
-    orderRemark: "Фильм",
-    cardType: "order-during",
-    id: "order_Patch-Adams",
-    items: [
-      {
-        nickname: "Кирвин",
-        slot: "1",
-        date: "23.03.25",
-      },
-    ],
-  },
-  {
-    nameRu: "Бездарная Нана",
-    nameEn: "Munou na Nana",
-    orderRemark: "Манга × Прочитано: 1-8/122 Главы",
-    cardType: "order-during",
-    id: "order_Munou-na-Nana",
-    items: [
-      {
-        nickname: "Эклер",
-        slot: "1", // 1-10 Главы
-        date: "Без даты",
-        was: "was",
-      },
-    ],
-  },
-  {
-    nameRu: "Дружба — это чудо",
-    nameEn: "My Little Pony: Friendship is Magic",
-    orderRemark: "Мультсериал",
-    cardType: "order-during",
-    id: "order_My-Little-Pony",
-    items: [
-      {
-        nickname: "Эклер",
-        slot: "1",
-        date: "Без даты",
-        was: "was",
       },
     ],
   },
@@ -459,6 +424,20 @@ const ordersDatabase = [
     ],
   },
   {
+    nameRu: "Целитель Адамс",
+    nameEn: "Patch Adams",
+    orderRemark: "Фильм",
+    cardType: "order-waiting",
+    id: "order_Patch-Adams",
+    items: [
+      {
+        nickname: "Кирвин",
+        slot: "1",
+        date: "23.03.25",
+      },
+    ],
+  },
+  {
     nameRu: "South Park: The Stick of Truth",
     orderRemark: "Игра",
     cardType: "order-waiting",
@@ -468,6 +447,34 @@ const ordersDatabase = [
         nickname: "Кирвин",
         slot: "1",
         date: "03.04.25",
+      },
+    ],
+  },
+  {
+    nameRu: "Опорный Пункт",
+    nameEn: "FireBase",
+    orderRemark: "Мини-Фильм",
+    cardType: "order-waiting",
+    id: "order_FireBase",
+    items: [
+      {
+        nickname: "Ториан",
+        slot: "0.25",
+        date: "23.05.25",
+      },
+    ],
+  },
+  {
+    nameRu: "Ракка",
+    nameEn: "Rakka",
+    orderRemark: "Мини-Фильм",
+    cardType: "order-waiting",
+    id: "order_Rakka",
+    items: [
+      {
+        nickname: "Ториан",
+        slot: "0.25",
+        date: "23.05.25",
       },
     ],
   },
@@ -486,6 +493,19 @@ const ordersDatabase = [
         nickname: "Кирвин",
         slot: "1",
         date: "22.02.26",
+      },
+    ],
+  },
+  {
+    nameRu: "Tainted Grail: The Fall of Avalon",
+    orderRemark: "Игра",
+    cardType: "order-waiting",
+    id: "order_Tainted-Grail",
+    items: [
+      {
+        nickname: "Ториан",
+        slot: "1.5",
+        date: "09.07.25",
       },
     ],
   },
@@ -589,36 +609,6 @@ const ordersDatabase = [
         nickname: "qwarde",
         slot: "1",
         date: "28.09.25",
-      },
-    ],
-  },
-  {
-    nameRu: "Готэм",
-    nameEn: "Gotham",
-    orderRemark: "Сериал × В заказе: 1 Сезон 1-22/22 Эпизод",
-    personalOrder: "user_Katya",
-    cardType: "order-waiting",
-    id: "order_Gotham-1",
-    items: [
-      {
-        nickname: "Твою мать!",
-        slot: "2", // 1 Сезон 1-4 Эпизод
-        date: "12.10.25",
-      },
-      {
-        nickname: "Твою мать!",
-        slot: "1", // 1 Сезон 5-6 Эпизод
-        date: "25.11.25",
-      },
-      {
-        nickname: "Твою мать!",
-        slot: "1", // 1 Сезон 7-8 Эпизод
-        date: "26.12.25",
-      },
-      {
-        nickname: "Твою мать!",
-        slot: "7", // 1 Сезон 9-22 Эпизод
-        date: "08.01.26",
       },
     ],
   },
@@ -1105,6 +1095,36 @@ const ordersDatabase = [
   },
   //#endregion
   //#region ~Нужен дозаказ~
+  {
+    nameRu: "Бездарная Нана",
+    nameEn: "Munou na Nana",
+    orderRemark: "Манга × Прочитано: 1-8/122 Главы",
+    cardType: "order-incomplete",
+    id: "order_Munou-na-Nana",
+    items: [
+      {
+        nickname: "Эклер",
+        slot: "1", // 1-10 Главы
+        date: "Без даты",
+        was: "was",
+      },
+    ],
+  },
+  {
+    nameRu: "Дружба — это чудо",
+    nameEn: "My Little Pony: Friendship is Magic",
+    orderRemark: "Мультсериал",
+    cardType: "order-incomplete",
+    id: "order_My-Little-Pony",
+    items: [
+      {
+        nickname: "Эклер",
+        slot: "1",
+        date: "Без даты",
+        was: "was",
+      },
+    ],
+  },
   {
     nameRu: "Южный Парк",
     nameEn: "South Park",
@@ -1596,7 +1616,7 @@ const ordersDatabase = [
   {
     nameRu: "Викинги",
     nameEn: "Vikings",
-    orderRemark: "Сериал × В заказе: 3 Сезон 6-10/10 Эпизод",
+    orderRemark: "Сериал × Просмотрено: 3 Сезон 1-10/10 Эпизод",
     cardType: "order-finished",
     items: [
       {

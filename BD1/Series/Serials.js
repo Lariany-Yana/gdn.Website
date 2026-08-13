@@ -47,7 +47,7 @@ const seriesSerials = [
   {
     nameRu: "Бумажный дом",
     nameEn: "La casa de papel",
-    titleStatus: "Просмотрено: 1 Сезон, 2 Сезон 1-2/9 Эпизод",
+    titleStatus: "Просмотрено: 1 Сезон, 2 Сезон 1-4/9 Эпизод",
     donutTerms: "donut-lvl-2",
     id: "Series-Serials_La-casa-de-papel",
     posterImage: "https://static.tildacdn.com/tild6332-3965-4736-b234-393962636438/_.webp",
@@ -91,7 +91,7 @@ const seriesSerials = [
   {
     nameRu: "Викинги",
     nameEn: "Vikings",
-    titleStatus: "Просмотрено: 1-3 Сезон",
+    titleStatus: "Просмотрено: 1-3 Сезон, 4 Сезон 1-2/20 Эпизод",
     donutTerms: "donut-lvl-2",
     id: "Series-Serials_Vikings",
     posterImage: "https://static.tildacdn.com/tild3661-3234-4966-b865-396236623565/photo.webp",
@@ -140,6 +140,15 @@ const seriesSerials = [
     donutTerms: "donut-lvl-1",
     id: "Series-Serials_Heroes",
     posterImage: "https://static.tildacdn.com/tild6564-3533-4036-b961-656464666165/photo.webp",
+    cardType: "series-Serial",
+  },
+  {
+    nameRu: "Готэм",
+    nameEn: "Gotham",
+    titleStatus: "Просмотрено: 1 Сезон 1/22 Эпизод",
+    donutTerms: "donut-lvl-3",
+    id: "Series-Serials_Gotham",
+    posterImage: "https://static.tildacdn.com/tild6464-3561-4335-b136-363136313938/img.webp",
     cardType: "series-Serial",
   },
   {

@@ -1608,6 +1608,11 @@ const fullmeterMoviePopups = {
       posterImage: "https://static.tildacdn.com/tild6437-3132-4663-b732-346638393266/img.webp",
       cardType: "fullmeter-Movie",
     },
+    {
+      seasonName: "Создано Бруно Хеллером",
+      items: [],
+    },
+    { pasteCard: "Series-Serials_Gotham" },
   ],
   "Fullmeter-Movie_Fast-and-Furious": [
     {

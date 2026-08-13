@@ -47,7 +47,23 @@ const scheduleDatabase = [
   },
   // Четверг
   {
-    nameRu: "Стрим маловероятен",
+    nameRu: "Викинги",
+    nameEn: "Vikings",
+    scheduleRemark: "Сериал × 4 Сезон 1-2 Эпизод",
+    scheduleType: "schedule-current",
+    date: "13.08.26",
+  },
+  {
+    nameRu: "Бумажный дом",
+    nameEn: "La casa de papel",
+    scheduleRemark: "Сериал × 2 Сезон 3-4 Эпизод",
+    scheduleType: "schedule-current",
+    date: "13.08.26",
+  },
+  {
+    nameRu: "Готэм",
+    nameEn: "Gotham",
+    scheduleRemark: "Сериал × 1 Сезон 1 Эпизод",
     scheduleType: "schedule-current",
     date: "13.08.26",
   },

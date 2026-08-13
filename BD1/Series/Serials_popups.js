@@ -268,12 +268,17 @@ const seriesSerialsPopups = {
       ],
     },
     {
-      seasonName: "1 Сезон",
+      seasonName: "2 Сезон",
       items: [
         {
           title: "1-2 Эпизод",
           titleLink: ["vk", "456241869?t=12m5s"],
           player: ["vk", "456241869", "2410b0a840546cea", "0h12m5s"],
+        },
+        {
+          title: "3-4 Эпизод",
+          titleLink: ["vk", "456241883?t=2h10m23s"],
+          player: ["vk", "456241883", "ca0dc1fff993804b", "2h10m23s"],
         },
       ],
     },
@@ -482,6 +487,16 @@ const seriesSerialsPopups = {
           title: "8-10 Эпизод",
           titleLink: ["vk", "456241865?t=13m37s"],
           player: ["vk", "456241865", "c94335fde4a3dab2", "0h13m37s"],
+        },
+      ],
+    },
+    {
+      seasonName: "4 Сезон",
+      items: [
+        {
+          title: "1-2 Эпизод",
+          titleLink: ["vk", "456241883?t=12m42s"],
+          player: ["vk", "456241883", "ca0dc1fff993804b", "0h12m42s"],
         },
       ],
     },
@@ -867,6 +882,18 @@ const seriesSerialsPopups = {
           title: "5-6 Эпизод",
           titleLink: ["vk", "456239960?t=6h16m48s"],
           player: ["vk", "456239960", "c3b80bbb2835a695", "6h16m48s"],
+        },
+      ],
+    },
+  ],
+  "Series-Serials_Gotham": [
+    {
+      seasonName: "1 Сезон",
+      items: [
+        {
+          title: "1 Эпизод",
+          titleLink: ["vk", "456241883?t=4h5m7s"],
+          player: ["vk", "456241883", "ca0dc1fff993804b", "4h5m7s"],
         },
       ],
     },
