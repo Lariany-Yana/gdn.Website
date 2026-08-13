@@ -1,5 +1,15 @@
 const fullmeterCartoon = [
   {
+    nameRu: "Аладдин",
+    nameEn: "Aladdin",
+    donutTerms: "donut-lvl-3",
+    titleLink: ["vk", "456241881?t=11m23s"],
+    player: ["vk", "456241881", "b06754ddb2b80bc3", "0h11m23s"],
+    id: "Fullmeter-Cartoon_Aladdin",
+    posterImage: "https://static.tildacdn.com/tild3038-3064-4231-b864-386464383137/img.webp",
+    cardType: "fullmeter-Cartoon",
+  },
+  {
     nameRu: "Анастасия",
     nameEn: "Anastasia",
     donutTerms: "donut-lvl-1",

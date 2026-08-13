@@ -19,13 +19,29 @@ const scheduleDatabase = [
   },
   // Вторник
   {
-    nameRu: "Стрим вполне вероятен",
+    nameRu: "Стрим не состоялся",
     scheduleType: "schedule-current",
     date: "11.08.26",
   },
   // Среда
   {
-    nameRu: "Стрим вполне вероятен",
+    nameRu: "Семь смертных грехов",
+    nameEn: "Nanatsu no Taizai / The Seven Deadly Sins",
+    scheduleRemark: "Аниме × 1 Сезон 17-20 Эпизод",
+    scheduleType: "schedule-current",
+    date: "12.08.26",
+  },
+  {
+    nameRu: "Аладдин",
+    nameEn: "Aladdin",
+    scheduleRemark: "Мультфильм",
+    scheduleType: "schedule-current",
+    date: "12.08.26",
+  },
+  {
+    nameRu: "Декстер",
+    nameEn: "Dexter",
+    scheduleRemark: "Сериал × 8 Сезон 3-4 Эпизод",
     scheduleType: "schedule-current",
     date: "12.08.26",
   },

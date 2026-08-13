@@ -18,6 +18,20 @@ const ordersDatabase = [
 
   //#region ~В процессе~
   {
+    nameRu: "Аладдин",
+    nameEn: "Aladdin",
+    orderRemark: "Мультфильм",
+    cardType: "order-during",
+    items: [
+      {
+        nickname: "Без имени",
+        slot: "1",
+        date: "Без даты",
+        was: "owe",
+      },
+    ],
+  },
+  {
     nameRu: "Шрек навсегда",
     nameEn: "Shrek Forever After",
     orderRemark: "Мультфильм",
@@ -48,13 +62,13 @@ const ordersDatabase = [
   {
     nameRu: "Декстер",
     nameEn: "Dexter",
-    orderRemark: "Сериал ⨯ Просмотрено: 8 Сезон 1-2/12 Эпизод",
+    orderRemark: "Сериал ⨯ Просмотрено: 8 Сезон 1-4/12 Эпизод",
     cardType: "order-during",
     id: "order_Dexter-8",
     items: [
       {
         nickname: "Без имени",
-        slot: "1", // 8 Сезон 1-2 Эпизод
+        slot: "2", // 8 Сезон 1-2 Эпизод
         date: "Без даты",
         was: "owe",
       },
@@ -78,7 +92,7 @@ const ordersDatabase = [
   {
     nameRu: "Семь смертных грехов",
     nameEn: "Nanatsu no Taizai / The Seven Deadly Sins",
-    orderRemark: "Аниме × В заказе: 1 Сезон 17-24/24 Эпизод",
+    orderRemark: "Аниме × В заказе: 1 Сезон 21-24/24 Эпизод",
     cardType: "order-during",
     id: "order_Nanatsu-no-Taizai-1",
     items: [
@@ -96,7 +110,13 @@ const ordersDatabase = [
       },
       {
         nickname: "Podserty",
-        slot: "2", // 1 Сезон 17-12 Эпизод
+        slot: "1", // 1 Сезон 17-20 Эпизод
+        date: "06.08.25",
+        was: "was",
+      },
+      {
+        nickname: "Podserty",
+        slot: "1", // 1 Сезон 21-22 Эпизод
         date: "06.08.25",
       },
     ],
