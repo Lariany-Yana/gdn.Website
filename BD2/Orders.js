@@ -788,12 +788,12 @@ const ordersDatabase = [
     ],
   },
   {
-    nameRu: "Оно: Добро пожаловать в Дерри",
-    nameEn: "IT: Welcome to Derry",
-    orderRemark: "Сериал × В заказе: 1 Сезон 1-8/8 Эпизод",
+    nameRu: "Мандалорец",
+    nameEn: "The Mandalorian",
+    orderRemark: "Сериал × В заказе: 2 Сезон 1-8/8 Эпизод",
     personalOrder: "user_Misty",
     cardType: "order-waiting",
-    id: "order_Welcome-to-Derry-1",
+    id: "order_The-Mandalorian-2",
     items: [
       {
         nickname: "Мисти",
@@ -1427,6 +1427,16 @@ const ordersDatabase = [
   },
   //#endregion
   //#region ~Свапы~
+  {
+    nameRu_1: "Оно: Добро пожаловать в Дерри",
+    nameEn_1: "IT: Welcome to Derry",
+    nameRu_2: "Мандалорец",
+    nameEn_2: "The Mandalorian",
+    orderRemark_1: "Сериал > 4 Слота > Сериал",
+    orderRemark_2: "Свап был 14.08.26 (Мисти)",
+    cardType: "order-switch",
+    items: [],
+  },
   {
     nameRu_1: "Годнеслот (23.02.26 ⨯ Кирвин)",
     nameRu_2: "Телохранитель",
