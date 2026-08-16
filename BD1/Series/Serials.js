@@ -145,7 +145,7 @@ const seriesSerials = [
   {
     nameRu: "Готэм",
     nameEn: "Gotham",
-    titleStatus: "Просмотрено: 1 Сезон 1/22 Эпизод",
+    titleStatus: "Просмотрено: 1 Сезон 1-4/22 Эпизод",
     donutTerms: "donut-lvl-3",
     id: "Series-Serials_Gotham",
     posterImage: "https://static.tildacdn.com/tild6464-3561-4335-b136-363136313938/img.webp",
@@ -531,7 +531,7 @@ const seriesSerials = [
   {
     nameRu: "Рим",
     nameEn: "Rome",
-    titleStatus: "Просмотрено: 1 Сезон 1-10/12 Эпизод",
+    titleStatus: "Просмотрено: 1 Сезон 1-12/12 Эпизод",
     donutTerms: "donut-lvl-3",
     id: "Series-Serials_Rome",
     posterImage: "https://static.tildacdn.com/tild3362-3139-4838-b139-373436313134/img.webp",

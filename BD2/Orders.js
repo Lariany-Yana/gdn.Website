@@ -46,21 +46,16 @@ const ordersDatabase = [
   {
     nameRu: "Готэм",
     nameEn: "Gotham",
-    orderRemark: "Сериал × В заказе: 1 Сезон 2-22/22 Эпизод",
+    orderRemark: "Сериал × В заказе: 1 Сезон 5-22/22 Эпизод",
     personalOrder: "user_Katya",
     cardType: "order-during",
     id: "order_Gotham-1",
     items: [
       {
         nickname: "Твою мать!",
-        slot: "0.5", // 1 Сезон 1 Эпизод
+        slot: "2", // 1 Сезон 1-4 Эпизод
         date: "12.10.25",
         was: "was",
-      },
-      {
-        nickname: "Твою мать!",
-        slot: "1.5", // 1 Сезон 2-4 Эпизод
-        date: "12.10.25",
       },
       {
         nickname: "Твою мать!",
@@ -194,51 +189,6 @@ const ordersDatabase = [
         nickname: "Podserty",
         slot: "1", // 1 Сезон 21-22 Эпизод
         date: "06.08.25",
-      },
-    ],
-  },
-  {
-    nameRu: "Рим",
-    nameEn: "Rome",
-    orderRemark: "Сериал × В заказе: 1 Сезон 11-12/12 Эпизод",
-    personalOrder: "user_Misty",
-    cardType: "order-during",
-    id: "order_Rome-1",
-    items: [
-      {
-        nickname: "Мисти",
-        slot: "1", // 1 Сезон 1-2 Эпизод
-        date: "18.05.25",
-        was: "was",
-      },
-      {
-        nickname: "Мисти",
-        slot: "1", // 1 Сезон 3-4 Эпизод
-        date: "18.05.25",
-        was: "was",
-      },
-      {
-        nickname: "Мисти",
-        slot: "1", // 1 Сезон 5-6 Эпизод
-        date: "10.06.25",
-        was: "was",
-      },
-      {
-        nickname: "Мисти",
-        slot: "1", // 1 Сезон 7-8 Эпизод
-        date: "10.06.25",
-        was: "was",
-      },
-      {
-        nickname: "Мисти",
-        slot: "1", // 1 Сезон 9-10 Эпизод
-        date: "17.07.25",
-        was: "was",
-      },
-      {
-        nickname: "Мисти",
-        slot: "1", // 1 Сезон 11-12 Эпизод
-        date: "17.07.25",
       },
     ],
   },
@@ -1521,6 +1471,32 @@ const ordersDatabase = [
   },
   //#endregion
   //#region ~Просмотренное~
+  {
+    nameRu: "Рим",
+    nameEn: "Rome",
+    orderRemark: "Сериал × Просмотрено: 1 Сезон 1-12/12 Эпизод",
+    cardType: "order-finished",
+    items: [
+      {
+        nickname: "Мисти",
+        slot: "2", // 1 Сезон 1-4 Эпизод
+        date: "18.05.25",
+        was: "was",
+      },
+      {
+        nickname: "Мисти",
+        slot: "2", // 1 Сезон 5-8 Эпизод
+        date: "10.06.25",
+        was: "was",
+      },
+      {
+        nickname: "Мисти",
+        slot: "2", // 1 Сезон 9-12 Эпизод
+        date: "17.07.25",
+        was: "was",
+      },
+    ],
+  },
   {
     nameRu: "Телохранитель",
     nameEn: "Yojimbo",

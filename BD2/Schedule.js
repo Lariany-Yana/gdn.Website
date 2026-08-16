@@ -83,7 +83,14 @@ const scheduleDatabase = [
   {
     nameRu: "Готэм",
     nameEn: "Gotham",
-    scheduleRemark: "Сериал × Начало в 14:30 по МСК",
+    scheduleRemark: "Сериал × 1 Сезон 2-4 Эпизод",
+    scheduleType: "schedule-current",
+    date: "16.08.26",
+  },
+  {
+    nameRu: "Рим",
+    nameEn: "Rome",
+    scheduleRemark: "Сериал × 1 Сезон 11-12 Эпизод",
     scheduleType: "schedule-current",
     date: "16.08.26",
   },
