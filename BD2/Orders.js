@@ -569,31 +569,31 @@ const ordersDatabase = [
     ],
   },
   {
-    nameRu: "Плутон",
-    nameEn: "Pluto",
-    orderRemark: "Аниме × В заказе: 1 Сезон 1-8/8 Эпизод",
+    nameRu: "Невеста чародея",
+    nameEn: "Mahoutsukai no Yome",
+    orderRemark: "Аниме × В заказе: 2 Сезон 1-16/24 Эпизод",
     personalOrder: "user_Misty",
     cardType: "order-waiting",
-    id: "order_Pluto",
+    id: "order_Mahoutsukai-no-Yome-2",
     items: [
       {
         nickname: "Мисти",
-        slot: "0.5", // 1 Сезон 1 Эпизод
+        slot: "0.5", // 2 Сезон 1-2 Эпизод
         date: "16.09.25",
       },
       {
         nickname: "Мисти",
-        slot: "1.5", // 1 Сезон 2-4 Эпизод
+        slot: "1.5", // 2 Сезон 3-8 Эпизод
         date: "16.02.26",
       },
       {
         nickname: "Мисти",
-        slot: "1", // 1 Сезон 5-6 Эпизод
+        slot: "1", // 2 Сезон 9-12 Эпизод
         date: "17.03.26",
       },
       {
         nickname: "Мисти",
-        slot: "1", // 1 Сезон 7-8 Эпизод
+        slot: "1", // 2 Сезон 13-16 Эпизод
         date: "17.05.26",
       },
     ],
@@ -1428,12 +1428,24 @@ const ordersDatabase = [
   //#endregion
   //#region ~Свапы~
   {
+    nameRu_1: "Плутон",
+    nameEn_1: "Pluto",
+    nameRu_2: "Невеста чародея",
+    nameEn_2: "Mahoutsukai no Yome",
+    orderRemark_1: "Аниме > 4 Слота > Аниме",
+    orderRemark_2: "Свап был 16.08.26 (Мисти)",
+    personalOrder: "user_Misty",
+    cardType: "order-switch",
+    items: [],
+  },
+  {
     nameRu_1: "Оно: Добро пожаловать в Дерри",
     nameEn_1: "IT: Welcome to Derry",
     nameRu_2: "Мандалорец",
     nameEn_2: "The Mandalorian",
     orderRemark_1: "Сериал > 4 Слота > Сериал",
     orderRemark_2: "Свап был 14.08.26 (Мисти)",
+    personalOrder: "user_Misty",
     cardType: "order-switch",
     items: [],
   },

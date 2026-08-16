@@ -69,7 +69,7 @@ const scheduleDatabase = [
   },
   // Пятница
   {
-    nameRu: "Стрим вполне вероятен",
+    nameRu: "Стрим не состоялся",
     scheduleType: "schedule-current",
     date: "14.08.26",
   },
@@ -81,7 +81,9 @@ const scheduleDatabase = [
   },
   // Воскресенье
   {
-    nameRu: "Стрим вполне вероятен",
+    nameRu: "Готэм",
+    nameEn: "Gotham",
+    scheduleRemark: "Сериал × Начало в 14:30 по МСК",
     scheduleType: "schedule-current",
     date: "16.08.26",
   },
