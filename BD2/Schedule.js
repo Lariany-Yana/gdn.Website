@@ -9,94 +9,7 @@ const scheduleDatabase = [
     date: "00.06.26",
   },
 	*/
-  //#endregion
 
-  // Понедельник
-  {
-    nameRu: "Стрим невозможен",
-    scheduleType: "schedule-current",
-    date: "10.08.26",
-  },
-  // Вторник
-  {
-    nameRu: "Стрим не состоялся",
-    scheduleType: "schedule-current",
-    date: "11.08.26",
-  },
-  // Среда
-  {
-    nameRu: "Семь смертных грехов",
-    nameEn: "Nanatsu no Taizai / The Seven Deadly Sins",
-    scheduleRemark: "Аниме × 1 Сезон 17-20 Эпизод",
-    scheduleType: "schedule-current",
-    date: "12.08.26",
-  },
-  {
-    nameRu: "Аладдин",
-    nameEn: "Aladdin",
-    scheduleRemark: "Мультфильм",
-    scheduleType: "schedule-current",
-    date: "12.08.26",
-  },
-  {
-    nameRu: "Декстер",
-    nameEn: "Dexter",
-    scheduleRemark: "Сериал × 8 Сезон 3-4 Эпизод",
-    scheduleType: "schedule-current",
-    date: "12.08.26",
-  },
-  // Четверг
-  {
-    nameRu: "Викинги",
-    nameEn: "Vikings",
-    scheduleRemark: "Сериал × 4 Сезон 1-2 Эпизод",
-    scheduleType: "schedule-current",
-    date: "13.08.26",
-  },
-  {
-    nameRu: "Бумажный дом",
-    nameEn: "La casa de papel",
-    scheduleRemark: "Сериал × 2 Сезон 3-4 Эпизод",
-    scheduleType: "schedule-current",
-    date: "13.08.26",
-  },
-  {
-    nameRu: "Готэм",
-    nameEn: "Gotham",
-    scheduleRemark: "Сериал × 1 Сезон 1 Эпизод",
-    scheduleType: "schedule-current",
-    date: "13.08.26",
-  },
-  // Пятница
-  {
-    nameRu: "Стрим не состоялся",
-    scheduleType: "schedule-current",
-    date: "14.08.26",
-  },
-  // Суббота
-  {
-    nameRu: "Стрим невозможен",
-    scheduleType: "schedule-current",
-    date: "15.08.26",
-  },
-  // Воскресенье
-  {
-    nameRu: "Готэм",
-    nameEn: "Gotham",
-    scheduleRemark: "Сериал × 1 Сезон 2-4 Эпизод",
-    scheduleType: "schedule-current",
-    date: "16.08.26",
-  },
-  {
-    nameRu: "Рим",
-    nameEn: "Rome",
-    scheduleRemark: "Сериал × 1 Сезон 11-12 Эпизод",
-    scheduleType: "schedule-current",
-    date: "16.08.26",
-  },
-
-  //#region Август
-  /* ШАБЛОН
   // Понедельник
   {
     nameRu: "Стрим невозможен",
@@ -139,6 +52,10 @@ const scheduleDatabase = [
     scheduleType: "schedule-current",
     date: "23.08.26",
   },
+	
+  //#endregion
+  //#region Август
+  /* ШАБЛОН
   // Понедельник
   {
     nameRu: "Стрим невозможен",
@@ -2691,6 +2608,89 @@ const scheduleDatabase = [
     nameRu: "Покер",
     scheduleType: "schedule-past",
     date: "09.08.26",
+  },
+  // Понедельник
+  {
+    nameRu: "Стрим невозможен",
+    scheduleType: "schedule-past",
+    date: "10.08.26",
+  },
+  // Вторник
+  {
+    nameRu: "Стрим не состоялся",
+    scheduleType: "schedule-past",
+    date: "11.08.26",
+  },
+  // Среда
+  {
+    nameRu: "Семь смертных грехов",
+    nameEn: "Nanatsu no Taizai / The Seven Deadly Sins",
+    scheduleRemark: "Аниме × 1 Сезон 17-20 Эпизод",
+    scheduleType: "schedule-past",
+    date: "12.08.26",
+  },
+  {
+    nameRu: "Аладдин",
+    nameEn: "Aladdin",
+    scheduleRemark: "Мультфильм",
+    scheduleType: "schedule-past",
+    date: "12.08.26",
+  },
+  {
+    nameRu: "Декстер",
+    nameEn: "Dexter",
+    scheduleRemark: "Сериал × 8 Сезон 3-4 Эпизод",
+    scheduleType: "schedule-past",
+    date: "12.08.26",
+  },
+  // Четверг
+  {
+    nameRu: "Викинги",
+    nameEn: "Vikings",
+    scheduleRemark: "Сериал × 4 Сезон 1-2 Эпизод",
+    scheduleType: "schedule-past",
+    date: "13.08.26",
+  },
+  {
+    nameRu: "Бумажный дом",
+    nameEn: "La casa de papel",
+    scheduleRemark: "Сериал × 2 Сезон 3-4 Эпизод",
+    scheduleType: "schedule-past",
+    date: "13.08.26",
+  },
+  {
+    nameRu: "Готэм",
+    nameEn: "Gotham",
+    scheduleRemark: "Сериал × 1 Сезон 1 Эпизод",
+    scheduleType: "schedule-past",
+    date: "13.08.26",
+  },
+  // Пятница
+  {
+    nameRu: "Стрим не состоялся",
+    scheduleType: "schedule-past",
+    date: "14.08.26",
+  },
+  // Суббота
+  {
+    nameRu: "Стрим невозможен",
+    scheduleType: "schedule-past",
+    date: "15.08.26",
+  },
+  // Воскресенье
+  {
+    nameRu: "Готэм",
+    nameEn: "Gotham",
+    scheduleRemark: "Сериал × 1 Сезон 2-4 Эпизод",
+    scheduleType: "schedule-past",
+    date: "16.08.26",
+  },
+  {
+    nameRu: "Рим",
+    nameEn: "Rome",
+    scheduleRemark: "Сериал × 1 Сезон 11-12 Эпизод",
+    scheduleType: "schedule-past",
+    date: "16.08.26",
   },
   //#endregion
 ];
