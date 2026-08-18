@@ -6,7 +6,7 @@ const amusementTVShows = [
     id: "Amusement-TV-shows_Hell-Kitchen",
     posterImage: "https://static.tildacdn.com/tild3166-3631-4134-b363-323261393364/_.webp",
     cardType: "amusement-TV_Show",
-  },
+  }, 
   {
     nameRu: "Камеди Клаб",
     nameEn: "Comedy Club",

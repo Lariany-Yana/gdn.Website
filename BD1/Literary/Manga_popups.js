@@ -34,7 +34,7 @@ const literatureMangaPopups = {
         },
       ],
     },
-  ],
+  ], 
   "Literary-Manga_Munou-na-Nana": [
     {
       seasonName: "",

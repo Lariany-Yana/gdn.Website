@@ -69,7 +69,7 @@ const literatureRanobePopups = {
           player: ["vk", "456241418", "73defb7e70091acb", "0h12m51s"],
         },
       ],
-    },
+    }, 
   ],
   "Literary-Ranobe_Omniscient-Reader": [
     {

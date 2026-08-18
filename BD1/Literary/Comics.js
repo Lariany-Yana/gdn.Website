@@ -10,7 +10,7 @@ const literatureComics = [
     id: "Literary-Comics_Batman-Who-Laughs",
     posterImage: "https://static.tildacdn.com/tild6334-3632-4439-b866-386133646365/_The_Batman_Who_Laug.webp",
     cardType: "literature-Comics",
-  },
+  }, 
   {
     nameRu: "Марвел Зомби",
     nameEn: "Marvel Zombies",

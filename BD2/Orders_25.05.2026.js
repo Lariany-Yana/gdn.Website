@@ -1397,7 +1397,7 @@ const ordersDatabase = [
     personalOrder: "user_Misty",
     cardType: "order-switch",
     items: [],
-  },
+  }, 
   {
     nameRu_1: "Знакомьтесь, Джо Блэк",
     nameEn_1: "Meet Joe Black",

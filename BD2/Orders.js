@@ -73,7 +73,7 @@ const ordersDatabase = [
         date: "08.01.26",
       },
     ],
-  },
+  }, 
   {
     nameRu: "Викинги",
     nameEn: "Vikings",

@@ -3723,7 +3723,7 @@ const fullmeterMovie = [
     posterImage: "https://static.tildacdn.com/tild6533-6163-4435-b861-343336343538/CODA___.webp",
     cardType: "fullmeter-Movie",
   },
-  {
+  { 
     nameRu: "Kingsman: Секретная служба",
     nameEn: "Kingsman: The Secret Service",
     donutTerms: "donut-lvl-1",

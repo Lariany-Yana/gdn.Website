@@ -132,7 +132,7 @@ const fullmeterAnimePopups = {
       id: "Fullmeter-Anime_Evangelion-Shin-3",
       posterImage: "https://static.tildacdn.com/tild3433-3135-4962-b638-636538656637/img.webp",
       cardType: "fullmeter-Anime",
-    },
+    }, 
     {
       nameRu: "Как-то раз || Евангелион",
       nameEn: "Thrice Upon a Time || Evangelion Shin",

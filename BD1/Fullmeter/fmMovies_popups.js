@@ -1588,7 +1588,7 @@ const fullmeterMoviePopups = {
       posterImage: "https://static.tildacdn.com/tild6235-3534-4335-a336-323762346232/img.webp",
       cardType: "fullmeter-Movie",
     },
-    {
+    { 
       nameRu: "Тёмный рыцарь",
       nameEn: "The Dark Knight",
       donutTerms: "donut-lvl-1",

@@ -33,7 +33,7 @@ function initPopup(typeId) {
         if (valueLabel) valueLabel.textContent = `${newWidth}px`;
       }
     });
-
+ 
     popup.addEventListener("click", (e) => {
       const resetBtn = e.target.closest("#title-card-size-reset");
       if (resetBtn) {

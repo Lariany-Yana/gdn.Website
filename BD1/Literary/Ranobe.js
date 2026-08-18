@@ -16,7 +16,7 @@ const literatureRanobe = [
     id: "Literary-Ranobe_Classroom-of-Elite",
     posterImage: "https://static.tildacdn.com/tild6565-6238-4130-a365-653632343735/_Classroom_of_the_El.webp",
     cardType: "literature-Ranobe",
-  },
+  }, 
   {
     nameRu: "Точка зрения Всеведущего читателя",
     nameEn: "Omniscient Reader",

@@ -116,7 +116,7 @@ const fullmeterAnime = [
     id: "Fullmeter-Anime_Perfect-Blue",
     posterImage: "https://static.tildacdn.com/tild6664-3036-4164-b433-613931616636/img.webp",
     cardType: "fullmeter-Anime",
-  },
+  }, 
   {
     nameRu: "История Резе || Человек-бензопила",
     nameEn: "Chainsaw Man Movie: Reze-hen",

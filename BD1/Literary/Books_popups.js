@@ -78,7 +78,7 @@ const literatureBooksPopups = {
           player: ["vk", "456241105", "62d9674e4e15101c", "0h12m6s"],
         },
       ],
-    },
+    }, 
   ],
   "Literary-Books_Dark-Tower": [
     {

@@ -167,7 +167,7 @@ const OrdersConfig = {
       renderSearchResults(null, OrdersConfig.createCardFn, OrdersConfig.searchPlaceholder);
       return;
     }
-
+ 
     const lowerQuery = query.toLowerCase();
     const filtered = [];
 

@@ -155,7 +155,7 @@ const amusementYouTubePopups = {
           titleLink: ["vk", "456241407?t=4m35s"],
           player: ["vk", "456241407", "e77172ede1f108c6", "0h4m35s"],
         },
-        {
+        { 
           title: "Настоящий Гений Пранков - Нейтан Филдер",
           titleLink: ["vk", "456241407?t=4m35s"],
           player: ["vk", "456241407", "e77172ede1f108c6", "0h4m35s"],

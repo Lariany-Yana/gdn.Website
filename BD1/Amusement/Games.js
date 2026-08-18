@@ -58,7 +58,7 @@ const amusementGames = [
     id: "Amusement-Games_Celeste",
     posterImage: "https://static.tildacdn.com/tild6663-3139-4330-b062-393734383935/Celeste.webp",
     cardType: "amusement-Game",
-  },
+  }, 
   {
     nameRu: "Choo-Choo Charles",
     titleStatus: "Наиграно: До финала",

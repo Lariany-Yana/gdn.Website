@@ -9,7 +9,7 @@ const scheduleDatabase = [
     date: "00.06.26",
   },
 	*/
-
+ 
   // Понедельник
   {
     nameRu: "Стрим невозможен",
@@ -18,7 +18,7 @@ const scheduleDatabase = [
   },
   // Вторник
   {
-    nameRu: "Стрим маловероятен",
+    nameRu: "Стрим не состоялся",
     scheduleType: "schedule-current",
     date: "18.08.26",
   },

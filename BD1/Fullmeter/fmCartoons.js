@@ -8,7 +8,7 @@ const fullmeterCartoon = [
     id: "Fullmeter-Cartoon_Aladdin",
     posterImage: "https://static.tildacdn.com/tild3038-3064-4231-b864-386464383137/img.webp",
     cardType: "fullmeter-Cartoon",
-  },
+  }, 
   {
     nameRu: "Анастасия",
     nameEn: "Anastasia",

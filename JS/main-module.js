@@ -49,7 +49,7 @@ class MainEngine extends SiteEngine {
         this.main.innerHTML = "";
         this.main.appendChild(template.content.cloneNode(true));
       }
-
+ 
       if (typeof this.config.renderScheduleFn === "function") {
         this.config.renderScheduleFn();
       }

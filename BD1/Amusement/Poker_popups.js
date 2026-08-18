@@ -2,7 +2,7 @@ const amusementPoker = [
   {
     nameRu: "Покер",
     id: "Amusement-Poker",
-  },
+  }, 
 ];
 const amusementPokerPopups = {
   "Amusement-Poker": [

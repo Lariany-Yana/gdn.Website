@@ -1,6 +1,6 @@
 const amusementTVShowsPopups = {
   "Amusement-TV-shows_Hell-Kitchen": [
-    {
+    { 
       seasonName: "1 Сезон",
       items: [
         {

@@ -1313,7 +1313,7 @@ const seriesAnime = [
     id: "Series-Anime_Nanatsu-no-Taizai",
     posterImage: "https://static.tildacdn.com/tild6366-3833-4230-b663-616162373037/__.webp",
     cardType: "series-Anime",
-  },
+  }, 
   {
     nameRu: "Синяя тюрьма: Блю Лок",
     nameEn: "Blue Lock",

@@ -656,7 +656,7 @@ button {
 .lost {
   pointer-events: none;
 }
-
+ 
 .donut {
   font-weight: bold !important;
   &.donut-lvl-1 {

@@ -9,7 +9,7 @@ const literatureManhwa = [
     id: "Literary-Manhwa_Unholy-Blood",
     posterImage: "https://static.tildacdn.com/tild3865-3439-4466-b938-656132386537/_Unholy_Blood.webp",
     cardType: "literature-Manhwa",
-  },
+  }, 
   {
     nameRu: "Милый дом",
     nameEn: "Sweet Home",

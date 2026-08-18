@@ -536,7 +536,7 @@ const seriesSerials = [
     id: "Series-Serials_Rome",
     posterImage: "https://static.tildacdn.com/tild3362-3139-4838-b139-373436313134/img.webp",
     cardType: "series-Serial",
-  },
+  }, 
   {
     nameRu: "Сверхъестественное",
     nameEn: "Supernatural",

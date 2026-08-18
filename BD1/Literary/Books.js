@@ -18,7 +18,7 @@ const literatureBooks = [
     id: "Literary-Books_Now-Showing",
     posterImage: "https://static.tildacdn.com/tild3237-6265-4766-b563-323463366561/_Now_showing.webp",
     cardType: "literature-Book",
-  },
+  }, 
   {
     nameRu: "Тёмная башня",
     nameEn: "The Dark Tower",

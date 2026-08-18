@@ -7,7 +7,7 @@ const literatureComicsPopups = {
           title: "Dead Days 1",
           titleLink: ["vk", "456240598?t=12m40s"],
           player: ["vk", "456240598", "dfacdbaf3de6a903", "0h12m40s"],
-        },
+        }, 
         {
           title: "Ultimate Fantastic Four 21",
           titleLink: ["vk", "456240598?t=44m0s"],

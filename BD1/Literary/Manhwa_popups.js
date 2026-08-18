@@ -11,7 +11,7 @@ const literatureManhwaPopups = {
           title: "12-26 Главы",
           titleLink: ["boosty", "hiddenarchive/posts/7374ea5f-a7c8-4d55-8a4d-cd036ccdaff2"],
         },
-        {
+        { 
           title: "26-37 Главы",
           titleLink: ["boosty", "hiddenarchive/posts/28700c0a-5342-45de-aac1-01d5e20c8407"],
         },

@@ -27,6 +27,6 @@ const headerTemplate = `
 		<div class="results-container"></div>
 	</template>
 `;
-
+ 
 // Вставляем шаблон в начало body
 document.body.insertAdjacentHTML("afterbegin", headerTemplate);

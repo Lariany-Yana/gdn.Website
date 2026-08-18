@@ -133,7 +133,7 @@ const seriesCartoons = [
     id: "Series-Cartoon_Friendship-is-Magic",
     posterImage: "https://static.tildacdn.com/tild6233-6261-4363-b963-653063303266/_-__.webp",
     cardType: "series-Cartoon",
-  },
+  }, 
   {
     nameRu: "Задорные друзья",
     nameEn: "Smiling Friends",

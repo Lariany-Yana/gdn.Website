@@ -125,7 +125,7 @@ const amusementEvents = [
     posterImage: "https://static.tildacdn.com/tild3730-3938-4536-a433-363164616634/__.webp",
     cardType: "amusement-Event",
   },
-  {
+  { 
     nameRu: "ЛЕГЕНДАРНЫЙ ТЕСТ НА ЛУЧШЕГО ЗЛОДЕЯ",
     nameEn: "28.10.2023",
     donutTerms: "donut-lvl-1",

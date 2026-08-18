@@ -321,7 +321,7 @@ const amusementGamesPopups = {
           title: "9 Эпизод",
           titleLink: ["vk", "456241625?t=1m15s"],
           player: ["vk", "456241625", "648db2ab6a763f67", "0h1m15s"],
-        },
+        }, 
         {
           title: "10 Эпизод",
           titleLink: ["vk", "456241630?t=12m5s"],

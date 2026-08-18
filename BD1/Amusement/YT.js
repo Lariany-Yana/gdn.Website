@@ -204,7 +204,7 @@ const amusementYouTube = [
     posterImage: "https://static.tildacdn.com/tild3534-6638-4937-b735-333063343532/One_Year_Alone_in_Fo.webp",
     cardType: "amusement-YouTube",
   },
-  {
+  { 
     nameRu: "Shinichi Sakamoto, manga creation in the digital era",
     nameEn: "Archipel",
     donutTerms: "donut-lvl-1",

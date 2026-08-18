@@ -7829,7 +7829,7 @@ const seriesAnimePopups = {
         {
           title: "1-8 Эпизод",
           lost: "lost",
-        },
+        }, 
         {
           title: "9-12 Эпизод",
           titleLink: ["vk", "456241536?t=3h57m5s"],
@@ -7844,7 +7844,7 @@ const seriesAnimePopups = {
           title: "17-20 Эпизод",
           titleLink: ["vk", "456241882?t=13m51s"],
           player: ["vk", "456241882", "e11d10ee6f859d5d", "0h13m51s"],
-        },
+        }, 
       ],
     },
   ],

@@ -8,7 +8,7 @@ const literatureManga = [
     posterImage: "https://static.tildacdn.com/tild3633-6563-4434-b133-313966633563/_Innocent.webp",
     cardType: "literature-Manga",
   },
-  {
+  { 
     nameRu: "Бездарная Нана",
     nameEn: "Munou na Nana",
     titleStatus: "Прочитано: 1-8/122 Главы",

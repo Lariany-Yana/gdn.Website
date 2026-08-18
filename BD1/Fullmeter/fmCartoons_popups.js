@@ -460,7 +460,7 @@ const fullmeterCartoonPopups = {
       posterImage: "https://static.tildacdn.com/tild3236-3463-4266-b839-363931386137/img.webp",
       cardType: "fullmeter-Cartoon",
     },
-  ],
+  ], 
   "Fullmeter-Cartoon_Shrek": [
     {
       nameRu: "Шрек 2",
