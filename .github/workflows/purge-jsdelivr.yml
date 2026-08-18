@@ -1,0 +1,60 @@
+name: Purge jsDelivr Cache
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  purge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Purge jsDelivr Cache
+        run: |
+          curl -s https://purge.jsdelivr.net/gh/${{ github.repository }}@${{ github.ref_name }}/style.css
+          curl -s https://purge.jsdelivr.net/gh/${{ github.repository }}@${{ github.ref_name }}/header.js
+          curl -s https://purge.jsdelivr.net/gh/${{ github.repository }}@${{ github.ref_name }}/main.html
+          curl -s https://purge.jsdelivr.net/gh/${{ github.repository }}@${{ github.ref_name }}/orders.html
+          curl -s https://purge.jsdelivr.net/gh/${{ github.repository }}@${{ github.ref_name }}/titles.html
+
+          curl -s https://purge.jsdelivr.net/gh/${{ github.repository }}@${{ github.ref_name }}/JS/core.js
+          curl -s https://purge.jsdelivr.net/gh/${{ github.repository }}@${{ github.ref_name }}/JS/main-module.js
+          curl -s https://purge.jsdelivr.net/gh/${{ github.repository }}@${{ github.ref_name }}/JS/orders-module.js
+          curl -s https://purge.jsdelivr.net/gh/${{ github.repository }}@${{ github.ref_name }}/JS/titles-module.js
+
+          curl -s https://purge.jsdelivr.net/gh/${{ github.repository }}@${{ github.ref_name }}/BD1/Amusement/Events.js
+          curl -s https://purge.jsdelivr.net/gh/${{ github.repository }}@${{ github.ref_name }}/BD1/Amusement/Games_popups.js
+          curl -s https://purge.jsdelivr.net/gh/${{ github.repository }}@${{ github.ref_name }}/BD1/Amusement/Games.js
+          curl -s https://purge.jsdelivr.net/gh/${{ github.repository }}@${{ github.ref_name }}/BD1/Amusement/Poker_popups.js
+          curl -s "https://purge.jsdelivr.net/gh/${{ github.repository }}@${{ github.ref_name }}/BD1/Amusement/TV-Show_popups.js"
+          curl -s "https://purge.jsdelivr.net/gh/${{ github.repository }}@${{ github.ref_name }}/BD1/Amusement/TV-Show.js"
+          curl -s https://purge.jsdelivr.net/gh/${{ github.repository }}@${{ github.ref_name }}/BD1/Amusement/YT_popups.js
+          curl -s https://purge.jsdelivr.net/gh/${{ github.repository }}@${{ github.ref_name }}/BD1/Amusement/YT.js
+
+          curl -s https://purge.jsdelivr.net/gh/${{ github.repository }}@${{ github.ref_name }}/BD1/Fullmeter/fmAnime_popups.js
+          curl -s https://purge.jsdelivr.net/gh/${{ github.repository }}@${{ github.ref_name }}/BD1/Fullmeter/fmAnime.js
+          curl -s https://purge.jsdelivr.net/gh/${{ github.repository }}@${{ github.ref_name }}/BD1/Fullmeter/fmCartoons_popups.js
+          curl -s https://purge.jsdelivr.net/gh/${{ github.repository }}@${{ github.ref_name }}/BD1/Fullmeter/fmCartoons.js
+          curl -s https://purge.jsdelivr.net/gh/${{ github.repository }}@${{ github.ref_name }}/BD1/Fullmeter/fmMovies_popups.js
+          curl -s https://purge.jsdelivr.net/gh/${{ github.repository }}@${{ github.ref_name }}/BD1/Fullmeter/fmMovies.js
+
+          curl -s https://purge.jsdelivr.net/gh/${{ github.repository }}@${{ github.ref_name }}/BD1/Literary/Books_popups.js
+          curl -s https://purge.jsdelivr.net/gh/${{ github.repository }}@${{ github.ref_name }}/BD1/Literary/Books.js
+          curl -s https://purge.jsdelivr.net/gh/${{ github.repository }}@${{ github.ref_name }}/BD1/Literary/Comics_popups.js
+          curl -s https://purge.jsdelivr.net/gh/${{ github.repository }}@${{ github.ref_name }}/BD1/Literary/Comics.js
+          curl -s https://purge.jsdelivr.net/gh/${{ github.repository }}@${{ github.ref_name }}/BD1/Literary/Manga_popups.js
+          curl -s https://purge.jsdelivr.net/gh/${{ github.repository }}@${{ github.ref_name }}/BD1/Literary/Manga.js
+          curl -s https://purge.jsdelivr.net/gh/${{ github.repository }}@${{ github.ref_name }}/BD1/Literary/Manhwa_popups.js
+          curl -s https://purge.jsdelivr.net/gh/${{ github.repository }}@${{ github.ref_name }}/BD1/Literary/Manhwa.js
+          curl -s https://purge.jsdelivr.net/gh/${{ github.repository }}@${{ github.ref_name }}/BD1/Literary/Ranobe_popups.js
+          curl -s https://purge.jsdelivr.net/gh/${{ github.repository }}@${{ github.ref_name }}/BD1/Literary/Ranobe.js
+
+          curl -s https://purge.jsdelivr.net/gh/${{ github.repository }}@${{ github.ref_name }}/BD1/Series/Anime_popups.js
+          curl -s https://purge.jsdelivr.net/gh/${{ github.repository }}@${{ github.ref_name }}/BD1/Series/Anime.js
+          curl -s https://purge.jsdelivr.net/gh/${{ github.repository }}@${{ github.ref_name }}/BD1/Series/Cartoons_popups.js
+          curl -s https://purge.jsdelivr.net/gh/${{ github.repository }}@${{ github.ref_name }}/BD1/Series/Cartoons.js
+          curl -s https://purge.jsdelivr.net/gh/${{ github.repository }}@${{ github.ref_name }}/BD1/Series/Serials_popups.js
+          curl -s https://purge.jsdelivr.net/gh/${{ github.repository }}@${{ github.ref_name }}/BD1/Series/Serials.js
+
+          curl -s https://purge.jsdelivr.net/gh/${{ github.repository }}@${{ github.ref_name }}/BD2/Orders.js
+          curl -s https://purge.jsdelivr.net/gh/${{ github.repository }}@${{ github.ref_name }}/BD2/Schedule.js
