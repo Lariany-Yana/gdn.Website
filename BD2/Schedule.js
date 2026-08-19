@@ -24,7 +24,23 @@ const scheduleDatabase = [
   },
   // Среда
   {
-    nameRu: "Стрим вполне вероятен",
+    nameRu: "Великий мышиный сыщик",
+    nameEn: "The Great Mouse Detective",
+    scheduleRemark: "Мультфильм",
+    scheduleType: "schedule-current",
+    date: "19.08.26",
+  },
+  {
+    nameRu: "Декстер",
+    nameEn: "Dexter",
+    scheduleRemark: "Сериал × 8 Сезон 5-6 Эпизод",
+    scheduleType: "schedule-current",
+    date: "19.08.26",
+  },
+  {
+    nameRu: "Готэм",
+    nameEn: "Gotham",
+    scheduleRemark: "Сериал × 1 Сезон 5-6 Эпизод",
     scheduleType: "schedule-current",
     date: "19.08.26",
   },

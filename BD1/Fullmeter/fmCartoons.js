@@ -90,6 +90,16 @@ const fullmeterCartoon = [
     cardType: "fullmeter-Cartoon",
   },
   {
+    nameRu: "Великий мышиный сыщик",
+    nameEn: "The Great Mouse Detective",
+    donutTerms: "donut-lvl-3",
+    titleLink: ["vk", "456241885?t=12m22s"],
+    player: ["vk", "456241885", "85a002b49c6f147d", "0h12m22s"],
+    id: "Fullmeter-Cartoon_The-Great-Mouse-Detective",
+    posterImage: "https://static.tildacdn.com/tild6436-3433-4434-a136-396337323737/img.webp",
+    cardType: "fullmeter-Cartoon",
+  },
+  {
     nameRu: "Геркулес",
     nameEn: "Hercules",
     titleLink: ["boosty", "godenname/posts/100068ea-450a-498a-9f89-b982b1b6be28"],

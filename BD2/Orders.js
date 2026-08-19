@@ -18,6 +18,20 @@ const ordersDatabase = [
 
   //#region ~В процессе~
   {
+    nameRu: "Великий мышиный сыщик",
+    nameEn: "The Great Mouse Detective",
+    orderRemark: "Мультфильм",
+    cardType: "order-during",
+    items: [
+      {
+        nickname: "Без имени",
+        slot: "1",
+        date: "Без даты",
+        was: "owe",
+      },
+    ],
+  },
+  {
     nameRu: "Бумажный дом",
     nameEn: "La casa de papel",
     orderRemark: "Сериал × В заказе: 2 Сезон 5/9 Эпизод",
@@ -46,7 +60,7 @@ const ordersDatabase = [
   {
     nameRu: "Готэм",
     nameEn: "Gotham",
-    orderRemark: "Сериал × В заказе: 1 Сезон 5-22/22 Эпизод",
+    orderRemark: "Сериал × В заказе: 1 Сезон 7-22/22 Эпизод",
     personalOrder: "user_Katya",
     cardType: "order-during",
     id: "order_Gotham-1",
@@ -61,6 +75,7 @@ const ordersDatabase = [
         nickname: "Твою мать!",
         slot: "1", // 1 Сезон 5-6 Эпизод
         date: "25.11.25",
+        was: "was",
       },
       {
         nickname: "Твою мать!",
@@ -133,13 +148,13 @@ const ordersDatabase = [
   {
     nameRu: "Декстер",
     nameEn: "Dexter",
-    orderRemark: "Сериал ⨯ Просмотрено: 8 Сезон 1-4/12 Эпизод",
+    orderRemark: "Сериал ⨯ Просмотрено: 8 Сезон 1-6/12 Эпизод",
     cardType: "order-during",
     id: "order_Dexter-8",
     items: [
       {
         nickname: "Без имени",
-        slot: "2", // 8 Сезон 1-2 Эпизод
+        slot: "3", // 8 Сезон 1-6 Эпизод
         date: "Без даты",
         was: "owe",
       },

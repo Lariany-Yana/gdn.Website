@@ -145,7 +145,7 @@ const seriesSerials = [
   {
     nameRu: "Готэм",
     nameEn: "Gotham",
-    titleStatus: "Просмотрено: 1 Сезон 1-4/22 Эпизод",
+    titleStatus: "Просмотрено: 1 Сезон 1-6/22 Эпизод",
     donutTerms: "donut-lvl-3",
     id: "Series-Serials_Gotham",
     posterImage: "https://static.tildacdn.com/tild6464-3561-4335-b136-363136313938/img.webp",
@@ -154,7 +154,7 @@ const seriesSerials = [
   {
     nameRu: "Декстер",
     nameEn: "Dexter",
-    titleStatus: "Просмотрено: 1-7 Сезон, 8 Сезон 1-4 Эпизод",
+    titleStatus: "Просмотрено: 1-7 Сезон, 8 Сезон 1-6/12 Эпизод",
     donutTerms: "donut-lvl-1",
     id: "Series-Serials_Dexter",
     posterImage: "https://static.tildacdn.com/tild3032-3631-4435-a164-623261386234/photo.webp",
