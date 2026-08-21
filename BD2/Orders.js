@@ -92,12 +92,12 @@ const ordersDatabase = [
   {
     nameRu: "Викинги",
     nameEn: "Vikings",
-    orderRemark: "Сериал × Просмотрено: 4 Сезон 1-2/20 Эпизод",
+    orderRemark: "Сериал × Просмотрено: 4 Сезон 1-6/20 Эпизод",
     cardType: "order-during",
     items: [
       {
         nickname: "Без имени",
-        slot: "1", // 1-2 Эпизод
+        slot: "3", // 1-6 Эпизод
         date: "Без даты",
         was: "owe",
       },
@@ -172,38 +172,6 @@ const ordersDatabase = [
         slot: "1", // 1 Сезон 1-4 Эпизод
         date: "Без даты",
         was: "owe",
-      },
-    ],
-  },
-  {
-    nameRu: "Семь смертных грехов",
-    nameEn: "Nanatsu no Taizai / The Seven Deadly Sins",
-    orderRemark: "Аниме × В заказе: 1 Сезон 21-24/24 Эпизод",
-    cardType: "order-during",
-    id: "order_Nanatsu-no-Taizai-1",
-    items: [
-      {
-        nickname: "Podserty",
-        slot: "3", // 1 Сезон 1-12 Эпизод
-        date: "26.06.24",
-        was: "was",
-      },
-      {
-        nickname: "Coras",
-        slot: "1", // 1 Сезон 13-16 Эпизод
-        date: "29.03.25",
-        was: "was",
-      },
-      {
-        nickname: "Podserty",
-        slot: "1", // 1 Сезон 17-20 Эпизод
-        date: "06.08.25",
-        was: "was",
-      },
-      {
-        nickname: "Podserty",
-        slot: "1", // 1 Сезон 21-22 Эпизод
-        date: "06.08.25",
       },
     ],
   },
@@ -1486,6 +1454,32 @@ const ordersDatabase = [
   },
   //#endregion
   //#region ~Просмотренное~
+  {
+    nameRu: "Семь смертных грехов",
+    nameEn: "Nanatsu no Taizai / The Seven Deadly Sins",
+    orderRemark: "Аниме × Просмотрено: 1 Сезон 1-24/24 Эпизод",
+    cardType: "order-finished",
+    items: [
+      {
+        nickname: "Podserty",
+        slot: "3", // 1 Сезон 1-12 Эпизод
+        date: "26.06.24",
+        was: "was",
+      },
+      {
+        nickname: "Coras",
+        slot: "1", // 1 Сезон 13-16 Эпизод
+        date: "29.03.25",
+        was: "was",
+      },
+      {
+        nickname: "Podserty",
+        slot: "2", // 1 Сезон 17-24 Эпизод
+        date: "06.08.25",
+        was: "was",
+      },
+    ],
+  },
   {
     nameRu: "Рим",
     nameEn: "Rome",

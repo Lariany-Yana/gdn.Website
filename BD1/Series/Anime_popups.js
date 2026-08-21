@@ -7844,7 +7844,12 @@ const seriesAnimePopups = {
           title: "17-20 Эпизод",
           titleLink: ["vk", "456241882?t=13m51s"],
           player: ["vk", "456241882", "e11d10ee6f859d5d", "0h13m51s"],
-        }, 
+        },
+        {
+          title: "21-24 Эпизод",
+          titleLink: ["vk", "456241886?t=4h10m46s"],
+          player: ["vk", "456241886", "7d06b4d67d5d63d4", "4h10m46s"],
+        },
       ],
     },
   ],

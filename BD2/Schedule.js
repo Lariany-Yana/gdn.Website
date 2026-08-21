@@ -46,7 +46,16 @@ const scheduleDatabase = [
   },
   // Четверг
   {
-    nameRu: "Стрим вполне вероятен",
+    nameRu: "Викинги",
+    nameEn: "Vikings",
+    scheduleRemark: "Сериал × 4 Сезон 3-6 Эпизод",
+    scheduleType: "schedule-current",
+    date: "20.08.26",
+  },
+  {
+    nameRu: "Семь смертных грехов",
+    nameEn: "Nanatsu no Taizai / The Seven Deadly Sins",
+    scheduleRemark: "Аниме × 1 Сезон 21-24 Эпизод",
     scheduleType: "schedule-current",
     date: "20.08.26",
   },
