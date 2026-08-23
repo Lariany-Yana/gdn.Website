@@ -4147,6 +4147,18 @@ const seriesAnimePopups = {
       ],
     },
   ],
+  "Series-Anime_Summertime-Render": [
+    {
+      seasonName: "1 Сезон",
+      items: [
+        {
+          title: "1-5 Эпизод",
+          titleLink: ["vk", "456241887?t=2h17m29s"],
+          player: ["vk", "456241887", "e030b28818ebaa7d", "2h17m29s"],
+        },
+      ],
+    },
+  ],
   "Series-Anime_Darling-in-the-FranXX": [
     {
       seasonName: "1 Сезон",
@@ -6576,6 +6588,16 @@ const seriesAnimePopups = {
         },
       ],
     },
+    {
+      seasonName: "2 Сезон",
+      items: [
+        {
+          title: "1-4 Эпизод",
+          titleLink: ["vk", "456241887?t=13m24s"],
+          player: ["vk", "456241887", "e030b28818ebaa7d", "0h13m24s"],
+        },
+      ],
+    },
   ],
   "Series-Anime_Urusei-Yatsura": [
     {
@@ -7829,7 +7851,7 @@ const seriesAnimePopups = {
         {
           title: "1-8 Эпизод",
           lost: "lost",
-        }, 
+        },
         {
           title: "9-12 Эпизод",
           titleLink: ["vk", "456241536?t=3h57m5s"],

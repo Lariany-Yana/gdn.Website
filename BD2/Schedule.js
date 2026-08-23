@@ -9,7 +9,7 @@ const scheduleDatabase = [
     date: "00.06.26",
   },
 	*/
- 
+
   // Понедельник
   {
     nameRu: "Стрим невозможен",
@@ -75,25 +75,18 @@ const scheduleDatabase = [
   {
     nameRu: "Невеста чародея",
     nameEn: "Mahoutsukai no Yome",
-    scheduleRemark: "Аниме × Начало в 15:00 по МСК",
+    scheduleRemark: "Аниме × 2 Сезон 1-4 Эпизод",
     scheduleType: "schedule-current",
     date: "23.08.26",
   },
   {
     nameRu: "Летнее время",
     nameEn: "Summertime Render",
-    scheduleRemark: "Аниме × Начало в 17:00 по МСК",
+    scheduleRemark: "Аниме × 1 Сезон 1-5 Эпизод",
     scheduleType: "schedule-current",
     date: "23.08.26",
   },
-  {
-    nameRu: "Аватар Аанг: Последний маг воздуха",
-    nameEn: "Avatar Aang: The Last Airbender",
-    scheduleRemark: "Мультфильм × Начало в 19:00 по МСК",
-    scheduleType: "schedule-current",
-    date: "23.08.26",
-  },
-	
+
   //#endregion
   //#region Август
   /* ШАБЛОН

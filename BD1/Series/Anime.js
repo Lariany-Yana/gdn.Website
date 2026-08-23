@@ -755,6 +755,14 @@ const seriesAnime = [
     cardType: "series-Anime",
   },
   {
+    nameRu: "Летнее время",
+    nameEn: "Summertime Render",
+    titleStatus: "Просмотрено: 1-5/25 Эпизод",
+    id: "Series-Anime_Summertime-Render",
+    posterImage: "https://static.tildacdn.com/tild6566-6132-4430-b863-313065623638/img.webp",
+    cardType: "series-Anime",
+  },
+  {
     nameRu: "Любимый во Франксе",
     nameEn: "Darling in the FranXX",
     titleStatus: "Просмотрено: 1-24/24 Эпизод",
@@ -944,7 +952,7 @@ const seriesAnime = [
   {
     nameRu: "Невеста чародея",
     nameEn: "Mahoutsukai no Yome",
-    titleStatus: "Просмотрено: 1 Сезон 1-24/24 Эпизод",
+    titleStatus: "Просмотрено: 1 Сезон, 2 Сезон 1-4/24 Эпизод",
     donutTerms: "donut-lvl-2",
     id: "Series-Anime_Mahoutsukai-no-Yome",
     posterImage: "https://static.tildacdn.com/tild3737-3539-4363-a262-373034366535/_.webp",
@@ -1313,7 +1321,7 @@ const seriesAnime = [
     id: "Series-Anime_Nanatsu-no-Taizai",
     posterImage: "https://static.tildacdn.com/tild6366-3833-4230-b663-616162373037/__.webp",
     cardType: "series-Anime",
-  }, 
+  },
   {
     nameRu: "Синяя тюрьма: Блю Лок",
     nameEn: "Blue Lock",

@@ -18,6 +18,43 @@ const ordersDatabase = [
 
   //#region ~В процессе~
   {
+    nameRu: "Невеста чародея",
+    nameEn: "Mahoutsukai no Yome",
+    orderRemark: "Аниме × В заказе: 2 Сезон 5-16/24 Эпизод",
+    personalOrder: "user_Misty",
+    cardType: "order-during",
+    id: "order_Mahoutsukai-no-Yome-2",
+    items: [
+      {
+        nickname: "Мисти",
+        slot: "0.5", // 2 Сезон 1-2 Эпизод
+        date: "16.09.25",
+        was: "was",
+      },
+      {
+        nickname: "Мисти",
+        slot: "0.5", // 2 Сезон 3-4 Эпизод
+        date: "16.02.26",
+        was: "was",
+      },
+      {
+        nickname: "Мисти",
+        slot: "1", // 2 Сезон 5-8 Эпизод
+        date: "16.02.26",
+      },
+      {
+        nickname: "Мисти",
+        slot: "1", // 2 Сезон 9-12 Эпизод
+        date: "17.03.26",
+      },
+      {
+        nickname: "Мисти",
+        slot: "1", // 2 Сезон 13-16 Эпизод
+        date: "17.05.26",
+      },
+    ],
+  },
+  {
     nameRu: "Великий мышиный сыщик",
     nameEn: "The Great Mouse Detective",
     orderRemark: "Мультфильм",
@@ -88,7 +125,7 @@ const ordersDatabase = [
         date: "08.01.26",
       },
     ],
-  }, 
+  },
   {
     nameRu: "Викинги",
     nameEn: "Vikings",
@@ -455,20 +492,6 @@ const ordersDatabase = [
     ],
   },
   {
-    nameRu: "Летнее время",
-    nameEn: "Summertime Render",
-    orderRemark: "Аниме × В заказе: 1 Сезон 1-5/25 Эпизод",
-    cardType: "order-waiting",
-    id: "order_Summertime-Render",
-    items: [
-      {
-        nickname: "Krang",
-        slot: "1.25", // 1 Сезон 1-5 Эпизод
-        date: "27.07.25",
-      },
-    ],
-  },
-  {
     nameRu: "Семь смертных грехов",
     nameEn: "Nanatsu no Taizai / The Seven Deadly Sins",
     orderRemark: "Аниме × В заказе: 2 Сезон 1-16/24 Эпизод",
@@ -498,36 +521,6 @@ const ordersDatabase = [
         nickname: "Madaofist",
         slot: "4", // 4 Сезон 1-8 Эпизод
         date: "08.08.25",
-      },
-    ],
-  },
-  {
-    nameRu: "Невеста чародея",
-    nameEn: "Mahoutsukai no Yome",
-    orderRemark: "Аниме × В заказе: 2 Сезон 1-16/24 Эпизод",
-    personalOrder: "user_Misty",
-    cardType: "order-waiting",
-    id: "order_Mahoutsukai-no-Yome-2",
-    items: [
-      {
-        nickname: "Мисти",
-        slot: "0.5", // 2 Сезон 1-2 Эпизод
-        date: "16.09.25",
-      },
-      {
-        nickname: "Мисти",
-        slot: "1.5", // 2 Сезон 3-8 Эпизод
-        date: "16.02.26",
-      },
-      {
-        nickname: "Мисти",
-        slot: "1", // 2 Сезон 9-12 Эпизод
-        date: "17.03.26",
-      },
-      {
-        nickname: "Мисти",
-        slot: "1", // 2 Сезон 13-16 Эпизод
-        date: "17.05.26",
       },
     ],
   },
@@ -1028,6 +1021,21 @@ const ordersDatabase = [
   },
   //#endregion
   //#region ~Нужен дозаказ~
+  {
+    nameRu: "Летнее время",
+    nameEn: "Summertime Render",
+    orderRemark: "Аниме × Просмотрено: 1 Сезон 1-5/25 Эпизод",
+    cardType: "order-incomplete",
+    id: "order_Summertime-Render",
+    items: [
+      {
+        nickname: "Krang",
+        slot: "1.25", // 1 Сезон 1-5 Эпизод
+        date: "27.07.25",
+        was: "was",
+      },
+    ],
+  },
   {
     nameRu: "Бездарная Нана",
     nameEn: "Munou na Nana",
