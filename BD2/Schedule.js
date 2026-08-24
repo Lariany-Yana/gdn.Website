@@ -14,86 +14,6 @@ const scheduleDatabase = [
   {
     nameRu: "Стрим невозможен",
     scheduleType: "schedule-current",
-    date: "17.08.26",
-  },
-  // Вторник
-  {
-    nameRu: "Стрим не состоялся",
-    scheduleType: "schedule-current",
-    date: "18.08.26",
-  },
-  // Среда
-  {
-    nameRu: "Великий мышиный сыщик",
-    nameEn: "The Great Mouse Detective",
-    scheduleRemark: "Мультфильм",
-    scheduleType: "schedule-current",
-    date: "19.08.26",
-  },
-  {
-    nameRu: "Декстер",
-    nameEn: "Dexter",
-    scheduleRemark: "Сериал × 8 Сезон 5-6 Эпизод",
-    scheduleType: "schedule-current",
-    date: "19.08.26",
-  },
-  {
-    nameRu: "Готэм",
-    nameEn: "Gotham",
-    scheduleRemark: "Сериал × 1 Сезон 5-6 Эпизод",
-    scheduleType: "schedule-current",
-    date: "19.08.26",
-  },
-  // Четверг
-  {
-    nameRu: "Викинги",
-    nameEn: "Vikings",
-    scheduleRemark: "Сериал × 4 Сезон 3-6 Эпизод",
-    scheduleType: "schedule-current",
-    date: "20.08.26",
-  },
-  {
-    nameRu: "Семь смертных грехов",
-    nameEn: "Nanatsu no Taizai / The Seven Deadly Sins",
-    scheduleRemark: "Аниме × 1 Сезон 21-24 Эпизод",
-    scheduleType: "schedule-current",
-    date: "20.08.26",
-  },
-  // Пятница
-  {
-    nameRu: "Стрим не состоялся",
-    scheduleType: "schedule-current",
-    date: "21.08.26",
-  },
-  // Суббота
-  {
-    nameRu: "Стрим невозможен",
-    scheduleType: "schedule-current",
-    date: "22.08.26",
-  },
-  // Воскресенье
-  {
-    nameRu: "Невеста чародея",
-    nameEn: "Mahoutsukai no Yome",
-    scheduleRemark: "Аниме × 2 Сезон 1-4 Эпизод",
-    scheduleType: "schedule-current",
-    date: "23.08.26",
-  },
-  {
-    nameRu: "Летнее время",
-    nameEn: "Summertime Render",
-    scheduleRemark: "Аниме × 1 Сезон 1-5 Эпизод",
-    scheduleType: "schedule-current",
-    date: "23.08.26",
-  },
-
-  //#endregion
-  //#region Август
-  /* ШАБЛОН
-  // Понедельник
-  {
-    nameRu: "Стрим невозможен",
-    scheduleType: "schedule-current",
     date: "24.08.26",
   },
   // Вторник
@@ -131,6 +51,18 @@ const scheduleDatabase = [
     nameRu: "Стрим маловероятен",
     scheduleType: "schedule-current",
     date: "30.08.26",
+  },
+
+  //#endregion
+  //#region Сентябрь
+  /* ШАБЛОН
+  // Понедельник
+  {
+    nameRu: "Название",
+    nameEn: "Название",
+    scheduleRemark: " × Начало в 16:00 по МСК",
+    scheduleType: "schedule-current",
+    date: "00.09.26",
   },
 	*/
   //#endregion
@@ -2725,6 +2657,82 @@ const scheduleDatabase = [
     scheduleRemark: "Сериал × 1 Сезон 11-12 Эпизод",
     scheduleType: "schedule-past",
     date: "16.08.26",
+  },
+  // Понедельник
+  {
+    nameRu: "Стрим невозможен",
+    scheduleType: "schedule-past",
+    date: "17.08.26",
+  },
+  // Вторник
+  {
+    nameRu: "Стрим не состоялся",
+    scheduleType: "schedule-past",
+    date: "18.08.26",
+  },
+  // Среда
+  {
+    nameRu: "Великий мышиный сыщик",
+    nameEn: "The Great Mouse Detective",
+    scheduleRemark: "Мультфильм",
+    scheduleType: "schedule-past",
+    date: "19.08.26",
+  },
+  {
+    nameRu: "Декстер",
+    nameEn: "Dexter",
+    scheduleRemark: "Сериал × 8 Сезон 5-6 Эпизод",
+    scheduleType: "schedule-past",
+    date: "19.08.26",
+  },
+  {
+    nameRu: "Готэм",
+    nameEn: "Gotham",
+    scheduleRemark: "Сериал × 1 Сезон 5-6 Эпизод",
+    scheduleType: "schedule-past",
+    date: "19.08.26",
+  },
+  // Четверг
+  {
+    nameRu: "Викинги",
+    nameEn: "Vikings",
+    scheduleRemark: "Сериал × 4 Сезон 3-6 Эпизод",
+    scheduleType: "schedule-past",
+    date: "20.08.26",
+  },
+  {
+    nameRu: "Семь смертных грехов",
+    nameEn: "Nanatsu no Taizai / The Seven Deadly Sins",
+    scheduleRemark: "Аниме × 1 Сезон 21-24 Эпизод",
+    scheduleType: "schedule-past",
+    date: "20.08.26",
+  },
+  // Пятница
+  {
+    nameRu: "Стрим не состоялся",
+    scheduleType: "schedule-past",
+    date: "21.08.26",
+  },
+  // Суббота
+  {
+    nameRu: "Стрим невозможен",
+    scheduleType: "schedule-past",
+    date: "22.08.26",
+  },
+  // Воскресенье
+  {
+    nameRu: "Невеста чародея",
+    nameEn: "Mahoutsukai no Yome",
+    scheduleRemark: "Аниме × 2 Сезон 1-4 Эпизод",
+    scheduleType: "schedule-past",
+    date: "23.08.26",
+  },
+  {
+    nameRu: "Летнее время",
+    nameEn: "Summertime Render",
+    scheduleRemark: "Аниме × 1 Сезон 1-5 Эпизод",
+    scheduleType: "schedule-past",
+    date: "23.08.26",
   },
   //#endregion
 ];
