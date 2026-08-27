@@ -18,13 +18,27 @@ const scheduleDatabase = [
   },
   // Вторник
   {
-    nameRu: "Стрим вполне вероятен",
+    nameRu: "Стрим не состоялся",
     scheduleType: "schedule-current",
     date: "25.08.26",
   },
   // Среда
   {
-    nameRu: "Стрим вполне вероятен",
+    nameRu: "Сто девушек, которые очень сильно тебя любят",
+    nameEn: "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
+    scheduleRemark: "Аниме × 3 Сезон 5-8 Эпизод",
+    scheduleType: "schedule-current",
+    date: "26.08.26",
+  },
+  {
+    nameRu: "Декстер",
+    nameEn: "Dexter",
+    scheduleRemark: "Сериал × 8 Сезон 7-8 Эпизод",
+    scheduleType: "schedule-current",
+    date: "26.08.26",
+  },
+  {
+    nameRu: "Покер",
     scheduleType: "schedule-current",
     date: "26.08.26",
   },

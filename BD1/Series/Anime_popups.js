@@ -8110,6 +8110,11 @@ const seriesAnimePopups = {
           titleLink: ["vk", "456241873?t=0h13m53s"],
           player: ["vk", "456241873", "2716cf0998717b30", "0h13m53s"],
         },
+        {
+          title: "5-8 Эпизод",
+          titleLink: ["vk", "456241888?t=13m13s"],
+          player: ["vk", "456241888", "d7b90f9362842b08", "0h13m13s"],
+        },
       ],
     },
   ],

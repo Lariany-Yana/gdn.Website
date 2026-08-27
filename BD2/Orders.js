@@ -185,13 +185,13 @@ const ordersDatabase = [
   {
     nameRu: "Декстер",
     nameEn: "Dexter",
-    orderRemark: "Сериал ⨯ Просмотрено: 8 Сезон 1-6/12 Эпизод",
+    orderRemark: "Сериал ⨯ Просмотрено: 8 Сезон 1-8/12 Эпизод",
     cardType: "order-during",
     id: "order_Dexter-8",
     items: [
       {
         nickname: "Без имени",
-        slot: "3", // 8 Сезон 1-6 Эпизод
+        slot: "4", // 8 Сезон 1-8 Эпизод
         date: "Без даты",
         was: "owe",
       },
@@ -200,13 +200,13 @@ const ordersDatabase = [
   {
     nameRu: "Сто девушек, которые очень сильно тебя любят",
     nameEn: "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
-    orderRemark: "Аниме × Просмотрено: 3 Сезон 1-4/↻ Эпизод",
+    orderRemark: "Аниме × Просмотрено: 3 Сезон 1-8/↻ Эпизод",
     cardType: "order-during",
     id: "order_100-nin-no-Kanojo-3",
     items: [
       {
         nickname: "Без имени",
-        slot: "1", // 1 Сезон 1-4 Эпизод
+        slot: "2", // 1 Сезон 1-8 Эпизод
         date: "Без даты",
         was: "owe",
       },

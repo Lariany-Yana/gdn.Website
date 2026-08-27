@@ -1411,7 +1411,7 @@ const seriesAnime = [
   {
     nameRu: "Сто девушек, которые очень сильно тебя любят",
     nameEn: "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
-    titleStatus: "Просмотрено: 1-2 Сезон, 3 Сезон 1-4 Эпизод",
+    titleStatus: "Просмотрено: 1-2 Сезон, 3 Сезон 1-8/12 Эпизод",
     id: "Series-Anime_100-nin-no-Kanojo",
     posterImage: "https://static.tildacdn.com/tild3839-6233-4433-a433-353461303366/______.webp",
     cardType: "series-Anime",
