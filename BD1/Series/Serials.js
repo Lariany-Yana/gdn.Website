@@ -91,7 +91,7 @@ const seriesSerials = [
   {
     nameRu: "Викинги",
     nameEn: "Vikings",
-    titleStatus: "Просмотрено: 1-3 Сезон, 4 Сезон 1-6/20 Эпизод",
+    titleStatus: "Просмотрено: 1-3 Сезон, 4 Сезон 1-8/20 Эпизод",
     donutTerms: "donut-lvl-2",
     id: "Series-Serials_Vikings",
     posterImage: "https://static.tildacdn.com/tild3661-3234-4966-b865-396236623565/photo.webp",

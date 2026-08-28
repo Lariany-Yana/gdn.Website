@@ -1138,7 +1138,7 @@ const seriesAnime = [
   {
     nameRu: "Повелитель тайн",
     nameEn: "Guimi Zhi Zhu / Lord of Mysteries",
-    titleStatus: "Просмотрено: 1 Сезон 1-13/13 Эпизод",
+    titleStatus: "Просмотрено: 1 Сезон + Спецвыпуск",
     donutTerms: "donut-lvl-2",
     id: "Series-Anime_Guimi-Zhi-Zhu",
     posterImage: "https://static.tildacdn.com/tild3764-3333-4462-b065-316263653832/_.webp",

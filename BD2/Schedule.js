@@ -44,7 +44,22 @@ const scheduleDatabase = [
   },
   // Четверг
   {
-    nameRu: "Стрим маловероятен",
+    nameRu: "Повелитель тайн: Спецвыпуск",
+    nameEn: "Guimi Zhi Zhu Specials / Lord of Mysteries Specials",
+    scheduleRemark: "Аниме × 1-3 Эпизод",
+    scheduleType: "schedule-current",
+    date: "27.08.26",
+  },
+  {
+    nameRu: "Викинги",
+    nameEn: "Vikings",
+    scheduleRemark: "Сериал × 4 Сезон 7-8 Эпизод",
+    scheduleType: "schedule-current",
+    date: "27.08.26",
+  },
+  {
+    nameRu: "Warhammer 40 000: Rogue Trader",
+    scheduleRemark: "Игра",
     scheduleType: "schedule-current",
     date: "27.08.26",
   },

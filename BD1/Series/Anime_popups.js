@@ -7219,6 +7219,16 @@ const seriesAnimePopups = {
         },
       ],
     },
+    {
+      seasonName: "Спецвыпуск",
+      items: [
+        {
+          title: "1-3 Эпизод",
+          titleLink: ["vk", "456241891?t=15m28s"],
+          player: ["vk", "456241891", "fafc285ed47994e8", "0h15m28s"],
+        },
+      ],
+    },
   ],
   "Series-Anime_Soul-Eater": [
     {

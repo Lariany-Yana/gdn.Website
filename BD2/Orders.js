@@ -18,6 +18,20 @@ const ordersDatabase = [
 
   //#region ~В процессе~
   {
+    nameRu: "Повелитель тайн: Спецвыпуск",
+    nameEn: "Guimi Zhi Zhu Specials / Lord of Mysteries Specials",
+    orderRemark: "Аниме × 1-3/3 Эпизод",
+    cardType: "order-during",
+    items: [
+      {
+        nickname: "Без имени",
+        slot: "0.75", // 1-3 Эпизод
+        date: "Без даты",
+        was: "owe",
+      },
+    ],
+  },
+  {
     nameRu: "Невеста чародея",
     nameEn: "Mahoutsukai no Yome",
     orderRemark: "Аниме × В заказе: 2 Сезон 5-16/24 Эпизод",
@@ -129,12 +143,12 @@ const ordersDatabase = [
   {
     nameRu: "Викинги",
     nameEn: "Vikings",
-    orderRemark: "Сериал × Просмотрено: 4 Сезон 1-6/20 Эпизод",
+    orderRemark: "Сериал × Просмотрено: 4 Сезон 1-8/20 Эпизод",
     cardType: "order-during",
     items: [
       {
         nickname: "Без имени",
-        slot: "3", // 1-6 Эпизод
+        slot: "4", // 1-6 Эпизод
         date: "Без даты",
         was: "owe",
       },
@@ -209,37 +223,6 @@ const ordersDatabase = [
         slot: "2", // 1 Сезон 1-8 Эпизод
         date: "Без даты",
         was: "owe",
-      },
-    ],
-  },
-  {
-    nameRu: "Warhammer 40 000: Rogue Trader",
-    orderRemark: "Игра",
-    cardType: "order-during",
-    id: "order_Rogue-Trader",
-    items: [
-      {
-        nickname: "Ekemlyr",
-        slot: "1",
-        date: "29.03.26",
-        was: "was",
-      },
-      {
-        nickname: "Ekemlyr",
-        slot: "1",
-        date: "05.04.26",
-        was: "was",
-      },
-      {
-        nickname: "Ekemlyr",
-        slot: "1",
-        date: "21.04.26",
-        was: "was",
-      },
-      {
-        nickname: "Ekemlyr",
-        slot: "1",
-        date: "28.04.26",
       },
     ],
   },
@@ -1021,6 +1004,38 @@ const ordersDatabase = [
   },
   //#endregion
   //#region ~Нужен дозаказ~
+  {
+    nameRu: "Warhammer 40 000: Rogue Trader",
+    orderRemark: "Игра × Наиграно: 8 Часов",
+    cardType: "order-incomplete",
+    id: "order_Rogue-Trader",
+    items: [
+      {
+        nickname: "Ekemlyr",
+        slot: "1",
+        date: "29.03.26",
+        was: "was",
+      },
+      {
+        nickname: "Ekemlyr",
+        slot: "1",
+        date: "05.04.26",
+        was: "was",
+      },
+      {
+        nickname: "Ekemlyr",
+        slot: "1",
+        date: "21.04.26",
+        was: "was",
+      },
+      {
+        nickname: "Ekemlyr",
+        slot: "1",
+        date: "28.04.26",
+        was: "was",
+      },
+    ],
+  },
   {
     nameRu: "Летнее время",
     nameEn: "Summertime Render",
