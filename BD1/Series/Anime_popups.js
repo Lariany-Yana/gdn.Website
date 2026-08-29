@@ -7884,6 +7884,16 @@ const seriesAnimePopups = {
         },
       ],
     },
+    {
+      seasonName: "2 Сезон",
+      items: [
+        {
+          title: "1-8 Эпизод",
+          titleLink: ["vk", "456241892?t=12m46s"],
+          player: ["vk", "456241892", "43059894f59d6611", "0h12m46s"],
+        },
+      ],
+    },
   ],
   "Series-Anime_Blue-Lock": [
     {

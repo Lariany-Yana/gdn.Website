@@ -145,7 +145,7 @@ const seriesSerials = [
   {
     nameRu: "Готэм",
     nameEn: "Gotham",
-    titleStatus: "Просмотрено: 1 Сезон 1-6/22 Эпизод",
+    titleStatus: "Просмотрено: 1 Сезон 1-8/22 Эпизод",
     donutTerms: "donut-lvl-3",
     id: "Series-Serials_Gotham",
     posterImage: "https://static.tildacdn.com/tild6464-3561-4335-b136-363136313938/img.webp",

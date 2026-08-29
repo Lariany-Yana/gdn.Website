@@ -65,7 +65,16 @@ const scheduleDatabase = [
   },
   // Пятница
   {
-    nameRu: "Стрим маловероятен",
+    nameRu: "Семь смертных грехов",
+    nameEn: "Nanatsu no Taizai / The Seven Deadly Sins",
+    scheduleRemark: "Аниме × 2 Сезон 1-8 Эпизод",
+    scheduleType: "schedule-current",
+    date: "28.08.26",
+  },
+  {
+    nameRu: "Готэм",
+    nameEn: "Gotham",
+    scheduleRemark: "Сериал × 1 Сезон 7-8 Эпизод",
     scheduleType: "schedule-current",
     date: "28.08.26",
   },

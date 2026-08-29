@@ -18,16 +18,28 @@ const ordersDatabase = [
 
   //#region ~В процессе~
   {
-    nameRu: "Повелитель тайн: Спецвыпуск",
-    nameEn: "Guimi Zhi Zhu Specials / Lord of Mysteries Specials",
-    orderRemark: "Аниме × 1-3/3 Эпизод",
+    nameRu: "Семь смертных грехов",
+    nameEn: "Nanatsu no Taizai / The Seven Deadly Sins",
+    orderRemark: "Аниме × В заказе: 2 Сезон 9-16/24 Эпизод",
     cardType: "order-during",
+    id: "order_Nanatsu-no-Taizai-2",
     items: [
       {
-        nickname: "Без имени",
-        slot: "0.75", // 1-3 Эпизод
-        date: "Без даты",
-        was: "owe",
+        nickname: "Podserty",
+        slot: "1", // 1 Сезон 1-4 Эпизод
+        date: "06.08.25",
+        was: "was",
+      },
+      {
+        nickname: "Podserty",
+        slot: "1", // 2 Сезон 5-8 Эпизод
+        date: "14.12.25",
+        was: "was",
+      },
+      {
+        nickname: "Podserty",
+        slot: "2", // 2 Сезон 9-16 Эпизод
+        date: "14.12.25",
       },
     ],
   },
@@ -111,7 +123,7 @@ const ordersDatabase = [
   {
     nameRu: "Готэм",
     nameEn: "Gotham",
-    orderRemark: "Сериал × В заказе: 1 Сезон 7-22/22 Эпизод",
+    orderRemark: "Сериал × В заказе: 1 Сезон 9-22/22 Эпизод",
     personalOrder: "user_Katya",
     cardType: "order-during",
     id: "order_Gotham-1",
@@ -132,6 +144,7 @@ const ordersDatabase = [
         nickname: "Твою мать!",
         slot: "1", // 1 Сезон 7-8 Эпизод
         date: "26.12.25",
+        was: "was",
       },
       {
         nickname: "Твою мать!",
@@ -229,7 +242,6 @@ const ordersDatabase = [
   {
     nameRu: "Crusader Kings III",
     orderRemark: "Игра",
-    personalOrder: "user_Izida",
     cardType: "order-during",
     id: "order_Crusader-Kings-3",
     items: [
@@ -306,13 +318,12 @@ const ordersDatabase = [
   },
   {
     nameRu: "Пустые слоты",
-    personalOrder: "user_Izida",
     cardType: "order-waiting",
     id: "order_001",
     items: [
       {
         nickname: "Izida-Sama",
-        slot: "3",
+        slot: "2",
         date: "24.08.24",
       },
     ],
@@ -475,25 +486,6 @@ const ordersDatabase = [
     ],
   },
   {
-    nameRu: "Семь смертных грехов",
-    nameEn: "Nanatsu no Taizai / The Seven Deadly Sins",
-    orderRemark: "Аниме × В заказе: 2 Сезон 1-16/24 Эпизод",
-    cardType: "order-waiting",
-    id: "order_Nanatsu-no-Taizai-2",
-    items: [
-      {
-        nickname: "Podserty",
-        slot: "1", // 1 Сезон 1-4 Эпизод
-        date: "06.08.25",
-      },
-      {
-        nickname: "Podserty",
-        slot: "3", // 2 Сезон 5-16 Эпизод
-        date: "14.12.25",
-      },
-    ],
-  },
-  {
     nameRu: "Отбросы",
     nameEn: "Misfits",
     orderRemark: "Сериал × В заказе: 4 Сезон 1-8/8 Эпизод",
@@ -525,7 +517,6 @@ const ordersDatabase = [
     nameRu: "Пантеон",
     nameEn: "Pantheon",
     orderRemark: "Мультсериал × В заказе: 1 Сезон 1-8/8 Эпизод",
-    personalOrder: "user_Izida",
     cardType: "order-waiting",
     id: "order_Pantheon-1",
     items: [
@@ -540,7 +531,6 @@ const ordersDatabase = [
     nameRu: "Пантеон",
     nameEn: "Pantheon",
     orderRemark: "Мультсериал × В заказе: 2 Сезон 1-8/8 Эпизод",
-    personalOrder: "user_Izida",
     cardType: "order-waiting",
     id: "order_Pantheon-2",
     items: [
@@ -944,7 +934,6 @@ const ordersDatabase = [
     nameRu: "Алиса в Пограничье",
     nameEn: "Imawa no Kuni no Alice",
     orderRemark: "Манга",
-    personalOrder: "user_Izida",
     cardType: "order-waiting",
     id: "order_Imawa-no-Kuni-no-Alice",
     items: [
@@ -1384,6 +1373,15 @@ const ordersDatabase = [
   //#endregion
   //#region ~Свапы~
   {
+    nameRu_1: "Пустые слоты (24.08.24)",
+    nameRu_2: "Повелитель тайн: Спецвыпуск",
+    nameEn_2: "Guimi Zhi Zhu Specials / Lord of Mysteries Specials",
+    orderRemark_1: "1 Слот > Аниме",
+    orderRemark_2: "Свап был 27.08.26 (Исида)",
+    cardType: "order-switch",
+    items: [],
+  },
+  {
     nameRu_1: "Плутон",
     nameEn_1: "Pluto",
     nameRu_2: "Невеста чародея",
@@ -1477,6 +1475,20 @@ const ordersDatabase = [
   },
   //#endregion
   //#region ~Просмотренное~
+  {
+    nameRu: "Повелитель тайн: Спецвыпуск",
+    nameEn: "Guimi Zhi Zhu Specials / Lord of Mysteries Specials",
+    orderRemark: "Аниме × 1-3/3 Эпизод",
+    cardType: "order-finished",
+    items: [
+      {
+        nickname: "Izida-Sama",
+        slot: "1", // 1-3 Эпизод
+        date: "24.08.24",
+        was: "was",
+      },
+    ],
+  },
   {
     nameRu: "Семь смертных грехов",
     nameEn: "Nanatsu no Taizai / The Seven Deadly Sins",
