@@ -46,7 +46,7 @@ const ordersDatabase = [
   {
     nameRu: "Невеста чародея",
     nameEn: "Mahoutsukai no Yome",
-    orderRemark: "Аниме × В заказе: 2 Сезон 5-16/24 Эпизод",
+    orderRemark: "Аниме × В заказе: 2 Сезон 9-16/24 Эпизод",
     personalOrder: "user_Misty",
     cardType: "order-during",
     id: "order_Mahoutsukai-no-Yome-2",
@@ -67,6 +67,7 @@ const ordersDatabase = [
         nickname: "Мисти",
         slot: "1", // 2 Сезон 5-8 Эпизод
         date: "16.02.26",
+        was: "was",
       },
       {
         nickname: "Мисти",
@@ -259,7 +260,7 @@ const ordersDatabase = [
       },
       {
         nickname: "Без даты",
-        slot: "5",
+        slot: "7",
         date: "Без имени",
         was: "owe",
       },

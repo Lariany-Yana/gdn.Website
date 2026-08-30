@@ -10,86 +10,6 @@ const scheduleDatabase = [
   },
 	*/
 
-  // Понедельник
-  {
-    nameRu: "Стрим невозможен",
-    scheduleType: "schedule-current",
-    date: "24.08.26",
-  },
-  // Вторник
-  {
-    nameRu: "Стрим не состоялся",
-    scheduleType: "schedule-current",
-    date: "25.08.26",
-  },
-  // Среда
-  {
-    nameRu: "Сто девушек, которые очень сильно тебя любят",
-    nameEn: "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
-    scheduleRemark: "Аниме × 3 Сезон 5-8 Эпизод",
-    scheduleType: "schedule-current",
-    date: "26.08.26",
-  },
-  {
-    nameRu: "Декстер",
-    nameEn: "Dexter",
-    scheduleRemark: "Сериал × 8 Сезон 7-8 Эпизод",
-    scheduleType: "schedule-current",
-    date: "26.08.26",
-  },
-  {
-    nameRu: "Покер",
-    scheduleType: "schedule-current",
-    date: "26.08.26",
-  },
-  // Четверг
-  {
-    nameRu: "Повелитель тайн: Спецвыпуск",
-    nameEn: "Guimi Zhi Zhu Specials / Lord of Mysteries Specials",
-    scheduleRemark: "Аниме × 1-3 Эпизод",
-    scheduleType: "schedule-current",
-    date: "27.08.26",
-  },
-  {
-    nameRu: "Викинги",
-    nameEn: "Vikings",
-    scheduleRemark: "Сериал × 4 Сезон 7-8 Эпизод",
-    scheduleType: "schedule-current",
-    date: "27.08.26",
-  },
-  {
-    nameRu: "Warhammer 40 000: Rogue Trader",
-    scheduleRemark: "Игра",
-    scheduleType: "schedule-current",
-    date: "27.08.26",
-  },
-  // Пятница
-  {
-    nameRu: "Семь смертных грехов",
-    nameEn: "Nanatsu no Taizai / The Seven Deadly Sins",
-    scheduleRemark: "Аниме × 2 Сезон 1-8 Эпизод",
-    scheduleType: "schedule-current",
-    date: "28.08.26",
-  },
-  {
-    nameRu: "Готэм",
-    nameEn: "Gotham",
-    scheduleRemark: "Сериал × 1 Сезон 7-8 Эпизод",
-    scheduleType: "schedule-current",
-    date: "28.08.26",
-  },
-  // Суббота
-  {
-    nameRu: "Стрим невозможен",
-    scheduleType: "schedule-current",
-    date: "29.08.26",
-  },
-  // Воскресенье
-  {
-    nameRu: "Стрим маловероятен",
-    scheduleType: "schedule-current",
-    date: "30.08.26",
-  },
 
   //#endregion
   //#region Сентябрь
@@ -105,60 +25,49 @@ const scheduleDatabase = [
 	*/
   //#endregion
 
-  //#region Старое
-  /* ШАБЛОН Старое
+	
 	// Понедельник
   {
     nameRu: "Стрим невозможен",
-    scheduleType: "schedule-past",
-    date: "00.02.26",
+    scheduleType: "schedule-current",
+    date: "31.08.26",
   },
   // Вторник
   {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: "Тип × Серии",
-    scheduleType: "schedule-past",
-    date: "00.02.26",
+    nameRu: "Стрим вполне вероятен",
+    scheduleType: "schedule-current",
+    date: "01.09.26",
   },
   // Среда
   {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: "Тип × Серии",
-    scheduleType: "schedule-past",
-    date: "00.02.26",
+    nameRu: "Стрим вполне вероятен",
+    scheduleType: "schedule-current",
+    date: "02.09.26",
   },
   // Четверг
   {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: "Тип × Серии",
-    scheduleType: "schedule-past",
-    date: "00.02.26",
+    nameRu: "Стрим вполне вероятен",
+    scheduleType: "schedule-current",
+    date: "03.09.26",
   },
   // Пятница
   {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: "Тип × Серии",
-    scheduleType: "schedule-past",
-    date: "00.02.26",
+    nameRu: "Стрим вполне вероятен",
+    scheduleType: "schedule-current",
+    date: "04.09.26",
   },
 	// Суббота
   {
     nameRu: "Стрим невозможен",
-    scheduleType: "schedule-past",
-    date: "00.02.26",
+    scheduleType: "schedule-current",
+    date: "05.09.26",
   },
   // Воскресенье
   {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: "Тип × Серии",
-    scheduleType: "schedule-past",
-    date: "00.02.26",
-  },*/
+    nameRu: "Стрим вполне вероятен",
+    scheduleType: "schedule-current",
+    date: "06.09.26",
+  },
 
   //#region Старое: Январь 26
   // Четверг
@@ -2771,6 +2680,94 @@ const scheduleDatabase = [
     scheduleRemark: "Аниме × 1 Сезон 1-5 Эпизод",
     scheduleType: "schedule-past",
     date: "23.08.26",
+  },
+  // Понедельник
+  {
+    nameRu: "Стрим невозможен",
+    scheduleType: "schedule-past",
+    date: "24.08.26",
+  },
+  // Вторник
+  {
+    nameRu: "Стрим не состоялся",
+    scheduleType: "schedule-past",
+    date: "25.08.26",
+  },
+  // Среда
+  {
+    nameRu: "Сто девушек, которые очень сильно тебя любят",
+    nameEn: "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
+    scheduleRemark: "Аниме × 3 Сезон 5-8 Эпизод",
+    scheduleType: "schedule-past",
+    date: "26.08.26",
+  },
+  {
+    nameRu: "Декстер",
+    nameEn: "Dexter",
+    scheduleRemark: "Сериал × 8 Сезон 7-8 Эпизод",
+    scheduleType: "schedule-past",
+    date: "26.08.26",
+  },
+  {
+    nameRu: "Покер",
+    scheduleType: "schedule-past",
+    date: "26.08.26",
+  },
+  // Четверг
+  {
+    nameRu: "Повелитель тайн: Спецвыпуск",
+    nameEn: "Guimi Zhi Zhu Specials / Lord of Mysteries Specials",
+    scheduleRemark: "Аниме × 1-3 Эпизод",
+    scheduleType: "schedule-past",
+    date: "27.08.26",
+  },
+  {
+    nameRu: "Викинги",
+    nameEn: "Vikings",
+    scheduleRemark: "Сериал × 4 Сезон 7-8 Эпизод",
+    scheduleType: "schedule-past",
+    date: "27.08.26",
+  },
+  {
+    nameRu: "Warhammer 40 000: Rogue Trader",
+    scheduleRemark: "Игра",
+    scheduleType: "schedule-past",
+    date: "27.08.26",
+  },
+  // Пятница
+  {
+    nameRu: "Семь смертных грехов",
+    nameEn: "Nanatsu no Taizai / The Seven Deadly Sins",
+    scheduleRemark: "Аниме × 2 Сезон 1-8 Эпизод",
+    scheduleType: "schedule-past",
+    date: "28.08.26",
+  },
+  {
+    nameRu: "Готэм",
+    nameEn: "Gotham",
+    scheduleRemark: "Сериал × 1 Сезон 7-8 Эпизод",
+    scheduleType: "schedule-past",
+    date: "28.08.26",
+  },
+  // Суббота
+  {
+    nameRu: "Стрим невозможен",
+    scheduleType: "schedule-past",
+    date: "29.08.26",
+  },
+  // Воскресенье
+  {
+    nameRu: "Crusader Kings III",
+    scheduleRemark: "Игра",
+    scheduleType: "schedule-past",
+    date: "30.08.26",
+  },
+  {
+    nameRu: "Невеста чародея",
+    nameEn: "Mahoutsukai no Yome",
+    scheduleRemark: "Аниме × 2 Сезон 5-8 Эпизод",
+    scheduleType: "schedule-past",
+    date: "30.08.26",
   },
   //#endregion
 ];
