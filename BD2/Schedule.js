@@ -34,7 +34,23 @@ const scheduleDatabase = [
   },
   // Вторник
   {
-    nameRu: "Стрим вполне вероятен",
+    nameRu: "Декстер",
+    nameEn: "Dexter",
+    scheduleRemark: "Сериал × 8 Сезон 7-8 Эпизод",
+    scheduleType: "schedule-current",
+    date: "01.09.26",
+  },
+  {
+    nameRu: "Новые Мстители",
+    nameEn: "New Avengers",
+    scheduleRemark: "Комикс × 1-5 Главы",
+    scheduleType: "schedule-current",
+    date: "01.09.26",
+  },
+  {
+    nameRu: "Мстители Хикмана",
+    nameEn: "Avengers by Jonathan Hickman",
+    scheduleRemark: "Комикс × 1-3 Главы",
     scheduleType: "schedule-current",
     date: "01.09.26",
   },

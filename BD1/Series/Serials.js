@@ -154,7 +154,7 @@ const seriesSerials = [
   {
     nameRu: "Декстер",
     nameEn: "Dexter",
-    titleStatus: "Просмотрено: 1-7 Сезон, 8 Сезон 1-8/12 Эпизод",
+    titleStatus: "Просмотрено: 1-7 Сезон, 8 Сезон 1-10/12 Эпизод",
     donutTerms: "donut-lvl-1",
     id: "Series-Serials_Dexter",
     posterImage: "https://static.tildacdn.com/tild3032-3631-4435-a164-623261386234/photo.webp",

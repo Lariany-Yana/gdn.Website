@@ -213,13 +213,13 @@ const ordersDatabase = [
   {
     nameRu: "Декстер",
     nameEn: "Dexter",
-    orderRemark: "Сериал ⨯ Просмотрено: 8 Сезон 1-8/12 Эпизод",
+    orderRemark: "Сериал ⨯ Просмотрено: 8 Сезон 1-10/12 Эпизод",
     cardType: "order-during",
     id: "order_Dexter-8",
     items: [
       {
         nickname: "Без имени",
-        slot: "4", // 8 Сезон 1-8 Эпизод
+        slot: "5", // 8 Сезон 1-8 Эпизод
         date: "Без даты",
         was: "owe",
       },
@@ -497,20 +497,6 @@ const ordersDatabase = [
         nickname: "Madaofist",
         slot: "4", // 4 Сезон 1-8 Эпизод
         date: "08.08.25",
-      },
-    ],
-  },
-  {
-    nameRu: "Мстители",
-    nameEn: "Avengers by Jonathan Hickman",
-    orderRemark: "Комикс",
-    cardType: "order-waiting",
-    id: "order_Avengers-Jonathan-Hickman",
-    items: [
-      {
-        nickname: "qwarde",
-        slot: "1",
-        date: "28.09.25",
       },
     ],
   },
@@ -1476,6 +1462,20 @@ const ordersDatabase = [
   },
   //#endregion
   //#region ~Просмотренное~
+  {
+    nameRu: "Новые Мстители + Мстители Хикмана",
+    nameEn: "New Avengers + Avengers by Jonathan Hickman",
+    orderRemark: "Комикс",
+    cardType: "order-finished",
+    items: [
+      {
+        nickname: "qwarde",
+        slot: "1",
+        date: "28.09.25",
+        was: "was",
+      },
+    ],
+  },
   {
     nameRu: "Повелитель тайн: Спецвыпуск",
     nameEn: "Guimi Zhi Zhu Specials / Lord of Mysteries Specials",
