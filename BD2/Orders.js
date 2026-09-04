@@ -157,12 +157,12 @@ const ordersDatabase = [
   {
     nameRu: "Викинги",
     nameEn: "Vikings",
-    orderRemark: "Сериал × Просмотрено: 4 Сезон 1-8/20 Эпизод",
+    orderRemark: "Сериал × Просмотрено: 4 Сезон 1-10/20 Эпизод",
     cardType: "order-during",
     items: [
       {
         nickname: "Без имени",
-        slot: "4", // 1-6 Эпизод
+        slot: "5", // 1-8 Эпизод
         date: "Без даты",
         was: "owe",
       },
@@ -205,21 +205,6 @@ const ordersDatabase = [
       {
         nickname: "Без имени",
         slot: "1",
-        date: "Без даты",
-        was: "owe",
-      },
-    ],
-  },
-  {
-    nameRu: "Декстер",
-    nameEn: "Dexter",
-    orderRemark: "Сериал ⨯ Просмотрено: 8 Сезон 1-10/12 Эпизод",
-    cardType: "order-during",
-    id: "order_Dexter-8",
-    items: [
-      {
-        nickname: "Без имени",
-        slot: "5", // 8 Сезон 1-8 Эпизод
         date: "Без даты",
         was: "owe",
       },
@@ -2121,6 +2106,20 @@ const ordersDatabase = [
     ],
   }, //#endregion
   //#region Декстер
+  {
+    nameRu: "Декстер",
+    nameEn: "Dexter",
+    orderRemark: "Сериал ⨯ Просмотрено: 8 Сезон 1-12/12 Эпизод",
+    cardType: "order-finished",
+    items: [
+      {
+        nickname: "Без имени",
+        slot: "6", // 8 Сезон 1-8 Эпизод
+        date: "Без даты",
+        was: "owe",
+      },
+    ],
+  },
   {
     nameRu: "Декстер",
     nameEn: "Dexter",

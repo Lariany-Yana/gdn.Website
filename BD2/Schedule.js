@@ -36,7 +36,7 @@ const scheduleDatabase = [
   {
     nameRu: "Декстер",
     nameEn: "Dexter",
-    scheduleRemark: "Сериал × 8 Сезон 7-8 Эпизод",
+    scheduleRemark: "Сериал × 8 Сезон 9-10 Эпизод",
     scheduleType: "schedule-current",
     date: "01.09.26",
   },
@@ -56,19 +56,28 @@ const scheduleDatabase = [
   },
   // Среда
   {
-    nameRu: "Стрим вполне вероятен",
+    nameRu: "Стрим не состоялся",
     scheduleType: "schedule-current",
     date: "02.09.26",
   },
   // Четверг
   {
-    nameRu: "Стрим вполне вероятен",
+    nameRu: "Стрим не состоялся",
     scheduleType: "schedule-current",
     date: "03.09.26",
   },
   // Пятница
   {
-    nameRu: "Стрим вполне вероятен",
+    nameRu: "Викинги",
+    nameEn: "Vikings",
+    scheduleRemark: "Сериал × 4 Сезон 9-10 Эпизод",
+    scheduleType: "schedule-current",
+    date: "04.09.26",
+  },
+  {
+    nameRu: "Декстер",
+    nameEn: "Dexter",
+    scheduleRemark: "Сериал × 8 Сезон 11-12 Эпизод",
     scheduleType: "schedule-current",
     date: "04.09.26",
   },
