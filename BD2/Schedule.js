@@ -6,92 +6,51 @@ const scheduleDatabase = [
     nameEn: "Название",
     scheduleRemark: " × Начало в 16:00 по МСК",
     scheduleType: "schedule-current",
-    date: "00.06.26",
-  },
-	*/
-
-
-  //#endregion
-  //#region Сентябрь
-  /* ШАБЛОН
-  // Понедельник
-  {
-    nameRu: "Название",
-    nameEn: "Название",
-    scheduleRemark: " × Начало в 16:00 по МСК",
-    scheduleType: "schedule-current",
     date: "00.09.26",
   },
 	*/
-  //#endregion
 
-	
-	// Понедельник
+  // Понедельник
   {
     nameRu: "Стрим невозможен",
     scheduleType: "schedule-current",
-    date: "31.08.26",
+    date: "07.09.26",
   },
   // Вторник
   {
-    nameRu: "Декстер",
-    nameEn: "Dexter",
-    scheduleRemark: "Сериал × 8 Сезон 9-10 Эпизод",
+    nameRu: "Стрим возможен",
     scheduleType: "schedule-current",
-    date: "01.09.26",
-  },
-  {
-    nameRu: "Новые Мстители",
-    nameEn: "New Avengers",
-    scheduleRemark: "Комикс × 1-5 Главы",
-    scheduleType: "schedule-current",
-    date: "01.09.26",
-  },
-  {
-    nameRu: "Мстители Хикмана",
-    nameEn: "Avengers by Jonathan Hickman",
-    scheduleRemark: "Комикс × 1-3 Главы",
-    scheduleType: "schedule-current",
-    date: "01.09.26",
+    date: "08.09.26",
   },
   // Среда
   {
-    nameRu: "Стрим не состоялся",
+    nameRu: "Стрим возможен",
     scheduleType: "schedule-current",
-    date: "02.09.26",
+    date: "09.09.26",
   },
   // Четверг
   {
-    nameRu: "Стрим не состоялся",
+    nameRu: "Стрим возможен",
     scheduleType: "schedule-current",
-    date: "03.09.26",
+    date: "10.09.26",
   },
   // Пятница
   {
-    nameRu: "Викинги",
-    nameEn: "Vikings",
-    scheduleRemark: "Сериал × 4 Сезон 9-10 Эпизод",
+    nameRu: "Стрим возможен",
     scheduleType: "schedule-current",
-    date: "04.09.26",
+    date: "11.09.26",
   },
-  {
-    nameRu: "Декстер",
-    nameEn: "Dexter",
-    scheduleRemark: "Сериал × 8 Сезон 11-12 Эпизод",
-    scheduleType: "schedule-current",
-    date: "04.09.26",
-  },
-	// Суббота
+  // Суббота
   {
     nameRu: "Стрим невозможен",
     scheduleType: "schedule-current",
-    date: "05.09.26",
+    date: "12.09.26",
   },
   // Воскресенье
   {
-    nameRu: "Стрим вполне вероятен",
+    nameRu: "Стрим возможен",
     scheduleType: "schedule-current",
-    date: "06.09.26",
+    date: "13.09.26",
   },
 
   //#region Старое: Январь 26
@@ -2793,6 +2752,84 @@ const scheduleDatabase = [
     scheduleRemark: "Аниме × 2 Сезон 5-8 Эпизод",
     scheduleType: "schedule-past",
     date: "30.08.26",
+  },
+  // Понедельник
+  {
+    nameRu: "Стрим невозможен",
+    scheduleType: "schedule-past",
+    date: "31.08.26",
+  },
+  // Вторник
+  {
+    nameRu: "Декстер",
+    nameEn: "Dexter",
+    scheduleRemark: "Сериал × 8 Сезон 9-10 Эпизод",
+    scheduleType: "schedule-past",
+    date: "01.09.26",
+  },
+  //#endregion
+  //#region Старое: Сентябрь 26
+  {
+    nameRu: "Новые Мстители",
+    nameEn: "New Avengers",
+    scheduleRemark: "Комикс × 1-5 Главы",
+    scheduleType: "schedule-past",
+    date: "01.09.26",
+  },
+  {
+    nameRu: "Мстители Хикмана",
+    nameEn: "Avengers by Jonathan Hickman",
+    scheduleRemark: "Комикс × 1-3 Главы",
+    scheduleType: "schedule-past",
+    date: "01.09.26",
+  },
+  // Среда
+  {
+    nameRu: "Стрим не состоялся",
+    scheduleType: "schedule-past",
+    date: "02.09.26",
+  },
+  // Четверг
+  {
+    nameRu: "Стрим не состоялся",
+    scheduleType: "schedule-past",
+    date: "03.09.26",
+  },
+  // Пятница
+  {
+    nameRu: "Викинги",
+    nameEn: "Vikings",
+    scheduleRemark: "Сериал × 4 Сезон 9-10 Эпизод",
+    scheduleType: "schedule-past",
+    date: "04.09.26",
+  },
+  {
+    nameRu: "Декстер",
+    nameEn: "Dexter",
+    scheduleRemark: "Сериал × 8 Сезон 11-12 Эпизод",
+    scheduleType: "schedule-past",
+    date: "04.09.26",
+  },
+  // Суббота
+  {
+    nameRu: "Стрим невозможен",
+    scheduleType: "schedule-past",
+    date: "05.09.26",
+  },
+  // Воскресенье
+  {
+    nameRu: "Мобильный воин Гандам: Вспышка Хэтэуэя 2 - Колдунья Кирка",
+    nameEn: "Mobile Suit Gundam: Senkou no Hathaway - Circe no Majo",
+    scheduleRemark: "Полнометражка",
+    scheduleType: "schedule-past",
+    date: "06.09.26",
+  },
+  {
+    nameRu: "Невеста чародея",
+    nameEn: "Mahoutsukai no Yome",
+    scheduleRemark: "Аниме × 2 Сезон 9-12 Эпизод",
+    scheduleType: "schedule-past",
+    date: "06.09.26",
   },
   //#endregion
 ];

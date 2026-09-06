@@ -46,7 +46,7 @@ const ordersDatabase = [
   {
     nameRu: "Невеста чародея",
     nameEn: "Mahoutsukai no Yome",
-    orderRemark: "Аниме × В заказе: 2 Сезон 9-16/24 Эпизод",
+    orderRemark: "Аниме × В заказе: 2 Сезон 13-16/24 Эпизод",
     personalOrder: "user_Misty",
     cardType: "order-during",
     id: "order_Mahoutsukai-no-Yome-2",
@@ -73,6 +73,7 @@ const ordersDatabase = [
         nickname: "Мисти",
         slot: "1", // 2 Сезон 9-12 Эпизод
         date: "17.03.26",
+        was: "was",
       },
       {
         nickname: "Мисти",
@@ -1447,6 +1448,20 @@ const ordersDatabase = [
   },
   //#endregion
   //#region ~Просмотренное~
+  {
+    nameRu: "Мобильный воин Гандам: Вспышка Хэтэуэя 2 - Колдунья Кирка",
+    nameEn: "Mobile Suit Gundam: Senkou no Hathaway - Circe no Majo",
+    orderRemark: "Полнометражка",
+    cardType: "order-finished",
+    items: [
+      {
+        nickname: "Без имени",
+        slot: "1",
+        date: "Без даты",
+        was: "owe",
+      },
+    ],
+  },
   {
     nameRu: "Новые Мстители + Мстители Хикмана",
     nameEn: "New Avengers + Avengers by Jonathan Hickman",

@@ -4679,6 +4679,17 @@ const seriesAnimePopups = {
       posterImage: "https://static.tildacdn.com/tild6339-3363-4339-b266-363430386130/img.webp",
       cardType: "fullmeter-Anime",
     },
+    {
+      nameRu: "Вспышка Хэтэуэя 2 - Колдунья Кирка || Мобильный воин Гандам",
+      nameEn: "Senkou no Hathaway - Circe no Majo || Mobile Suit Gundam",
+      titleStatus: "Полнометражка",
+      donutTerms: "donut-lvl-3",
+      titleLink: ["vk", "456241896?t=13m0s"],
+      player: ["vk", "456241896", "8ea4c0a5962c68a1", "0h13m0s"],
+      id: "Fullmeter-Anime_Mobile-Suit-Gundam-Hathaway-2",
+      posterImage: "https://static.tildacdn.com/tild3761-6463-4466-b062-346239353138/img.webp",
+      cardType: "fullmeter-Anime",
+    },
   ],
   "Series-Anime_Gundam-COSMIC-ERA": [
     {
@@ -6597,9 +6608,14 @@ const seriesAnimePopups = {
           player: ["vk", "456241887", "e030b28818ebaa7d", "0h13m24s"],
         },
         {
-          title: "5 Эпизод",
+          title: "5-8 Эпизод",
           titleLink: ["vk", "456241893?t=4h25m39s"],
           player: ["vk", "456241893", "a67e744c20b2ed33", "4h25m39s"],
+        },
+        {
+          title: "9-12 Эпизод",
+          titleLink: ["vk", "456241896?t=2h38m46s"],
+          player: ["vk", "456241896", "8ea4c0a5962c68a1", "2h38m46s"],
         },
       ],
     },
