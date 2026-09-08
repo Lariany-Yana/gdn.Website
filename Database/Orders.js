@@ -84,36 +84,10 @@ const ordersDatabase = [
     ],
   },
   {
-    ID: "order_La-casa-de-papel-2",
-    NameRU: "Бумажный дом",
-    NameEN: "La casa de papel",
-    Status: "Сериал × В заказе: 2 Сезон 5/9 Эпизод",
-    Type: "order-during",
-    Slots: [
-      {
-        Name: "lucky_god_man",
-        Slot: "0.5", // 2 Сезон 1 Эпизод
-        Date: "20.08.25",
-        Listed: true,
-      },
-      {
-        Name: "lucky_god_man",
-        Slot: "0.5", // 2 Сезон 2 Эпизод
-        Date: "28.08.25",
-        Listed: true,
-      },
-      {
-        Name: "lucky_god_man",
-        Slot: "1.5", // 2 Сезон 3-5 Эпизод
-        Date: "28.08.25",
-      },
-    ],
-  },
-  {
     ID: "order_Gotham-1",
     NameRU: "Готэм",
     NameEN: "Gotham",
-    Status: "Сериал × В заказе: 1 Сезон 9-22/22 Эпизод",
+    Status: "Сериал × В заказе: 1 Сезон 11-22/22 Эпизод",
     Style: "user_Katya",
     Type: "order-during",
     Slots: [
@@ -137,34 +111,14 @@ const ordersDatabase = [
       },
       {
         Name: "Твою мать!",
-        Slot: "7", // 1 Сезон 9-22 Эпизод
+        Slot: "1", // 1 Сезон 9-10 Эпизод
         Date: "08.01.26",
-      },
-    ],
-  },
-  {
-    ID: "order_Crusader-Kings-3",
-    NameRU: "Crusader Kings III",
-    Status: "Игра",
-    Type: "order-during",
-    Slots: [
-      {
-        Name: "Izida-Sama",
-        Slot: "1",
-        Date: "06.06.26",
         Listed: true,
       },
       {
-        Name: "Izida-Sama",
-        Slot: "1",
-        Date: "06.06.26",
-        Listed: true,
-      },
-      {
-        Name: "Без даты",
-        Slot: "7",
-        Date: "Без имени",
-        Listed: false,
+        Name: "Твою мать!",
+        Slot: "6", // 1 Сезон 11-22 Эпизод
+        Date: "08.01.26",
       },
     ],
   },
@@ -883,6 +837,103 @@ const ordersDatabase = [
   //#endregion
   //#region ~В уточнении~
   {
+    ID: "order_Crusader-Kings-3",
+    NameRU: "Crusader Kings III",
+    Status: "Игра × Наиграно: 18 Часов",
+    Type: "order-determinate",
+    Slots: [
+      {
+        Name: "Izida-Sama",
+        Slot: "1",
+        Date: "06.06.26",
+        Listed: true,
+      },
+      {
+        Name: "Izida-Sama",
+        Slot: "1",
+        Date: "06.06.26",
+        Listed: true,
+      },
+      {
+        Name: "Без даты",
+        Slot: "7",
+        Date: "Без имени",
+        Listed: false,
+      },
+    ],
+  },
+  {
+    ID: "order_La-casa-de-papel-2",
+    NameRU: "Бумажный дом",
+    NameEN: "La casa de papel",
+    Status: "Сериал × Просмотрено: 2 Сезон 1-6/9 Эпизод",
+    Type: "order-determinate",
+    Slots: [
+      {
+        Name: "lucky_god_man",
+        Slot: "0.5", // 2 Сезон 1 Эпизод
+        Date: "20.08.25",
+        Listed: true,
+      },
+      {
+        Name: "lucky_god_man",
+        Slot: "0.5", // 2 Сезон 2 Эпизод
+        Date: "28.08.25",
+        Listed: true,
+      },
+      {
+        Name: "lucky_god_man",
+        Slot: "1.5", // 2 Сезон 3-5 Эпизод
+        Date: "28.08.25",
+        Listed: true,
+      },
+      {
+        Name: "Без имени",
+        Slot: "0.5", // 2 Сезон 6 Эпизод
+        Date: "Без даты",
+        Listed: false,
+      },
+    ],
+  },
+  {
+    ID: "order_Rogue-Trader",
+    NameRU: "Warhammer 40 000: Rogue Trader",
+    Status: "Игра × Наиграно: 10 Часов",
+    Type: "order-determinate",
+    Slots: [
+      {
+        Name: "Ekemlyr",
+        Slot: "1",
+        Date: "29.03.26",
+        Listed: true,
+      },
+      {
+        Name: "Ekemlyr",
+        Slot: "1",
+        Date: "05.04.26",
+        Listed: true,
+      },
+      {
+        Name: "Ekemlyr",
+        Slot: "1",
+        Date: "21.04.26",
+        Listed: true,
+      },
+      {
+        Name: "Ekemlyr",
+        Slot: "1",
+        Date: "28.04.26",
+        Listed: true,
+      },
+      {
+        Name: "Без имени",
+        Slot: "1",
+        Date: "Без даты",
+        Listed: false,
+      },
+    ],
+  },
+  {
     NameRU: "Мобильный воин Гандам: Вспышка Хэтэуэя 2 - Колдунья Кирка",
     NameEN: "Mobile Suit Gundam: Senkou no Hathaway - Circe no Majo",
     Status: "Полнометражка",
@@ -925,6 +976,7 @@ const ordersDatabase = [
     ],
   },
   {
+    ID: "order_Vikings-4",
     NameRU: "Викинги",
     NameEN: "Vikings",
     Status: "Сериал × Просмотрено: 4 Сезон 1-10/20 Эпизод",
@@ -997,38 +1049,6 @@ const ordersDatabase = [
   },
   //#endregion
   //#region ~Нужен дозаказ~
-  {
-    ID: "order_Rogue-Trader",
-    NameRU: "Warhammer 40 000: Rogue Trader",
-    Status: "Игра × Наиграно: 8 Часов",
-    Type: "order-incomplete",
-    Slots: [
-      {
-        Name: "Ekemlyr",
-        Slot: "1",
-        Date: "29.03.26",
-        Listed: true,
-      },
-      {
-        Name: "Ekemlyr",
-        Slot: "1",
-        Date: "05.04.26",
-        Listed: true,
-      },
-      {
-        Name: "Ekemlyr",
-        Slot: "1",
-        Date: "21.04.26",
-        Listed: true,
-      },
-      {
-        Name: "Ekemlyr",
-        Slot: "1",
-        Date: "28.04.26",
-        Listed: true,
-      },
-    ],
-  },
   {
     ID: "order_Summertime-Render",
     NameRU: "Летнее время",

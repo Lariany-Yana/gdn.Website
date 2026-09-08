@@ -14,69 +14,60 @@ const scheduleDatabase = [
   {
     Status: "Стрим невозможен",
     Current: true,
-    Date: "31.08.26",
+    Date: "07.09.26",
   },
   // Вторник
   {
-    NameRU: "Декстер",
-    NameEN: "Dexter",
-    Status: "Сериал × 8 Сезон 9-10 Эпизод",
+    NameRU: "Warhammer 40 000: Rogue Trader",
+    Status: "Игра",
     Current: true,
-    Date: "01.09.26",
+    Date: "08.09.26",
   },
   {
-    NameRU: "Новые Мстители",
-    NameEN: "New Avengers",
-    Status: "Комикс × 1-5 Главы",
+    NameRU: "Готэм",
+    NameEN: "Gotham",
+    Status: "Сериал × 1 Сезон 9-10 Эпизод",
     Current: true,
-    Date: "01.09.26",
+    Date: "08.09.26",
   },
   {
-    NameRU: "Мстители Хикмана",
-    NameEN: "Avengers by Jonathan Hickman",
-    scheduleRemark: "Комикс × 1-3 Главы",
+    NameRU: "Бумажный дом",
+    NameEN: "La casa de papel",
+    Status: "Сериал × 2 Сезон 5-6 Эпизод",
     Current: true,
-    Date: "01.09.26",
+    Date: "08.09.26",
   },
   // Среда
   {
-    Status: "Стрим не состоялся",
+    Status: "Стрим возможен",
     Current: true,
-    Date: "02.09.26",
+    Date: "09.09.26",
   },
   // Четверг
   {
-    Status: "Стрим не состоялся",
+    Status: "Стрим возможен",
     Current: true,
-    Date: "03.09.26",
+    Date: "10.09.26",
   },
   // Пятница
   {
-    nameRu: "Викинги",
-    nameEn: "Vikings",
-    Status: "Сериал × 4 Сезон 9-10 Эпизод",
+    Status: "Стрим возможен",
     Current: true,
-    Date: "04.09.26",
-  },
-  {
-    NameRU: "Декстер",
-    NameEN: "Dexter",
-    Status: "Сериал × 8 Сезон 11-12 Эпизод",
-    Current: true,
-    Date: "04.09.26",
+    Date: "11.09.26",
   },
   // Суббота
   {
     Status: "Стрим невозможен",
     Current: true,
-    Date: "05.09.26",
+    Date: "12.09.26",
   },
   // Воскресенье
   {
-    Status: "Стрим вполне вероятен",
+    Status: "Стрим возможен",
     Current: true,
-    Date: "06.09.26",
+    Date: "13.09.26",
   },
+
 
   //#region Старое: Январь 26
   // Четверг
@@ -2777,6 +2768,84 @@ const scheduleDatabase = [
     Status: "Аниме × 2 Сезон 5-8 Эпизод",
     Current: false,
     Date: "30.08.26",
+  },
+  // Понедельник
+  {
+    Status: "Стрим невозможен",
+    Current: false,
+    Date: "31.08.26",
+  },
+  //#endregion
+  //#region Старое: Сентябрь 26
+  // Вторник
+  {
+    NameRU: "Декстер",
+    NameEN: "Dexter",
+    Status: "Сериал × 8 Сезон 9-10 Эпизод",
+    Current: false,
+    Date: "01.09.26",
+  },
+  {
+    NameRU: "Новые Мстители",
+    NameEN: "New Avengers",
+    Status: "Комикс × 1-5 Главы",
+    Current: false,
+    Date: "01.09.26",
+  },
+  {
+    NameRU: "Мстители Хикмана",
+    NameEN: "Avengers by Jonathan Hickman",
+    scheduleRemark: "Комикс × 1-3 Главы",
+    Current: false,
+    Date: "01.09.26",
+  },
+  // Среда
+  {
+    Status: "Стрим не состоялся",
+    Current: false,
+    Date: "02.09.26",
+  },
+  // Четверг
+  {
+    Status: "Стрим не состоялся",
+    Current: false,
+    Date: "03.09.26",
+  },
+  // Пятница
+  {
+    NameRU: "Викинги",
+    nameEn: "Vikings",
+    Status: "Сериал × 4 Сезон 9-10 Эпизод",
+    Current: false,
+    Date: "04.09.26",
+  },
+  {
+    NameRU: "Декстер",
+    NameEN: "Dexter",
+    Status: "Сериал × 8 Сезон 11-12 Эпизод",
+    Current: false,
+    Date: "04.09.26",
+  },
+  // Суббота
+  {
+    Status: "Стрим невозможен",
+    Current: false,
+    Date: "05.09.26",
+  },
+  // Воскресенье
+  {
+    NameRU: "Мобильный воин Гандам: Вспышка Хэтэуэя 2 - Колдунья Кирка",
+    NameEN: "Mobile Suit Gundam: Senkou no Hathaway - Circe no Majo",
+    Status: "Полнометражка",
+    Current: false,
+    Date: "06.09.26",
+  },
+  {
+    NameRU: "Невеста чародея",
+    NameEN: "Mahoutsukai no Yome",
+    Status: "Аниме × 2 Сезон 9-12 Эпизод",
+    Current: false,
+    Date: "06.09.26",
   },
   //#endregion
 ];
