@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Заказы</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet" />
+
+    <link rel="stylesheet" href="../Styles/style.css" />
+    <link rel="stylesheet" href="../Styles/skins.css" />
+  </head>
+
+  <body>
+    <div class="window" id="orders">
+      <span class="setup ratio-select">
+        <button onclick="setAspect('ar16x9')">16:9</button>
+        <button onclick="setAspect('ar4x3')">4:3</button>
+      </span>
+      <span class="setup scheme-select">
+        <button onclick="toggleTheme()"></button>
+      </span>
+      <header class="header">
+        <a class="element streaming" href="https://www.twitch.tv/godenname" target="_blank" title="Индикатор стрима"></a>
+        <div class="element searching"><input type="search" id="searchInput" placeholder="Поиск по заказам" maxlength="15" /></div>
+        <div class="element tracking" onclick="openFavoritesPopup()"></div>
+      </header>
+      <footer class="footer">
+        <a href="./main.html">Главная</a>
+        <a href="./titles.html">Тайтлы</a>
+        <a href="./orders.html" class="current">Заказы</a>
+      </footer>
+
+      <div class="management navigate"></div>
+      <nav class="management tabs">
+        <div class="section">
+          <button class="switch" data-type="order-during">В процессе</button>
+          <button class="switch" data-type="order-waiting">В очереди</button>
+        </div>
+        <div class="section">
+          <button class="switch" data-type="order-determinate">В уточнении</button>
+          <button class="switch" data-type="order-incomplete">Нужен дозаказ</button>
+          <button class="switch" data-type="order-frozen">На паузе</button>
+        </div>
+        <div class="section">
+          <button class="switch" data-type="order-switch">Свапы</button>
+          <button class="switch" data-type="order-finished">Просмотренное</button>
+        </div>
+      </nav>
+
+      <div class="content">
+      </div>
+    </div>
+
+    <!-- Попап -->
+    <template id="popup-template">
+      <section class="popup">
+        <button class="close">Закрыть окно</button>
+      </section>
+    </template>
+
+    <!-- Попап: Поиск -->
+    <template id="search-template">
+      <aside class="content">
+        <div class="note">Введите минимум 2 символа</div>
+        <div class="note">Для поиска по никам введите @</div>
+        <div class="cards"></div>
+        <button class="more">Показать ещё</button>
+      </aside>
+    </template>
+
+    <!-- Попап: Избранное -->
+    <template id="tracked-template">
+      <aside class="content">
+        <div class="note">Добавьте что-нибудь в избранное.</div>
+        <div class="cards"></div>
+      </aside>
+    </template>
+
+    <!-- Карточный шаблон: Заказ -->
+    <template id="order-card-template">
+      <article class="card order">
+        <div class="info">
+          <span class="name-ru"></span>
+          <span class="name-en"></span>
+          <div class="simple status"></div>
+          <div class="group">
+            <button class="favorite"></button>
+          </div>
+        </div>
+        <div class="slots"></div>
+      </article>
+    </template>
+
+    <template id="order-slot-template">
+      <div class="slot">
+        <span class="date"></span>
+        <span class="count"></span>
+        <span class="name"></span>
+      </div>
+    </template>
+
+    <template id="order-swap-card-template">
+      <article class="card order">
+        <div class="info">
+          <div class="simple status"></div>
+        </div>
+      </article>
+    </template>
+
+    <template id="order-swap-slot-template">
+      <div class="info">
+        <span class="name-ru"></span>
+        <span class="name-en"></span>
+        <div class="simple status"></div>
+      </div>
+    </template>
+
+    <!-- Базы данных: Заказы -->
+    <script src="../Database/Orders.js"></script>
+
+    <!-- Основные скрипты -->
+    <script src="../JScript/main.js"></script>
+    <script src="../JScript/orderspage.js"></script>
+    <!-- Дополнительные скрипты -->
+    <script src="../JScript/mini/aspect-ratio.js"></script>
+    <script src="../JScript/mini/color-scheme.js"></script>
+    <script src="../JScript/mini/stream-detect.js"></script>
+  </body>
+</html>

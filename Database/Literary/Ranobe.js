@@ -1,0 +1,29 @@
+const literatureRanobe = [
+  {
+    ID: "Literary-Ranobe_Honzuki-no-Gekokujou",
+    NameRU: "Власть книжного червя",
+    NameEN: "Honzuki no Gekokujou / Ascendance of a Bookworm",
+    Status: "Прочитано: 4%",
+    Donut: "donut-1",
+    Image: "https://static.tildacdn.com/tild3762-3239-4330-b063-633833646364/_Ascendance_of_a_Boo.webp",
+    Type: "literature-Ranobe",
+  },
+  {
+    ID: "Literary-Ranobe_Classroom-of-Elite",
+    NameRU: "Добро пожаловать в класс превосходства",
+    NameEN: "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
+    Status: "Прочитано: 3%",
+    Donut: "donut-2",
+    Image: "https://static.tildacdn.com/tild6565-6238-4130-a365-653632343735/_Classroom_of_the_El.webp",
+    Type: "literature-Ranobe",
+  },
+  {
+    ID: "Literary-Ranobe_Omniscient-Reader",
+    NameRU: "Точка зрения Всеведущего читателя",
+    NameEN: "Omniscient Reader",
+    Status: "Прочитано: 3%",
+    Donut: "donut-2",
+    Image: "https://static.tildacdn.com/tild6430-3762-4633-b831-643433643133/_Omniscient_Reader.webp",
+    Type: "literature-Ranobe",
+  },
+];

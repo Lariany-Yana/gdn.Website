@@ -1,0 +1,220 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Тайтлы</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet" />
+
+    <link rel="stylesheet" href="../Styles/style.css" />
+  </head>
+
+  <body>
+    <div class="window" id="titles">
+      <span class="setup ratio-select">
+        <button onclick="setAspect('ar16x9')">16:9</button>
+        <button onclick="setAspect('ar4x3')">4:3</button>
+      </span>
+      <span class="setup scheme-select">
+        <button onclick="toggleTheme()"></button>
+      </span>
+      <header class="header">
+        <a class="element streaming" href="https://www.twitch.tv/godenname" target="_blank" title="Индикатор стрима"></a>
+        <div class="element searching"><input type="search" id="searchInput" placeholder="Поиск по тайтлам" maxlength="15" /></div>
+        <div class="element tracking" onclick="openFavoritesPopup()"></div>
+      </header>
+      <footer class="footer">
+        <a href="./main.html">Главная</a>
+        <a href="./titles.html" class="current">Тайтлы</a>
+        <a href="./orders.html">Заказы</a>
+      </footer>
+
+      <div class="management navigate"></div>
+      <nav class="management tabs">
+        <div class="section">
+          <button onclick="openRandomiserPopup()">Рандомайзер</button>
+        </div>
+        <div class="section">
+          <button class="switch" data-type="series-Anime">Аниме</button>
+          <button class="switch" data-type="series-Serial">Сериалы</button>
+          <button class="switch" data-type="series-Cartoon">Мультсериалы</button>
+        </div>
+        <div class="section">
+          <button class="switch" data-type="fullmeter-Anime">Полнометражки</button>
+          <button class="switch" data-type="fullmeter-Movie">Фильмы</button>
+          <button class="switch" data-type="fullmeter-Cartoon">Мультфильмы</button>
+        </div>
+        <div class="section">
+          <button class="switch" data-type="amusement-Game">Игры</button>
+          <button class="switch" data-type="amusement-YouTube">Ютуб</button>
+          <button class="switch" data-type="amusement-Event">Ивенты</button>
+          <button class="watch" onclick="openTitlePopup('Amusement-Poker')">Покер</button>
+          <button class="switch" data-type="amusement-TV_Show">ТВ-Шоу</button>
+        </div>
+        <div class="section">
+          <button class="switch" data-type="literature-Manga">Манга</button>
+          <button class="switch" data-type="literature-Manhwa">Манхва</button>
+          <button class="switch" data-type="literature-Comics">Комиксы</button>
+          <button class="switch" data-type="literature-Ranobe">Ранобе</button>
+          <button class="switch" data-type="literature-Book">Книги</button>
+        </div>
+      </nav>
+
+      <div class="content"></div>
+    </div>
+
+    <!-- Попап -->
+    <template id="popup-template">
+      <section class="popup">
+        <button class="close">Закрыть окно</button>
+      </section>
+    </template>
+
+    <!-- Попап: Поиск -->
+    <template id="search-template">
+      <aside class="content">
+        <div class="note">Введите минимум 2 символа</div>
+        <div class="cards"></div>
+        <button class="more">Показать ещё</button>
+      </aside>
+    </template>
+
+    <!-- Попап: Избранное -->
+    <template id="tracked-template">
+      <aside class="content">
+        <div class="note">Добавьте что-нибудь в избранное</div>
+        <div class="cards"></div>
+      </aside>
+    </template>
+
+    <!-- Попап: Плеер -->
+    <template id="player-template">
+      <aside class="content">
+        <iframe src="" allow="autoplay; encrypted-media; fullscreen; picture-in-picture; screen-wake-lock" frameborder="0" allowfullscreen></iframe>
+        <div class="note">Для просмотра видео необходимо иметь авторизацию на <a href="https://vkvideo.ru">vkvideo.ru</a> в текущем браузере.</div>
+      </aside>
+    </template>
+
+    <!-- Попап: Рандомайзер -->
+    <template id="randomiser-template">
+      <button class="random">Крутить рандом!</button>
+      <aside class="content">
+        <div class="cards"></div>
+      </aside>
+    </template>
+
+    <!-- Попап: Тайтл -->
+    <template id="project-template">
+      <article class="project" style="background-image: url()">
+        <div class="about">
+          <span class="name-ru"></span>
+          <span class="name-en"></span>
+          <div class="simple status"></div>
+          <div class="simple donut"></div>
+        </div>
+        <div class="content"></div>
+      </article>
+    </template>
+
+    <template id="season-template-v1">
+      <div class="season">
+        <div class="episodes"></div>
+        <div class="cards"></div>
+      </div>
+    </template>
+
+    <template id="season-template-v2">
+      <div class="season">
+        <details open>
+          <summary class="title"></summary>
+          <div class="episodes"></div>
+          <div class="cards"></div>
+        </details>
+      </div>
+    </template>
+
+    <template id="episode-template">
+      <div class="episode">
+        <div class="group">
+          <span class="name"></span>
+          <span class="date"></span>
+        </div>
+        <div class="group">
+          <a class="link" href="" target="_blank">Ссылка</a>
+          <button class="player" player-href="">Плеер</button>
+          <span class="donut"></span>
+        </div>
+      </div>
+    </template>
+
+    <!-- Карточный шаблон: Тайтл -->
+    <template id="project-card-template">
+      <article class="card project">
+        <img loading="lazy" src="" />
+        <div class="info">
+          <span class="name-ru"></span>
+          <span class="name-en"></span>
+          <div class="simple status"></div>
+          <div class="simple donut"></div>
+          <div class="group">
+            <button class="watch">Открыть</button>
+            <a class="link" href="" target="_blank">Смотреть</a>
+            <button class="player" player-href="">Смотреть в плеере</button>
+            <button class="favorite"></button>
+          </div>
+        </div>
+      </article>
+    </template>
+
+    <!-- Базы данных: Карточки -->
+    <script src="../Database/Series/Anime.js"></script>
+    <script src="../Database/Series/Serials.js"></script>
+    <script src="../Database/Series/Cartoons.js"></script>
+
+    <script src="../Database/Fullmeter/fmAnime.js"></script>
+    <script src="../Database/Fullmeter/fmMovies.js"></script>
+    <script src="../Database/Fullmeter/fmCartoons.js"></script>
+
+    <script src="../Database/Amusement/Games.js"></script>
+    <script src="../Database/Amusement/YT.js"></script>
+    <script src="../Database/Amusement/Events.js"></script>
+    <script src="../Database/Amusement/TV-Show.js"></script>
+
+    <script src="../Database/Literary/Manga.js"></script>
+    <script src="../Database/Literary/Manhwa.js"></script>
+    <script src="../Database/Literary/Comics.js"></script>
+    <script src="../Database/Literary/Ranobe.js"></script>
+    <script src="../Database/Literary/Books.js"></script>
+
+    <!-- Базы данных: Попапы -->
+    <script src="../Database/Series/Anime_popups.js"></script>
+    <script src="../Database/Series/Serials_popups.js"></script>
+    <script src="../Database/Series/Cartoons_popups.js"></script>
+
+    <script src="../Database/Fullmeter/fmAnime_popups.js"></script>
+    <script src="../Database/Fullmeter/fmMovies_popups.js"></script>
+    <script src="../Database/Fullmeter/fmCartoons_popups.js"></script>
+
+    <script src="../Database/Amusement/Games_popups.js"></script>
+    <script src="../Database/Amusement/YT_popups.js"></script>
+    <script src="../Database/Amusement/Poker_popups.js"></script>
+    <script src="../Database/Amusement/TV-Show_popups.js"></script>
+
+    <script src="../Database/Literary/Manga_popups.js"></script>
+    <script src="../Database/Literary/Manhwa_popups.js"></script>
+    <script src="../Database/Literary/Comics_popups.js"></script>
+    <script src="../Database/Literary/Ranobe_popups.js"></script>
+    <script src="../Database/Literary/Books_popups.js"></script>
+
+    <!-- Основные скрипты -->
+    <script src="../JScript/main.js"></script>
+    <script src="../JScript/titlespage.js"></script>
+    <!-- Дополнительные скрипты -->
+    <script src="../JScript/mini/aspect-ratio.js"></script>
+    <script src="../JScript/mini/color-scheme.js"></script>
+    <script src="../JScript/mini/stream-detect.js"></script>
+  </body>
+</html>
