@@ -51,13 +51,6 @@ const scheduleDatabase = [
     Current: true,
     Date: "09.09.26",
   },
-  {
-    NameRU: "Декстер: Воскрешение",
-    NameEN: "Dexter: Resurrection",
-    Status: "Сериал × 1 Сезон 1-2 Эпизод",
-    Current: true,
-    Date: "09.09.26",
-  },
   // Четверг
   {
     Status: "Стрим возможен",
