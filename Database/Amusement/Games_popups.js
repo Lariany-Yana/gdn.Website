@@ -51,11 +51,6 @@ const amusementGamesPopups = {
           Link: ["vk", "456241478?t=1m51s"],
           Player: ["vk", "456241478", "acd4f0ce7a697f59", "0h1m51s"],
         },
-      ],
-    },
-    {
-      Title: "",
-      Episodes: [
         {
           Name: "История мира Armored Core VI: Fires of Rubicon",
           Date: "",

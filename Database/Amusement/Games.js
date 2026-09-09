@@ -2,7 +2,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_Alyosha-Popovich",
     NameRU: "Алёша Попович и Тугарин Змей",
-    Status: "Наиграно: До финала",
+    Status: "До финала",
     Donut: "donut-3",
     Link: ["vk", "456241737?t=31m51s"],
     Player: ["vk", "456241737", "23273f0cf507142f", "0h31m51s"],
@@ -12,7 +12,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_Armored-Core-6",
     NameRU: "Armored Core VI: Fires of Rubicon",
-    Status: "Наиграно: До финала",
+    Status: "До финала",
     Donut: "donut-2",
     Image: "https://static.tildacdn.com/tild6666-3966-4561-a631-343866303831/ARMORED_CORE_VI_FIRE.webp",
     Type: "amusement-Game",
@@ -20,7 +20,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_A-Way-Out",
     NameRU: "A Way Out",
-    Status: "Наиграно: До финала",
+    Status: "До финала",
     Donut: "donut-2",
     Image: "https://static.tildacdn.com/tild3664-3661-4161-b331-353362343666/A_Way_Out.webp",
     Type: "amusement-Game",
@@ -28,7 +28,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_Baldurs-Gate-3",
     NameRU: "Baldur's Gate 3",
-    Status: "Наиграно: До финала",
+    Status: "До финала",
     Donut: "donut-1",
     Image: "https://static.tildacdn.com/tild6365-6466-4134-b537-346333366131/Baldurs_Gate_3.webp",
     Type: "amusement-Game",
@@ -36,7 +36,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_BioShock-Infinite",
     NameRU: "BioShock Infinite",
-    Status: "Наиграно: До финала + DLC",
+    Status: "До финала + DLC",
     Donut: "donut-1",
     Image: "https://static.tildacdn.com/tild3430-3931-4862-a464-633365303938/BioShock_Infinite.webp",
     Type: "amusement-Game",
@@ -44,7 +44,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_Buckshot-Roulette",
     NameRU: "Buckshot Roulette",
-    Status: "Наиграно: До финала",
+    Status: "До финала",
     Donut: "donut-2",
     Image: "https://static.tildacdn.com/tild6566-6434-4338-b335-303930323732/Buckshot_Roulette.webp",
     Type: "amusement-Game",
@@ -52,7 +52,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_Celeste",
     NameRU: "Celeste",
-    Status: "Наиграно: До финала",
+    Status: "До финала",
     Donut: "donut-1",
     Link: ["vk", "456240639?t=8h23m33s"],
     Player: ["vk", "456240639", "3a2a0643bc9929ea", "8h23m33s"],
@@ -62,7 +62,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_Choo-Choo-Charles",
     NameRU: "Choo-Choo Charles",
-    Status: "Наиграно: До финала",
+    Status: "До финала",
     Donut: "donut-1",
     Link: ["vk", "456239971?t=5h20m11s"],
     Player: ["vk", "456239971", "8ef200c9e3d9fa03", "5h20m11s"],
@@ -72,7 +72,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_Clair-Obscur-Expedition-33",
     NameRU: "Clair Obscur: Expedition 33",
-    Status: "Наиграно: До финала",
+    Status: "До финала",
     Donut: "donut-2",
     Image: "https://static.tildacdn.com/tild3637-6362-4631-a161-323461313262/Clair_Obscur_Expedit.webp",
     Type: "amusement-Game",
@@ -80,7 +80,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_Crusader-Kings-3",
     NameRU: "Crusader Kings III",
-    Status: "Наиграно: 18 Часов",
+    Status: "18 Часов",
     Donut: "donut-3",
     Image: "https://static.tildacdn.com/tild3934-3562-4234-b865-343930316639/img.webp",
     Type: "amusement-Game",
@@ -88,7 +88,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_Cuphead",
     NameRU: "Cuphead",
-    Status: "Наиграно: До финала + DLC",
+    Status: "До финала + DLC",
     Donut: "donut-1",
     Image: "https://static.tildacdn.com/tild6165-3835-4535-a564-343031636530/Cuphead.webp",
     Type: "amusement-Game",
@@ -96,14 +96,14 @@ const amusementGames = [
   {
     ID: "Amusement-Games_Dark-Souls",
     NameRU: "Dark Souls",
-    Status: "Наиграно: До финала",
+    Status: "До финала",
     Image: "https://static.tildacdn.com/tild3161-3032-4766-b233-643263656563/Dark_Souls.webp",
     Type: "amusement-Game",
   },
   {
     ID: "Amusement-Games_DayZ",
     NameRU: "DayZ",
-    Status: "Наиграно: 21 Час",
+    Status: "21 Час",
     Donut: "donut-1",
     Image: "https://static.tildacdn.com/tild6131-3230-4839-a230-626238626535/DayZ.webp",
     Type: "amusement-Game",
@@ -111,7 +111,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_Dead-Cells",
     NameRU: "Dead Cells",
-    Status: "Наиграно: До финала",
+    Status: "До финала",
     Donut: "donut-1",
     Image: "https://static.tildacdn.com/tild3865-3439-4562-b162-306337353066/Dead_Cells.webp",
     Type: "amusement-Game",
@@ -119,7 +119,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_Death-Stranding",
     NameRU: "Death Stranding",
-    Status: "Наиграно: 9.5 Часов",
+    Status: "9.5 Часов",
     Donut: "donut-2",
     Image: "https://static.tildacdn.com/tild3130-6262-4138-b262-373562613961/Death_Stranding.webp",
     Type: "amusement-Game",
@@ -127,14 +127,14 @@ const amusementGames = [
   {
     ID: "Amusement-Games_Detroit-Become-Human",
     NameRU: "Detroit: Become Human",
-    Status: "Наиграно: До финала",
+    Status: "До финала",
     Image: "https://static.tildacdn.com/tild3836-3130-4461-a464-306131333236/Detroit_Become_Human.webp",
     Type: "amusement-Game",
   },
   {
     ID: "Amusement-Games_Devil-May-Cry-5",
     NameRU: "Devil May Cry 5",
-    Status: "Наиграно: До финала",
+    Status: "До финала",
     Donut: "donut-2",
     Image: "https://static.tildacdn.com/tild3935-3032-4539-b732-323334303931/Devil_May_Cry_5.webp",
     Type: "amusement-Game",
@@ -142,7 +142,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_Disco-Elysium",
     NameRU: "Disco Elysium",
-    Status: "Наиграно: До финала",
+    Status: "До финала",
     Donut: "donut-1",
     Image: "https://static.tildacdn.com/tild6532-3834-4137-a235-656165613534/Disco_Elysium.webp",
     Type: "amusement-Game",
@@ -150,21 +150,21 @@ const amusementGames = [
   {
     ID: "Amusement-Games_Divinity-Original-Sin-2",
     NameRU: "Divinity: Original Sin 2",
-    Status: "Наиграно: До финала",
+    Status: "До финала",
     Image: "https://static.tildacdn.com/tild6630-3733-4162-b962-323335336463/Divinity_Original_Si.webp",
     Type: "amusement-Game",
   },
   {
     ID: "Amusement-Games_Dragon-Age-Origins",
     NameRU: "Dragon Age: Origins",
-    Status: "Наиграно: До финала",
+    Status: "До финала",
     Image: "https://static.tildacdn.com/tild3566-3365-4261-b131-663433383966/Dragon_Age_Origins.webp",
     Type: "amusement-Game",
   },
   {
     ID: "Amusement-Games_Elden-Ring",
     NameRU: "Elden Ring",
-    Status: "Наиграно: 50 Часов",
+    Status: "50 Часов",
     Donut: "donut-1",
     Image: "https://static.tildacdn.com/tild3664-6466-4863-b165-653863656563/Elden_Ring.webp",
     Type: "amusement-Game",
@@ -172,7 +172,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_FEAR",
     NameRU: "F.E.A.R.",
-    Status: "Наиграно: До финала",
+    Status: "До финала",
     Donut: "donut-2",
     Image: "https://static.tildacdn.com/tild3034-6164-4134-a165-393231626431/FEAR.webp",
     Type: "amusement-Game",
@@ -180,7 +180,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_Finding-Paradise",
     NameRU: "Finding Paradise",
-    Status: "Наиграно: До финала",
+    Status: "До финала",
     Donut: "donut-1",
     Image: "https://static.tildacdn.com/tild6261-3331-4765-b235-383739313263/Finding_Paradise.webp",
     Type: "amusement-Game",
@@ -188,7 +188,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_Five-Nights-at-Freddy",
     NameRU: "Five Nights at Freddy’s",
-    Status: "Наиграно: До финала",
+    Status: "До финала",
     Donut: "donut-2",
     Link: ["vk", "456240804?t=5m47s"],
     Player: ["vk", "456240804", "59a040ec784392ca", "0h5m47s"],
@@ -198,7 +198,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_Friday-Night-Funkin",
     NameRU: "Friday Night Funkin’",
-    Status: "Наиграно: 2.5 Часа",
+    Status: "2.5 Часа",
     Donut: "donut-1",
     Image: "https://static.tildacdn.com/tild3930-3465-4562-b437-616661323066/Friday_Night_Funkin.webp",
     Type: "amusement-Game",
@@ -206,7 +206,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_God-of-War-2018",
     NameRU: "God of War",
-    Status: "Наиграно: До финала",
+    Status: "До финала",
     Donut: "donut-2",
     Image: "https://static.tildacdn.com/tild3437-3233-4236-a230-626364323131/God_of_War_2018.webp",
     Type: "amusement-Game",
@@ -214,7 +214,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_GTA-Vice-City-NGE",
     NameRU: "GTA Vice City: The Next-Gen Edition",
-    Status: "Наиграно: 2 Часа",
+    Status: "2 Часа",
     Donut: "donut-3",
     Link: ["vk", "456241859"],
     Player: ["vk", "456241859", "15dc1e02fde6f72f", "2h11m35s"],
@@ -224,7 +224,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_Half-Life-2",
     NameRU: "Half-Life 2",
-    Status: "Наиграно: До финала",
+    Status: "До финала",
     Donut: "donut-2",
     Image: "https://static.tildacdn.com/tild6437-6336-4362-b364-656334373965/Half-Life_2.webp",
     Type: "amusement-Game",
@@ -232,7 +232,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_Half-Life-Alyx",
     NameRU: "Half-Life&#2: Alyx",
-    Status: "Наиграно: 1 Час",
+    Status: "1 Час",
     Donut: "donut-3",
     Link: ["vk", "456241759?t=13m45s"],
     Player: ["vk", "456241759", "469334e2cc8ae60c", "0h13m45s"],
@@ -242,7 +242,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_Helltaker",
     NameRU: "Helltaker",
-    Status: "Наиграно: До финала",
+    Status: "До финала",
     Donut: "donut-2",
     Link: ["vk", "456241117?t=15m33s"],
     Player: ["vk", "456241117", "d5acdeebae53c29b", "0h15m33s"],
@@ -252,7 +252,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_Hollow-Knight",
     NameRU: "Hollow Knight",
-    Status: "Наиграно: До финала",
+    Status: "До финала",
     Donut: "donut-2",
     Image: "https://static.tildacdn.com/tild6462-3666-4664-a466-343033643164/Hollow_Knight.webp",
     Type: "amusement-Game",
@@ -260,7 +260,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_Honkai-Star-Rail",
     NameRU: "Honkai: Star Rail",
-    Status: "Наиграно: 2 Часа",
+    Status: "2 Часа",
     Donut: "donut-1",
     Link: ["vk", "456239961?t=7h55m38s"],
     Player: ["vk", "456239961", "12ae1828379fb8c0", "7h55m38s"],
@@ -270,7 +270,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_Impostor-Factory",
     NameRU: "Impostor Factory",
-    Status: "Наиграно: До финала",
+    Status: "До финала",
     Donut: "donut-2",
     Image: "https://static.tildacdn.com/tild3366-3363-4264-a462-333766616663/Impostor_Factory.webp",
     Type: "amusement-Game",
@@ -278,7 +278,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_INDIKA",
     NameRU: "INDIKA",
-    Status: "Наиграно: До финала",
+    Status: "До финала",
     Donut: "donut-2",
     Image: "https://static.tildacdn.com/tild3230-6165-4432-a166-323832353861/INDIKA.webp",
     Type: "amusement-Game",
@@ -286,7 +286,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_Inscryption",
     NameRU: "Inscryption",
-    Status: "Наиграно: До финала",
+    Status: "До финала",
     Link: ["boosty", "hiddenarchive/posts/0982e2bf-5fca-4824-8521-441758908c18"],
     Image: "https://static.tildacdn.com/tild6639-6666-4765-a331-646237353735/Inscryption.webp",
     Type: "amusement-Game",
@@ -294,7 +294,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_It-Takes-Two",
     NameRU: "It Takes Two",
-    Status: "Наиграно: До финала",
+    Status: "До финала",
     Donut: "donut-1",
     Image: "https://static.tildacdn.com/tild6462-3364-4634-b564-366235303738/It_Takes_Two.webp",
     Type: "amusement-Game",
@@ -302,7 +302,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_I-Wanna-Be-the-Boshy",
     NameRU: "I Wanna Be the Boshy",
-    Status: "Наиграно: 50+ Часов",
+    Status: "50+ Часов",
     Donut: "donut-1",
     Image: "https://static.tildacdn.com/tild3139-3132-4033-b663-663934616431/I_Wanna_Be_the_Boshy.webp",
     Type: "amusement-Game",
@@ -310,7 +310,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_Katawa-Shoujo",
     NameRU: "Katawa Shoujo",
-    Status: "Наиграно: 11 Часов",
+    Status: "11 Часов",
     Donut: "donut-1",
     Image: "https://static.tildacdn.com/tild3233-6432-4165-a666-336662383063/Katawa_Shoujo.webp",
     Type: "amusement-Game",
@@ -318,7 +318,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_League-of-Legends",
     NameRU: "League of Legends",
-    Status: "Наиграно: 20 Часов",
+    Status: "20 Часов",
     Donut: "donut-1",
     Image: "https://static.tildacdn.com/tild6136-6331-4361-b530-323236303366/League_of_Legends.webp",
     Type: "amusement-Game",
@@ -326,7 +326,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_Life-Is-Strange",
     NameRU: "Life Is Strange",
-    Status: "Наиграно: До финала + DLC",
+    Status: "До финала + DLC",
     Donut: "donut-2",
     Image: "https://static.tildacdn.com/tild6465-3636-4262-a136-336662353264/Life_Is_Strange.webp",
     Type: "amusement-Game",
@@ -334,7 +334,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_LISA-The-Painful",
     NameRU: "LISA: The Painful",
-    Status: "Наиграно: До финала",
+    Status: "До финала",
     Donut: "donut-1",
     Image: "https://static.tildacdn.com/tild3033-3463-4737-b938-303639306565/LISA_The_Painful.webp",
     Type: "amusement-Game",
@@ -342,7 +342,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_Little-Misfortune",
     NameRU: "Little Misfortune",
-    Status: "Наиграно: До финала",
+    Status: "До финала",
     Donut: "donut-1",
     Image: "https://static.tildacdn.com/tild3739-6232-4833-a339-366236656436/Little_Misfortune.webp",
     Type: "amusement-Game",
@@ -350,7 +350,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_Machinarium",
     NameRU: "Machinarium",
-    Status: "Наиграно: До финала",
+    Status: "До финала",
     Donut: "donut-3",
     Image: "https://static.tildacdn.com/tild3938-3564-4661-b131-373439656237/Machinarium.webp",
     Type: "amusement-Game",
@@ -358,7 +358,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_Mass-Effect-1",
     NameRU: "Mass Effect",
-    Status: "Наиграно: До финала",
+    Status: "До финала",
     Lost: true,
     Image: "https://static.tildacdn.com/tild3433-3830-4332-a166-346532323163/img.webp",
     Type: "amusement-Game",
@@ -366,7 +366,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_Mass-Effect-2",
     NameRU: "Mass Effect 2",
-    Status: "Наиграно: До финала",
+    Status: "До финала",
     Lost: true,
     Image: "https://static.tildacdn.com/tild6561-6362-4135-b238-633163333536/img.webp",
     Type: "amusement-Game",
@@ -374,7 +374,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_Metal-Gear-Rising-Revengeance",
     NameRU: "Metal Gear Rising: Revengeance",
-    Status: "Наиграно: До финала",
+    Status: "До финала",
     Donut: "donut-1",
     Image: "https://static.tildacdn.com/tild3731-3433-4238-b730-396234363237/Metal_Gear_Rising_Re.webp",
     Type: "amusement-Game",
@@ -382,14 +382,14 @@ const amusementGames = [
   {
     ID: "Amusement-Games_Minecraft",
     NameRU: "Minecraft",
-    Status: "Наиграно: Ни много ни мало",
+    Status: "Ни много ни мало",
     Image: "https://static.tildacdn.com/tild3165-6436-4366-a432-616336373837/Minecraft.webp",
     Type: "amusement-Game",
   },
   {
     ID: "Amusement-Games_MiSide",
     NameRU: "MiSide",
-    Status: "Наиграно: До финала",
+    Status: "До финала",
     Donut: "donut-2",
     Link: ["vk", "456241409?t=1m30s"],
     Player: ["vk", "456241409", "5989f83b82d27fff", "0h1m30s"],
@@ -399,7 +399,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_Monstrum",
     NameRU: "Monstrum",
-    Status: "Наиграно: До финала",
+    Status: "До финала",
     Donut: "donut-1",
     Image: "https://static.tildacdn.com/tild3838-3339-4537-b130-353861336561/Monstrum.webp",
     Type: "amusement-Game",
@@ -407,7 +407,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_Need-for-Speed-Most-Wanted",
     NameRU: "Need for Speed: Most Wanted",
-    Status: "Наиграно: 5.5 Часов",
+    Status: "5.5 Часов",
     Donut: "donut-2",
     Image: "https://static.tildacdn.com/tild3233-6132-4138-b532-333735346565/Need_for_Speed_Most_.webp",
     Type: "amusement-Game",
@@ -415,7 +415,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_Nier-Automata",
     NameRU: "Nier&#1: Automata",
-    Status: "Наиграно: До финала",
+    Status: "До финала",
     Lost: true,
     Image: "https://static.tildacdn.com/tild3036-6439-4332-b833-396437396334/img.webp",
     Type: "amusement-Game",
@@ -423,7 +423,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_NieR-Replicant",
     NameRU: "NieR&#2 Replicant ver.1.22474487139",
-    Status: "Наиграно: До финала",
+    Status: "До финала",
     Lost: true,
     Image: "https://static.tildacdn.com/tild6639-3537-4937-b163-313965313666/img.webp",
     Type: "amusement-Game",
@@ -431,7 +431,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_One-Night-at-Flumptys",
     NameRU: "One Night at Flumpty's",
-    Status: "Наиграно: До финала",
+    Status: "До финала",
     Donut: "donut-2",
     Link: ["vk", "456240804?t=2h8m"],
     Player: ["vk", "456240804", "59a040ec784392ca", "0h2h8m"],
@@ -441,7 +441,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_Pathfinder-Wrath-of-the-Righteous",
     NameRU: "Pathfinder: Wrath of the Righteous",
-    Status: "Наиграно: До финала",
+    Status: "До финала",
     Donut: "donut-2",
     Image: "https://static.tildacdn.com/tild3538-6361-4032-b639-376338636539/Pathfinder_Wrath_of_.webp",
     Type: "amusement-Game",
@@ -449,7 +449,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_Pathologic-2",
     NameRU: "Pathologic 2 || Мор",
-    Status: "Наиграно: До финала",
+    Status: "До финала",
     Donut: "donut-1",
     Image: "https://static.tildacdn.com/tild6239-6163-4938-b834-306238643130/Pathologic_2.webp",
     Type: "amusement-Game",
@@ -457,7 +457,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_Plants-vs-Zombies",
     NameRU: "Plants vs. Zombies",
-    Status: "Наиграно: 4 Часа",
+    Status: "4 Часа",
     Donut: "donut-2",
     Image: "https://static.tildacdn.com/tild6364-3164-4465-a234-636162663064/Plants_vs_Zombies.webp",
     Type: "amusement-Game",
@@ -465,7 +465,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_Poppy-Playtime",
     NameRU: "Poppy Playtime",
-    Status: "Наиграно: До финала",
+    Status: "До финала",
     Donut: "donut-1",
     Link: ["vk", "456240600?t=3h36m50s"],
     Player: ["vk", "456240600", "b8cf8d8a5d3f8a3f", "3h36m50s"],
@@ -475,7 +475,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_Quantum-Break",
     NameRU: "Quantum Break",
-    Status: "Наиграно: До финала",
+    Status: "До финала",
     Donut: "donut-2",
     Image: "https://static.tildacdn.com/tild3030-6238-4039-b861-616431313035/Quantum_Break.webp",
     Type: "amusement-Game",
@@ -483,7 +483,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_Raft",
     NameRU: "Raft",
-    Status: "Наиграно: До финала",
+    Status: "До финала",
     Donut: "donut-2",
     Image: "https://static.tildacdn.com/tild3138-3737-4636-a263-643838616563/Raft.webp",
     Type: "amusement-Game",
@@ -491,7 +491,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_Red-Dead-Redemption-2",
     NameRU: "Red Dead Redemption 2",
-    Status: "Наиграно: До финала",
+    Status: "До финала",
     Donut: "donut-2",
     Image: "https://static.tildacdn.com/tild6632-3133-4862-b735-356466613937/Red_Dead_Redemption_.webp",
     Type: "amusement-Game",
@@ -499,7 +499,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_Return-of-the-Obra-Dinn",
     NameRU: "Return of the Obra Dinn",
-    Status: "Наиграно: 1 Час",
+    Status: "1 Час",
     Donut: "donut-1",
     Link: ["vk", "456240407?t=4h42m25s"],
     Player: ["vk", "456240407", "eeccd1f5ec95376f", "4h42m25s"],
@@ -509,7 +509,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_Rhythm-Heaven",
     NameRU: "Rhythm Heaven",
-    Status: "Наиграно: 2 Часа",
+    Status: "2 Часа",
     Donut: "donut-2",
     Link: ["vk", "456241620?t=13m23s"],
     Player: ["vk", "456241620", "b7e158c366fae77c", "0h13m23s"],
@@ -519,7 +519,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_Rusty-Lake",
     NameRU: "Rusty Lake",
-    Status: "Наиграно: До финала",
+    Status: "До финала",
     Donut: "donut-1",
     Image: "https://static.tildacdn.com/tild6131-3965-4134-b737-386233393836/Rusty_Lake.webp",
     Type: "amusement-Game",
@@ -527,7 +527,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_Sekiro-Shadows-Die-Twice",
     NameRU: "Sekiro: Shadows Die Twice",
-    Status: "Наиграно: До финала",
+    Status: "До финала",
     Lost: true,
     Image: "https://static.tildacdn.com/tild3134-3330-4137-b136-326566643437/img.webp",
     Type: "amusement-Game",
@@ -535,7 +535,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_Sifu",
     NameRU: "Sifu",
-    Status: "Наиграно: До финала",
+    Status: "До финала",
     Donut: "donut-2",
     Image: "https://static.tildacdn.com/tild3736-3739-4137-a262-363166623430/Sifu.webp",
     Type: "amusement-Game",
@@ -543,7 +543,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_SIGNALIS",
     NameRU: "SIGNALIS",
-    Status: "Наиграно: До финала",
+    Status: "До финала",
     Donut: "donut-2",
     Image: "https://static.tildacdn.com/tild6365-3335-4436-b932-646231303336/SIGNALIS.webp",
     Type: "amusement-Game",
@@ -551,7 +551,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_Silent-Hill-2-Remake",
     NameRU: "Silent Hill 2 Remake",
-    Status: "Наиграно: До финала",
+    Status: "До финала",
     Donut: "donut-2",
     Image: "https://static.tildacdn.com/tild3461-3866-4237-a665-336466653239/Silent_Hill_2_Remake.webp",
     Type: "amusement-Game",
@@ -559,7 +559,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_Slay-the-Princess",
     NameRU: "Slay the Princess",
-    Status: "Наиграно: До финала",
+    Status: "До финала",
     Donut: "donut-3",
     Image: "https://static.tildacdn.com/tild6366-3433-4434-b765-386638396662/Slay_the_Princess.webp",
     Type: "amusement-Game",
@@ -567,7 +567,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_Split-Fiction",
     NameRU: "Split Fiction",
-    Status: "Наиграно: До финала",
+    Status: "До финала",
     Donut: "donut-2",
     Image: "https://static.tildacdn.com/tild6135-3563-4634-a561-313331393638/Split_Fiction.webp",
     Type: "amusement-Game",
@@ -575,7 +575,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_Spore",
     NameRU: "Spore",
-    Status: "Наиграно: 8 Часов",
+    Status: "8 Часов",
     Donut: "donut-1",
     Image: "https://static.tildacdn.com/tild3864-3638-4263-b361-623234633130/Spore.webp",
     Type: "amusement-Game",
@@ -583,7 +583,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_Team-Fortress-2",
     NameRU: "Team Fortress 2",
-    Status: "Наиграно: 2 Часа",
+    Status: "2 Часа",
     Donut: "donut-2",
     Link: ["vk", "456241537?t=11m31s"],
     Player: ["vk", "456241537", "446b50bb5dcfef67", "0h11m31s"],
@@ -593,7 +593,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_The-Cabin-Factory",
     NameRU: "The Cabin Factory",
-    Status: "Наиграно: До финала",
+    Status: "До финала",
     Donut: "donut-2",
     Link: ["vk", "456241439?t=13m12s"],
     Player: ["vk", "456241439", "bb8e891e4662b26d", "0h13m12s"],
@@ -603,7 +603,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_The-Embodiment-of-Scarlet-Devil",
     NameRU: "The Embodiment of Scarlet Devil || Touhou",
-    Status: "Наиграно: До финала",
+    Status: "До финала",
     Donut: "donut-1",
     Link: ["vk", "456239986?t=11h3m52s"],
     Player: ["vk", "456239986", "2bfe45d3731943b4", "11h3m52s"],
@@ -613,7 +613,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_The-Invincible",
     NameRU: "The Invincible",
-    Status: "Наиграно: До финала",
+    Status: "До финала",
     Donut: "donut-2",
     Image: "https://static.tildacdn.com/tild3530-3834-4566-a561-313238303834/The_Invincible.webp",
     Type: "amusement-Game",
@@ -621,7 +621,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_The-Life-and-Suffering-of-Sir-Brante",
     NameRU: "The Life and Suffering of Sir Brante",
-    Status: "Наиграно: До финала",
+    Status: "До финала",
     Donut: "donut-2",
     Image: "https://static.tildacdn.com/tild3436-6662-4533-b162-343330626635/The_Life_and_Sufferi.webp",
     Type: "amusement-Game",
@@ -629,7 +629,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_The-Mortuary-Assistant",
     NameRU: "The Mortuary Assistant",
-    Status: "Наиграно: До финала",
+    Status: "До финала",
     Donut: "donut-1",
     Image: "https://static.tildacdn.com/tild3665-3331-4161-b838-383639366163/The_Mortuary_Assista.webp",
     Type: "amusement-Game",
@@ -637,7 +637,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_The-Stanley-Parable",
     NameRU: "The Stanley Parable",
-    Status: "Наиграно: До финала",
+    Status: "До финала",
     Donut: "donut-1",
     Image: "https://static.tildacdn.com/tild6430-3938-4566-b766-643664313139/The_Stanley_Parable.webp",
     Type: "amusement-Game",
@@ -645,7 +645,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_This-Is-the-Police",
     NameRU: "This Is the Police",
-    Status: "Наиграно: До финала",
+    Status: "До финала",
     Donut: "donut-1",
     Image: "https://static.tildacdn.com/tild6133-3538-4930-b036-666166643830/This_Is_the_Police.webp",
     Type: "amusement-Game",
@@ -653,7 +653,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_Undertale",
     NameRU: "Undertale",
-    Status: "Наиграно: До финала",
+    Status: "До финала",
     Donut: "donut-1",
     Image: "https://static.tildacdn.com/tild3166-3065-4361-a164-333963646633/Undertale.webp",
     Type: "amusement-Game",
@@ -661,7 +661,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_Warhammer-40K-Rogue-Trader",
     NameRU: "Warhammer 40 000: Rogue Trader",
-    Status: "Наиграно: 10 Часов",
+    Status: "10 Часов",
     Donut: "donut-3",
     Image: "https://static.tildacdn.com/tild3263-3431-4363-a433-363131613736/img.webp",
     Type: "amusement-Game",

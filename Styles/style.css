@@ -841,6 +841,19 @@ body[data-theme="dark"] {
         filter: var(--filter-popup);
       }
 
+      &[id^="Series-"] .about .simple.status::before {
+        content: "Просмотрено: ";
+      }
+      &[id^="Fullmeter-"] .about .simple.status::before {
+        content: unset;
+      }
+      &[id^="Literary-"] .about .simple.status::before {
+        content: "Прочитано: ";
+      }
+      &[id^="Amusement-Games_"] .about .simple.status::before {
+        content: "Наиграно: ";
+      }
+
       /* MARK: project > about
 */
 
@@ -911,6 +924,9 @@ body[data-theme="dark"] {
           font-size: 14px;
           text-transform: uppercase;
           color: var(--status-color);
+          &::before {
+            content: "Просмотрено: ";
+          }
           &:empty {
             display: none;
           }
@@ -1344,17 +1360,34 @@ body[data-theme="dark"] {
       padding-bottom: unset !important;
     }
 
-    &[id^="Series-"] .info .group .watch::after {
-      content: " эпизоды";
+    &[id^="Series-"] .info {
+      .simple.status::before {
+        content: "Просмотрено: ";
+      }
+      .group .watch::after {
+        content: " эпизоды";
+      }
     }
-    &[id^="Fullmeter-"] .info .group .watch::after {
-      content: " сборник";
+    &[id^="Fullmeter-"] .info {
+      .group .watch::after {
+        content: " сборник";
+      }
     }
-    &[id^="Literary-"] .info .group .watch::after {
-      content: " главы";
+    &[id^="Literary-"] .info {
+      .simple.status::before {
+        content: "Прочитано: ";
+      }
+      .group .watch::after {
+        content: " главы";
+      }
     }
-    &[id^="Amusement-Games_"] .info .group .watch::after {
-      content: " прохождение";
+    &[id^="Amusement-Games_"] .info {
+      .simple.status::before {
+        content: "Наиграно: ";
+      }
+      .group .watch::after {
+        content: " прохождение";
+      }
     }
     &[id^="Amusement-YouTube_"] .info .group .watch::after {
       content: " реакции";

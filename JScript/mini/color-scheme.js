@@ -1,18 +1,38 @@
 function applyTheme(theme) {
-  document.body.style.setProperty('color-scheme', theme);
-  document.body.setAttribute('data-theme', theme);
+  document.body.style.setProperty("color-scheme", theme);
+  document.body.setAttribute("data-theme", theme);
+}
+
+function getSystemTheme() {
+  return window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+}
+
+function effectiveTheme() {
+  const saved = localStorage.getItem("userTheme");
+  if (saved) return saved;
+  return getSystemTheme();
 }
 
 function toggleTheme() {
-  const currentTheme = document.body.getAttribute('data-theme') || localStorage.getItem('userTheme') || 'dark';
-
-  const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
-
-  applyTheme(newTheme);
-  localStorage.setItem('userTheme', newTheme);
+  const next = effectiveTheme() === "dark" ? "light" : "dark";
+  applyTheme(next);
+  localStorage.setItem("userTheme", next);
 }
 
-(function() {
-  const savedTheme = localStorage.getItem('userTheme') || 'dark';
-  applyTheme(savedTheme);
+(function () {
+  const saved = localStorage.getItem("userTheme");
+  
+  if (saved) {
+    applyTheme(saved);
+  } else {
+    applyTheme(getSystemTheme());
+  }
+
+  if (window.matchMedia) {
+    window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", (event) => {
+      if (!localStorage.getItem("userTheme")) {
+        applyTheme(event.matches ? "dark" : "light");
+      }
+    });
+  }
 })();
