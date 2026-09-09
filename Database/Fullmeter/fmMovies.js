@@ -3724,6 +3724,15 @@ const fullmeterMovie = [
     Type: "fullmeter-Movie",
   },
   {
+    ID: "Fullmeter-Movie_F1",
+    NameRU: "F1",
+    Donut: "donut-3",
+    Link: ["vk", "456241899?t=2h18m57s"],
+    Player: ["vk", "456241899", "21e2c412c9295035", "2h18m57s"],
+    Image: "https://static.tildacdn.com/tild6664-3737-4264-a132-383738396466/img.webp",
+    Type: "fullmeter-Movie",
+  },
+  {
     ID: "Fullmeter-Movie_Kingsman-Secret-Service",
     NameRU: "Kingsman: Секретная служба",
     NameEN: "Kingsman: The Secret Service",

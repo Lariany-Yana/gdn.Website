@@ -936,7 +936,7 @@ body[data-theme="dark"] {
 */
 
         .donut {
-          white-space: pre;
+          white-space: pre-wrap;
           &:not(.donut-1, .donut-2, .donut-3) {
             display: none !important;
           }
@@ -1555,7 +1555,7 @@ body[data-theme="dark"] {
 
       .info {
         .simple.donut {
-          white-space: pre;
+          white-space: pre-wrap;
 
           &:not(.donut-1, .donut-2, .donut-3) {
             display: none !important;
@@ -1684,7 +1684,7 @@ body[data-theme="dark"] {
 
           .count::before {
             content: "Слотов: ";
-            white-space: pre;
+            white-space: pre-wrap;
           }
           .name {
             word-break: break-all;

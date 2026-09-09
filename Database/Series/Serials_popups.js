@@ -586,30 +586,37 @@ const seriesSerialsPopups = {
         {
           Name: "1-2 Эпизод",
           Date: "",
-					Donut: "donut-3",
+          Donut: "donut-3",
           Link: ["vk", "456241883?t=12m42s"],
           Player: ["vk", "456241883", "ca0dc1fff993804b", "0h12m42s"],
         },
         {
           Name: "3-6 Эпизод",
           Date: "",
-					Donut: "donut-3",
+          Donut: "donut-3",
           Link: ["vk", "456241886?t=13m52s"],
           Player: ["vk", "456241886", "7d06b4d67d5d63d4", "13m52s"],
         },
         {
           Name: "7-8 Эпизод",
           Date: "27.08.2026",
-					Donut: "donut-3",
+          Donut: "donut-3",
           Link: ["vk", "456241891?t=1h51m57s"],
           Player: ["vk", "456241891", "fafc285ed47994e8", "1h51m57s"],
         },
         {
           Name: "9-10 Эпизод",
           Date: "04.09.2026",
-					Donut: "donut-3",
+          Donut: "donut-3",
           Link: ["vk", "456241895?t=15m10s"],
           Player: ["vk", "456241895", "b5c870852f5e387d", "0h15m10s"],
+        },
+        {
+          Name: "11-12 Эпизод",
+          Date: "09.09.2026",
+          Donut: "donut-3",
+          Link: ["vk", "456241899?t=12m54s"],
+          Player: ["vk", "456241899", "21e2c412c9295035", "0h12m54s"],
         },
       ],
     },
@@ -1400,6 +1407,20 @@ const seriesSerialsPopups = {
       ],
     },
   ],
+  /*"Series-Serials_Dexter-Resurrection": [
+    {
+      Title: "1 Сезон",
+      Episodes: [
+        {
+          Name: "1-2 Эпизод",
+          Date: "09.09.2026",
+					Donut: "donut-3",
+          Link: ["vk", ""],
+          Player: ["vk", "", "", ""],
+        },
+      ],
+    },
+  ],*/
   "Series-Serials_The-Vampire-Diaries": [
     {
       Title: "1 Сезон",

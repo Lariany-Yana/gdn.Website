@@ -39,7 +39,22 @@ const scheduleDatabase = [
   },
   // Среда
   {
-    Status: "Стрим возможен",
+    NameRU: "Викинги",
+    nameEn: "Vikings",
+    Status: "Сериал × 4 Сезон 11-12 Эпизод",
+    Current: true,
+    Date: "09.09.26",
+  },
+  {
+    NameRU: "F1",
+    Status: "Фильм",
+    Current: true,
+    Date: "09.09.26",
+  },
+  {
+    NameRU: "Декстер: Воскрешение",
+    NameEN: "Dexter: Resurrection",
+    Status: "Сериал × 1 Сезон 1-2 Эпизод",
     Current: true,
     Date: "09.09.26",
   },
@@ -67,7 +82,6 @@ const scheduleDatabase = [
     Current: true,
     Date: "13.09.26",
   },
-
 
   //#region Старое: Январь 26
   // Четверг

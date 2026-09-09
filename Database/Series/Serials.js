@@ -157,9 +157,18 @@ const seriesSerials = [
     NameEN: "Dexter",
     Status: "1-8 Сезон",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3032-3631-4435-a164-623261386234/photo.webp",
+    Image: "https://static.tildacdn.com/tild6564-3333-4261-b561-356335613738/img.webp",
     Type: "series-Serial",
   },
+  /*{
+    ID: "Series-Serials_Dexter-Resurrection",
+    NameRU: "Декстер: Воскрешение",
+    NameEN: "Dexter: Resurrection",
+    Status: "1 Сезон 1-2 Эпизод",
+    Donut: "donut-3",
+    Image: "https://static.tildacdn.com/tild6137-3964-4433-b733-666165646330/img.webp",
+    Type: "series-Serial",
+  },*/
   {
     ID: "Series-Serials_Young-Sheldon",
     NameRU: "Детство Шелдона || Теория большого взрыва",

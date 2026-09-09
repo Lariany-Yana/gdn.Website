@@ -660,19 +660,6 @@ const ordersDatabase = [
     ],
   },
   {
-    ID: "order_F1-The-Movie",
-    NameRU: "F1: The Movie",
-    Status: "Фильм",
-    Type: "order-waiting",
-    Slots: [
-      {
-        Name: "Аноним",
-        Slot: "1",
-        Date: "21.03.26",
-      },
-    ],
-  },
-  {
     ID: "order_006",
     NameRU: "Пустые слоты",
     Type: "order-waiting",
@@ -836,6 +823,21 @@ const ordersDatabase = [
   },
   //#endregion
   //#region ~В уточнении~
+  /*{
+    ID: "order_Dexter-Resurrection-1",
+    NameRU: "Декстер: Воскрешение",
+    NameEN: "Dexter: Resurrection",
+    Status: "Сериал ⨯ Просмотрено: 1 Сезон 1-2/10 Эпизод",
+    Type: "order-determinate",
+    Slots: [
+      {
+        Name: "Без имени",
+        Slot: "1", // 1 Сезон 1-2 Эпизод
+        Date: "Без даты",
+        Listed: false,
+      },
+    ],
+  },*/
   {
     ID: "order_Crusader-Kings-3",
     NameRU: "Crusader Kings III",
@@ -979,12 +981,12 @@ const ordersDatabase = [
     ID: "order_Vikings-4",
     NameRU: "Викинги",
     NameEN: "Vikings",
-    Status: "Сериал × Просмотрено: 4 Сезон 1-10/20 Эпизод",
+    Status: "Сериал × Просмотрено: 4 Сезон 1-12/20 Эпизод",
     Type: "order-determinate",
     Slots: [
       {
         Name: "Без имени",
-        Slot: "5", // 1-8 Эпизод
+        Slot: "6", // 1-12 Эпизод
         Date: "Без даты",
         Listed: false,
       },
@@ -1561,6 +1563,19 @@ const ordersDatabase = [
   },
   //#endregion
   //#region ~Просмотренное~
+  {
+    NameRU: "F1: The Movie",
+    Status: "Фильм",
+    Type: "order-finished",
+    Slots: [
+      {
+        Name: "Аноним",
+        Slot: "1",
+        Date: "21.03.26",
+        Listed: true,
+      },
+    ],
+  },
   {
     NameRU: "Новые Мстители + Мстители Хикмана",
     NameEN: "New Avengers + Avengers by Jonathan Hickman",
