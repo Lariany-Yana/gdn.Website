@@ -203,7 +203,7 @@ body[data-theme="light"] {
         background-image: url("https://static.tildacdn.com/tild3139-3436-4532-a135-653131663465/icon.svg");
       }
       &.tracking::after {
-        background-image: url("https://static.tildacdn.com/tild3332-3233-4664-b762-363563323335/icon.svg");
+        background-image: url("https://static.tildacdn.com/tild3764-6137-4936-a536-316565333836/icon.svg");
       }
     }
   }
@@ -226,7 +226,7 @@ body[data-theme="dark"] {
         background-image: url("https://static.tildacdn.com/tild6531-3931-4438-b538-353132306438/icon.svg");
       }
       &.tracking::after {
-        background-image: url("https://static.tildacdn.com/tild3930-3539-4265-b131-363561656266/icon.svg");
+        background-image: url("https://static.tildacdn.com/tild3339-6263-4738-b766-663737393037/icon.svg");
       }
     }
   }
@@ -382,7 +382,7 @@ body[data-theme="dark"] {
 
       &.streaming {
         &::after {
-          background-size: 100%;
+          background-size: 96%;
           background-position: center;
         }
         @media (hover: hover) {
@@ -396,7 +396,7 @@ body[data-theme="dark"] {
       }
       &.tracking {
         &::after {
-          background-size: 100%;
+          background-size: 94%;
           background-position: center;
         }
         @media (hover: hover) {
