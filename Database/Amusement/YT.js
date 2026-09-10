@@ -129,7 +129,7 @@ const amusementYouTube = [
     Donut: "donut-3",
     Link: ["vk", "456241900?t=17m7s"],
     Player: ["vk", "456241900", "1de648d11ff22d68", "0h17m7s"],
-    Image: "",
+    Image: "https://static.tildacdn.com/tild3762-6438-4030-a461-346535623164/img.webp",
     Type: "amusement-YouTube",
   },
   {
