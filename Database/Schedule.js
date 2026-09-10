@@ -53,7 +53,15 @@ const scheduleDatabase = [
   },
   // Четверг
   {
-    Status: "Стрим возможен",
+    NameRU: "Фильм «Формула 1» - Насколько реалистична история Сонни Хейса и APX GP?",
+    Status: "Ютуб",
+    Current: true,
+    Date: "10.09.26",
+  },
+  {
+    NameRU: "Декстер: Воскрешение",
+    NameEN: "Dexter: Resurrection",
+    Status: "Сериал ⨯ 1 Сезон 1-2 Эпизод",
     Current: true,
     Date: "10.09.26",
   },

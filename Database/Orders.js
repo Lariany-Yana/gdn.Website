@@ -823,7 +823,7 @@ const ordersDatabase = [
   },
   //#endregion
   //#region ~В уточнении~
-  /*{
+  {
     ID: "order_Dexter-Resurrection-1",
     NameRU: "Декстер: Воскрешение",
     NameEN: "Dexter: Resurrection",
@@ -837,7 +837,7 @@ const ordersDatabase = [
         Listed: false,
       },
     ],
-  },*/
+  },
   {
     ID: "order_Crusader-Kings-3",
     NameRU: "Crusader Kings III",

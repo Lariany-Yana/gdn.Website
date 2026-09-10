@@ -1407,20 +1407,20 @@ const seriesSerialsPopups = {
       ],
     },
   ],
-  /*"Series-Serials_Dexter-Resurrection": [
+  "Series-Serials_Dexter-Resurrection": [
     {
       Title: "1 Сезон",
       Episodes: [
         {
           Name: "1-2 Эпизод",
           Date: "09.09.2026",
-					Donut: "donut-3",
-          Link: ["vk", ""],
-          Player: ["vk", "", "", ""],
+          Donut: "donut-3",
+          Link: ["vk", "456241900?t=1h44m53s"],
+          Player: ["vk", "456241900", "1de648d11ff22d68", "1h44m53s"],
         },
       ],
     },
-  ],*/
+  ],
   "Series-Serials_The-Vampire-Diaries": [
     {
       Title: "1 Сезон",

@@ -123,6 +123,16 @@ const amusementYouTube = [
     Type: "amusement-YouTube",
   },
   {
+    ID: "Amusement-YouTube_About-Movie-F1",
+    NameRU: "Фильм «Формула 1» - Насколько реалистична история Сонни Хейса и APX GP?",
+    NameEN: "STANIZLAVSKY",
+    Donut: "donut-3",
+    Link: ["vk", "456241900?t=17m7s"],
+    Player: ["vk", "456241900", "1de648d11ff22d68", "0h17m7s"],
+    Image: "",
+    Type: "amusement-YouTube",
+  },
+  {
     ID: "Amusement-YouTube_Shorts-New-Account",
     NameRU: "Ютуб Шортсы с нового акка",
     Donut: "donut-1",

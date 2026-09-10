@@ -160,7 +160,7 @@ const seriesSerials = [
     Image: "https://static.tildacdn.com/tild6564-3333-4261-b561-356335613738/img.webp",
     Type: "series-Serial",
   },
-  /*{
+  {
     ID: "Series-Serials_Dexter-Resurrection",
     NameRU: "Декстер: Воскрешение",
     NameEN: "Dexter: Resurrection",
@@ -168,7 +168,7 @@ const seriesSerials = [
     Donut: "donut-3",
     Image: "https://static.tildacdn.com/tild6137-3964-4433-b733-666165646330/img.webp",
     Type: "series-Serial",
-  },*/
+  },
   {
     ID: "Series-Serials_Young-Sheldon",
     NameRU: "Детство Шелдона || Теория большого взрыва",
