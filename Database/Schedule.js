@@ -67,7 +67,7 @@ const scheduleDatabase = [
   },
   // Пятница
   {
-    Status: "Стрим возможен",
+    Status: "Стрим не состоялся",
     Current: true,
     Date: "11.09.26",
   },
