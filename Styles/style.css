@@ -245,6 +245,9 @@ body[data-theme="dark"] {
   top: var(--padding-S);
   justify-self: center;
 
+  inset-inline: 0;
+  margin-inline: auto;
+
   height: calc(100vh - (var(--padding-S) * 2));
   height: calc(100dvh - (var(--padding-S) * 2));
   max-width: calc(100vw - (var(--padding-S) * 2));
