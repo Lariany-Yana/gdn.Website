@@ -1554,6 +1554,16 @@ const seriesAnime = [
     Type: "series-Anime",
   },
   {
+    ID: "Series-Anime_Jiyi-Guanli-Ju-2026",
+    NameRU: "Управление воспоминаниями (2026)",
+    NameEN: "Jiyi Guanli Ju (2026)",
+    Status: "1-7/7 Эпизод",
+    Link: ["vk", "456241902?t=15m33s"],
+    Player: ["vk", "456241902", "945272de26814ebc", "0h15m33s"],
+    Image: "https://static.tildacdn.com/tild6239-3234-4035-b133-643332376535/img.webp",
+    Type: "series-Anime",
+  },
+  {
     ID: "Series-Anime_Shiki",
     NameRU: "Усопшие",
     NameEN: "Shiki",

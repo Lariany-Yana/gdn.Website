@@ -1,12 +1,57 @@
 const scheduleDatabase = [
   //#region Текущая неделя
   /* ШАБЛОН
+  // Понедельник
+  {
+    Status: "Стрим невозможен",
+    Current: true,
+    Date: "00.09.26",
+  },
+  // Вторник
   {
     NameRU: "Название",
     NameEN: "Название",
     Status: " × Начало в 16:00 по МСК",
     Current: true,
-    Date: "00.06.26",
+    Date: "00.09.26",
+  },
+  // Среда
+  {
+    NameRU: "Название",
+    NameEN: "Название",
+    Status: " × Начало в 16:00 по МСК",
+    Current: true,
+    Date: "00.09.26",
+  },
+  // Четверг
+  {
+    NameRU: "Название",
+    NameEN: "Название",
+    Status: " × Начало в 16:00 по МСК",
+    Current: true,
+    Date: "00.09.26",
+  },
+  // Пятница
+  {
+    NameRU: "Название",
+    NameEN: "Название",
+    Status: " × Начало в 16:00 по МСК",
+    Current: true,
+    Date: "00.09.26",
+  },
+  // Суббота
+  {
+    Status: "Стрим невозможен",
+    Current: true,
+    Date: "00.09.26",
+  },
+  // Воскресенье
+  {
+    NameRU: "Название",
+    NameEN: "Название",
+    Status: " × Начало в 16:00 по МСК",
+    Current: true,
+    Date: "00.09.26",
   },
 	*/
 
@@ -79,7 +124,9 @@ const scheduleDatabase = [
   },
   // Воскресенье
   {
-    Status: "Стрим возможен",
+    NameRU: "Управление воспоминаниями (2026)",
+    NameEN: "Jiyi Guanli Ju (2026)",
+    Status: "Аниме × 1 Сезон 1-7 Эпизод",
     Current: true,
     Date: "13.09.26",
   },

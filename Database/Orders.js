@@ -824,6 +824,21 @@ const ordersDatabase = [
   //#endregion
   //#region ~В уточнении~
   {
+    ID: "order_Jiyi-Guanli-Ju-2026",
+    NameRU: "Управление воспоминаниями (2026)",
+    NameEN: "Jiyi Guanli Ju (2026)",
+    Status: "Аниме ⨯ Просмотрено: 1 Сезон 1-7/7 Эпизод",
+    Type: "order-determinate",
+    Slots: [
+      {
+        Name: "Без имени",
+        Slot: "3.5", // 1 Сезон 1-7 Эпизод
+        Date: "Без даты",
+        Listed: false,
+      },
+    ],
+  },
+  {
     ID: "order_Dexter-Resurrection-1",
     NameRU: "Декстер: Воскрешение",
     NameEN: "Dexter: Resurrection",
