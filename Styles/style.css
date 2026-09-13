@@ -723,8 +723,8 @@ body[data-theme="dark"] {
       summary {
         list-style: none;
         justify-self: center;
-        inset-inline: 0;
-        margin-inline: auto;
+        text-align: center;
+
         cursor: pointer;
 
         font-size: 16px;
