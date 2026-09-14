@@ -9,33 +9,25 @@ const scheduleDatabase = [
   },
   // Вторник
   {
-    NameRU: "Название",
-    NameEN: "Название",
-    Status: " × Начало в 16:00 по МСК",
+    Status: "Стрим возможен",
     Current: true,
     Date: "00.09.26",
   },
   // Среда
   {
-    NameRU: "Название",
-    NameEN: "Название",
-    Status: " × Начало в 16:00 по МСК",
+    Status: "Стрим возможен",
     Current: true,
     Date: "00.09.26",
   },
   // Четверг
   {
-    NameRU: "Название",
-    NameEN: "Название",
-    Status: " × Начало в 16:00 по МСК",
+    Status: "Стрим возможен",
     Current: true,
     Date: "00.09.26",
   },
   // Пятница
   {
-    NameRU: "Название",
-    NameEN: "Название",
-    Status: " × Начало в 16:00 по МСК",
+    Status: "Стрим возможен",
     Current: true,
     Date: "00.09.26",
   },
@@ -47,88 +39,53 @@ const scheduleDatabase = [
   },
   // Воскресенье
   {
-    NameRU: "Название",
-    NameEN: "Название",
-    Status: " × Начало в 16:00 по МСК",
+    Status: "Стрим возможен",
     Current: true,
     Date: "00.09.26",
   },
-	*/
+  */
 
   // Понедельник
   {
     Status: "Стрим невозможен",
     Current: true,
-    Date: "07.09.26",
+    Date: "14.09.26",
   },
   // Вторник
   {
-    NameRU: "Warhammer 40 000: Rogue Trader",
-    Status: "Игра",
+    Status: "Стрим возможен",
     Current: true,
-    Date: "08.09.26",
-  },
-  {
-    NameRU: "Готэм",
-    NameEN: "Gotham",
-    Status: "Сериал × 1 Сезон 9-10 Эпизод",
-    Current: true,
-    Date: "08.09.26",
-  },
-  {
-    NameRU: "Бумажный дом",
-    NameEN: "La casa de papel",
-    Status: "Сериал × 2 Сезон 5-6 Эпизод",
-    Current: true,
-    Date: "08.09.26",
+    Date: "15.09.26",
   },
   // Среда
   {
-    NameRU: "Викинги",
-    nameEn: "Vikings",
-    Status: "Сериал × 4 Сезон 11-12 Эпизод",
+    Status: "Стрим возможен",
     Current: true,
-    Date: "09.09.26",
-  },
-  {
-    NameRU: "F1",
-    Status: "Фильм",
-    Current: true,
-    Date: "09.09.26",
+    Date: "16.09.26",
   },
   // Четверг
   {
-    NameRU: "Фильм «Формула 1» - Насколько реалистична история Сонни Хейса и APX GP?",
-    Status: "Ютуб",
+    Status: "Стрим возможен",
     Current: true,
-    Date: "10.09.26",
-  },
-  {
-    NameRU: "Декстер: Воскрешение",
-    NameEN: "Dexter: Resurrection",
-    Status: "Сериал ⨯ 1 Сезон 1-2 Эпизод",
-    Current: true,
-    Date: "10.09.26",
+    Date: "17.09.26",
   },
   // Пятница
   {
-    Status: "Стрим не состоялся",
+    Status: "Стрим возможен",
     Current: true,
-    Date: "11.09.26",
+    Date: "18.09.26",
   },
   // Суббота
   {
     Status: "Стрим невозможен",
     Current: true,
-    Date: "12.09.26",
+    Date: "19.09.26",
   },
   // Воскресенье
   {
-    NameRU: "Управление воспоминаниями (2026)",
-    NameEN: "Jiyi Guanli Ju (2026)",
-    Status: "Аниме × 1 Сезон 1-7 Эпизод",
+    Status: "Стрим возможен",
     Current: true,
-    Date: "13.09.26",
+    Date: "20.09.26",
   },
 
   //#region Старое: Январь 26
@@ -2908,6 +2865,81 @@ const scheduleDatabase = [
     Status: "Аниме × 2 Сезон 9-12 Эпизод",
     Current: false,
     Date: "06.09.26",
+  },
+  // Понедельник
+  {
+    Status: "Стрим невозможен",
+    Current: false,
+    Date: "07.09.26",
+  },
+  // Вторник
+  {
+    NameRU: "Warhammer 40 000: Rogue Trader",
+    Status: "Игра",
+    Current: false,
+    Date: "08.09.26",
+  },
+  {
+    NameRU: "Готэм",
+    NameEN: "Gotham",
+    Status: "Сериал × 1 Сезон 9-10 Эпизод",
+    Current: false,
+    Date: "08.09.26",
+  },
+  {
+    NameRU: "Бумажный дом",
+    NameEN: "La casa de papel",
+    Status: "Сериал × 2 Сезон 5-6 Эпизод",
+    Current: false,
+    Date: "08.09.26",
+  },
+  // Среда
+  {
+    NameRU: "Викинги",
+    nameEn: "Vikings",
+    Status: "Сериал × 4 Сезон 11-12 Эпизод",
+    Current: false,
+    Date: "09.09.26",
+  },
+  {
+    NameRU: "F1",
+    Status: "Фильм",
+    Current: false,
+    Date: "09.09.26",
+  },
+  // Четверг
+  {
+    NameRU: "Фильм «Формула 1» - Насколько реалистична история Сонни Хейса и APX GP?",
+    Status: "Ютуб",
+    Current: false,
+    Date: "10.09.26",
+  },
+  {
+    NameRU: "Декстер: Воскрешение",
+    NameEN: "Dexter: Resurrection",
+    Status: "Сериал ⨯ 1 Сезон 1-2 Эпизод",
+    Current: false,
+    Date: "10.09.26",
+  },
+  // Пятница
+  {
+    Status: "Стрим не состоялся",
+    Current: false,
+    Date: "11.09.26",
+  },
+  // Суббота
+  {
+    Status: "Стрим невозможен",
+    Current: false,
+    Date: "12.09.26",
+  },
+  // Воскресенье
+  {
+    NameRU: "Управление воспоминаниями (2026)",
+    NameEN: "Jiyi Guanli Ju (2026)",
+    Status: "Аниме × 1 Сезон 1-7 Эпизод",
+    Current: false,
+    Date: "13.09.26",
   },
   //#endregion
 ];
