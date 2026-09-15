@@ -83,7 +83,6 @@ function createOrderCard(item, cardTypeClass = "order") {
 
     if (cardTypeClass) card.classList.add(cardTypeClass);
     card.classList.add("swap");
-    if (customStyleClass) card.classList.add(customStyleClass);
 
     const mainStatusEl = clone.querySelector(".info .status");
     if (mainStatusEl) {
@@ -135,7 +134,7 @@ function createOrderCard(item, cardTypeClass = "order") {
   const itemId = item.ID || item.id;
   if (itemId) card.id = itemId;
   if (cardTypeClass) card.classList.add(cardTypeClass);
-  if (customStyleClass) card.classList.add(customStyleClass);
+  if (customStyleClass && item.Type !== "order-finished") card.classList.add(customStyleClass);
 
   const nameRuEl = clone.querySelector(".name-ru");
   if (nameRuEl) {

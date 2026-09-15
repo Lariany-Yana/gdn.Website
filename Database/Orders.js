@@ -176,6 +176,7 @@ const ordersDatabase = [
   {
     ID: "order_001",
     NameRU: "Пустые слоты",
+    Style: "user_Izida",
     Type: "order-waiting",
     Slots: [
       {
@@ -361,6 +362,7 @@ const ordersDatabase = [
     NameRU: "Пантеон",
     NameEN: "Pantheon",
     Status: "Мультсериал × В заказе: 1 Сезон 1-8/8 Эпизод",
+    Style: "user_Izida",
     Type: "order-waiting",
     Slots: [
       {
@@ -375,6 +377,7 @@ const ordersDatabase = [
     NameRU: "Пантеон",
     NameEN: "Pantheon",
     Status: "Мультсериал × В заказе: 2 Сезон 1-8/8 Эпизод",
+    Style: "user_Izida",
     Type: "order-waiting",
     Slots: [
       {
@@ -765,6 +768,7 @@ const ordersDatabase = [
     NameRU: "Алиса в Пограничье",
     NameEN: "Imawa no Kuni no Alice",
     Status: "Манга",
+    Style: "user_Izida",
     Type: "order-waiting",
     Slots: [
       {
