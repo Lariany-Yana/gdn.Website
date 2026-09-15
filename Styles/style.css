@@ -609,17 +609,20 @@ body[data-theme="dark"] {
         align-content: center;
         text-wrap: nowrap;
 
+        &:only-child {
+          display: none;
+        }
+
         &:is(.year, .en, .ru)::before {
           text-transform: uppercase;
           color: var(--text-color-main);
           margin-right: var(--padding-S);
         }
 
-        button + &.year::before {
-          content: "×";
-          font-family: Arial, sans-serif;
+        &.year::before {
+          content: attr(data-year);
+          font-size: 0.8em;
         }
-
         &.en::before {
           content: "Англ";
           font-size: 0.75em;

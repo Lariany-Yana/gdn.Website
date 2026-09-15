@@ -260,6 +260,15 @@ const OrdersConfig = {
 
     navContainer.innerHTML = "";
 
+    // Ключи групп, относящиеся к вкладке order-waiting (даты вида "Месяц Год")
+    const waitingGroupKeys = new Set();
+    items.forEach((item) => {
+      if (item.Type === "order-waiting") {
+        const key = typeof this.config.getGroupKeyFn === "function" ? this.config.getGroupKeyFn(item) : "#";
+        if (key) waitingGroupKeys.add(key);
+      }
+    });
+
     const sortedGroups = [];
     items.forEach((item) => {
       const key = typeof this.config.getGroupKeyFn === "function" ? this.config.getGroupKeyFn(item) : "#";
@@ -273,10 +282,29 @@ const OrdersConfig = {
     const fragment = document.createDocumentFragment();
     const groupElementsMap = new Map();
 
+    let lastYear = null;
+
     sortedGroups.forEach((groupKey) => {
       const btn = document.createElement("button");
-      btn.textContent = groupKey;
       btn.dataset.group = groupKey;
+
+      if (waitingGroupKeys.has(groupKey)) {
+        const dateMatch = groupKey.match(/^(.+) (\d{4})$/);
+        if (dateMatch) {
+          const [, monthName, year] = dateMatch;
+          btn.textContent = monthName;
+
+          if (year !== lastYear) {
+            btn.classList.add("year");
+            btn.dataset.year = year;
+            lastYear = year;
+          }
+        } else {
+          btn.textContent = groupKey;
+        }
+      } else {
+        btn.textContent = groupKey;
+      }
 
       btn.addEventListener("click", () => {
         const sections = (this.windowEl || document).querySelectorAll(".content section.cards");
