@@ -18,7 +18,7 @@ const seriesCartoonsPopups = {
       ],
     },
     {
-      Title: "1 Сезон - пересмотр",
+      Title: "1 Сезон (Пересмотр)",
       Episodes: [
         {
           Name: "1-9 Эпизод",
@@ -373,7 +373,10 @@ const seriesCartoonsPopups = {
           Player: ["vk", "456239908", "f7a03deb582dec18", "2h46m0s"],
         },
       ],
-      pasteCard: "Series-Cartoon_Adventure-Time-Fionna-and-Cake",
+    },
+    {
+      Title: "",
+      Cards: [{ pasteCard: "Series-Cartoon_Adventure-Time-Fionna-and-Cake" }],
     },
   ],
   "Series-Cartoon_Adventure-Time-Fionna-and-Cake": [
@@ -848,7 +851,10 @@ const seriesCartoonsPopups = {
         },
       ],
     },
-    { pasteCard: "Fullmeter-Equestria-Girls" },
+    {
+      Title: "",
+      Cards: [{ pasteCard: "Fullmeter-Equestria-Girls" }],
+    },
   ],
   "Series-Cartoon_Smiling-Friends": [
     {
@@ -1532,7 +1538,10 @@ const seriesCartoonsPopups = {
         },
       ],
     },
-    { pasteCard: "Fullmeter-Cartoon_Kikoriki-Beginning" },
+    {
+      Title: "",
+      Cards: [{ pasteCard: "Fullmeter-Cartoon_Kikoriki-Beginning" }],
+    },
     {
       Title: "Новые приключения",
       Episodes: [

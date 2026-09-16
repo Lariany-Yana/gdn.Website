@@ -270,6 +270,15 @@ const seriesCartoons = [
     Type: "series-Cartoon",
   },
   {
+    ID: "Series-Cartoon_Over-the-Garden-Wall",
+    NameRU: "По ту сторону изгороди",
+    NameEN: "Over the Garden Wall",
+    Status: "1-10/10 Эпизод | 17.08.2020",
+    Lost: true,
+    Image: "https://static.tildacdn.com/tild3238-3662-4636-b136-356233373732/img.webp",
+    Type: "series-Cartoon",
+  },
+  {
     ID: "Series-Cartoon_Captain-Vrungel",
     NameRU: "Приключения капитана Врунгеля",
     Status: "1-13/13 Эпизод",

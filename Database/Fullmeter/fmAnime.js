@@ -160,6 +160,7 @@ const fullmeterAnime = [
     ID: "Fullmeter-Anime_The-End-of-Evangelion",
     NameRU: "Конец Евангелиона || Евангелион неонового поколения",
     NameEN: "The End of Evangelion || Neon Genesis Evangelion",
+    Status: "03.02.2021",
     Link: ["vk", "456239455"],
     Player: ["vk", "456239455", "dde1fc255b9b70db", "0h0m0s"],
     Image: "https://static.tildacdn.com/tild6664-6635-4666-b665-653066646636/img.webp",

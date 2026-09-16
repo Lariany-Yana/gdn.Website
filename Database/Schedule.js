@@ -59,13 +59,13 @@ const scheduleDatabase = [
   },
   // Среда
   {
-    Status: "Стрим возможен",
+    Status: "Стрим невозможен",
     Current: true,
     Date: "16.09.26",
   },
   // Четверг
   {
-    Status: "Стрим возможен",
+    Status: "Стрим невозможен",
     Current: true,
     Date: "17.09.26",
   },

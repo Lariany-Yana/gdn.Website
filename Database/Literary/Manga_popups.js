@@ -255,7 +255,10 @@ const literatureMangaPopups = {
         },
       ],
     },
-    { pasteCard: "Literary-Manga_NOiSE" },
+    {
+      Title: "",
+      Cards: [{ pasteCard: "Literary-Manga_NOiSE" }],
+    },
   ],
   "Literary-Manga_One-Punch-Man": [
     {

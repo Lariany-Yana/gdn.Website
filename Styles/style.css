@@ -983,7 +983,6 @@ body[data-theme="dark"] {
         width: 100%;
         padding-left: var(--scrollbar);
         padding-bottom: calc(14px + (7.5px * 2) + var(--padding-M));
-        padding-top: var(--padding-M);
         box-sizing: border-box;
 
         overflow-x: hidden;
@@ -1005,6 +1004,10 @@ body[data-theme="dark"] {
 
           &:first-child > .title {
             margin-top: calc(var(--padding-M) * -1);
+          }
+
+          &:not(:has(.title)) {
+            margin-top: var(--padding-M);
           }
 
           & > .title {
@@ -1411,6 +1414,14 @@ body[data-theme="dark"] {
 
     &:is([id$="Anime_Shingeki-no-Kyojin"], [id$="Anime_Mushoku-Tensei"], [id$="Anime_Ishuzoku-Reviewers"]) .info::after {
       content: "Недоступно" !important;
+    }
+    &:is([id$="Anime_Shingeki-no-Kyojin"]) .info {
+      &::after {
+        content: "Совсем недоступно" !important;
+      }
+      .group {
+        display: none !important;
+      }
     }
 
     &:is([id$="Anime_Gundam-UNIVERSAL-CENTURY"], [id$="Anime_Gundam-COSMIC-ERA"], [id$="Anime_Gundam-ANNO-DOMINI"], [id$="Anime_Gundam-FUTURE-CENTURY"], [id$="Anime_Gundam-AFTER-COLONY"], [id$="Anime_Gundam-AD-STELLA"], [id$="Anime_Gundam-POST-DISASTER"]) .info .group .watch::after {

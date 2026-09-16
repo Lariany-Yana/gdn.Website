@@ -756,6 +756,9 @@ class SiteEngine {
 
     requestAnimationFrame(() => {
       popupEl.classList.add("open");
+      popupEl.querySelectorAll(".content").forEach((contentEl) => {
+        contentEl.scrollTop = 0;
+      });
     });
 
     return popupEl;

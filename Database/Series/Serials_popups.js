@@ -631,7 +631,7 @@ const seriesSerialsPopups = {
           Link: ["boosty", "hiddenarchive/posts/b569f583-5484-47a3-9ac9-752bedf92c7d"],
         },
         {
-          Name: "1-2 Эпизод - пересмотр",
+          Name: "1-2 Эпизод (Пересмотр)",
           Date: "",
           Link: ["vk", "456239486"],
           Player: ["vk", "456239486", "c595d0c2bb2081f5", "0h0m0s"],
@@ -806,7 +806,10 @@ const seriesSerialsPopups = {
         },
       ],
     },
-    { pasteCard: "Fullmeter-Movie_El-Camino" },
+    {
+      Title: "",
+      Cards: [{ pasteCard: "Fullmeter-Movie_El-Camino" }],
+    },
   ],
   "Series-Serials_Teen-Wolf": [
     {
@@ -2046,7 +2049,7 @@ const seriesSerialsPopups = {
           Link: ["boosty", "hiddenarchive/posts/3eb85b95-ddac-41f7-a489-ae498e9fdee3"],
         },
         {
-          Name: "1-2 Эпизод - пересмотр",
+          Name: "1-2 Эпизод (Пересмотр)",
           Date: "",
           Link: ["vk", "456240052?t=2h26m48s"],
           Player: ["vk", "456240052", "2ea8c127fa50fee3", "2h26m48s"],
