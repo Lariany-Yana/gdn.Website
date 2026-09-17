@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",(function(){const e=document.querySelector(".window .header .element.streaming");fetch("https://decapi.me/twitch/uptime/godenname").then((e=>e.ok?e.text():Promise.reject())).then((t=>{if(!e)return;t.trim().toLowerCase().includes("offline")?e.classList.remove("online"):e.classList.add("online")}))}));

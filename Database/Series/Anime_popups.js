@@ -266,6 +266,7 @@ const seriesAnimePopups = {
         {
           Name: "9-13 Эпизод",
           Date: "",
+          Donut: "donut-1",
           Link: ["vk", "456239787?t=4h55m48s"],
           Player: ["vk", "456239787", "aa453fad2eb59461", "4h55m48s"],
         },
@@ -454,7 +455,6 @@ const seriesAnimePopups = {
         {
           Name: "5-8 Эпизод",
           Date: "",
-          Donut: "donut-2",
           Donut: "donut-2",
           Link: ["vk", "456241001?t=3h56m39s"],
           Player: ["vk", "456241001", "f4b18c76498f2a68", "3h56m39s"],
@@ -10472,7 +10472,6 @@ const seriesAnimePopups = {
         {
           Name: "5-8 Эпизод",
           Date: "",
-          Donut: "donut-1",
           Link: ["boosty", "godenname/posts/0926c99c-15ec-4e2e-81eb-a14a2901dfa8?t=7982&tmid=b9fd24a9-44e4-48d6-826d-78cce2b0a918"],
         },
         {

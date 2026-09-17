@@ -414,7 +414,7 @@ const amusementGames = [
   },
   {
     ID: "Amusement-Games_Nier-Automata",
-    NameRU: "Nier&#1: Automata",
+    NameRU: "NieR&#1: Automata",
     Status: "До финала",
     Lost: true,
     Image: "https://static.tildacdn.com/tild3036-6439-4332-b833-396437396334/img.webp",

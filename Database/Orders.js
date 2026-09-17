@@ -1,6 +1,6 @@
 const UpdateWas = "Добавление новых слотов было: Давно. Стример не скидывает заказы.";
 const ordersDatabase = [
-  /* ШАБЛОН
+/* ШАБЛОН
   {
     ID: "order_Name",
     NameRU: "Название",
@@ -15,7 +15,7 @@ const ordersDatabase = [
       },
     ],
   },
-  */
+*/
 
   //#region ~В процессе~
   {

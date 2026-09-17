@@ -247,7 +247,7 @@ const seriesSerials = [
     ID: "Series-Serials_Classic-Doctor-Who",
     NameRU: "Классический Доктор Кто",
     NameEN: "Doctor Who",
-    Status: "Спешл + Фильм + 21 Сезон 7/24 Эпизод",
+    Status: "Спешл + Фильм + 21 Сезон 7 Эпизод",
     Donut: "donut-2",
     Image: "https://static.tildacdn.com/tild3762-6133-4433-b632-313136393936/__.webp",
     Type: "series-Serial",

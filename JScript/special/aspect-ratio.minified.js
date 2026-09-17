@@ -1,0 +1,1 @@
+!function(){const t=document.querySelector(".window");if(!t)return;window.setAspect=function(e){t.classList.remove("ar16x9","ar4x3"),t.classList.add(e),localStorage.setItem("windowAspectRatio",e)};"ar16x9"===localStorage.getItem("windowAspectRatio")?setAspect("ar16x9"):setAspect("ar4x3")}();

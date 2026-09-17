@@ -6,7 +6,6 @@ document.addEventListener("DOMContentLoaded", function () {
     .then((text) => {
       if (!streamElement) return;
       const responseText = text.trim().toLowerCase();
-
       if (!responseText.includes("offline")) {
         streamElement.classList.add("online");
       } else {

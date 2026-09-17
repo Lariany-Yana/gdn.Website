@@ -21,7 +21,7 @@ function toggleTheme() {
 
 (function () {
   const saved = localStorage.getItem("userTheme");
-  
+
   if (saved) {
     applyTheme(saved);
   } else {
