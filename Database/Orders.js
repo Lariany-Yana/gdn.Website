@@ -1,6 +1,6 @@
 const UpdateWas = "Добавление новых слотов было: Давно. Стример не скидывает заказы.";
 const ordersDatabase = [
-/* ШАБЛОН
+  /* ШАБЛОН
   {
     ID: "order_Name",
     NameRU: "Название",
@@ -22,7 +22,7 @@ const ordersDatabase = [
     ID: "order_Nanatsu-no-Taizai-2",
     NameRU: "Семь смертных грехов",
     NameEN: "Nanatsu no Taizai / The Seven Deadly Sins",
-    Status: "Аниме × В заказе: 2 Сезон 9-16/24 Эпизод",
+    Status: "Аниме × В заказе: 2 Сезон 13-16/24 Эпизод",
     Type: "order-during",
     Slots: [
       {
@@ -33,53 +33,14 @@ const ordersDatabase = [
       },
       {
         Name: "Podserty",
-        Slot: "1", // 2 Сезон 5-8 Эпизод
+        Slot: "2", // 2 Сезон 5-12 Эпизод
         Date: "14.12.25",
         Listed: true,
       },
       {
         Name: "Podserty",
-        Slot: "2", // 2 Сезон 9-16 Эпизод
-        Date: "14.12.25",
-      },
-    ],
-  },
-  {
-    ID: "order_Mahoutsukai-no-Yome-2",
-    NameRU: "Невеста чародея",
-    NameEN: "Mahoutsukai no Yome",
-    Status: "Аниме × В заказе: 2 Сезон 13-16/24 Эпизод",
-    Style: "user_Misty",
-    Type: "order-during",
-    Slots: [
-      {
-        Name: "Мисти",
-        Slot: "0.5", // 2 Сезон 1-2 Эпизод
-        Date: "16.09.25",
-        Listed: true,
-      },
-      {
-        Name: "Мисти",
-        Slot: "0.5", // 2 Сезон 3-4 Эпизод
-        Date: "16.02.26",
-        Listed: true,
-      },
-      {
-        Name: "Мисти",
-        Slot: "1", // 2 Сезон 5-8 Эпизод
-        Date: "16.02.26",
-        Listed: true,
-      },
-      {
-        Name: "Мисти",
-        Slot: "1", // 2 Сезон 9-12 Эпизод
-        Date: "17.03.26",
-        Listed: true,
-      },
-      {
-        Name: "Мисти",
         Slot: "1", // 2 Сезон 13-16 Эпизод
-        Date: "17.05.26",
+        Date: "14.12.25",
       },
     ],
   },
@@ -87,7 +48,7 @@ const ordersDatabase = [
     ID: "order_Gotham-1",
     NameRU: "Готэм",
     NameEN: "Gotham",
-    Status: "Сериал × В заказе: 1 Сезон 11-22/22 Эпизод",
+    Status: "Сериал × В заказе: 1 Сезон 13-22/22 Эпизод",
     Style: "user_Katya",
     Type: "order-during",
     Slots: [
@@ -111,13 +72,13 @@ const ordersDatabase = [
       },
       {
         Name: "Твою мать!",
-        Slot: "1", // 1 Сезон 9-10 Эпизод
+        Slot: "2", // 1 Сезон 9-12 Эпизод
         Date: "08.01.26",
         Listed: true,
       },
       {
         Name: "Твою мать!",
-        Slot: "6", // 1 Сезон 11-22 Эпизод
+        Slot: "5", // 1 Сезон 13-22 Эпизод
         Date: "08.01.26",
       },
     ],
@@ -1000,12 +961,12 @@ const ordersDatabase = [
     ID: "order_Vikings-4",
     NameRU: "Викинги",
     NameEN: "Vikings",
-    Status: "Сериал × Просмотрено: 4 Сезон 1-12/20 Эпизод",
+    Status: "Сериал × Просмотрено: 4 Сезон 1-14/20 Эпизод",
     Type: "order-determinate",
     Slots: [
       {
         Name: "Без имени",
-        Slot: "6", // 1-12 Эпизод
+        Slot: "7", // 1-12 Эпизод
         Date: "Без даты",
         Listed: false,
       },
@@ -1070,6 +1031,45 @@ const ordersDatabase = [
   },
   //#endregion
   //#region ~Нужен дозаказ~
+  {
+    ID: "order_Mahoutsukai-no-Yome-2",
+    NameRU: "Невеста чародея",
+    NameEN: "Mahoutsukai no Yome",
+    Status: "Аниме × Просмотрено: 2 Сезон 1-16/24 Эпизод",
+    Type: "order-incomplete",
+    Slots: [
+      {
+        Name: "Мисти",
+        Slot: "0.5", // 2 Сезон 1-2 Эпизод
+        Date: "16.09.25",
+        Listed: true,
+      },
+      {
+        Name: "Мисти",
+        Slot: "0.5", // 2 Сезон 3-4 Эпизод
+        Date: "16.02.26",
+        Listed: true,
+      },
+      {
+        Name: "Мисти",
+        Slot: "1", // 2 Сезон 5-8 Эпизод
+        Date: "16.02.26",
+        Listed: true,
+      },
+      {
+        Name: "Мисти",
+        Slot: "1", // 2 Сезон 9-12 Эпизод
+        Date: "17.03.26",
+        Listed: true,
+      },
+      {
+        Name: "Мисти",
+        Slot: "1", // 2 Сезон 13-16 Эпизод
+        Date: "17.05.26",
+        Listed: true,
+      },
+    ],
+  },
   {
     ID: "order_Summertime-Render",
     NameRU: "Летнее время",

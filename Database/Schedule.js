@@ -1,6 +1,13 @@
 const scheduleDatabase = [
   //#region Текущая неделя
   /* ШАБЛОН
+  {
+    NameRU: "Name",
+    NameEN: "Name",
+    Status: "Status",
+    Current: true,
+    Date: "00.09.26",
+  },
   // Понедельник
   {
     Status: "Стрим невозможен",
@@ -49,43 +56,43 @@ const scheduleDatabase = [
   {
     Status: "Стрим невозможен",
     Current: true,
-    Date: "14.09.26",
+    Date: "19.09.26",
   },
   // Вторник
   {
-    Status: "Стрим не состоялся",
+    Status: "Стрим возможен",
     Current: true,
-    Date: "15.09.26",
+    Date: "20.09.26",
   },
   // Среда
   {
-    Status: "Стрим невозможен",
+    Status: "Стрим возможен",
     Current: true,
-    Date: "16.09.26",
+    Date: "21.09.26",
   },
   // Четверг
   {
-    Status: "Стрим невозможен",
+    Status: "Стрим возможен",
     Current: true,
-    Date: "17.09.26",
+    Date: "22.09.26",
   },
   // Пятница
   {
     Status: "Стрим возможен",
     Current: true,
-    Date: "18.09.26",
+    Date: "23.09.26",
   },
   // Суббота
   {
     Status: "Стрим невозможен",
     Current: true,
-    Date: "19.09.26",
+    Date: "24.09.26",
   },
   // Воскресенье
   {
     Status: "Стрим возможен",
     Current: true,
-    Date: "20.09.26",
+    Date: "25.09.26",
   },
 
   //#region Старое: Январь 26
@@ -2940,6 +2947,72 @@ const scheduleDatabase = [
     Status: "Аниме × 1 Сезон 1-7 Эпизод",
     Current: false,
     Date: "13.09.26",
+  },
+
+  // Понедельник
+  {
+    Status: "Стрим невозможен",
+    Current: false,
+    Date: "14.09.26",
+  },
+  // Вторник
+  {
+    Status: "Стрим не состоялся",
+    Current: false,
+    Date: "15.09.26",
+  },
+  // Среда
+  {
+    Status: "Стрим невозможен",
+    Current: false,
+    Date: "16.09.26",
+  },
+  // Четверг
+  {
+    Status: "Стрим невозможен",
+    Current: false,
+    Date: "17.09.26",
+  },
+  // Пятница
+  {
+    Status: "Стрим возможен",
+    Current: false,
+    Date: "18.09.26",
+  },
+  // Суббота
+  {
+    Status: "Стрим невозможен",
+    Current: false,
+    Date: "19.09.26",
+  },
+  // Воскресенье
+  {
+    NameRU: "Викинги",
+    NameEN: "Vikings",
+    Status: "Сериал × 4 Сезон 13-14 Эпизод",
+    Current: false,
+    Date: "20.09.26",
+  },
+  {
+    NameRU: "Семь смертных грехов",
+    NameEN: "Nanatsu no Taizai / The Seven Deadly Sins",
+    Status: "Аниме × 2 Сезон 9-12 Эпизод",
+    Current: false,
+    Date: "20.09.26",
+  },
+  {
+    NameRU: "Невеста чародея",
+    NameEN: "Mahoutsukai no Yome",
+    Status: "Аниме × 2 Сезон 13-16 Эпизод",
+    Current: false,
+    Date: "20.09.26",
+  },
+  {
+    NameRU: "Готэм",
+    NameEN: "Gotham",
+    Status: "Сериал × 1 Сезон 11-12 Эпизод",
+    Current: false,
+    Date: "20.09.26",
   },
   //#endregion
 ];
