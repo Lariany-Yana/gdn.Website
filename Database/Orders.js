@@ -789,6 +789,21 @@ const ordersDatabase = [
   //#endregion
   //#region ~В уточнении~
   {
+    ID: "order_Imawa-no-Kuni-no-Arisu-2",
+    NameRU: "Алиса в Пограничье",
+    NameEN: "Imawa no Kuni no Arisu",
+    Status: "Аниме ⨯ Просмотрено: 2 Сезон 1-4.5/8 Эпизод",
+    Type: "order-determinate",
+    Slots: [
+      {
+        Name: "Без имени",
+        Slot: "1.75", // 1 Сезон 1-4.5 Эпизод
+        Date: "Без даты",
+        Listed: false,
+      },
+    ],
+  },
+  {
     ID: "order_Jiyi-Guanli-Ju-2026",
     NameRU: "Управление воспоминаниями (2026)",
     NameEN: "Jiyi Guanli Ju (2026)",

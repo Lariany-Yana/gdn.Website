@@ -66,6 +66,18 @@ const seriesSerialsPopups = {
         },
       ],
     },
+    {
+      Title: "2 Сезон",
+      Episodes: [
+        {
+          Name: "1-4 Эпизод",
+          Date: "20.09.2026",
+          Donut: "donut-3",
+          Link: ["vk", "456241905?t=39m43s"],
+          Player: ["vk", "456241905", "aff57db3b541205d", "0h39m43s"],
+        },
+      ],
+    },
   ],
   "Series-Serials_American-Horror-Story": [
     {

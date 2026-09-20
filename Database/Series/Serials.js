@@ -12,7 +12,7 @@ const seriesSerials = [
     ID: "Series-Serials_Imawa-no-Kuni-no-Arisu",
     NameRU: "Алиса в Пограничье",
     NameEN: "Imawa no Kuni no Arisu",
-    Status: "1 Сезон 1-8/8 Эпизод",
+    Status: "1 Сезон, 2 Сезон 1-4/8 Эпизод",
     Donut: "donut-2",
     Image: "https://static.tildacdn.com/tild3431-6166-4434-a564-323135653837/__.webp",
     Type: "series-Serial",
