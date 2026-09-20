@@ -178,6 +178,19 @@ function formatPlayerUrl(platform, id, hash, time) {
   return "#";
 }
 
+// Строим стабильный идентификатор для .continue на основе ссылки (Link).
+// Ссылка — самый надёжный признак: у утерянных (Lost) серий её нет, поэтому
+// такие серии просто не получают continueId и не участвуют в отслеживании.
+function buildContinueId(item) {
+  const linkData = item.Link || item.titleLink;
+  if (!Array.isArray(linkData) || linkData.length < 2) return null;
+
+  const [platform, path] = linkData;
+  if (!platform || !path) return null;
+
+  return `${platform}:${path}`;
+}
+
 function createProjectPopupContent(projectId, projectsDb, popupsDb) {
   const projectMeta = findProjectById(projectId) || {};
   const finalId = projectMeta.ID || projectMeta.id || projectId;
@@ -268,6 +281,12 @@ function createProjectPopupContent(projectId, projectsDb, popupsDb) {
           epDonut.classList.add(Array.isArray(epDonutVal) ? epDonutVal[0] : epDonutVal);
         }
 
+        const epContinueEl = epEl.querySelector(".continue");
+        if (epContinueEl) {
+          const continueId = buildContinueId(ep);
+          if (continueId) epContinueEl.dataset.continueId = continueId;
+        }
+
         updateControlButtons(actionsGroup, ep);
         episodesContainer.appendChild(epEl);
       });
@@ -284,6 +303,8 @@ function createProjectPopupContent(projectId, projectsDb, popupsDb) {
 
     contentEl.appendChild(seasonEl);
   });
+
+  restoreContinueState(projectEl);
 
   return projectEl;
 }
@@ -408,6 +429,105 @@ document.addEventListener("click", (e) => {
     e.preventDefault();
     openPlayerPopup(videoUrl);
   }
+});
+
+// =========================================================================
+// Отслеживание последней открытой серии (.continue) внутри попапа
+// =========================================================================
+
+const CONTINUE_STORAGE_KEY = "continueWatchingState";
+
+function getContinueState() {
+  try {
+    return JSON.parse(localStorage.getItem(CONTINUE_STORAGE_KEY)) || {};
+  } catch {
+    return {};
+  }
+}
+
+function setContinueState(projectId, continueId) {
+  if (!projectId) return;
+
+  const state = getContinueState();
+  if (continueId) {
+    state[projectId] = continueId;
+  } else {
+    delete state[projectId];
+  }
+
+  try {
+    localStorage.setItem(CONTINUE_STORAGE_KEY, JSON.stringify(state));
+  } catch (e) {
+    console.warn("Не удалось сохранить continueWatchingState:", e);
+  }
+}
+
+// Восстанавливаем активную .continue при открытии попапа (после перезагрузки страницы и т.п.)
+// Если сохранённая серия больше не найдена (например, стала Lost и потеряла ссылку) —
+// запись в localStorage удаляется, чтобы "хвосты" не копились.
+function restoreContinueState(projectEl) {
+  const projectId = projectEl?.id;
+  if (!projectId) return;
+
+  const savedContinueId = getContinueState()[projectId];
+  if (!savedContinueId) return;
+
+  const continueEls = projectEl.querySelectorAll(".continue");
+  let matched = false;
+
+  for (const el of continueEls) {
+    if (el.dataset.continueId === savedContinueId) {
+      el.classList.add("active");
+      matched = true;
+      break;
+    }
+  }
+
+  if (!matched) {
+    setContinueState(projectId, null);
+  }
+}
+
+// Ищем ближайший элемент .continue, относящийся к нажатой кнопке .link/.player
+// (поднимаемся от кнопки вверх по DOM, пока не найдём контейнер с .continue внутри)
+function findRelatedContinue(triggerBtn, projectEl) {
+  let el = triggerBtn.parentElement;
+  while (el && el !== projectEl.parentElement) {
+    const continueEl = el.querySelector(".continue");
+    if (continueEl) return continueEl;
+    el = el.parentElement;
+  }
+  return null;
+}
+
+document.addEventListener("click", (e) => {
+  // Клик по уже активной .continue — снимаем отметку
+  const activeContinue = e.target.closest(".continue.active");
+  if (activeContinue) {
+    activeContinue.classList.remove("active");
+    const projectEl = activeContinue.closest(".project");
+    if (projectEl) setContinueState(projectEl.id, null);
+    return;
+  }
+
+  // Клик по кнопке .link или .player — отмечаем соответствующую серию как последнюю открытую
+  const trigger = e.target.closest(".link, .player");
+  if (!trigger) return;
+  if (trigger.disabled || trigger.classList.contains("disabled")) return;
+
+  const projectEl = trigger.closest(".project");
+  if (!projectEl) return;
+
+  const continueEl = findRelatedContinue(trigger, projectEl);
+  if (!continueEl || !continueEl.dataset.continueId) return;
+
+  // В попапе может быть активна только одна .continue
+  projectEl.querySelectorAll(".continue.active").forEach((el) => {
+    if (el !== continueEl) el.classList.remove("active");
+  });
+
+  continueEl.classList.add("active");
+  setContinueState(projectEl.id, continueEl.dataset.continueId);
 });
 
 function getFlatDatabase(projectsDb, popupsDb) {
