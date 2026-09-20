@@ -113,7 +113,9 @@ const scheduleDatabase = [
   },
   // Воскресенье
   {
-    Status: "Стрим возможен",
+    NameRU: "Алиса в Пограничье",
+    NameEN: "Imawa no Kuni no Arisu",
+    Status: "Сериал × Старт в 15:00 по МСК",
     Current: true,
     Date: "20.09.26",
   },
