@@ -772,7 +772,6 @@ body[data-theme="dark"] {
     width: 100%;
     height: calc(100% - ((var(--header) + var(--border)) + (var(--footer) + var(--border))));
     box-sizing: border-box;
-    outline: var(--border-color) var(--border) solid;
 
     background-color: var(--window-content-color);
     overflow: hidden;
@@ -1315,7 +1314,7 @@ body[data-theme="dark"] {
         aspect-ratio: 16 / 9;
         height: auto;
 
-        border-radius: var(--radius-M);
+        border-radius: 0;
         background-color: var(--card-color);
       }
     }
