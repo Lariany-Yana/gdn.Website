@@ -92,7 +92,7 @@ const seriesSerials = [
     ID: "Series-Serials_Vikings",
     NameRU: "Викинги",
     NameEN: "Vikings",
-    Status: "1-3 Сезон, 4 Сезон 1-14/20 Эпизод",
+    Status: "1-3 Сезон, 4 Сезон 1-18/20 Эпизод",
     Donut: "donut-2",
     Image: "https://static.tildacdn.com/tild3661-3234-4966-b865-396236623565/photo.webp",
     Type: "series-Serial",

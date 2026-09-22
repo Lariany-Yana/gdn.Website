@@ -20,20 +20,12 @@ const scheduleDatabase = [
   {
     NameRU: "Викинги",
     NameEN: "Vikings",
-    Status: "Сериал × Начало в 15:00 по МСК",
-    //Status: "Сериал × 4 Сезон 15-18 Эпизод",
-    Current: true,
-    Date: "22.09.26",
-  },
-  {
-    NameRU: "Мстители",
-    Status: "Комикс × Начало в 19:00 по МСК",
+    Status: "Сериал × 4 Сезон 15-18 Эпизод",
     Current: true,
     Date: "22.09.26",
   },
   {
     NameRU: "Покер",
-    Status: "Начало в 21:00 по МСК",
     Current: true,
     Date: "22.09.26",
   },

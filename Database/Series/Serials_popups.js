@@ -715,6 +715,13 @@ const seriesSerialsPopups = {
           Link: ["vk", "456241904?t=14m25s"],
           Player: ["vk", "456241904", "ed7c4309ceb06b68", "0h14m25s"],
         },
+        {
+          Name: "15-18 Эпизод",
+          Date: "22.09.2026",
+          Donut: "donut-3",
+          Link: ["vk", "456241906?t=14m6s"],
+          Player: ["vk", "456241906", "7496e285fd97ad7b", "0h14m6s"],
+        },
       ],
     },
   ],

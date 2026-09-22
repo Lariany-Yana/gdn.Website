@@ -976,12 +976,12 @@ const ordersDatabase = [
     ID: "order_Vikings-4",
     NameRU: "Викинги",
     NameEN: "Vikings",
-    Status: "Сериал × Просмотрено: 4 Сезон 1-14/20 Эпизод",
+    Status: "Сериал × Просмотрено: 4 Сезон 1-18/20 Эпизод",
     Type: "order-determinate",
     Slots: [
       {
         Name: "Без имени",
-        Slot: "7", // 1-12 Эпизод
+        Slot: "9", // 1-12 Эпизод
         Date: "Без даты",
         Listed: false,
       },
