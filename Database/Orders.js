@@ -1,4 +1,4 @@
-const UpdateWas = "Добавление новых слотов было: Давно. Стример не скидывает заказы.";
+const UpdateWas = "Добавление новых слотов было: 23.09.26";
 const ordersDatabase = [
   /* ШАБЛОН
   {
@@ -19,10 +19,30 @@ const ordersDatabase = [
 
   //#region ~В процессе~
   {
+    ID: "order_Imawa-no-Kuni-no-Arisu-2",
+    NameRU: "Алиса в Пограничье",
+    NameEN: "Imawa no Kuni no Arisu",
+    Status: "Аниме ⨯ Просмотрено: 2 Сезон 1-3/8 Эпизод",
+    Type: "order-during",
+    Slots: [
+      {
+        Name: "plague_9bit",
+        Slot: "1.5", // 1 Сезон 1-3 Эпизод
+        Date: "18.09.26",
+        Listed: true,
+      },
+      {
+        Name: "plague_9bit",
+        Slot: "2.5", // 1 Сезон 4-8 Эпизод
+        Date: "18.09.26",
+      },
+    ],
+  },
+  {
     ID: "order_Nanatsu-no-Taizai-2",
-    NameRU: "Семь смертных грехов",
-    NameEN: "Nanatsu no Taizai / The Seven Deadly Sins",
-    Status: "Аниме × В заказе: 2 Сезон 13-16/24 Эпизод",
+    NameRU: "Семь смертных грехов 2: Возрождение заповедей",
+    NameEN: "Nanatsu no Taizai: Imashime no Fukkatsu",
+    Status: "Аниме × В заказе: 2 Сезон 13-24/24 Эпизод",
     Type: "order-during",
     Slots: [
       {
@@ -42,6 +62,16 @@ const ordersDatabase = [
         Slot: "1", // 2 Сезон 13-16 Эпизод
         Date: "14.12.25",
       },
+      {
+        Name: "Coras",
+        Slot: "1", // 2 Сезон 17-20 Эпизод
+        Date: "21.08.26",
+      },
+      {
+        Name: "Wonder Of You",
+        Slot: "1", // 2 Сезон 21-24 Эпизод
+        Date: "21.08.26",
+      },
     ],
   },
   {
@@ -53,33 +83,123 @@ const ordersDatabase = [
     Type: "order-during",
     Slots: [
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "2", // 1 Сезон 1-4 Эпизод
         Date: "12.10.25",
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "1", // 1 Сезон 5-6 Эпизод
         Date: "25.11.25",
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "1", // 1 Сезон 7-8 Эпизод
         Date: "26.12.25",
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "2", // 1 Сезон 9-12 Эпизод
         Date: "08.01.26",
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "5", // 1 Сезон 13-22 Эпизод
         Date: "08.01.26",
+      },
+    ],
+  },
+  {
+    ID: "order_Rogue-Trader",
+    NameRU: "Warhammer 40 000: Rogue Trader",
+    Status: "Игра × Наиграно: 10 Часов, В заказе: 6 Часов",
+    Type: "order-during",
+    Slots: [
+      {
+        Name: "Ekemlyr",
+        Slot: "1",
+        Date: "29.03.26",
+        Listed: true,
+      },
+      {
+        Name: "Ekemlyr",
+        Slot: "1",
+        Date: "05.04.26",
+        Listed: true,
+      },
+      {
+        Name: "Ekemlyr",
+        Slot: "1",
+        Date: "21.04.26",
+        Listed: true,
+      },
+      {
+        Name: "Ekemlyr",
+        Slot: "1",
+        Date: "28.04.26",
+        Listed: true,
+      },
+      {
+        Name: "Ekemlyr",
+        Slot: "1",
+        Date: "24.07.26",
+        Listed: true,
+      },
+      {
+        Name: "Ekemlyr",
+        Slot: "1",
+        Date: "07.08.26",
+      },
+      {
+        Name: "Ekemlyr",
+        Slot: "1",
+        Date: "19.08.26",
+      },
+      {
+        Name: "Ekemlyr",
+        Slot: "1",
+        Date: "27.08.26",
+      },
+    ],
+  },
+  {
+    ID: "order_Crusader-Kings-3",
+    NameRU: "Crusader Kings III",
+    Status: "Игра × Наиграно: 18 Часов, В заказе: 4 Часа",
+    Type: "order-during",
+    Slots: [
+      {
+        Name: "Izida-Sama",
+        Slot: "2",
+        Date: "06.06.26",
+        Listed: true,
+      },
+      {
+        Name: "Izida-Sama",
+        Slot: "3",
+        Date: "22.07.26",
+        Listed: true,
+      },
+      {
+        Name: "Izida-Sama",
+        Slot: "2",
+        Date: "01.08.26",
+        Listed: true,
+      },
+      {
+        Name: "Izida-Sama",
+        Slot: "2",
+        Date: "06.08.26",
+        Listed: true,
+      },
+      {
+        Name: "Izida-Sama",
+        Slot: "2",
+        Date: "13.08.26",
       },
     ],
   },
@@ -118,7 +238,7 @@ const ordersDatabase = [
   {
     ID: "order_Most-Wanted-2005",
     NameRU: "Need for Speed: Most Wanted (2005)",
-    Status: "Игра",
+    Status: "Игра × В заказе: 14 Часов",
     Style: "user_Edwin",
     Type: "order-waiting",
     Slots: [
@@ -131,19 +251,6 @@ const ordersDatabase = [
         Name: "Статист",
         Slot: "1",
         Date: "05.07.24",
-      },
-    ],
-  },
-  {
-    ID: "order_001",
-    NameRU: "Пустые слоты",
-    Style: "user_Izida",
-    Type: "order-waiting",
-    Slots: [
-      {
-        Name: "Izida-Sama",
-        Slot: "2",
-        Date: "24.08.24",
       },
     ],
   },
@@ -223,7 +330,7 @@ const ordersDatabase = [
   {
     ID: "order_Stick-of-Truth",
     NameRU: "South Park: The Stick of Truth",
-    Status: "Игра",
+    Status: "Игра × В заказе: 2 Часа",
     Type: "order-waiting",
     Slots: [
       {
@@ -264,7 +371,7 @@ const ordersDatabase = [
   {
     ID: "order_The-Alters",
     NameRU: "The Alters",
-    Status: "Игра",
+    Status: "Игра × В заказе: 6 Часов",
     Type: "order-waiting",
     Slots: [
       {
@@ -282,7 +389,7 @@ const ordersDatabase = [
   {
     ID: "order_Tainted-Grail",
     NameRU: "Tainted Grail: The Fall of Avalon",
-    Status: "Игра",
+    Status: "Игра × В заказе: 3 Часа",
     Type: "order-waiting",
     Slots: [
       {
@@ -357,7 +464,7 @@ const ordersDatabase = [
     Type: "order-waiting",
     Slots: [
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "1",
         Date: "05.11.25",
       },
@@ -372,7 +479,7 @@ const ordersDatabase = [
     Type: "order-waiting",
     Slots: [
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "1",
         Date: "05.11.25",
       },
@@ -429,7 +536,7 @@ const ordersDatabase = [
     Type: "order-waiting",
     Slots: [
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "2", // 3 Сезон 1-8 Эпизод
         Date: "02.12.25",
       },
@@ -536,7 +643,7 @@ const ordersDatabase = [
     Type: "order-waiting",
     Slots: [
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "1",
         Date: "27.01.26",
       },
@@ -658,7 +765,7 @@ const ordersDatabase = [
     Type: "order-waiting",
     Slots: [
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "1",
         Date: "08.04.26",
       },
@@ -688,7 +795,7 @@ const ordersDatabase = [
     Type: "order-waiting",
     Slots: [
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "2",
         Date: "05.05.26",
       },
@@ -703,7 +810,7 @@ const ordersDatabase = [
     Type: "order-waiting",
     Slots: [
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "1",
         Date: "05.05.26",
       },
@@ -786,38 +893,160 @@ const ordersDatabase = [
       },
     ],
   },
+  {
+    ID: "order_I-Swear",
+    NameRU: "Я ругаюсь",
+    NameEN: "I Swear",
+    Status: "Фильм",
+    Type: "order-waiting",
+    Slots: [
+      {
+        Name: "ia_chort",
+        Slot: "1",
+        Date: "08.07.26",
+      },
+    ],
+  },
+  {
+    ID: "order_Batman-Assault-on-Arkham",
+    NameRU: "Бэтмен: Нападение на Аркхэм",
+    NameEN: "Batman: Assault on Arkham",
+    Status: "Мультфильм",
+    Type: "order-waiting",
+    Slots: [
+      {
+        Name: "ia_chort",
+        Slot: "0.5",
+        Date: "08.07.26",
+      },
+    ],
+  },
+  {
+    ID: "order_Justice-League-Dark",
+    NameRU: "Тёмная Лига справедливости",
+    NameEN: "Justice League Dark",
+    Status: "Мультфильм",
+    Type: "order-waiting",
+    Slots: [
+      {
+        Name: "ia_chort",
+        Slot: "0.5",
+        Date: "08.07.26",
+      },
+    ],
+  },
+  {
+    NameRU: "Годнеслот",
+    Type: "order-waiting",
+    Slots: [
+      {
+        Name: "Кирвин",
+        Slot: "1",
+        Date: "15.07.26",
+      },
+    ],
+  },
+  {
+    ID: "order_Daredevil-1",
+    NameRU: "Сорвиголова",
+    NameEN: "Daredevil",
+    Status: "Сериал × В заказе: 1 Сезон 1-13/13 Эпизод",
+    Type: "order-waiting",
+    Slots: [
+      {
+        Name: "Сулейка",
+        Slot: "3",
+        Date: "22.07.26",
+      },
+      {
+        Name: "Сулейка",
+        Slot: "3.5",
+        Date: "12.08.26",
+      },
+    ],
+  },
+  {
+    ID: "order_Daredevil-2",
+    NameRU: "Сорвиголова",
+    NameEN: "Daredevil",
+    Status: "Сериал × В заказе: 2 Сезон 1/13 Эпизод",
+    Type: "order-waiting",
+    Slots: [
+      {
+        Name: "Сулейка",
+        Slot: "0.5",
+        Date: "12.08.26",
+      },
+    ],
+  },
+  {
+    NameRU: "Годнеслот",
+    Type: "order-waiting",
+    Slots: [
+      {
+        Name: "Сулейка",
+        Slot: "1",
+        Date: "01.08.26",
+      },
+    ],
+  },
+  {
+    ID: "order_Nanatsu-no-Taizai-3",
+    NameRU: "Семь смертных грехов 3: Гнев богов",
+    NameEN: "Nanatsu no Taizai: Kamigami no Gekirin",
+    Status: "Аниме × В заказе: 3 Сезон 1-8/24 Эпизод",
+    Type: "order-waiting",
+    Slots: [
+      {
+        Name: "Coras",
+        Slot: "2", // 1 Сезон 1-8 Эпизод
+        Date: "28.08.26",
+      },
+    ],
+  },
+  {
+    ID: "order_001",
+    NameRU: "Пустые слоты",
+    Style: "user_Izida",
+    Type: "order-waiting",
+    Slots: [
+      {
+        Name: "Izida-Sama",
+        Slot: "2",
+        Date: "08.09.26",
+      },
+    ],
+  },
+  {
+    ID: "order_Injustice",
+    NameRU: "Несправедливость",
+    NameEN: "Injustice",
+    Status: "Мультфильм",
+    Type: "order-waiting",
+    Slots: [
+      {
+        Name: "ia_chort",
+        Slot: "0.5",
+        Date: "03.09.26",
+      },
+    ],
+  },
+  {
+    ID: "order_Justice-League-War",
+    NameRU: "Лига справедливости: Война",
+    NameEN: "Justice League: War",
+    Status: "Мультфильм",
+    Type: "order-waiting",
+    Slots: [
+      {
+        Name: "ia_chort",
+        Slot: "0.5",
+        Date: "03.09.26",
+      },
+    ],
+  },
   //#endregion
   //#region ~В уточнении~
-  {
-    ID: "order_Imawa-no-Kuni-no-Arisu-2",
-    NameRU: "Алиса в Пограничье",
-    NameEN: "Imawa no Kuni no Arisu",
-    Status: "Аниме ⨯ Просмотрено: 2 Сезон 1-4.5/8 Эпизод",
-    Type: "order-determinate",
-    Slots: [
-      {
-        Name: "Без имени",
-        Slot: "1.75", // 1 Сезон 1-4.5 Эпизод
-        Date: "Без даты",
-        Listed: false,
-      },
-    ],
-  },
-  {
-    ID: "order_Jiyi-Guanli-Ju-2026",
-    NameRU: "Управление воспоминаниями (2026)",
-    NameEN: "Jiyi Guanli Ju (2026)",
-    Status: "Аниме ⨯ Просмотрено: 1 Сезон 1-7/7 Эпизод",
-    Type: "order-determinate",
-    Slots: [
-      {
-        Name: "Без имени",
-        Slot: "3.5", // 1 Сезон 1-7 Эпизод
-        Date: "Без даты",
-        Listed: false,
-      },
-    ],
-  },
   {
     ID: "order_Dexter-Resurrection-1",
     NameRU: "Декстер: Воскрешение",
@@ -829,32 +1058,6 @@ const ordersDatabase = [
         Name: "Без имени",
         Slot: "1", // 1 Сезон 1-2 Эпизод
         Date: "Без даты",
-        Listed: false,
-      },
-    ],
-  },
-  {
-    ID: "order_Crusader-Kings-3",
-    NameRU: "Crusader Kings III",
-    Status: "Игра × Наиграно: 18 Часов",
-    Type: "order-determinate",
-    Slots: [
-      {
-        Name: "Izida-Sama",
-        Slot: "1",
-        Date: "06.06.26",
-        Listed: true,
-      },
-      {
-        Name: "Izida-Sama",
-        Slot: "1",
-        Date: "06.06.26",
-        Listed: true,
-      },
-      {
-        Name: "Без даты",
-        Slot: "7",
-        Date: "Без имени",
         Listed: false,
       },
     ],
@@ -893,44 +1096,6 @@ const ordersDatabase = [
     ],
   },
   {
-    ID: "order_Rogue-Trader",
-    NameRU: "Warhammer 40 000: Rogue Trader",
-    Status: "Игра × Наиграно: 10 Часов",
-    Type: "order-determinate",
-    Slots: [
-      {
-        Name: "Ekemlyr",
-        Slot: "1",
-        Date: "29.03.26",
-        Listed: true,
-      },
-      {
-        Name: "Ekemlyr",
-        Slot: "1",
-        Date: "05.04.26",
-        Listed: true,
-      },
-      {
-        Name: "Ekemlyr",
-        Slot: "1",
-        Date: "21.04.26",
-        Listed: true,
-      },
-      {
-        Name: "Ekemlyr",
-        Slot: "1",
-        Date: "28.04.26",
-        Listed: true,
-      },
-      {
-        Name: "Без имени",
-        Slot: "1",
-        Date: "Без даты",
-        Listed: false,
-      },
-    ],
-  },
-  {
     NameRU: "Мобильный воин Гандам: Вспышка Хэтэуэя 2 - Колдунья Кирка",
     NameEN: "Mobile Suit Gundam: Senkou no Hathaway - Circe no Majo",
     Status: "Полнометражка",
@@ -951,8 +1116,26 @@ const ordersDatabase = [
     Type: "order-determinate",
     Slots: [
       {
+        Name: "ТВОЮ МАТЬ",
+        Slot: "1", // 8 Сезон 1-2 Эпизод
+        Date: "12.08.26",
+        Listed: true,
+      },
+      {
+        Name: "ТВОЮ МАТЬ",
+        Slot: "1", // 8 Сезон 3-4 Эпизод
+        Date: "19.08.26",
+        Listed: true,
+      },
+      {
+        Name: "ТВОЮ МАТЬ",
+        Slot: "1", // 8 Сезон 5-6 Эпизод
+        Date: "01.09.26",
+        Listed: true,
+      },
+      {
         Name: "Без имени",
-        Slot: "6", // 8 Сезон 1-8 Эпизод
+        Slot: "3", // 8 Сезон 7-8 Эпизод
         Date: "Без даты",
         Listed: false,
       },
@@ -988,20 +1171,6 @@ const ordersDatabase = [
     ],
   },
   {
-    NameRU: "Аладдин",
-    NameEN: "Aladdin",
-    Status: "Мультфильм",
-    Type: "order-determinate",
-    Slots: [
-      {
-        Name: "Без имени",
-        Slot: "1",
-        Date: "Без даты",
-        Listed: false,
-      },
-    ],
-  },
-  {
     NameRU: "Шрек навсегда",
     NameEN: "Shrek Forever After",
     Status: "Мультфильм",
@@ -1029,23 +1198,29 @@ const ordersDatabase = [
       },
     ],
   },
+  //#endregion
+  //#region ~Нужен дозаказ~
   {
     ID: "order_100-nin-no-Kanojo-3",
     NameRU: "Сто девушек, которые очень сильно тебя любят",
     NameEN: "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
-    Status: "Аниме × Просмотрено: 3 Сезон 1-8/↻ Эпизод",
-    Type: "order-determinate",
+    Status: "Аниме × Просмотрено: 3 Сезон 1-8/12 Эпизод",
+    Type: "order-incomplete",
     Slots: [
       {
-        Name: "Без имени",
-        Slot: "2", // 1 Сезон 1-8 Эпизод
-        Date: "Без даты",
-        Listed: false,
+        Name: "Вару",
+        Slot: "1", // 1 Сезон 1-4 Эпизод
+        Date: "24.07.26",
+        Listed: true,
+      },
+      {
+        Name: "Вару",
+        Slot: "1", // 1 Сезон 5-8 Эпизод
+        Date: "26.08.26",
+        Listed: true,
       },
     ],
   },
-  //#endregion
-  //#region ~Нужен дозаказ~
   {
     ID: "order_Mahoutsukai-no-Yome-2",
     NameRU: "Невеста чародея",
@@ -1139,13 +1314,13 @@ const ordersDatabase = [
     Type: "order-incomplete",
     Slots: [
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "0.75", // 3 Сезон 1-3 Эпизод
         Date: "21.04.26",
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "1", // 3 Сезон 4-7 Эпизод
         Date: "20.05.26",
         Listed: true,
@@ -1157,7 +1332,7 @@ const ordersDatabase = [
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "1", // 3 Сезон 11-14 Эпизод
         Date: "07.06.26",
         Listed: true,
@@ -1503,7 +1678,7 @@ const ordersDatabase = [
     FromTo: [
       {
         NameRU: "Годнеслот",
-        NameEN: "09.06.26 ⨯ Твою мать!",
+        NameEN: "09.06.26 ⨯ ТВОЮ МАТЬ",
         Status: "1 Слот",
       },
       {
@@ -1514,7 +1689,7 @@ const ordersDatabase = [
     ],
   },
   {
-    Status: "Свап был 23.06.26 (Твою мать!)",
+    Status: "Свап был 23.06.26 (ТВОЮ МАТЬ)",
     Style: "user_Katya",
     Type: "order-switch",
     FromTo: [
@@ -1598,6 +1773,20 @@ const ordersDatabase = [
   //#endregion
   //#region ~Просмотренное~
   {
+    NameRU: "Управление воспоминаниями (2026)",
+    NameEN: "Jiyi Guanli Ju (2026)",
+    Status: "Аниме ⨯ Просмотрено: 1 Сезон 1-7/7 Эпизод",
+    Type: "order-finished",
+    Slots: [
+      {
+        Name: "Izida-Sama",
+        Slot: "2", // 1 Сезон 1-7 Эпизод
+        Date: "24.08.24",
+        Listed: true,
+      },
+    ],
+  },
+  {
     NameRU: "F1: The Movie",
     Status: "Фильм",
     Type: "order-finished",
@@ -1613,7 +1802,7 @@ const ordersDatabase = [
   {
     NameRU: "Новые Мстители + Мстители Хикмана",
     NameEN: "New Avengers + Avengers by Jonathan Hickman",
-    Status: "Комикс",
+    Status: "Комиксы",
     Type: "order-finished",
     Slots: [
       {
@@ -1640,7 +1829,7 @@ const ordersDatabase = [
   },
   {
     NameRU: "Семь смертных грехов",
-    NameEN: "Nanatsu no Taizai / The Seven Deadly Sins",
+    NameEN: "Nanatsu no Taizai",
     Status: "Аниме × Просмотрено: 1 Сезон 1-24/24 Эпизод",
     Type: "order-finished",
     Slots: [
@@ -1797,7 +1986,7 @@ const ordersDatabase = [
     Type: "order-finished",
     Slots: [
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "1",
         Date: "09.06.26",
         Listed: true,
@@ -1845,7 +2034,7 @@ const ordersDatabase = [
     Type: "order-finished",
     Slots: [
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "1",
         Date: "17.07.25",
         Listed: true,
@@ -2095,7 +2284,7 @@ const ordersDatabase = [
     Type: "order-finished",
     Slots: [
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "2", // 1 Сезон 1-3 Эпизод
         Date: "18.09.24",
         Listed: true,
@@ -2217,7 +2406,7 @@ const ordersDatabase = [
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "1", // 2 Сезон 10-13 Эпизод
         Date: "04.03.26",
         Listed: true,
@@ -2229,7 +2418,7 @@ const ordersDatabase = [
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "0.25", // 2 Сезон 18 Эпизод
         Date: "21.04.26",
         Listed: true,
@@ -2249,13 +2438,13 @@ const ordersDatabase = [
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "1", // 1 Сезон 5-8 Эпизод
         Date: "08.03.25",
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "1", // 1 Сезон 9-12 Эпизод
         Date: "04.02.26",
         Listed: true,
@@ -2282,7 +2471,7 @@ const ordersDatabase = [
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "1", // 7 Сезон 3-4 Эпизод
         Date: "29.05.26",
         Listed: true,
@@ -2294,22 +2483,22 @@ const ordersDatabase = [
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "1", // 7 Сезон 7-8 Эпизод
         Date: "18.06.26",
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "1", // 7 Сезон 9-10 Эпизод
         Date: "30.06.26",
         Listed: true,
       },
       {
-        Name: "7с 9-12эп",
+        Name: "ТВОЮ МАТЬ",
         Slot: "1", // 7 Сезон 11-12 Эпизод
-        Date: "В уточнении",
-        Listed: false,
+        Date: "31.07.26",
+        Listed: true,
       },
     ],
   },
@@ -2320,7 +2509,7 @@ const ordersDatabase = [
     Type: "order-finished",
     Slots: [
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "0.5", // 6 Сезон 1 Эпизод
         Date: "11.02.26",
         Listed: true,
@@ -2338,13 +2527,13 @@ const ordersDatabase = [
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "1.5", // 6 Сезон 7-9 Эпизод
         Date: "17.03.26",
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "1.5", // 6 Сезон 10-12 Эпизод
         Date: "22.04.26",
         Listed: true,
@@ -2358,25 +2547,25 @@ const ordersDatabase = [
     Type: "order-finished",
     Slots: [
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "1", // 5 Сезон 1-2 Эпизод
         Date: "25.12.25",
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "1", // 5 Сезон 3-4 Эпизод
         Date: "06.01.26",
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "1", // 5 Сезон 5-6 Эпизод
         Date: "08.01.26",
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "1", // 5 Сезон 7-8 Эпизод
         Date: "27.01.26",
         Listed: true,
@@ -2388,7 +2577,7 @@ const ordersDatabase = [
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "0.5", // 5 Сезон 12 Эпизод
         Date: "11.02.26",
         Listed: true,
@@ -2402,25 +2591,25 @@ const ordersDatabase = [
     Type: "order-finished",
     Slots: [
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "2", // 4 Сезон 1-4 Эпизод
         Date: "30.09.25",
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "2", // 4 Сезон 5-8 Эпизод
         Date: "02.11.25",
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "1", // 4 Сезон 9-10 Эпизод
         Date: "10.11.25",
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "1", // 4 Сезон 11-12 Эпизод
         Date: "11.11.25",
         Listed: true,
@@ -2440,31 +2629,31 @@ const ordersDatabase = [
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "1", // 3 Сезон 3-4 Эпизод
         Date: "31.08.25",
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "1", // 3 Сезон 5-6 Эпизод
         Date: "07.09.25",
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "1", // 3 Сезон 7-8 Эпизод
         Date: "16.09.25",
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "1", // 3 Сезон 9-10 Эпизод
         Date: "19.09.25",
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "1", // 3 Сезон 11-12 Эпизод
         Date: "30.09.25",
         Listed: true,
@@ -2484,13 +2673,13 @@ const ordersDatabase = [
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "2", // 2 Сезон 7-10 Эпизод
         Date: "29.10.23",
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "1", // 2 Сезон 11-12 Эпизод
         Date: "21.12.23",
         Listed: true,
@@ -2519,55 +2708,55 @@ const ordersDatabase = [
     Type: "order-finished",
     Slots: [
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "1", // 5 Сезон 1-2 Эпизод
         Date: "15.08.25",
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "1", // 5 Сезон 3-4 Эпизод
         Date: "28.08.25",
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "2", // 5 Сезон 5-8 Эпизод
         Date: "16.09.25",
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "1", // 5 Сезон 9-10 Эпизод
         Date: "28.09.25",
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "1", // 5 Сезон 11-12 Эпизод
         Date: "12.10.25",
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "1", // 5 Сезон 13-14 Эпизод
         Date: "21.10.25",
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "2", // 5 Сезон 15-18 Эпизод
         Date: "27.10.25",
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "1", // 5 Сезон 19-20 Эпизод
         Date: "11.11.25",
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "1", // 5 Сезон 21-22 Эпизод
         Date: "18.11.25",
         Listed: true,
@@ -2581,31 +2770,31 @@ const ordersDatabase = [
     Type: "order-finished",
     Slots: [
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "3", // 4 Сезон 1-6 Эпизод
         Date: "25.07.25",
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "1", // 4 Сезон 7-8 Эпизод
         Date: "25.07.25",
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "3", // 4 Сезон 9-14 Эпизод
         Date: "05.08.25",
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "2", // 4 Сезон 15-18 Эпизод
         Date: "06.08.25",
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "2", // 4 Сезон 19-22 Эпизод
         Date: "15.08.25",
         Listed: true,
@@ -2619,31 +2808,31 @@ const ordersDatabase = [
     Type: "order-finished",
     Slots: [
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "0.5", // 3 Сезон 1 Эпизод
         Date: "05.06.25",
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "2", // 3 Сезон 2-5 Эпизод
         Date: "30.06.25",
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "2", // 3 Сезон 6-9 Эпизод
         Date: "15.07.25",
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "2.5", // 3 Сезон 10-14 Эпизод
         Date: "20.07.25",
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "1", // 3 Сезон 15-16 Эпизод
         Date: "25.07.25",
         Listed: true,
@@ -2657,43 +2846,43 @@ const ordersDatabase = [
     Type: "order-finished",
     Slots: [
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "1", // 2 Сезон 1-2 Эпизод
         Date: "24.11.24",
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "2.5", // 2 Сезон 3-7 Эпизод
         Date: "15.12.24",
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "1", // 2 Сезон 8-9 Эпизод
         Date: "22.01.25",
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "1", // 2 Сезон 10-11 Эпизод
         Date: "20.02.25",
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "2", // 2 Сезон 12-15 Эпизод
         Date: "06.04.25",
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "2", // 2 Сезон 16-19 Эпизод
         Date: "08.05.25",
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "1.5", // 2 Сезон 20-22 Эпизод
         Date: "05.06.25",
         Listed: true,
@@ -2707,43 +2896,43 @@ const ordersDatabase = [
     Type: "order-finished",
     Slots: [
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "3", // 1 Сезон 1-6 Эпизод
         Date: "10.05.24",
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "2", // 1 Сезон 7-10 Эпизод
         Date: "15.06.24",
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "1", // 1 Сезон 11-12 Эпизод
         Date: "16.08.24",
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "1", // 1 Сезон 13-14 Эпизод
         Date: "11.09.24",
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "2", // 1 Сезон 15-18 Эпизод
         Date: "18.10.24",
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "1", // 1 Сезон 19-20 Эпизод
         Date: "01.11.24",
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "1", // 1 Сезон 21-22 Эпизод
         Date: "09.11.24",
         Listed: true,
@@ -2758,43 +2947,43 @@ const ordersDatabase = [
     Type: "order-finished",
     Slots: [
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "1.5", // 1 Сезон 1-3 Эпизод
         Date: "09.10.24",
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "1", // 1 Сезон 4-5 Эпизод
         Date: "18.10.24",
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "1", // 1 Сезон 6-7 Эпизод
         Date: "26.10.24",
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "1", // 1 Сезон 8-9 Эпизод
         Date: "01.11.24",
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "1", // 1 Сезон 10-11 Эпизод
         Date: "24.11.24",
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "1", // 1 Сезон 12-13 Эпизод
         Date: "11.01.25",
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "4.5", // 1 Сезон 14-22 Эпизод
         Date: "21.01.25",
         Listed: true,
@@ -2809,7 +2998,7 @@ const ordersDatabase = [
     Type: "order-finished",
     Slots: [
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "5", // 1 Сезон 1-10 Эпизод
         Date: "25.12.24",
         Listed: true,
@@ -2823,7 +3012,7 @@ const ordersDatabase = [
     Type: "order-finished",
     Slots: [
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "6", // 1 Сезон 1-12 Эпизод
         Date: "25.12.24",
         Listed: true,
@@ -2837,13 +3026,13 @@ const ordersDatabase = [
     Type: "order-finished",
     Slots: [
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "3.5", // 1 Сезон 1-7 Эпизод
         Date: "28.09.24",
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "3", // 1 Сезон 8-13 Эпизод
         Date: "09.12.25",
         Listed: true,
@@ -2857,13 +3046,13 @@ const ordersDatabase = [
     Type: "order-finished",
     Slots: [
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "2", // 1 Сезон 1-4 Эпизод
         Date: "18.05.24",
         Listed: true,
       },
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "4.5", // 1 Сезон 5-13 Эпизод
         Date: "08.06.24",
         Listed: true,
@@ -2877,7 +3066,7 @@ const ordersDatabase = [
     Type: "order-finished",
     Slots: [
       {
-        Name: "Твою мать!",
+        Name: "ТВОЮ МАТЬ",
         Slot: "6", // 1 Сезон 1-12 Эпизод
         Date: "09.12.23",
         Listed: true,

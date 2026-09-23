@@ -140,6 +140,7 @@ function createOrderCard(item, cardTypeClass = "order") {
   if (nameRuEl) {
     const nameRuInfo = SiteEngine.processNameForSorting(item.NameRU || item.nameRu || "");
     nameRuEl.textContent = nameRuInfo.cleanName;
+    nameRuEl.addEventListener("click", () => copyNameToClipboard(nameRuEl, nameRuInfo.cleanName));
   }
 
   const nameEnEl = clone.querySelector(".name-en");
@@ -200,6 +201,17 @@ function createOrderCard(item, cardTypeClass = "order") {
   }
 
   return clone;
+}
+
+function copyNameToClipboard(el, text) {
+  if (!el || !text) return;
+  navigator.clipboard.writeText(text).then(() => {
+    const original = el.textContent;
+    el.textContent = "Скопировано в буфер обмена";
+    setTimeout(() => {
+      el.textContent = original;
+    }, 1000);
+  });
 }
 
 const OrdersConfig = {

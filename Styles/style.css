@@ -1676,6 +1676,9 @@ body[data-theme="dark"] {
       background-repeat: no-repeat;
       .info {
         flex-grow: unset;
+        .name-ru > * {
+          cursor: copy;
+        }
         .simple.status {
           text-transform: none;
           font-size: 16px;
