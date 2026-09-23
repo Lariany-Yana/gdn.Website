@@ -1,6 +1,10 @@
 /* MARK: scrollbar
 */
 
+* {
+  scrollbar-color: #808080 transparent;
+}
+
 ::-webkit-scrollbar {
   width: var(--scrollbar);
   height: var(--scrollbar);
