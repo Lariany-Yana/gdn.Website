@@ -856,16 +856,16 @@ body[data-theme="dark"] {
       }
 
       &[id^="Series-"] .about .simple.status::before {
-        content: "Просмотрено: ";
+        content: "Просмотрено:\20";
       }
       &[id^="Fullmeter-"] .about .simple.status::before {
         content: unset;
       }
       &[id^="Literary-"] .about .simple.status::before {
-        content: "Прочитано: ";
+        content: "Прочитано:\20";
       }
       &[id^="Amusement-Games_"] .about .simple.status::before {
-        content: "Наиграно: ";
+        content: "Наиграно:\20";
       }
 
       /* MARK: project > about
@@ -939,7 +939,7 @@ body[data-theme="dark"] {
           text-transform: uppercase;
           color: var(--status-color);
           &::before {
-            content: "Просмотрено: ";
+            content: "Просмотрено:\20";
           }
           &:empty {
             display: none;
@@ -955,7 +955,7 @@ body[data-theme="dark"] {
             display: none !important;
           }
           &::before {
-            content: "Потребуется минимум ";
+            content: "Потребуется минимум\20";
           }
 
           &.donut-1 {
@@ -1077,7 +1077,7 @@ body[data-theme="dark"] {
 
               &.lost {
                 .group:first-child .name::after {
-                  content: " (Утеряно)";
+                  content: "\20(Утеряно)";
                 }
                 .group:last-child {
                   display: none;
@@ -1108,7 +1108,7 @@ body[data-theme="dark"] {
                     font-size: 14px;
                     opacity: 0.75;
                     &::before {
-                      content: "Стрим был ";
+                      content: "Стрим был\20";
                     }
                     &:empty {
                       display: none;
@@ -1413,38 +1413,38 @@ body[data-theme="dark"] {
 
     &[id^="Series-"] .info {
       .simple.status::before {
-        content: "Просмотрено: ";
+        content: "Просмотрено:\20";
       }
       .group .watch::after {
-        content: " эпизоды";
+        content: "\20эпизоды";
       }
     }
     &[id^="Fullmeter-"] .info {
       .group .watch::after {
-        content: " сборник";
+        content: "\20сборник";
       }
     }
     &[id^="Literary-"] .info {
       .simple.status::before {
-        content: "Прочитано: ";
+        content: "Прочитано:\20";
       }
       .group .watch::after {
-        content: " главы";
+        content: "\20главы";
       }
     }
     &[id^="Amusement-Games_"] .info {
       .simple.status::before {
-        content: "Наиграно: ";
+        content: "Наиграно:\20";
       }
       .group .watch::after {
-        content: " прохождение";
+        content: "\20прохождение";
       }
     }
     &[id^="Amusement-YouTube_"] .info .group .watch::after {
-      content: " реакции";
+      content: "\20реакции";
     }
     &[id^="Amusement-TV-shows_"] .info .group .watch::after {
-      content: " эпизоды";
+      content: "\20эпизоды";
     }
 
     &:is([id$="Anime_Shingeki-no-Kyojin"], [id$="Anime_Mushoku-Tensei"], [id$="Anime_Ishuzoku-Reviewers"]) .info::after {
@@ -1460,7 +1460,7 @@ body[data-theme="dark"] {
     }
 
     &:is([id$="Anime_Gundam-UNIVERSAL-CENTURY"], [id$="Anime_Gundam-COSMIC-ERA"], [id$="Anime_Gundam-ANNO-DOMINI"], [id$="Anime_Gundam-FUTURE-CENTURY"], [id$="Anime_Gundam-AFTER-COLONY"], [id$="Anime_Gundam-AD-STELLA"], [id$="Anime_Gundam-POST-DISASTER"]) .info .group .watch::after {
-      content: " сборник";
+      content: "\20сборник";
     }
 
     .info {
@@ -1546,10 +1546,10 @@ body[data-theme="dark"] {
           cursor: pointer;
 
           &.link.vk::after {
-            content: " в ВК";
+            content: "\20в ВК";
           }
           &.link.boosty::after {
-            content: " на Бусти";
+            content: "\20на Бусти";
           }
           @media (hover: hover) {
             &:hover {
@@ -1620,7 +1620,7 @@ body[data-theme="dark"] {
             display: none !important;
           }
           &::after {
-            content: " и выше";
+            content: "\20и выше";
           }
 
           &.donut-1 {
@@ -1747,7 +1747,7 @@ body[data-theme="dark"] {
           }
 
           .count::before {
-            content: "Слотов: ";
+            content: "Слотов:\20";
             white-space: pre-wrap;
           }
           .name {
@@ -1929,7 +1929,7 @@ body[data-theme="dark"] {
       display: none;
     }
     body::after {
-      content: "Сайт не адаптирован под горизонтальный режим :(";
+      content: "Сайт не адаптирован под горизонтальный режим\20:(";
       color: var(--text-color-main);
       display: block;
       position: absolute;

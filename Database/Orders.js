@@ -22,18 +22,18 @@ const ordersDatabase = [
     ID: "order_Imawa-no-Kuni-no-Arisu-2",
     NameRU: "Алиса в Пограничье",
     NameEN: "Imawa no Kuni no Arisu",
-    Status: "Аниме ⨯ Просмотрено: 2 Сезон 1-3/8 Эпизод",
+    Status: "Аниме ⨯ В заказе: 2 Сезон 7-8/8 Эпизод",
     Type: "order-during",
     Slots: [
       {
         Name: "plague_9bit",
-        Slot: "1.5", // 1 Сезон 1-3 Эпизод
+        Slot: "3", // 1 Сезон 1-6 Эпизод
         Date: "18.09.26",
         Listed: true,
       },
       {
         Name: "plague_9bit",
-        Slot: "2.5", // 1 Сезон 4-8 Эпизод
+        Slot: "1", // 1 Сезон 7-8 Эпизод
         Date: "18.09.26",
       },
     ],

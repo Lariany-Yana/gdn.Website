@@ -33,8 +33,7 @@ const scheduleDatabase = [
   {
     NameRU: "Алиса в Пограничье",
     NameEN: "Imawa no Kuni no Arisu",
-    Status: "Сериал × Начало в 16:00 по МСК",
-    //Status: "Сериал × 2 Сезон 4-8 Эпизод",
+    Status: "Сериал × 2 Сезон 4-6 Эпизод",
     Current: true,
     Date: "23.09.26",
   },
