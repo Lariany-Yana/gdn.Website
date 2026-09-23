@@ -4,6 +4,11 @@ const amusementPokerPopups = {
       Title: "2026",
       Episodes: [
         {
+          Name: "22 Сентября",
+          Link: ["vk", "456241907?t=6m22s"],
+          Player: ["vk", "456241907", "219758c77677a5dd", "0h6m22s"],
+        },
+        {
           Name: "9 Августа",
           Link: ["vk", "456241880"],
           Player: ["vk", "456241880", "0e12eeb55f687f1e", "0h0m0s"],
