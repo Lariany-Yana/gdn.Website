@@ -146,7 +146,7 @@ const seriesSerials = [
     ID: "Series-Serials_Gotham",
     NameRU: "Готэм",
     NameEN: "Gotham",
-    Status: "1 Сезон 1-12/22 Эпизод",
+    Status: "1 Сезон 1-14/22 Эпизод",
     Donut: "donut-3",
     Image: "https://static.tildacdn.com/tild6464-3561-4335-b136-363136313938/img.webp",
     Type: "series-Serial",

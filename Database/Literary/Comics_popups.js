@@ -27,4 +27,25 @@ const literatureComicsPopups = {
       ],
     },
   ],
+  "Literary-Comics_Avengers-Jonathan-Hickman": [
+    {
+      Title: "",
+      Episodes: [
+        {
+          Name: "1-3 Главы",
+          Date: "01.09.2026",
+          Donut: "donut-3",
+          Link: ["vk", "456241894?t=3h26m52s"],
+          Player: ["vk", "456241894", "2ffed7658943a3df", "3h26m52s"],
+        },
+        {
+          Name: "4-6 Главы",
+          Date: "24.09.2026",
+          Donut: "donut-3",
+          Link: ["vk", "456241909?t=4h26m55s"],
+          Player: ["vk", "456241909", "28f0e47ffe3e61a9", "4h26m55s"],
+        },
+      ],
+    },
+  ],
 };

@@ -385,11 +385,15 @@ function getFlatOrdersDatabase(ordersDb) {
 
 // Вызов глобального метода поиска со включенным флагом поиска по никнеймам (@)
 SiteEngine.registerSearch((query, cardsContainer, noteEl) => {
+  const filteredData = window.ordersEngine.indexedData.filter(
+    (item) => item.Type !== "order-finished" && item.Type !== "order-switch"
+  );
+
   SiteEngine.runSearch({
     query,
     cardsContainer,
     noteEl,
-    indexedData: window.ordersEngine.indexedData,
+    indexedData: filteredData,
     createCardFn: createOrderCard,
     cardTypeClass: "order",
     enableNickSearch: true,

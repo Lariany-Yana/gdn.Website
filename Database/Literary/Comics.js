@@ -23,10 +23,8 @@ const literatureComics = [
   {
     NameRU: "Мстители Хикмана",
     NameEN: "Avengers by Jonathan Hickman",
-    Status: "1-3 Главы",
+    Status: "1-6/44 Главы",
     Donut: "donut-3",
-    Link: ["vk", "456241894?t=3h26m52s"],
-    Player: ["vk", "456241894", "2ffed7658943a3df", "3h26m52s"],
     ID: "Literary-Comics_Avengers-Jonathan-Hickman",
     Image: "https://static.tildacdn.com/tild6263-3665-4032-b736-663939656337/img.webp",
     Type: "literature-Comics",
