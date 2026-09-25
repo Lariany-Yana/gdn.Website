@@ -19,26 +19,6 @@ const ordersDatabase = [
 
   //#region ~В процессе~
   {
-    ID: "order_Imawa-no-Kuni-no-Arisu-2",
-    NameRU: "Алиса в Пограничье",
-    NameEN: "Imawa no Kuni no Arisu",
-    Status: "Аниме ⨯ В заказе: 2 Сезон 7-8/8 Эпизод",
-    Type: "order-during",
-    Slots: [
-      {
-        Name: "plague_9bit",
-        Slot: "3", // 1 Сезон 1-6 Эпизод
-        Date: "18.09.26",
-        Listed: true,
-      },
-      {
-        Name: "plague_9bit",
-        Slot: "1", // 1 Сезон 7-8 Эпизод
-        Date: "18.09.26",
-      },
-    ],
-  },
-  {
     ID: "order_Nanatsu-no-Taizai-2",
     NameRU: "Семь смертных грехов 2: Возрождение заповедей",
     NameEN: "Nanatsu no Taizai: Imashime no Fukkatsu",
@@ -1793,6 +1773,21 @@ const ordersDatabase = [
   },
   //#endregion
   //#region ~Просмотренное~
+  {
+    ID: "order_Imawa-no-Kuni-no-Arisu-2",
+    NameRU: "Алиса в Пограничье",
+    NameEN: "Imawa no Kuni no Arisu",
+    Status: "Сериал ⨯ Просмотрено: 2 Сезон 1-8/8 Эпизод",
+    Type: "order-finished",
+    Slots: [
+      {
+        Name: "plague_9bit",
+        Slot: "4", // 1 Сезон 1-8 Эпизод
+        Date: "18.09.26",
+        Listed: true,
+      },
+    ],
+  },
   {
     NameRU: "Управление воспоминаниями (2026)",
     NameEN: "Jiyi Guanli Ju (2026)",

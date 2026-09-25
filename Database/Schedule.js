@@ -118,13 +118,6 @@ const scheduleDatabase = [
     Current: true,
     Date: "23.09.26",
   },
-  {
-    NameRU: "Мстители Хикмана",
-    NameEN: "Avengers by Jonathan Hickman",
-    scheduleRemark: "Комикс × 7-9 Главы",
-    Current: true,
-    Date: "23.09.26",
-  },
   // Суббота
   {
     Status: "Стрим невозможен",
