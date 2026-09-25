@@ -8,6 +8,58 @@ const scheduleDatabase = [
     Current: true,
     Date: "00.09.26",
   },
+  // Понедельник
+  {
+    Status: "Стрим невозможен",
+    Current: true,
+    Date: "21.10.26",
+  },
+  // Вторник
+  {
+    NameRU: "Name",
+    NameEN: "Name",
+    Status: "Status",
+    Current: true,
+    Date: "22.10.26",
+  },
+  // Среда
+  {
+    NameRU: "Name",
+    NameEN: "Name",
+    Status: "Status",
+    Current: true,
+    Date: "23.10.26",
+  },
+  // Четверг
+  {
+    NameRU: "Name",
+    NameEN: "Name",
+    Status: "Status",
+    Current: true,
+    Date: "24.10.26",
+  },
+  // Пятница
+  {
+    NameRU: "Name",
+    NameEN: "Name",
+    Status: "Status",
+    Current: true,
+    Date: "25.10.26",
+  },
+  // Суббота
+  {
+    Status: "Стрим невозможен",
+    Current: true,
+    Date: "26.10.26",
+  },
+  // Воскресенье
+  {
+    NameRU: "Name",
+    NameEN: "Name",
+    Status: "Status",
+    Current: true,
+    Date: "00.10.26",
+  },
   */
 
   // Понедельник
@@ -60,12 +112,18 @@ const scheduleDatabase = [
   },
   // Пятница
   {
-    NameRU: "Семь смертных грехов",
-    NameEN: "Nanatsu no Taizai / The Seven Deadly Sins",
-    Status: "Аниме × Начало в 16:00 по МСК",
-    //Status: "Аниме × 2 Сезон 13-24 Эпизод",
+    NameRU: "Алиса в Пограничье",
+    NameEN: "Imawa no Kuni no Arisu",
+    Status: "Сериал × 2 Сезон 7-8 Эпизод",
     Current: true,
-    Date: "25.09.26",
+    Date: "23.09.26",
+  },
+  {
+    NameRU: "Мстители Хикмана",
+    NameEN: "Avengers by Jonathan Hickman",
+    scheduleRemark: "Комикс × 7-9 Главы",
+    Current: true,
+    Date: "23.09.26",
   },
   // Суббота
   {
@@ -74,6 +132,14 @@ const scheduleDatabase = [
     Date: "26.09.26",
   },
   // Воскресенье
+  {
+    NameRU: "Семь смертных грехов",
+    NameEN: "Nanatsu no Taizai / The Seven Deadly Sins",
+    Status: "Аниме × Начало в 14:00 по МСК",
+    //Status: "Аниме × 2 Сезон 13-24 Эпизод",
+    Current: true,
+    Date: "27.09.26",
+  },
   {
     NameRU: "Трансформеры",
     Status: "Начало в 16:00 по МСК",
@@ -87,12 +153,67 @@ const scheduleDatabase = [
     Current: true,
     Date: "27.09.26",
   },
+  /*
+  // Понедельник
+  {
+    Status: "Стрим невозможен",
+    Current: true,
+    Date: "21.10.26",
+  },
+  // Вторник
+  {
+    NameRU: "Ангельские ритмы!",
+    NameEN: "Angel Beats!",
+    Status: "Аниме × Начало в 15:00 по МСК",
+    //Status: "Аниме × 1 Сезон 1-13 Эпизод",
+    Current: true,
+    Date: "22.10.26",
+  },
+  // Среда
+  {
+    NameRU: "Готэм",
+    NameEN: "Gotham",
+    Status: "Сериал × Начало в 17:00 по МСК",
+    //Status: "Сериал × 1 Сезон 15-16 Эпизод",
+    Current: true,
+    Date: "23.10.26",
+  },
   {
     NameRU: "The Alters",
-    Status: "Игра × Начало в 16:00 по МСК",
+    Status: "Игра × Начало в 19:00 по МСК",
     Current: true,
-    Date: "27.09.26",
+    Date: "23.10.26",
   },
+  // Четверг
+  {
+    NameRU: "Name",
+    NameEN: "Name",
+    Status: "Status",
+    Current: true,
+    Date: "24.10.26",
+  },
+  // Пятница
+  {
+    NameRU: "Name",
+    NameEN: "Name",
+    Status: "Status",
+    Current: true,
+    Date: "25.10.26",
+  },
+  // Суббота
+  {
+    Status: "Стрим невозможен",
+    Current: true,
+    Date: "26.10.26",
+  },
+  // Воскресенье
+  {
+    NameRU: "Name",
+    NameEN: "Name",
+    Status: "Status",
+    Current: true,
+    Date: "00.10.26",
+  },*/
 
   //#region Старое: Январь 26
   // Четверг
