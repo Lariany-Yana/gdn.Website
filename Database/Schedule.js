@@ -116,7 +116,7 @@ const scheduleDatabase = [
     NameEN: "Imawa no Kuni no Arisu",
     Status: "Сериал × 2 Сезон 7-8 Эпизод",
     Current: true,
-    Date: "23.09.26",
+    Date: "25.09.26",
   },
   // Суббота
   {
