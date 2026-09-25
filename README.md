@@ -2,9 +2,9 @@
 [<img src="https://img.shields.io/badge/Стримы тут-9146FF.svg?style=plastic&labelColor=9146FF&logo=twitch&logoColor=white" height="25" />](https://www.twitch.tv/godenname)
 [<img src="https://img.shields.io/badge/Новости тут-0088cc.svg?style=plastic&labelColor=0088cc&logo=telegram&logoColor=white" height="25" />](https://t.me/gooodenname)
 ###
-[<img src="https://img.shields.io/badge/Архив (Основной)-0077FF.svg?style=plastic&labelColor=0077FF&logo=vk&logoColor=white" height="20" />](https://vk.ru/invite/A8Zbmwc)
-[<img src="https://img.shields.io/badge/Архив (Резерв)-F15A24.svg?style=plastic&labelColor=F15A24&logo=boosty&logoColor=white" height="20" />](https://boosty.to/hiddenarchive)
-[<img src="https://img.shields.io/badge/Старый Бусти-F15A24.svg?style=plastic&labelColor=F15A24&logo=boosty&logoColor=white" height="20" />](https://boosty.to/hiddenarchive)
+[<img src="https://img.shields.io/badge/Архив (Основной)-0077FF.svg?style=plastic&labelColor=0077FF&logo=vk&logoColor=white" height="25" />](https://vk.ru/invite/A8Zbmwc)
+[<img src="https://img.shields.io/badge/Архив (Резерв)-F15A24.svg?style=plastic&labelColor=F15A24&logo=boosty&logoColor=white" height="25" />](https://boosty.to/hiddenarchive)
+[<img src="https://img.shields.io/badge/Старый Бусти-F15A24.svg?style=plastic&labelColor=F15A24&logo=boosty&logoColor=white" height="25" />](https://boosty.to/hiddenarchive)
 
 Это официальный сайт стримера Годня, на нём можно найти основную информацию, просмотренный контент и имеющиеся заказы.
 
