@@ -1336,7 +1336,7 @@ const seriesAnime = [
     ID: "Series-Anime_Nanatsu-no-Taizai",
     NameRU: "Семь смертных грехов",
     NameEN: "Nanatsu no Taizai / The Seven Deadly Sins",
-    Status: "1 Сезон, 2 Сезон 1-12/24 Эпизод",
+    Status: "1 Сезон, 2 Сезон 1-20/24 Эпизод",
     Donut: "donut-2",
     Image: "https://static.tildacdn.com/tild6366-3833-4230-b663-616162373037/__.webp",
     Type: "series-Anime",

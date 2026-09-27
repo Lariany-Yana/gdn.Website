@@ -22,7 +22,7 @@ const ordersDatabase = [
     ID: "order_Nanatsu-no-Taizai-2",
     NameRU: "Семь смертных грехов 2: Возрождение заповедей",
     NameEN: "Nanatsu no Taizai: Imashime no Fukkatsu",
-    Status: "Аниме × В заказе: 2 Сезон 13-24/24 Эпизод",
+    Status: "Аниме × В заказе: 2 Сезон 21-24/24 Эпизод",
     Type: "order-during",
     Slots: [
       {
@@ -41,11 +41,13 @@ const ordersDatabase = [
         Name: "Podserty",
         Slot: "1", // 2 Сезон 13-16 Эпизод
         Date: "14.12.25",
+        Listed: true,
       },
       {
         Name: "Coras",
         Slot: "1", // 2 Сезон 17-20 Эпизод
         Date: "21.08.26",
+        Listed: true,
       },
       {
         Name: "Wonder Of You",
@@ -1029,6 +1031,20 @@ const ordersDatabase = [
   //#endregion
   //#region ~В уточнении~
   {
+    NameRU: "Трансформеры: Начало",
+    NameEN: "Transformers One",
+    Status: "Мультфильм",
+    Type: "order-determinate",
+    Slots: [
+      {
+        Name: "Без имени",
+        Slot: "1",
+        Date: "Без даты",
+        Listed: false,
+      },
+    ],
+  },
+  {
     NameRU: "Мстители Хикмана",
     NameEN: "Avengers by Jonathan Hickman",
     Status: "Комиксы ⨯ Прочитано: 1-6/44 Главы",
@@ -1774,7 +1790,6 @@ const ordersDatabase = [
   //#endregion
   //#region ~Просмотренное~
   {
-    ID: "order_Imawa-no-Kuni-no-Arisu-2",
     NameRU: "Алиса в Пограничье",
     NameEN: "Imawa no Kuni no Arisu",
     Status: "Сериал ⨯ Просмотрено: 2 Сезон 1-8/8 Эпизод",

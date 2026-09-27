@@ -66,91 +66,6 @@ const scheduleDatabase = [
   {
     Status: "Стрим невозможен",
     Current: true,
-    Date: "21.09.26",
-  },
-  // Вторник
-  {
-    NameRU: "Викинги",
-    NameEN: "Vikings",
-    Status: "Сериал × 4 Сезон 15-18 Эпизод",
-    Current: true,
-    Date: "22.09.26",
-  },
-  {
-    NameRU: "Покер",
-    Current: true,
-    Date: "22.09.26",
-  },
-  // Среда
-  {
-    NameRU: "Алиса в Пограничье",
-    NameEN: "Imawa no Kuni no Arisu",
-    Status: "Сериал × 2 Сезон 4-6 Эпизод",
-    Current: true,
-    Date: "23.09.26",
-  },
-  // Четверг
-  {
-    NameRU: "Готэм",
-    NameEN: "Gotham",
-    Status: "Сериал × 1 Сезон 13-14 Эпизод",
-    Current: true,
-    Date: "24.09.26",
-  },
-  {
-    NameRU: "Warhammer 40 000: Rogue Trader",
-    Status: "Игра",
-    Current: true,
-    Date: "24.09.26",
-  },
-  {
-    NameRU: "Мстители Хикмана",
-    NameEN: "Avengers by Jonathan Hickman",
-    scheduleRemark: "Комикс × 4-6 Главы",
-    Current: true,
-    Date: "24.09.26",
-  },
-  // Пятница
-  {
-    NameRU: "Алиса в Пограничье",
-    NameEN: "Imawa no Kuni no Arisu",
-    Status: "Сериал × 2 Сезон 7-8 Эпизод",
-    Current: true,
-    Date: "25.09.26",
-  },
-  // Суббота
-  {
-    Status: "Стрим невозможен",
-    Current: true,
-    Date: "26.09.26",
-  },
-  // Воскресенье
-  {
-    NameRU: "Семь смертных грехов",
-    NameEN: "Nanatsu no Taizai / The Seven Deadly Sins",
-    Status: "Аниме × Начало в 14:00 по МСК",
-    //Status: "Аниме × 2 Сезон 13-24 Эпизод",
-    Current: true,
-    Date: "27.09.26",
-  },
-  {
-    NameRU: "Трансформеры",
-    Status: "Начало в 16:00 по МСК",
-    Current: true,
-    Date: "27.09.26",
-  },
-  {
-    NameRU: "Целитель Адамс",
-    NameEN: "Patch Adams",
-    Status: "Фильм × Начало в 16:00 по МСК",
-    Current: true,
-    Date: "27.09.26",
-  },
-  /*
-  // Понедельник
-  {
-    Status: "Стрим невозможен",
-    Current: true,
     Date: "21.10.26",
   },
   // Вторник
@@ -206,7 +121,7 @@ const scheduleDatabase = [
     Status: "Status",
     Current: true,
     Date: "00.10.26",
-  },*/
+  },
 
   //#region Старое: Январь 26
   // Четверг
@@ -2934,7 +2849,7 @@ const scheduleDatabase = [
   {
     NameRU: "Мстители Хикмана",
     NameEN: "Avengers by Jonathan Hickman",
-    scheduleRemark: "Комикс × 1-3 Главы",
+    Status: "Комикс × 1-3 Главы",
     Current: false,
     Date: "01.09.26",
   },
@@ -3127,6 +3042,83 @@ const scheduleDatabase = [
     Status: "Сериал × 2 Сезон 1-4 Эпизод",
     Current: false,
     Date: "20.09.26",
+  },
+  // Понедельник
+  {
+    Status: "Стрим невозможен",
+    Current: false,
+    Date: "21.09.26",
+  },
+  // Вторник
+  {
+    NameRU: "Викинги",
+    NameEN: "Vikings",
+    Status: "Сериал × 4 Сезон 15-18 Эпизод",
+    Current: false,
+    Date: "22.09.26",
+  },
+  {
+    NameRU: "Покер",
+    Current: false,
+    Date: "22.09.26",
+  },
+  // Среда
+  {
+    NameRU: "Алиса в Пограничье",
+    NameEN: "Imawa no Kuni no Arisu",
+    Status: "Сериал × 2 Сезон 4-6 Эпизод",
+    Current: false,
+    Date: "23.09.26",
+  },
+  // Четверг
+  {
+    NameRU: "Готэм",
+    NameEN: "Gotham",
+    Status: "Сериал × 1 Сезон 13-14 Эпизод",
+    Current: false,
+    Date: "24.09.26",
+  },
+  {
+    NameRU: "Warhammer 40 000: Rogue Trader",
+    Status: "Игра",
+    Current: false,
+    Date: "24.09.26",
+  },
+  {
+    NameRU: "Мстители Хикмана",
+    NameEN: "Avengers by Jonathan Hickman",
+    Status: "Комикс × 4-6 Главы",
+    Current: false,
+    Date: "24.09.26",
+  },
+  // Пятница
+  {
+    NameRU: "Алиса в Пограничье",
+    NameEN: "Imawa no Kuni no Arisu",
+    Status: "Сериал × 2 Сезон 7-8 Эпизод",
+    Current: false,
+    Date: "25.09.26",
+  },
+  // Суббота
+  {
+    Status: "Стрим невозможен",
+    Current: false,
+    Date: "26.09.26",
+  },
+  // Воскресенье
+  {
+    NameRU: "Семь смертных грехов",
+    NameEN: "Nanatsu no Taizai / The Seven Deadly Sins",
+    Status: "Аниме × 2 Сезон 13-20 Эпизод",
+    Current: false,
+    Date: "27.09.26",
+  },
+  {
+    NameRU: "Трансформеры: Начало",
+    NameEN: "Transformers One",
+    Status: "Мультфильм",
+    Current: false,
+    Date: "27.09.26",
   },
   //#endregion
 ];
