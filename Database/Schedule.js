@@ -90,7 +90,7 @@ const scheduleDatabase = [
     NameRU: "The Alters",
     Status: "Игра × Начало в 19:00 по МСК",
     Current: true,
-    Date: "30.10.26",
+    Date: "30.09.26",
   },
   // Четверг
   {
