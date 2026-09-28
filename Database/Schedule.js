@@ -66,7 +66,7 @@ const scheduleDatabase = [
   {
     Status: "Стрим невозможен",
     Current: true,
-    Date: "21.10.26",
+    Date: "28.09.26",
   },
   // Вторник
   {
@@ -75,7 +75,7 @@ const scheduleDatabase = [
     Status: "Аниме × Начало в 15:00 по МСК",
     //Status: "Аниме × 1 Сезон 1-13 Эпизод",
     Current: true,
-    Date: "22.10.26",
+    Date: "29.09.26",
   },
   // Среда
   {
@@ -84,37 +84,37 @@ const scheduleDatabase = [
     Status: "Сериал × Начало в 17:00 по МСК",
     //Status: "Сериал × 1 Сезон 15-16 Эпизод",
     Current: true,
-    Date: "23.10.26",
+    Date: "30.09.26",
   },
   {
     NameRU: "The Alters",
     Status: "Игра × Начало в 19:00 по МСК",
     Current: true,
-    Date: "23.10.26",
+    Date: "30.10.26",
   },
   // Четверг
   {
     Status: "Стрим возможен",
     Current: true,
-    Date: "24.10.26",
+    Date: "01.10.26",
   },
   // Пятница
   {
     Status: "Стрим возможен",
     Current: true,
-    Date: "25.10.26",
+    Date: "02.10.26",
   },
   // Суббота
   {
     Status: "Стрим невозможен",
     Current: true,
-    Date: "26.10.26",
+    Date: "03.10.26",
   },
   // Воскресенье
   {
     Status: "Стрим возможен",
     Current: true,
-    Date: "00.10.26",
+    Date: "04.10.26",
   },
 
   //#region Старое: Январь 26
