@@ -94,17 +94,13 @@ const scheduleDatabase = [
   },
   // Четверг
   {
-    NameRU: "Name",
-    NameEN: "Name",
-    Status: "Status",
+    Status: "Стрим возможен",
     Current: true,
     Date: "24.10.26",
   },
   // Пятница
   {
-    NameRU: "Name",
-    NameEN: "Name",
-    Status: "Status",
+    Status: "Стрим возможен",
     Current: true,
     Date: "25.10.26",
   },
@@ -116,9 +112,7 @@ const scheduleDatabase = [
   },
   // Воскресенье
   {
-    NameRU: "Name",
-    NameEN: "Name",
-    Status: "Status",
+    Status: "Стрим возможен",
     Current: true,
     Date: "00.10.26",
   },
