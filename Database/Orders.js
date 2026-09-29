@@ -844,20 +844,6 @@ const ordersDatabase = [
     ],
   },
   {
-    ID: "order_Angel-Beats",
-    NameRU: "Ангельские ритмы!",
-    NameEN: "Angel Beats!",
-    Status: "Аниме × В заказе: 1 Сезон 1-4/13 Эпизод",
-    Type: "order-waiting",
-    Slots: [
-      {
-        Name: "Insomnia",
-        Slot: "1",
-        Date: "09.06.26",
-      },
-    ],
-  },
-  {
     ID: "order_Unlimited-Blade-Works-1",
     NameRU: "Судьба/Ночь схватки: Бесконечный мир клинков",
     NameEN: "Fate/stay night: Unlimited Blade Works",
@@ -1030,6 +1016,27 @@ const ordersDatabase = [
   },
   //#endregion
   //#region ~В уточнении~
+  {
+    ID: "order_Angel-Beats",
+    NameRU: "Ангельские ритмы!",
+    NameEN: "Angel Beats!",
+    Status: "Аниме × Просмотрено: 1 Сезон 1-7/13 Эпизод",
+    Type: "order-determinate",
+    Slots: [
+      {
+        Name: "Insomnia",
+        Slot: "1",
+        Date: "09.06.26",
+        Listed: true,
+      },
+      {
+        Name: "Без имени",
+        Slot: "0.75",
+        Date: "Без даты",
+        Listed: false,
+      },
+    ],
+  },
   {
     NameRU: "Трансформеры: Начало",
     NameEN: "Transformers One",

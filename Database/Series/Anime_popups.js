@@ -395,43 +395,41 @@ const seriesAnimePopups = {
       ],
     },
   ],
-  "Series-Anime_Bakuman": [
+  "Series-Anime_Aldnoah-Zero": [
     {
       Title: "1 Сезон",
       Episodes: [
         {
           Name: "1-4 Эпизод",
-          Date: "12.02.2021",
-          Link: ["vk", "456240870"],
-          Player: ["vk", "456240870", "bc6311d3a7e111ef", "0h0m0s"],
+          Date: "",
+          Link: ["vk", "456239256"],
+          Player: ["vk", "456239256", "b8767adfd3ca0d56", "0h0m0s"],
         },
         {
-          Name: "5-8 Эпизод",
-          Date: "19.02.2021",
-          Lost: true,
+          Name: "5-7 Эпизод",
+          Date: "",
+          Link: ["vk", "456239258"],
+          Player: ["vk", "456239258", "13b14bdac0b16d09", "0h0m0s"],
         },
         {
-          Name: "9-12 Эпизод",
-          Date: "26.02.2021",
-          Link: ["vk", "456240871"],
-          Player: ["vk", "456240871", "19ed36c2646dad7c", "0h0m0s"],
+          Name: "8-12 Эпизод",
+          Date: "",
+          Link: ["vk", "456239265"],
+          Player: ["vk", "456239265", "0db14590355a1dc5", "0h0m0s"],
         },
+      ],
+    },
+  ],
+  "Series-Anime_Angel-Beats": [
+    {
+      Title: "",
+      Episodes: [
         {
-          Name: "13-16 Эпизод",
-          Date: "07.03.2021",
-          Link: ["vk", "456240872"],
-          Player: ["vk", "456240872", "4dd986fb1111aad1", "0h0m0s"],
-        },
-        {
-          Name: "17-20 Эпизод",
-          Date: "14.03.2021",
-          Link: ["vk", "456240873"],
-          Player: ["vk", "456240873", "013d53fe79e4500d", "0h0m0s"],
-        },
-        {
-          Name: "21-25 Эпизод",
-          Date: "17.03.2021",
-          Lost: true,
+          Name: "1-4 Эпизод",
+          Donut: "donut-3",
+          Date: "29.09.2023",
+          Link: ["vk", "456241912?t=14m55s"],
+          Player: ["vk", "456241912", "8abd1a614e1513d7", "0h14m55s"],
         },
       ],
     },

@@ -72,8 +72,7 @@ const scheduleDatabase = [
   {
     NameRU: "Ангельские ритмы!",
     NameEN: "Angel Beats!",
-    Status: "Аниме × Начало в 15:00 по МСК",
-    //Status: "Аниме × 1 Сезон 1-13 Эпизод",
+    Status: "Аниме × 1 Сезон 1-7 Эпизод",
     Current: true,
     Date: "29.09.26",
   },

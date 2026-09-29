@@ -79,6 +79,15 @@ const seriesAnime = [
     Type: "series-Anime",
   },
   {
+    ID: "Series-Anime_Angel-Beats",
+    NameRU: "Ангельские ритмы!",
+    NameEN: "Angel Beats!",
+    Status: "1-7/12 Эпизод",
+    Donut: "donut-3",
+    Image: "https://static.tildacdn.com/tild6362-3532-4731-b832-373532616662/img.webp",
+    Type: "series-Anime",
+  },
+  {
     ID: "Series-Anime_Shingeki-no-Kyojin",
     NameRU: "Атака титанов",
     NameEN: "Shingeki no Kyojin / Attack on Titan",
