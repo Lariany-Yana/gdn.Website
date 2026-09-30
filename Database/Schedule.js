@@ -78,28 +78,23 @@ const scheduleDatabase = [
   },
   // Среда
   {
-    NameRU: "Готэм",
-    NameEN: "Gotham",
-    Status: "Сериал × Начало в 17:00 по МСК",
-    //Status: "Сериал × 1 Сезон 15-16 Эпизод",
-    Current: true,
-    Date: "30.09.26",
-  },
-  {
-    NameRU: "The Alters",
-    Status: "Игра × Начало в 19:00 по МСК",
+    Status: "Стрим не состоялся",
     Current: true,
     Date: "30.09.26",
   },
   // Четверг
   {
-    Status: "Стрим возможен",
+    NameRU: "Ангельские ритмы!",
+    NameEN: "Angel Beats!",
+    Status: "Аниме × Начало в ~15:00 по МСК",
+    //Status: "Аниме × 1 Сезон 8-13 Эпизод",
     Current: true,
     Date: "01.10.26",
   },
   // Пятница
   {
-    Status: "Стрим возможен",
+    NameRU: "The Alters",
+    Status: "Игра × Начало в ~15:00 по МСК",
     Current: true,
     Date: "02.10.26",
   },

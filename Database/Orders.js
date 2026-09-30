@@ -219,6 +219,26 @@ const ordersDatabase = [
     ],
   },
   {
+    ID: "order_Black-Clover-2",
+    NameRU: "Чёрный клевер",
+    NameEN: "Black Clover 2nd Season",
+    Status: "Игра × В заказе: 2 Сезон 1-24/↻ Эпизод",
+    Style: "user_Edwin",
+    Type: "order-waiting",
+    Slots: [
+      {
+        Name: "Статист",
+        Slot: "5",
+        Date: "29.05.24",
+      },
+      {
+        Name: "Статист",
+        Slot: "1",
+        Date: "05.07.24",
+      },
+    ],
+  },
+  {
     ID: "order_Most-Wanted-2005",
     NameRU: "Need for Speed: Most Wanted (2005)",
     Status: "Игра × В заказе: 14 Часов",
@@ -227,13 +247,8 @@ const ordersDatabase = [
     Slots: [
       {
         Name: "Статист",
-        Slot: "6",
-        Date: "29.05.24",
-      },
-      {
-        Name: "Статист",
         Slot: "1",
-        Date: "05.07.24",
+        Date: "29.05.24",
       },
     ],
   },
@@ -1632,6 +1647,21 @@ const ordersDatabase = [
   //#endregion
   //#region ~Свапы~
   {
+    Status: "Свап был 30.09.26 (Статист)",
+    Type: "order-switch",
+    FromTo: [
+      {
+        NameRU: "Need for Speed: Most Wanted (2005)",
+        Status: "Игра × 6 Слотов",
+      },
+      {
+        NameRU: "Чёрный клевер",
+        NameEN: "Black Clover 2nd Season",
+        Status: "Аниме × 2 Сезон 1-24 Эпизод",
+      },
+    ],
+  },
+  {
     Status: "Свап был 27.08.26 (Исида)",
     Type: "order-switch",
     FromTo: [
@@ -1648,7 +1678,6 @@ const ordersDatabase = [
   },
   {
     Status: "Свап был 16.08.26 (Мисти)",
-    Style: "user_Misty",
     Type: "order-switch",
     FromTo: [
       {
@@ -1665,7 +1694,6 @@ const ordersDatabase = [
   },
   {
     Status: "Свап был 14.08.26 (Мисти)",
-    Style: "user_Misty",
     Type: "order-switch",
     FromTo: [
       {
@@ -1714,7 +1742,6 @@ const ordersDatabase = [
   },
   {
     Status: "Свап был 23.06.26 (ТВОЮ МАТЬ)",
-    Style: "user_Katya",
     Type: "order-switch",
     FromTo: [
       {
@@ -1731,7 +1758,6 @@ const ordersDatabase = [
   },
   {
     Status: "Свап был 03.05.26 (Статист)",
-    Style: "user_Edwin",
     Type: "order-switch",
     FromTo: [
       {
@@ -1747,7 +1773,6 @@ const ordersDatabase = [
   },
   {
     Status: "Свап был 27.08.26 (Имя)",
-    Style: "user_Edwin",
     Type: "order-switch",
     FromTo: [
       {
@@ -1762,7 +1787,6 @@ const ordersDatabase = [
   },
   {
     Status: "Свап был 25.05.26 (Мисти)",
-    Style: "user_Misty",
     Type: "order-switch",
     FromTo: [
       {
@@ -1779,7 +1803,6 @@ const ordersDatabase = [
   },
   {
     Status: "Свап был 25.05.26 (Мисти)",
-    Style: "user_Misty",
     Type: "order-switch",
     FromTo: [
       {
