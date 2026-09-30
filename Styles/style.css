@@ -1,6 +1,22 @@
 /* MARK: scrollbar
 */
 
+@font-face {
+  font-display: swap;
+  font-family: "Inter Tight";
+  font-style: normal;
+  font-weight: 100 900;
+  src: url("../Fonts/InterTight-VariableFont_wght.woff2") format("woff2");
+}
+
+@font-face {
+  font-display: swap;
+  font-family: "Inter Tight";
+  font-style: italic;
+  font-weight: 100 900;
+  src: url("../Fonts/InterTight-Italic-VariableFont_wght.woff2") format("woff2");
+}
+
 * {
   scrollbar-color: #808080 transparent;
 }
@@ -47,7 +63,7 @@
 */
 
 :root {
-  --font-main: "Inter Tight", "Arial", sans-serif;
+  --font-main: "Inter Tight";
 
   --padding-S: 10px;
   --padding-M: 20px;
@@ -125,6 +141,7 @@
 html {
   background-color: #4d4d4d;
   font-family: var(--font-main);
+	font-style: normal;
   user-select: none;
 }
 
