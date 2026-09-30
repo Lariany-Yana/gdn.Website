@@ -241,7 +241,7 @@ const ordersDatabase = [
   {
     ID: "order_Most-Wanted-2005",
     NameRU: "Need for Speed: Most Wanted (2005)",
-    Status: "Игра × В заказе: 14 Часов",
+    Status: "Игра × В заказе: 2 Часа",
     Style: "user_Edwin",
     Type: "order-waiting",
     Slots: [
