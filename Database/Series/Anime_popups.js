@@ -425,11 +425,18 @@ const seriesAnimePopups = {
       Title: "",
       Episodes: [
         {
-          Name: "1-4 Эпизод",
+          Name: "1-7 Эпизод",
           Donut: "donut-3",
-          Date: "29.09.2023",
+          Date: "29.09.2026",
           Link: ["vk", "456241912?t=14m55s"],
           Player: ["vk", "456241912", "8abd1a614e1513d7", "0h14m55s"],
+        },
+        {
+          Name: "8-12 Эпизод",
+          Donut: "donut-3",
+          Date: "01.10.2026",
+          Link: ["vk", "456241913?t=17m8s"],
+          Player: ["vk", "456241913", "7c6b3a00bfcc7f6f", "0h17m8s"],
         },
       ],
     },
