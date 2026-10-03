@@ -92,8 +92,9 @@ const scheduleDatabase = [
   },
   // Пятница
   {
-    NameRU: "The Alters",
-    Status: "Игра × Начало в ~15:00 по МСК",
+    NameRU: "Ангельские ритмы!",
+    NameEN: "Angel Beats!",
+    Status: "Аниме × 1 Сезон 12-13+1 Эпизод",
     Current: true,
     Date: "02.10.26",
   },
@@ -105,7 +106,8 @@ const scheduleDatabase = [
   },
   // Воскресенье
   {
-    Status: "Стрим возможен",
+    NameRU: "The Alters",
+    Status: "Игра × Начало в ~14:00 по МСК",
     Current: true,
     Date: "04.10.26",
   },

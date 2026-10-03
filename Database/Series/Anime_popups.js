@@ -438,6 +438,13 @@ const seriesAnimePopups = {
           Link: ["vk", "456241913?t=17m8s"],
           Player: ["vk", "456241913", "7c6b3a00bfcc7f6f", "0h17m8s"],
         },
+        {
+          Name: "12 Эпизод + Спешл",
+          Donut: "donut-3",
+          Date: "02.10.2026",
+          Link: ["vk", "456241914?t=12m26s"],
+          Player: ["vk", "456241914", "205d628ed18d05fc", "0h12m26s"],
+        },
       ],
     },
   ],

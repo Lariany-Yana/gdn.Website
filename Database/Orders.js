@@ -1032,10 +1032,9 @@ const ordersDatabase = [
   //#endregion
   //#region ~В уточнении~
   {
-    ID: "order_Angel-Beats",
     NameRU: "Ангельские ритмы!",
     NameEN: "Angel Beats!",
-    Status: "Аниме × Просмотрено: 1 Сезон 1-12/13 Эпизод",
+    Status: "Аниме × Просмотрено: 1 Сезон 1-13+1/13+1 Эпизод",
     Type: "order-determinate",
     Slots: [
       {
@@ -1046,7 +1045,7 @@ const ordersDatabase = [
       },
       {
         Name: "Без имени",
-        Slot: "2",
+        Slot: "2.5",
         Date: "Без даты",
         Listed: false,
       },
