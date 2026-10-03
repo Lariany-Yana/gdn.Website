@@ -59,6 +59,14 @@ function findProjectById(id) {
   return null;
 }
 
+function getImageUrls(item) {
+  const raw = item.Image || item.posterImage || "";
+  const list = (Array.isArray(raw) ? raw : [raw]).filter(Boolean).map(formatImageUrl);
+  const max = list[0] || "";
+  const min = list[1] || max;
+  return { max, min };
+}
+
 function createProjectCard(item, cardTypeClass = "project") {
   const template = document.getElementById("project-card-template");
   if (!template || !item) return null;
@@ -74,8 +82,11 @@ function createProjectCard(item, cardTypeClass = "project") {
     card.classList.add("lost");
   }
 
-  const img = clone.querySelector("img");
-  if (img) img.src = item.Image || item.posterImage || "";
+  const { max: imgMax, min: imgMin } = getImageUrls(item);
+  const source = clone.querySelector("picture source");
+  if (source) source.srcset = imgMax;
+  const img = clone.querySelector("picture img");
+  if (img) img.src = imgMin;
 
   const nameRuInfo = SiteEngine.processNameForSorting(item.NameRU || item.nameRu || "");
   const rawNameEN = item.NameEN || item.nameEn || "";
@@ -160,6 +171,12 @@ const ProjectsConfig = {
   getGroupKeyFn: (item) => SiteEngine.getGroupKey(SiteEngine.processNameForSorting(item.NameRU || item.nameRu).cleanName),
 };
 
+const IMAGE_PREFIX = "https://static.tildacdn.com/";
+
+function formatImageUrl(path) {
+  return path ? `${IMAGE_PREFIX}${path}` : "";
+}
+
 const LINK_PREFIXES = {
   vk: "https://vkvideo.ru/video-208448461_",
   boosty: "https://boosty.to/",
@@ -204,7 +221,8 @@ function createProjectPopupContent(projectId, projectsDb, popupsDb) {
 
   if (finalId) projectEl.id = finalId;
 
-  const imgUrl = projectMeta.Image || projectMeta.posterImage;
+  const { max, min } = getImageUrls(projectMeta);
+  const imgUrl = window.matchMedia("(pointer: fine)").matches ? max : min;
   if (imgUrl) {
     projectEl.style.backgroundImage = `url("${imgUrl}")`;
   }

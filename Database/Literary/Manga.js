@@ -5,7 +5,7 @@ const literatureManga = [
     NameEN: "Innocent",
     Status: "1-87/99 Главы",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3633-6563-4434-b133-313966633563/_Innocent.webp",
+    Image: "tild3633-6563-4434-b133-313966633563/_Innocent.webp",
     Type: "literature-Manga",
   },
   {
@@ -14,7 +14,7 @@ const literatureManga = [
     NameEN: "Munou na Nana",
     Status: "1-8/122 Главы",
     Donut: "donut-3",
-    Image: "https://static.tildacdn.com/tild6365-3262-4734-a132-666230306437/img.webp",
+    Image: "tild6365-3262-4734-a132-666230306437/img.webp",
     Type: "literature-Manga",
   },
   {
@@ -23,7 +23,7 @@ const literatureManga = [
     NameEN: "Berserk",
     Status: "1-359/↻ Главы",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3233-3862-4431-b466-656162373730/_Berserk.webp",
+    Image: "tild3233-3862-4431-b466-656162373730/_Berserk.webp",
     Type: "literature-Manga",
   },
   {
@@ -31,7 +31,7 @@ const literatureManga = [
     NameRU: "Блейм!",
     NameEN: "Blame!",
     Status: "До финала",
-    Image: "https://static.tildacdn.com/tild3066-3461-4434-a234-396430373239/_Blame.webp",
+    Image: "tild3066-3461-4434-a234-396430373239/_Blame.webp",
     Type: "literature-Manga",
   },
   {
@@ -42,7 +42,7 @@ const literatureManga = [
     Donut: "donut-1",
     Link: ["vk", "456239475?t=4h50m49s"],
     Player: ["vk", "456239475", "66de5180d8820062", "4h50m49s"],
-    Image: "https://static.tildacdn.com/tild6665-3035-4137-b336-356564323739/_Gunnm.webp",
+    Image: "tild6665-3035-4137-b336-356564323739/_Gunnm.webp",
     Type: "literature-Manga",
   },
   {
@@ -51,7 +51,7 @@ const literatureManga = [
     NameEN: "One Punch-Man",
     Status: "125-242/↻ Главы",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild6230-3233-4634-b632-336437633532/_OnePunchMan.webp",
+    Image: "tild6230-3233-4634-b632-336437633532/_OnePunchMan.webp",
     Type: "literature-Manga",
   },
   {
@@ -62,7 +62,7 @@ const literatureManga = [
     Donut: "donut-1",
     Link: ["vk", "456239995?t=29m4s"],
     Player: ["vk", "456239995", "535ab4eac3fefffb", "29m4s"],
-    Image: "https://static.tildacdn.com/tild6665-6663-4236-a630-333034363164/_One_Piece_Episode_A.webp",
+    Image: "tild6665-6663-4236-a630-333034363164/_One_Piece_Episode_A.webp",
     Type: "literature-Manga",
   },
   {
@@ -71,7 +71,7 @@ const literatureManga = [
     NameEN: "Gantz",
     Status: "90-134/383 Главы",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3164-3433-4632-a438-613534396131/_Gantz.webp",
+    Image: "tild3164-3433-4632-a438-613534396131/_Gantz.webp",
     Type: "literature-Manga",
   },
   {
@@ -79,7 +79,7 @@ const literatureManga = [
     NameRU: "Дети моря",
     NameEN: "Kaijuu no Kodomo",
     Status: "До финала",
-    Image: "https://static.tildacdn.com/tild3132-6162-4162-a662-653232653438/_Kaiju_no_Kodomo.webp",
+    Image: "tild3132-6162-4162-a662-653232653438/_Kaiju_no_Kodomo.webp",
     Type: "literature-Manga",
   },
   {
@@ -88,7 +88,7 @@ const literatureManga = [
     NameEN: "Mairimashita! Iruma-kun",
     Status: "147-197/↻ Главы",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild3236-6437-4363-a338-626331626230/_Marimashita_Iruma.webp",
+    Image: "tild3236-6437-4363-a338-626331626230/_Marimashita_Iruma.webp",
     Type: "literature-Manga",
   },
   {
@@ -96,7 +96,7 @@ const literatureManga = [
     NameRU: "Дорохедоро",
     NameEN: "Dorohedoro",
     Status: "1-79.5/190 Главы",
-    Image: "https://static.tildacdn.com/tild3332-6238-4161-a164-643164633964/_Dorohedoro.webp",
+    Image: "tild3332-6238-4161-a164-643164633964/_Dorohedoro.webp",
     Type: "literature-Manga",
   },
   {
@@ -107,7 +107,7 @@ const literatureManga = [
     Donut: "donut-2",
     Link: ["vk", "456241037?t=2h16m40s"],
     Player: ["vk", "456241037", "0194f0292838349b", "2h16m40s"],
-    Image: "https://static.tildacdn.com/tild3765-6531-4465-b832-346166303039/_Star_Strings_Yori.webp",
+    Image: "tild3765-6531-4465-b832-346166303039/_Star_Strings_Yori.webp",
     Type: "literature-Manga",
   },
   {
@@ -116,7 +116,7 @@ const literatureManga = [
     NameEN: "Hello Baby",
     Status: "До финала",
     Link: ["boosty", "hiddenarchive/posts/d813451c-344e-47b1-9a40-964719657e98"],
-    Image: "https://static.tildacdn.com/tild6531-3936-4539-a536-303166653561/_Hello_Baby.webp",
+    Image: "tild6531-3936-4539-a536-303166653561/_Hello_Baby.webp",
     Type: "literature-Manga",
   },
   {
@@ -125,7 +125,7 @@ const literatureManga = [
     NameEN: "Liar Game",
     Status: "1-137/203 Главы",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild6331-3266-4637-b662-633131363632/_Liar_Game.webp",
+    Image: "tild6331-3266-4637-b662-633131363632/_Liar_Game.webp",
     Type: "literature-Manga",
   },
   {
@@ -134,7 +134,7 @@ const literatureManga = [
     NameEN: "Mugen no Juunin",
     Status: "1-6/207 Главы",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3132-6535-4231-b130-343734633831/_Mugen_no_Juunin.webp",
+    Image: "tild3132-6535-4231-b130-343734633831/_Mugen_no_Juunin.webp",
     Type: "literature-Manga",
   },
   {
@@ -143,7 +143,7 @@ const literatureManga = [
     NameEN: "Umineko no Naku Koro ni",
     Status: "1-4/8 Эпизод",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild6638-6533-4235-b366-653430323965/_Umineko_no_Naku_Kor.webp",
+    Image: "tild6638-6533-4235-b366-653430323965/_Umineko_no_Naku_Kor.webp",
     Type: "literature-Manga",
   },
   {
@@ -152,7 +152,7 @@ const literatureManga = [
     NameEN: "Jujutsu kaisen",
     Status: "До финала",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild6235-3232-4733-a565-396566313464/_Jujutsu_kaisen.webp",
+    Image: "tild6235-3232-4733-a565-396566313464/_Jujutsu_kaisen.webp",
     Type: "literature-Manga",
   },
   {
@@ -161,7 +161,7 @@ const literatureManga = [
     NameEN: "20 Seiki Shounen",
     Status: "1-54/249 Главы",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3961-6534-4165-a464-323664303932/_20_Seiki_Shounen.webp",
+    Image: "tild3961-6534-4165-a464-323664303932/_20_Seiki_Shounen.webp",
     Type: "literature-Manga",
   },
   {
@@ -170,7 +170,7 @@ const literatureManga = [
     NameEN: "Mario",
     Status: "До финала",
     Link: ["boosty", "hiddenarchive/posts/68d25891-696a-4a22-be1a-72468e0aca0c?t=17946&tmid=1e374ec6-cb7c-4379-8913-8aa15a4f87d6"],
-    Image: "https://static.tildacdn.com/tild3734-3365-4530-a432-643330616432/_Mario.webp",
+    Image: "tild3734-3365-4530-a432-643330616432/_Mario.webp",
     Type: "literature-Manga",
   },
   {
@@ -179,7 +179,7 @@ const literatureManga = [
     NameEN: "Onanie Master Kurosawa",
     Status: "До финала",
     Donut: "donut-3",
-    Image: "https://static.tildacdn.com/tild6338-6438-4163-b139-623738613232/_Onanie_Master_Kuros.webp",
+    Image: "tild6338-6438-4163-b139-623738613232/_Onanie_Master_Kuros.webp",
     Type: "literature-Manga",
   },
   {
@@ -188,7 +188,7 @@ const literatureManga = [
     NameEN: "Nana",
     Status: "До финала",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild3638-3333-4764-b532-336463643632/_Nana.webp",
+    Image: "tild3638-3333-4764-b532-336463643632/_Nana.webp",
     Type: "literature-Manga",
   },
   {
@@ -197,7 +197,7 @@ const literatureManga = [
     NameEN: "JoJo no Kimyou na Bouken / JoJo's Bizarre Adventure: Steel Ball Run",
     Status: "До финала",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3566-6532-4363-b232-353737663231/_JoJos_Bizarre_Adven.webp",
+    Image: "tild3566-6532-4363-b232-353737663231/_JoJos_Bizarre_Adven.webp",
     Type: "literature-Manga",
   },
   {
@@ -206,7 +206,7 @@ const literatureManga = [
     NameEN: "NOiSE",
     Status: "До финала",
     Link: ["boosty", "hiddenarchive/posts/8d5abd28-5eb8-463a-bd38-48b37fd2b2b1"],
-    Image: "https://static.tildacdn.com/tild3833-3364-4134-b636-656636313731/img.webp",
+    Image: "tild3833-3364-4134-b636-656636313731/img.webp",
     Type: "literature-Manga",
   },
   {
@@ -214,7 +214,7 @@ const literatureManga = [
     NameRU: "Обещанный Неверленд",
     NameEN: "Yakusoku no Neverland / The Promised Neverland",
     Status: "До финала",
-    Image: "https://static.tildacdn.com/tild3761-3338-4138-b130-346430373561/_Yakusoku_no_Neverla.webp",
+    Image: "tild3761-3338-4138-b130-346430373561/_Yakusoku_no_Neverla.webp",
     Type: "literature-Manga",
   },
   {
@@ -223,7 +223,7 @@ const literatureManga = [
     NameEN: "Look back",
     Status: "До финала",
     Link: ["boosty", "hiddenarchive/posts/3bf18688-b68b-4023-b32a-6729ecc051ed"],
-    Image: "https://static.tildacdn.com/tild6636-6664-4335-a139-313735313236/_Look_back.webp",
+    Image: "tild6636-6664-4335-a139-313735313236/_Look_back.webp",
     Type: "literature-Manga",
   },
   {
@@ -231,7 +231,7 @@ const literatureManga = [
     NameRU: "Огненный удар",
     NameEN: "Fire Punch",
     Status: "До финала",
-    Image: "https://static.tildacdn.com/tild6535-3532-4063-b031-656437623035/_Fire_Punch.webp",
+    Image: "tild6535-3532-4063-b031-656437623035/_Fire_Punch.webp",
     Type: "literature-Manga",
   },
   {
@@ -240,7 +240,7 @@ const literatureManga = [
     NameEN: "Oyaji",
     Status: "До финала",
     Donut: "donut-3",
-    Image: "https://static.tildacdn.com/tild3436-3466-4865-a134-376637666165/img.webp",
+    Image: "tild3436-3466-4865-a134-376637666165/img.webp",
     Type: "literature-Manga",
   },
   {
@@ -249,7 +249,7 @@ const literatureManga = [
     NameEN: "Shuumatsu no Walküre / Record of Ragnarok",
     Status: "1-83/↻ Главы",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3836-3730-4238-a335-663766643830/_Shuumatsu_no_Walkur.webp",
+    Image: "tild3836-3730-4238-a335-663766643830/_Shuumatsu_no_Walkur.webp",
     Type: "literature-Manga",
   },
   {
@@ -258,7 +258,7 @@ const literatureManga = [
     NameEN: "Vinland Saga",
     Status: "89-191/224 Главы",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild6136-3632-4432-b937-623638306532/_Vinland_Saga.webp",
+    Image: "tild6136-3632-4432-b937-623638306532/_Vinland_Saga.webp",
     Type: "literature-Manga",
   },
   {
@@ -267,7 +267,7 @@ const literatureManga = [
     NameEN: "Kokou no Hito",
     Status: "До финала",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3336-6434-4661-a136-626431656438/_Kokou_no_Hito.webp",
+    Image: "tild3336-6434-4661-a136-626431656438/_Kokou_no_Hito.webp",
     Type: "literature-Manga",
   },
   {
@@ -275,7 +275,7 @@ const literatureManga = [
     NameRU: "Спокойной ночи, Пун-Пун",
     NameEN: "Oyasumi Punpun",
     Status: "До финала",
-    Image: "https://static.tildacdn.com/tild3932-3565-4961-a266-343435663838/_Oyasumi_Punpun.webp",
+    Image: "tild3932-3565-4961-a266-343435663838/_Oyasumi_Punpun.webp",
     Type: "literature-Manga",
   },
   {
@@ -283,7 +283,7 @@ const literatureManga = [
     NameRU: "Страна самоцветов",
     NameEN: "Houseki no Kuni",
     Status: "До финала",
-    Image: "https://static.tildacdn.com/tild3435-3738-4538-b932-633061376234/_Houseki_no_Kuni.webp",
+    Image: "tild3435-3738-4538-b932-633061376234/_Houseki_no_Kuni.webp",
     Type: "literature-Manga",
   },
   {
@@ -292,7 +292,7 @@ const literatureManga = [
     NameEN: "Death Note: Tokubetsu Yomikiri",
     Status: "До финала",
     Link: ["boosty", "hiddenarchive/posts/19ad7db0-9bbe-4fcb-8aef-d5c29480b521"],
-    Image: "https://static.tildacdn.com/tild6439-3763-4162-a464-346532613434/_Death_Note_Tokubets.webp",
+    Image: "tild6439-3763-4162-a464-346532613434/_Death_Note_Tokubets.webp",
     Type: "literature-Manga",
   },
   {
@@ -301,7 +301,7 @@ const literatureManga = [
     NameEN: "Goblin Slayer",
     Status: "1-40/↻ Главы",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild6266-6465-4231-a162-363162383134/_Goblin_Slayer.webp",
+    Image: "tild6266-6465-4231-a162-363162383134/_Goblin_Slayer.webp",
     Type: "literature-Manga",
   },
   {
@@ -310,7 +310,7 @@ const literatureManga = [
     NameEN: "Kingdom",
     Status: "1-491/↻ Главы",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3532-6566-4939-b462-306230643839/_Kingdom.webp",
+    Image: "tild3532-6566-4939-b462-306230643839/_Kingdom.webp",
     Type: "literature-Manga",
   },
   {
@@ -319,7 +319,7 @@ const literatureManga = [
     NameEN: "Watashi-tachi no Shiawase na Jikan",
     Status: "До финала",
     Link: ["boosty", "hiddenarchive/posts/9464c85c-baa8-4284-a9fa-f77a8c7274e5"],
-    Image: "https://static.tildacdn.com/tild3032-6531-4132-a463-383038306332/_Watashi-tachi_no_Sh.webp",
+    Image: "tild3032-6531-4132-a463-383038306332/_Watashi-tachi_no_Sh.webp",
     Type: "literature-Manga",
   },
   {
@@ -327,7 +327,7 @@ const literatureManga = [
     NameRU: "Человек-бензопила",
     NameEN: "Chainsaw Man",
     Status: "До финала",
-    Image: "https://static.tildacdn.com/tild3566-3133-4264-a135-336531393231/_Chainsaw_Man.webp",
+    Image: "tild3566-3133-4264-a135-336531393231/_Chainsaw_Man.webp",
     Type: "literature-Manga",
   },
   {
@@ -336,7 +336,7 @@ const literatureManga = [
     NameEN: "Chainsaw Man 2",
     Status: "98-195/232 Главы",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild3937-3434-4039-b064-373061363039/_Chainsaw_Man_2webp.webp",
+    Image: "tild3937-3434-4039-b064-373061363039/_Chainsaw_Man_2webp.webp",
     Type: "literature-Manga",
   },
   {
@@ -347,7 +347,7 @@ const literatureManga = [
     Donut: "donut-1",
     Link: ["vk", "456239017?t=4h22m2s"],
     Player: ["vk", "456239017", "750f47a320ab450f", "4h22m2s"],
-    Image: "https://static.tildacdn.com/tild3731-6338-4266-a239-313166306463/_Jumyou_wo_Kaitotte_.webp",
+    Image: "tild3731-6338-4266-a239-313166306463/_Jumyou_wo_Kaitotte_.webp",
     Type: "literature-Manga",
   },
   {
@@ -356,7 +356,7 @@ const literatureManga = [
     NameEN: "Devil May Cry 5 -Visions of V-",
     Status: "До финала",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild3032-3062-4432-b466-313038626634/_Devil_May_Cry_5_Vis.webp",
+    Image: "tild3032-3062-4432-b466-313038626634/_Devil_May_Cry_5_Vis.webp",
     Type: "literature-Manga",
   },
 ];

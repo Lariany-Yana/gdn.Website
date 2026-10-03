@@ -5,7 +5,7 @@ const literatureRanobe = [
     NameEN: "Honzuki no Gekokujou / Ascendance of a Bookworm",
     Status: "4%",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3762-3239-4330-b063-633833646364/_Ascendance_of_a_Boo.webp",
+    Image: "tild3762-3239-4330-b063-633833646364/_Ascendance_of_a_Boo.webp",
     Type: "literature-Ranobe",
   },
   {
@@ -14,7 +14,7 @@ const literatureRanobe = [
     NameEN: "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
     Status: "3%",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild6565-6238-4130-a365-653632343735/_Classroom_of_the_El.webp",
+    Image: "tild6565-6238-4130-a365-653632343735/_Classroom_of_the_El.webp",
     Type: "literature-Ranobe",
   },
   {
@@ -23,7 +23,7 @@ const literatureRanobe = [
     NameEN: "Omniscient Reader",
     Status: "3%",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild6430-3762-4633-b831-643433643133/_Omniscient_Reader.webp",
+    Image: "tild6430-3762-4633-b831-643433643133/_Omniscient_Reader.webp",
     Type: "literature-Ranobe",
   },
 ];

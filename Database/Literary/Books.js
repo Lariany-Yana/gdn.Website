@@ -5,7 +5,7 @@ const literatureBooks = [
     NameEN: "The Stormlight Archive",
     Status: "60%",
     Donut: "v2",
-    Image: "https://static.tildacdn.com/tild3039-3336-4037-b037-336532363561/_The_Stormlight_Arch.webp",
+    Image: "tild3039-3336-4037-b037-336532363561/_The_Stormlight_Arch.webp",
     Type: "literature-Book",
   },
   {
@@ -16,7 +16,7 @@ const literatureBooks = [
     Donut: "donut-3",
     Link: ["vk", "456241828?t=2h58m6s"],
     Player: ["vk", "456241828", "22eed05e7f096954", "2h58m6s"],
-    Image: "https://static.tildacdn.com/tild3237-6265-4766-b563-323463366561/_Now_showing.webp",
+    Image: "tild3237-6265-4766-b563-323463366561/_Now_showing.webp",
     Type: "literature-Book",
   },
   {
@@ -25,7 +25,7 @@ const literatureBooks = [
     NameEN: "The Dark Tower",
     Status: "100%",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3331-6132-4538-a236-353539313339/_The_Dark_Tower.webp",
+    Image: "tild3331-6132-4538-a236-353539313339/_The_Dark_Tower.webp",
     Type: "literature-Book",
   },
   {
@@ -36,7 +36,7 @@ const literatureBooks = [
     Donut: "donut-2",
     Link: ["vk", "456241306?t=17m57s"],
     Player: ["vk", "456241306", "2c5661194f0c5aac", "0h17m57s"],
-    Image: "https://static.tildacdn.com/tild3838-3561-4061-a636-653835306461/_Stranger_in_the_Woo.webp",
+    Image: "tild3838-3561-4061-a636-653835306461/_Stranger_in_the_Woo.webp",
     Type: "literature-Book",
   },
 ];

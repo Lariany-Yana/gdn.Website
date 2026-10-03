@@ -5,7 +5,7 @@ const seriesSerials = [
     NameEN: "The Umbrella Academy",
     Status: "1 Сезон 1-6/10 Эпизод",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild6134-3164-4531-b937-346431393865/_.webp",
+    Image: "tild6134-3164-4531-b937-346431393865/_.webp",
     Type: "series-Serial",
   },
   {
@@ -14,7 +14,7 @@ const seriesSerials = [
     NameEN: "Imawa no Kuni no Arisu",
     Status: "2 Сезона",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild3431-6166-4434-a564-323135653837/__.webp",
+    Image: "tild3431-6166-4434-a564-323135653837/__.webp",
     Type: "series-Serial",
   },
   {
@@ -23,7 +23,7 @@ const seriesSerials = [
     NameEN: "American Horror Story",
     Status: "1-3, 5, 8 Сезон",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild3361-6230-4363-b238-333665336137/__.webp",
+    Image: "tild3361-6230-4363-b238-333665336137/__.webp",
     Type: "series-Serial",
   },
   {
@@ -31,7 +31,7 @@ const seriesSerials = [
     NameRU: "Бесы",
     Status: "1-4/4 Эпизод",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild6364-6432-4935-a430-363265353465/photo.webp",
+    Image: "tild6364-6432-4935-a430-363265353465/photo.webp",
     Type: "series-Serial",
   },
   {
@@ -41,7 +41,7 @@ const seriesSerials = [
     Status: "1 Сезон 1-2/6 Эпизод",
     Link: ["vk", "456239713?t=13m44s"],
     Player: ["vk", "456239713", "9abf2b81a681cbcc", "0h13m44s"],
-    Image: "https://static.tildacdn.com/tild6532-3766-4530-b964-313730636534/_.webp",
+    Image: "tild6532-3766-4530-b964-313730636534/_.webp",
     Type: "series-Serial",
   },
   {
@@ -50,7 +50,7 @@ const seriesSerials = [
     NameEN: "La casa de papel",
     Status: "1 Сезон, 2 Сезон 1-6/9 Эпизод",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild6332-3965-4736-b234-393962636438/_.webp",
+    Image: "tild6332-3965-4736-b234-393962636438/_.webp",
     Type: "series-Serial",
   },
   {
@@ -58,7 +58,7 @@ const seriesSerials = [
     NameRU: "Вампиры средней полосы",
     Status: "1 Сезон 1-4/8 Эпизод",
     Link: ["boosty", "hiddenarchive/posts/bb8463dc-a5af-4ce1-ba5f-dce14841659a?t=8462&tmid=6e95f547-2b38-42d2-be1f-9bb6ad0ad6bc"],
-    Image: "https://static.tildacdn.com/tild3338-3061-4530-b032-383430616133/__.webp",
+    Image: "tild3338-3061-4530-b032-383430616133/__.webp",
     Type: "series-Serial",
   },
   {
@@ -67,7 +67,7 @@ const seriesSerials = [
     NameEN: "WandaVision",
     Status: "1-9/9 Эпизод",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3064-3136-4735-b036-653837366634/photo.webp",
+    Image: "tild3064-3136-4735-b036-653837366634/photo.webp",
     Type: "series-Serial",
   },
   {
@@ -76,7 +76,7 @@ const seriesSerials = [
     NameEN: "One Piece",
     Status: "2 Сезона",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild3032-3931-4638-a163-313237653361/_.webp",
+    Image: "tild3032-3931-4638-a163-313237653361/_.webp",
     Type: "series-Serial",
   },
   {
@@ -85,7 +85,7 @@ const seriesSerials = [
     NameEN: "Muhteşem Yüzyil",
     Status: "1 Сезон 1-8/24 Эпизод",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild6439-3062-4261-b038-356638653232/_.webp",
+    Image: "tild6439-3062-4261-b038-356638653232/_.webp",
     Type: "series-Serial",
   },
   {
@@ -94,7 +94,7 @@ const seriesSerials = [
     NameEN: "Vikings",
     Status: "1-3 Сезон, 4 Сезон 1-18/20 Эпизод",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild3661-3234-4966-b865-396236623565/photo.webp",
+    Image: "tild3661-3234-4966-b865-396236623565/photo.webp",
     Type: "series-Serial",
   },
   {
@@ -103,7 +103,7 @@ const seriesSerials = [
     Status: "1 Сезон 1-4/5 Эпизод",
     Link: ["vk", "456239607"],
     Player: ["vk", "456239607", "8a4014c4a01ce289", "0h0m0s"],
-    Image: "https://static.tildacdn.com/tild3538-6436-4633-b238-373863303763/_.webp",
+    Image: "tild3538-6436-4633-b238-373863303763/_.webp",
     Type: "series-Serial",
   },
   {
@@ -112,7 +112,7 @@ const seriesSerials = [
     NameEN: "Breaking Bad",
     Status: "5 Сезонов + Фильм",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild6631-3830-4932-b033-366362326639/__.webp",
+    Image: "tild6631-3830-4932-b033-366362326639/__.webp",
     Type: "series-Serial",
   },
   {
@@ -121,7 +121,7 @@ const seriesSerials = [
     NameEN: "Teen Wolf",
     Status: "1 Сезон 1-12/12 Эпизод",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild3464-3534-4437-b835-616365333861/photo.webp",
+    Image: "tild3464-3534-4437-b835-616365333861/photo.webp",
     Type: "series-Serial",
   },
   {
@@ -130,7 +130,7 @@ const seriesSerials = [
     NameEN: "Hannibal",
     Status: "3 Сезона",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild3934-6166-4563-b430-303131653165/photo.webp",
+    Image: "tild3934-6166-4563-b430-303131653165/photo.webp",
     Type: "series-Serial",
   },
   {
@@ -139,7 +139,7 @@ const seriesSerials = [
     NameEN: "Heroes",
     Status: "3 Сезона",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild6564-3533-4036-b961-656464666165/photo.webp",
+    Image: "tild6564-3533-4036-b961-656464666165/photo.webp",
     Type: "series-Serial",
   },
   {
@@ -148,7 +148,7 @@ const seriesSerials = [
     NameEN: "Gotham",
     Status: "1 Сезон 1-14/22 Эпизод",
     Donut: "donut-3",
-    Image: "https://static.tildacdn.com/tild6464-3561-4335-b136-363136313938/img.webp",
+    Image: "tild6464-3561-4335-b136-363136313938/img.webp",
     Type: "series-Serial",
   },
   {
@@ -157,7 +157,7 @@ const seriesSerials = [
     NameEN: "Dexter",
     Status: "1-8 Сезон",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild6564-3333-4261-b561-356335613738/img.webp",
+    Image: "tild6564-3333-4261-b561-356335613738/img.webp",
     Type: "series-Serial",
   },
   {
@@ -166,7 +166,7 @@ const seriesSerials = [
     NameEN: "Dexter: Resurrection",
     Status: "1 Сезон 1-2 Эпизод",
     Donut: "donut-3",
-    Image: "https://static.tildacdn.com/tild6137-3964-4433-b733-666165646330/img.webp",
+    Image: "tild6137-3964-4433-b733-666165646330/img.webp",
     Type: "series-Serial",
   },
   {
@@ -177,7 +177,7 @@ const seriesSerials = [
     Donut: "donut-2",
     Link: ["vk", "456241391?t=12m55s"],
     Player: ["vk", "456241391", "4151cd3ca48c8203", "0h12m55s"],
-    Image: "https://static.tildacdn.com/tild6663-3337-4131-a239-346632333133/_.webp",
+    Image: "tild6663-3337-4131-a239-346632333133/_.webp",
     Type: "series-Serial",
   },
   {
@@ -186,7 +186,7 @@ const seriesSerials = [
     NameEN: "The Vampire Diaries",
     Status: "1 Сезон, 2 Сезон 1/22 Эпизод",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild3839-3266-4136-b732-343264656634/_.webp",
+    Image: "tild3839-3266-4136-b732-343264656634/_.webp",
     Type: "series-Serial",
   },
   {
@@ -195,7 +195,7 @@ const seriesSerials = [
     NameEN: "Doctor Who",
     Status: "10 Сезонов, 11 Сезон 1-2+10 Эпизод, 12 Сезон 1-3 Эпизод + Спешлы",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3464-3561-4539-a232-633534353966/_.webp",
+    Image: "tild3464-3561-4539-a232-633534353966/_.webp",
     Type: "series-Serial",
   },
   {
@@ -204,7 +204,7 @@ const seriesSerials = [
     NameEN: "House of the Dragon || Game of Thrones",
     Status: "1 Сезон 1-10/10 Эпизод",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3365-6233-4163-a163-613762326165/_.webp",
+    Image: "tild3365-6233-4163-a163-613762326165/_.webp",
     Type: "series-Serial",
   },
   {
@@ -213,7 +213,7 @@ const seriesSerials = [
     NameEN: "Upload",
     Status: "2 Сезона",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild3030-3832-4435-b162-343035633964/photo.webp",
+    Image: "tild3030-3832-4435-b162-343035633964/photo.webp",
     Type: "series-Serial",
   },
   {
@@ -222,7 +222,7 @@ const seriesSerials = [
     NameEN: "Ojingeo geim",
     Status: "1 Сезон, 2 Сезон 1-2/7 Эпизод",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild6230-3565-4261-b466-373932613331/__.webp",
+    Image: "tild6230-3565-4261-b466-373932613331/__.webp",
     Type: "series-Serial",
   },
   {
@@ -231,7 +231,7 @@ const seriesSerials = [
     NameEN: "Game of Thrones",
     Status: "8 Сезонов",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3235-3365-4538-b331-313362326138/_.webp",
+    Image: "tild3235-3365-4538-b331-313362326138/_.webp",
     Type: "series-Serial",
   },
   {
@@ -240,7 +240,7 @@ const seriesSerials = [
     NameEN: "Ijae, got jukseupnida",
     Status: "1-8/8 Эпизод",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild3039-3766-4765-a135-323763323766/_.webp",
+    Image: "tild3039-3766-4765-a135-323763323766/_.webp",
     Type: "series-Serial",
   },
   {
@@ -249,7 +249,7 @@ const seriesSerials = [
     NameEN: "Doctor Who",
     Status: "Спешл + Фильм + 21 Сезон 7 Эпизод",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild3762-6133-4433-b632-313136393936/__.webp",
+    Image: "tild3762-6133-4433-b632-313136393936/__.webp",
     Type: "series-Serial",
   },
   {
@@ -260,14 +260,14 @@ const seriesSerials = [
     Donut: "donut-2",
     Link: ["vk", "456241356?t=12m22s"],
     Player: ["vk", "456241356", "8d24ebf0863c26f2", "0h12m22s"],
-    Image: "https://static.tildacdn.com/tild6131-3334-4139-a632-373864386265/__.webp",
+    Image: "tild6131-3334-4139-a632-373864386265/__.webp",
     Type: "series-Serial",
   },
   {
     ID: "Series-Serials_King-and-Jester",
     NameRU: "Король и Шут",
     Status: "1-8/8 Эпизод",
-    Image: "https://static.tildacdn.com/tild3261-3837-4865-a265-376534386534/__.webp",
+    Image: "tild3261-3837-4865-a265-376534386534/__.webp",
     Type: "series-Serial",
   },
   {
@@ -276,7 +276,7 @@ const seriesSerials = [
     NameEN: "The Crown",
     Status: "1 Сезон 1-6/10 Эпизод",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild6231-3839-4062-b462-356630323565/photo.webp",
+    Image: "tild6231-3839-4062-b462-356630323565/photo.webp",
     Type: "series-Serial",
   },
   {
@@ -284,7 +284,7 @@ const seriesSerials = [
     NameRU: "Кухня",
     Status: "1 Сезон 1-4/20 Эпизод",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3833-3830-4938-a138-663934386535/photo.webp",
+    Image: "tild3833-3830-4938-a138-663934386535/photo.webp",
     Type: "series-Serial",
   },
   {
@@ -293,7 +293,7 @@ const seriesSerials = [
     NameEN: "Legion",
     Status: "2 Сезона",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild6664-6334-4366-b634-653533653334/photo.webp",
+    Image: "tild6664-6334-4366-b634-653533653334/photo.webp",
     Type: "series-Serial",
   },
   {
@@ -302,7 +302,7 @@ const seriesSerials = [
     NameEN: "Loki",
     Status: "2 Сезона",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild6162-6564-4032-a630-366562323534/photo.webp",
+    Image: "tild6162-6564-4032-a630-366562323534/photo.webp",
     Type: "series-Serial",
   },
   {
@@ -311,7 +311,7 @@ const seriesSerials = [
     NameEN: "Moon Knight",
     Status: "1-6/6 Эпизод",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3031-6161-4032-b735-663438653737/_.webp",
+    Image: "tild3031-6161-4032-b735-663438653737/_.webp",
     Type: "series-Serial",
   },
   {
@@ -320,7 +320,7 @@ const seriesSerials = [
     NameEN: "Better Call Saul",
     Status: "6 Сезонов",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3136-3136-4033-b939-376131663837/__.webp",
+    Image: "tild3136-3136-4033-b939-376131663837/__.webp",
     Type: "series-Serial",
   },
   {
@@ -329,7 +329,7 @@ const seriesSerials = [
     NameEN: "The Mandalorian || Star Wars",
     Status: "1 Сезон 1-8/8 Эпизод",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild6230-3062-4834-b231-316131303338/photo.webp",
+    Image: "tild6230-3062-4834-b231-316131303338/photo.webp",
     Type: "series-Serial",
   },
   {
@@ -337,7 +337,7 @@ const seriesSerials = [
     NameRU: "Мастер и Маргарита",
     Status: "1-10/10 Эпизод",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild3936-6136-4534-a237-383633613235/__.webp",
+    Image: "tild3936-6136-4534-a237-383633613235/__.webp",
     Type: "series-Serial",
   },
   {
@@ -345,7 +345,7 @@ const seriesSerials = [
     NameRU: "Меч",
     Status: "1 Сезон 1-25/25 Эпизод",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild3633-3735-4937-a563-333161623265/photo.webp",
+    Image: "tild3633-3735-4937-a563-333161623265/photo.webp",
     Type: "series-Serial",
   },
   {
@@ -354,7 +354,7 @@ const seriesSerials = [
     NameEN: "Westworld",
     Status: "1 Сезон 1-10/10 Эпизод",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild3530-6265-4333-b263-613534393131/__.webp",
+    Image: "tild3530-6265-4333-b263-613534393131/__.webp",
     Type: "series-Serial",
   },
   {
@@ -362,7 +362,7 @@ const seriesSerials = [
     NameRU: "Миротворец",
     NameEN: "Peacemaker",
     Status: "1 Сезон 1-3/8 Эпизод",
-    Image: "https://static.tildacdn.com/tild6234-6239-4231-b934-343362383531/photo.webp",
+    Image: "tild6234-6239-4231-b934-343362383531/photo.webp",
     Type: "series-Serial",
   },
   {
@@ -371,7 +371,7 @@ const seriesSerials = [
     NameEN: "Mr. Robot",
     Status: "4 Сезона",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild3036-6539-4530-b231-623137613832/_.webp",
+    Image: "tild3036-6539-4530-b231-623137613832/_.webp",
     Type: "series-Serial",
   },
   {
@@ -380,7 +380,7 @@ const seriesSerials = [
     NameEN: "Monster: The Jeffrey Dahmer Story",
     Status: "1-10/10 Эпизод",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild6431-6532-4363-b336-336261306638/___.webp",
+    Image: "tild6431-6532-4363-b336-336261306638/___.webp",
     Type: "series-Serial",
   },
   {
@@ -389,7 +389,7 @@ const seriesSerials = [
     NameEN: "Narcos",
     Status: "2 Сезона",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild3862-3039-4231-a461-653239373666/photo.webp",
+    Image: "tild3862-3039-4231-a461-653239373666/photo.webp",
     Type: "series-Serial",
   },
   {
@@ -398,7 +398,7 @@ const seriesSerials = [
     NameEN: "True Detective",
     Status: "1 Сезон 1-8/8 Эпизод",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild6562-3735-4965-b466-356533333038/_.webp",
+    Image: "tild6562-3735-4965-b466-356533333038/_.webp",
     Type: "series-Serial",
   },
   {
@@ -407,7 +407,7 @@ const seriesSerials = [
     NameEN: "Unsere Mütter, unsere Väter",
     Status: "1-3/3 Эпизод",
     Link: ["boosty", "godenname/posts/a8078399-3c8c-4c77-ae85-7dd0aa5ffd30?t=23856&tmid=66eaf497-f1d5-463a-8640-f43b7c6d474a"],
-    Image: "https://static.tildacdn.com/tild3339-3434-4330-b961-356531316232/___.webp",
+    Image: "tild3339-3434-4330-b961-356531316232/___.webp",
     Type: "series-Serial",
   },
   {
@@ -416,7 +416,7 @@ const seriesSerials = [
     NameEN: "Ichi Rittoru no Namida",
     Status: "1-11/11 Эпизод",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3437-3436-4265-b036-306336656131/__.webp",
+    Image: "tild3437-3436-4265-b036-306336656131/__.webp",
     Type: "series-Serial",
   },
   {
@@ -425,7 +425,7 @@ const seriesSerials = [
     NameEN: "Once Upon a Time",
     Status: "1 Сезон 1-6/22 Эпизод",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild3332-3534-4737-b131-366363613465/__.webp",
+    Image: "tild3332-3534-4737-b131-366363613465/__.webp",
     Type: "series-Serial",
   },
   {
@@ -436,7 +436,7 @@ const seriesSerials = [
     Donut: "donut-3",
     Link: ["vk", "456241827?t=13m23s"],
     Player: ["vk", "456241827", "2bcffa1ef45950fe", "0h13m23s"],
-    Image: "https://static.tildacdn.com/tild3233-3466-4335-a563-633566343837/_Rose_Red.webp",
+    Image: "tild3233-3466-4335-a563-633566343837/_Rose_Red.webp",
     Type: "series-Serial",
   },
   {
@@ -445,7 +445,7 @@ const seriesSerials = [
     NameEN: "The Leftovers",
     Status: "3 Сезона",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3565-3465-4432-b333-363065383066/photo.webp",
+    Image: "tild3565-3465-4432-b333-363065383066/photo.webp",
     Type: "series-Serial",
   },
   {
@@ -454,7 +454,7 @@ const seriesSerials = [
     NameEN: "Peaky Blinders",
     Status: "1 Сезон 1-6/6 Эпизод",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3533-3334-4530-b936-653066376563/_.webp",
+    Image: "tild3533-3334-4530-b936-653066376563/_.webp",
     Type: "series-Serial",
   },
   {
@@ -463,7 +463,7 @@ const seriesSerials = [
     NameEN: "Misfits",
     Status: "3 Сезона",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild6364-3231-4939-b766-616237326331/photo.webp",
+    Image: "tild6364-3231-4939-b766-616237326331/photo.webp",
     Type: "series-Serial",
   },
   {
@@ -472,7 +472,7 @@ const seriesSerials = [
     NameEN: "The Office",
     Status: "2 Сезона",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3666-3832-4333-b632-623462343537/photo.webp",
+    Image: "tild3666-3832-4333-b632-623462343537/photo.webp",
     Type: "series-Serial",
   },
   {
@@ -481,7 +481,7 @@ const seriesSerials = [
     NameEN: "Mindhunter",
     Status: "1 Сезон 1-10/10 Эпизод",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild3536-3232-4438-b237-653338653236/__.webp",
+    Image: "tild3536-3232-4438-b237-653338653236/__.webp",
     Type: "series-Serial",
   },
   {
@@ -490,7 +490,7 @@ const seriesSerials = [
     NameEN: "Stranger Things",
     Status: "5 Сезонов",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3032-3963-4831-b838-663062663039/__.webp",
+    Image: "tild3032-3963-4831-b838-663062663039/__.webp",
     Type: "series-Serial",
   },
   {
@@ -499,7 +499,7 @@ const seriesSerials = [
     NameEN: "Spider-Noir || Spider-man",
     Status: "1-8/8 Эпизод",
     Donut: "donut-3",
-    Image: "https://static.tildacdn.com/tild3936-3065-4135-b630-313830363263/img.webp",
+    Image: "tild3936-3065-4135-b630-313830363263/img.webp",
     Type: "series-Serial",
   },
   {
@@ -507,7 +507,7 @@ const seriesSerials = [
     NameRU: "Пацаны",
     NameEN: "The Boys",
     Status: "3 Сезона",
-    Image: "https://static.tildacdn.com/tild3337-3062-4539-b237-623935333362/photo.webp",
+    Image: "tild3337-3062-4539-b237-623935333362/photo.webp",
     Type: "series-Serial",
   },
   {
@@ -516,7 +516,7 @@ const seriesSerials = [
     NameEN: "Gen V || The Boys",
     Status: "2 Сезона",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild3438-6164-4139-b665-313561303136/_.webp",
+    Image: "tild3438-6164-4139-b665-313561303136/_.webp",
     Type: "series-Serial",
   },
   {
@@ -525,7 +525,7 @@ const seriesSerials = [
     NameEN: "The Haunting of Hill House",
     Status: "1-10/10 Эпизод",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3438-3439-4830-b363-623133656234/___.webp",
+    Image: "tild3438-3439-4830-b363-623133656234/___.webp",
     Type: "series-Serial",
   },
   {
@@ -534,7 +534,7 @@ const seriesSerials = [
     NameEN: "The Wire",
     Status: "5 Сезонов",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3362-3635-4634-b339-343666343130/photo.webp",
+    Image: "tild3362-3635-4634-b339-343666343130/photo.webp",
     Type: "series-Serial",
   },
   {
@@ -543,7 +543,7 @@ const seriesSerials = [
     NameEN: "Rome",
     Status: "1 Сезон 1-12/12 Эпизод",
     Donut: "donut-3",
-    Image: "https://static.tildacdn.com/tild3362-3139-4838-b139-373436313134/img.webp",
+    Image: "tild3362-3139-4838-b139-373436313134/img.webp",
     Type: "series-Serial",
   },
   {
@@ -552,7 +552,7 @@ const seriesSerials = [
     NameEN: "Supernatural",
     Status: "5 Сезонов",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild3832-3463-4161-b937-383962663030/photo.webp",
+    Image: "tild3832-3463-4161-b937-383962663030/photo.webp",
     Type: "series-Serial",
   },
   {
@@ -561,7 +561,7 @@ const seriesSerials = [
     NameEN: "Shôgun",
     Status: "1-10/10 Эпизод",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild6532-6662-4332-b966-663961396138/photo.webp",
+    Image: "tild6532-6662-4332-b966-663961396138/photo.webp",
     Type: "series-Serial",
   },
   {
@@ -570,7 +570,7 @@ const seriesSerials = [
     NameEN: "The X Files",
     Status: "1 Сезон 1-24/24 Эпизод",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild6465-6161-4162-b434-633638616165/_.webp",
+    Image: "tild6465-6161-4162-b434-633638616165/_.webp",
     Type: "series-Serial",
   },
   {
@@ -579,14 +579,14 @@ const seriesSerials = [
     NameEN: "Too Old to Die Young",
     Status: "1-10/10 Эпизод",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild3731-6637-4262-b133-383136333862/____.webp",
+    Image: "tild3731-6637-4262-b133-383136333862/____.webp",
     Type: "series-Serial",
   },
   {
     ID: "Series-Serials_Chushpan_Word",
     NameRU: "Слово пацана. Кровь на асфальте",
     Status: "1-8/8 Эпизод",
-    Image: "https://static.tildacdn.com/tild3135-6463-4465-a538-643734303138/_.webp",
+    Image: "tild3135-6463-4465-a538-643734303138/_.webp",
     Type: "series-Serial",
   },
   {
@@ -595,7 +595,7 @@ const seriesSerials = [
     NameEN: "The Falcon and the Winter Soldier",
     Status: "1-6/6 Эпизод",
     Donut: "donut-3",
-    Image: "https://static.tildacdn.com/tild6236-3961-4333-b165-616537643535/_The_Falcon_and_the_.webp",
+    Image: "tild6236-3961-4333-b165-616537643535/_The_Falcon_and_the_.webp",
     Type: "series-Serial",
   },
   {
@@ -604,7 +604,7 @@ const seriesSerials = [
     NameEN: "Hawkeye",
     Status: "1-6/6 Эпизод",
     Donut: "donut-3",
-    Image: "https://static.tildacdn.com/tild6334-3931-4238-a430-663731343036/img.webp",
+    Image: "tild6334-3931-4238-a430-663731343036/img.webp",
     Type: "series-Serial",
   },
   {
@@ -613,7 +613,7 @@ const seriesSerials = [
     NameEN: "The Sopranos",
     Status: "2 Сезона, 3 Сезон 1-9/13 Эпизод",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild3035-6630-4966-a331-616335636465/photo.webp",
+    Image: "tild3035-6630-4966-a331-616335636465/photo.webp",
     Type: "series-Serial",
   },
   {
@@ -622,7 +622,7 @@ const seriesSerials = [
     NameEN: "Twin Peaks",
     Status: "3 Сезона + Фильм",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3737-3362-4139-a235-393335386239/_.webp",
+    Image: "tild3737-3362-4139-a235-393335386239/_.webp",
     Type: "series-Serial",
   },
   {
@@ -631,7 +631,7 @@ const seriesSerials = [
     NameEN: "The Big Bang Theory",
     Status: "3 Сезона, 4 Сезон 1-9/24 Эпизод",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild3261-3164-4166-b937-363235323338/__.webp",
+    Image: "tild3261-3164-4166-b937-363235323338/__.webp",
     Type: "series-Serial",
   },
   {
@@ -639,7 +639,7 @@ const seriesSerials = [
     NameRU: "Тьма",
     NameEN: "Dark",
     Status: "1 Сезон 1-8/8 Эпизод",
-    Image: "https://static.tildacdn.com/tild6136-3333-4334-b035-616438666231/photo.webp",
+    Image: "tild6136-3333-4334-b035-616438666231/photo.webp",
     Type: "series-Serial",
   },
   {
@@ -648,7 +648,7 @@ const seriesSerials = [
     NameEN: "Utopia",
     Status: "1 Сезон 1-6/6 Эпизод",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3438-3534-4462-b330-326336366437/photo.webp",
+    Image: "tild3438-3534-4462-b330-326336366437/photo.webp",
     Type: "series-Serial",
   },
   {
@@ -657,14 +657,14 @@ const seriesSerials = [
     NameEN: "Fargo",
     Status: "1-2, 4 Сезон",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3261-3866-4438-b637-373538643661/photo.webp",
+    Image: "tild3261-3866-4438-b637-373538643661/photo.webp",
     Type: "series-Serial",
   },
   {
     ID: "Series-Serials_Fisher",
     NameRU: "Фишер",
     Status: "1 Сезон 1-8/8 Эпизод",
-    Image: "https://static.tildacdn.com/tild3331-3437-4339-a531-376661366535/photo.webp",
+    Image: "tild3331-3437-4339-a531-376661366535/photo.webp",
     Type: "series-Serial",
   },
   {
@@ -673,7 +673,7 @@ const seriesSerials = [
     NameEN: "The Flash",
     Status: "1 Сезон 1-12/23 Эпизод",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild6164-6566-4564-b130-653135386530/photo.webp",
+    Image: "tild6164-6566-4564-b130-653135386530/photo.webp",
     Type: "series-Serial",
   },
   {
@@ -682,7 +682,7 @@ const seriesSerials = [
     NameEN: "Fortitude",
     Status: "1 Сезон 1-10/12 Эпизод",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild6165-6561-4464-b531-666331353031/photo.webp",
+    Image: "tild6165-6561-4464-b531-666331353031/photo.webp",
     Type: "series-Serial",
   },
   {
@@ -691,7 +691,7 @@ const seriesSerials = [
     NameEN: "Happy!",
     Status: "1 Сезон 1-8/8 Эпизод",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild3233-6331-4537-a537-613537643833/photo.webp",
+    Image: "tild3233-6331-4537-a537-613537643833/photo.webp",
     Type: "series-Serial",
   },
   {
@@ -702,7 +702,7 @@ const seriesSerials = [
     Donut: "donut-1",
     Link: ["vk", "456240283?t=14m1s"],
     Player: ["vk", "456240283", "569e91b8a7480583", "0h14m1s"],
-    Image: "https://static.tildacdn.com/tild6332-3866-4262-b831-643831356665/photo.webp",
+    Image: "tild6332-3866-4262-b831-643831356665/photo.webp",
     Type: "series-Serial",
   },
   {
@@ -710,7 +710,7 @@ const seriesSerials = [
     NameRU: "Чернобыль: Зона отчуждения",
     Status: "1 Сезон, 2 Сезон 1-4/8 Эпизод",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild6632-3437-4063-a437-643136333265/__.webp",
+    Image: "tild6632-3437-4063-a437-643136333265/__.webp",
     Type: "series-Serial",
   },
   {
@@ -719,7 +719,7 @@ const seriesSerials = [
     NameEN: "Black Mirror",
     Status: "1 Сезон, 2 Сезон 1/3 Эпизод",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild3539-3564-4031-a434-616561626366/_.webp",
+    Image: "tild3539-3564-4031-a434-616561626366/_.webp",
     Type: "series-Serial",
   },
   {
@@ -728,7 +728,7 @@ const seriesSerials = [
     NameEN: "Black Sails",
     Status: "1 Сезон 1-6/8 Эпизод",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild3365-3961-4466-b861-666566653364/_.webp",
+    Image: "tild3365-3961-4466-b861-666566653364/_.webp",
     Type: "series-Serial",
   },
   {
@@ -737,7 +737,7 @@ const seriesSerials = [
     NameEN: "Sherlock",
     Status: "4 Сезона",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild6235-6166-4137-b638-323138326232/photo.webp",
+    Image: "tild6235-6166-4137-b638-323138326232/photo.webp",
     Type: "series-Serial",
   },
 ];

@@ -4,7 +4,7 @@ const amusementYouTube = [
     NameRU: "Ваномас",
     Status: "Сборник",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild3332-3162-4761-a263-353939633031/ezgifcom-png-to-webp.webp",
+    Image: "tild3332-3162-4761-a263-353939633031/ezgifcom-png-to-webp.webp",
     Type: "amusement-YouTube",
   },
   {
@@ -14,7 +14,7 @@ const amusementYouTube = [
     Donut: "donut-2",
     Link: ["vk", "456241209?t=1h9m58s"],
     Player: ["vk", "456241209", "8b66019b1f5b1102", "1h9m58s"],
-    Image: "https://static.tildacdn.com/tild6263-3263-4165-b334-326432383132/SHAPKA__.webp",
+    Image: "tild6263-3263-4165-b334-326432383132/SHAPKA__.webp",
     Type: "amusement-YouTube",
   },
   {
@@ -24,7 +24,7 @@ const amusementYouTube = [
     Donut: "donut-1",
     Link: ["vk", "456240527?t=3h33m40s"],
     Player: ["vk", "456240527", "edafa039aeff2556", "3h33m40s"],
-    Image: "https://static.tildacdn.com/tild6162-3336-4436-b934-666135396235/MrBeast_______250000.webp",
+    Image: "tild6162-3336-4436-b934-666135396235/MrBeast_______250000.webp",
     Type: "amusement-YouTube",
   },
   {
@@ -34,7 +34,7 @@ const amusementYouTube = [
     Donut: "donut-2",
     Link: ["vk", "456241201?t=10m2s"],
     Player: ["vk", "456241201", "ded8275a4a0f761f", "0h10m2s"],
-    Image: "https://static.tildacdn.com/tild6132-3661-4430-b836-643730346135/KIPERMAN_______.webp",
+    Image: "tild6132-3661-4430-b836-643730346135/KIPERMAN_______.webp",
     Type: "amusement-YouTube",
   },
   {
@@ -44,7 +44,7 @@ const amusementYouTube = [
     Donut: "donut-2",
     Link: ["vk", "456241380?t=12m59s"],
     Player: ["vk", "456241380", "671f543dc830b3d4", "0h12m59s"],
-    Image: "https://static.tildacdn.com/tild6339-3531-4638-b765-393363636533/_Porsche__VW_____.webp",
+    Image: "tild6339-3531-4638-b765-393363636533/_Porsche__VW_____.webp",
     Type: "amusement-YouTube",
   },
   {
@@ -54,7 +54,7 @@ const amusementYouTube = [
     Donut: "donut-2",
     Link: ["vk", "456241387?t=1h38m0s"],
     Player: ["vk", "456241387", "794c825a98f1d577", "1h38m0s"],
-    Image: "https://static.tildacdn.com/tild3361-3930-4761-b739-386537336266/____.jpg",
+    Image: "tild3361-3930-4761-b739-386537336266/____.jpg",
     Type: "amusement-YouTube",
   },
   {
@@ -62,7 +62,7 @@ const amusementYouTube = [
     NameRU: "Криминальная Россия",
     Status: "Сборник",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild6234-3534-4064-b538-393465636262/ezgifcom-png-to-webp.webp",
+    Image: "tild6234-3534-4064-b538-393465636262/ezgifcom-png-to-webp.webp",
     Type: "amusement-YouTube",
   },
   {
@@ -72,7 +72,7 @@ const amusementYouTube = [
     Donut: "donut-1",
     Link: ["vk", "456240503?t=2h26m20s"],
     Player: ["vk", "456240503", "92626d9bdbc611a4", "2h26m20s"],
-    Image: "https://static.tildacdn.com/tild3733-6138-4666-a230-343664666162/____-.webp",
+    Image: "tild3733-6138-4666-a230-343664666162/____-.webp",
     Type: "amusement-YouTube",
   },
   {
@@ -82,7 +82,7 @@ const amusementYouTube = [
     Donut: "donut-2",
     Link: ["vk", "456241209?t=19m13s"],
     Player: ["vk", "456241209", "8b66019b1f5b1102", "0h19m13s"],
-    Image: "https://static.tildacdn.com/tild3762-6663-4634-b830-633033646162/CONWAY______.webp",
+    Image: "tild3762-6663-4634-b830-633033646162/CONWAY______.webp",
     Type: "amusement-YouTube",
   },
   {
@@ -92,7 +92,7 @@ const amusementYouTube = [
     Donut: "donut-2",
     Link: ["vk", "456241233?t=1h29m31s"],
     Player: ["vk", "456241233", "4d757ac2659e62bc", "1h29m31s"],
-    Image: "https://static.tildacdn.com/tild6462-3765-4265-b638-623365353132/Micum__.webp",
+    Image: "tild6462-3765-4265-b638-623365353132/Micum__.webp",
     Type: "amusement-YouTube",
   },
   {
@@ -101,7 +101,7 @@ const amusementYouTube = [
     Donut: "donut-1",
     Link: ["vk", "456239471?t=3h9m15s"],
     Player: ["vk", "456239471", "d5d8ae22aeafe0f8", "3h9m15s"],
-    Image: "https://static.tildacdn.com/tild3961-3134-4732-a636-343264656333/__-___.webp",
+    Image: "tild3961-3134-4732-a636-343264656333/__-___.webp",
     Type: "amusement-YouTube",
   },
   {
@@ -109,7 +109,7 @@ const amusementYouTube = [
     NameRU: "ТОПЛЕС",
     Status: "Сборник",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild3466-6234-4962-b632-336634316130/photo.webp",
+    Image: "tild3466-6234-4962-b632-336634316130/photo.webp",
     Type: "amusement-YouTube",
   },
   {
@@ -119,7 +119,7 @@ const amusementYouTube = [
     Donut: "donut-1",
     Link: ["vk", "456240666?t=2h20m30s"],
     Player: ["vk", "456240666", "e9658a3245971287", "2h20m30s"],
-    Image: "https://static.tildacdn.com/tild3162-3363-4334-b565-613063333464/___JOJI____.webp",
+    Image: "tild3162-3363-4334-b565-613063333464/___JOJI____.webp",
     Type: "amusement-YouTube",
   },
   {
@@ -129,7 +129,7 @@ const amusementYouTube = [
     Donut: "donut-3",
     Link: ["vk", "456241900?t=17m7s"],
     Player: ["vk", "456241900", "1de648d11ff22d68", "0h17m7s"],
-    Image: "https://static.tildacdn.com/tild3762-6438-4030-a461-346535623164/img.webp",
+    Image: "tild3762-6438-4030-a461-346535623164/img.webp",
     Type: "amusement-YouTube",
   },
   {
@@ -138,7 +138,7 @@ const amusementYouTube = [
     Donut: "donut-1",
     Link: ["vk", "456240520?t=1h23m50s"],
     Player: ["vk", "456240520", "4ddee33e43f5a50e", "1h23m50s"],
-    Image: "https://static.tildacdn.com/tild6266-3561-4235-b832-656137376530/____.webp",
+    Image: "tild6266-3561-4235-b832-656137376530/____.webp",
     Type: "amusement-YouTube",
   },
   {
@@ -148,7 +148,7 @@ const amusementYouTube = [
     Donut: "donut-1",
     Link: ["vk", "456240666?t=14m30s"],
     Player: ["vk", "456240666", "e9658a3245971287", "0h14m30s"],
-    Image: "https://static.tildacdn.com/tild3166-3830-4133-b062-366634653536/Gigguk________.webp",
+    Image: "tild3166-3830-4133-b062-366634653536/Gigguk________.webp",
     Type: "amusement-YouTube",
   },
   {
@@ -158,7 +158,7 @@ const amusementYouTube = [
     Donut: "donut-2",
     Link: ["vk", "456241441?t=24m40s"],
     Player: ["vk", "456241441", "cabd7ff10ebaa0e8", "0h24m40s"],
-    Image: "https://static.tildacdn.com/tild3966-3363-4634-a166-343963393032/geo_-___.webp",
+    Image: "tild3966-3363-4634-a166-343963393032/geo_-___.webp",
     Type: "amusement-YouTube",
   },
   {
@@ -167,7 +167,7 @@ const amusementYouTube = [
     Donut: "donut-1",
     Link: ["vk", "456240613?t=9h48m32s"],
     Player: ["vk", "456240613", "ac8e9242402aa55b", "9h48m32s"],
-    Image: "https://static.tildacdn.com/tild3032-3262-4262-b663-336537653930/Alan_Wake_2_Full_Mus.webp",
+    Image: "tild3032-3262-4262-b663-336537653930/Alan_Wake_2_Full_Mus.webp",
     Type: "amusement-YouTube",
   },
   {
@@ -175,7 +175,7 @@ const amusementYouTube = [
     NameRU: "ALI",
     Status: "Сборник",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild6331-3031-4163-b064-653739363962/ALI.webp",
+    Image: "tild6331-3031-4163-b064-653739363962/ALI.webp",
     Type: "amusement-YouTube",
   },
   {
@@ -183,7 +183,7 @@ const amusementYouTube = [
     NameRU: "Azazin Kreet",
     Status: "Сборник",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild6235-3862-4031-b430-313832663132/Azazin_Kreet.webp",
+    Image: "tild6235-3862-4031-b430-313832663132/Azazin_Kreet.webp",
     Type: "amusement-YouTube",
   },
   {
@@ -193,7 +193,7 @@ const amusementYouTube = [
     Donut: "donut-2",
     Link: ["vk", "456240901?t=11m11s"],
     Player: ["vk", "456240901", "795dd4c5485005c0", "0h11m11s"],
-    Image: "https://static.tildacdn.com/tild3532-3934-4130-b333-656431393433/Quark_Doge_FlexAir_8.webp",
+    Image: "tild3532-3934-4130-b333-656431393433/Quark_Doge_FlexAir_8.webp",
     Type: "amusement-YouTube",
   },
   {
@@ -201,7 +201,7 @@ const amusementYouTube = [
     NameRU: "God of War: ИГРОФИЛЬМ",
     Status: "Сборник",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild6566-3235-4439-b336-613632346138/God_of_War_.webp",
+    Image: "tild6566-3235-4439-b336-613632346138/God_of_War_.webp",
     Type: "amusement-YouTube",
   },
   {
@@ -211,7 +211,7 @@ const amusementYouTube = [
     Donut: "donut-1",
     Link: ["vk", "456240520?t=2h23m0s"],
     Player: ["vk", "456240520", "4ddee33e43f5a50e", "2h23m0s"],
-    Image: "https://static.tildacdn.com/tild3534-6638-4937-b735-333063343532/One_Year_Alone_in_Fo.webp",
+    Image: "tild3534-6638-4937-b735-333063343532/One_Year_Alone_in_Fo.webp",
     Type: "amusement-YouTube",
   },
   {
@@ -221,7 +221,7 @@ const amusementYouTube = [
     Donut: "donut-1",
     Link: ["vk", "456240724?t=3h43m18s"],
     Player: ["vk", "456240724", "2d168f6ebafa72f4", "3h43m18s"],
-    Image: "https://static.tildacdn.com/tild3732-6139-4236-b165-663838356438/Archipel_Shinichi_Sa.webp",
+    Image: "tild3732-6139-4236-b165-663838356438/Archipel_Shinichi_Sa.webp",
     Type: "amusement-YouTube",
   },
   {
@@ -229,7 +229,7 @@ const amusementYouTube = [
     NameRU: "Solek",
     Status: "Сборник",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3830-6164-4639-b461-376432313731/Solek.webp",
+    Image: "tild3830-6164-4639-b461-376432313731/Solek.webp",
     Type: "amusement-YouTube",
   },
   {
@@ -239,7 +239,7 @@ const amusementYouTube = [
     Donut: "donut-2",
     Link: ["vk", "456241235?t=4m10s"],
     Player: ["vk", "456241235", "7563cccd7e63935d", "0h4m10s"],
-    Image: "https://static.tildacdn.com/tild6139-6233-4462-b632-663438613466/UNUSUAL_MEMES_COMPIL.webp",
+    Image: "tild6139-6233-4462-b632-663438613466/UNUSUAL_MEMES_COMPIL.webp",
     Type: "amusement-YouTube",
   },
   {
@@ -247,7 +247,7 @@ const amusementYouTube = [
     NameRU: "Utopia Show",
     Status: "Сборник",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild6337-6664-4537-a231-396565653833/UtopiaShow-ezgifcom-.webp",
+    Image: "tild6337-6664-4537-a231-396565653833/UtopiaShow-ezgifcom-.webp",
     Type: "amusement-YouTube",
   },
 ];

@@ -6,7 +6,7 @@ const fullmeterCartoon = [
     Donut: "donut-3",
     Link: ["vk", "456241881?t=11m23s"],
     Player: ["vk", "456241881", "b06754ddb2b80bc3", "0h11m23s"],
-    Image: "https://static.tildacdn.com/tild3038-3064-4231-b864-386464383137/img.webp",
+    Image: "tild3038-3064-4231-b864-386464383137/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -16,7 +16,7 @@ const fullmeterCartoon = [
     Donut: "donut-1",
     Link: ["vk", "456240415?t=6h21m35s"],
     Player: ["vk", "456240415", "eb79af2343fc2a0f", "6h21m35s"],
-    Image: "https://static.tildacdn.com/tild6464-3764-4232-b930-336631646666/img.webp",
+    Image: "tild6464-3764-4232-b930-336631646666/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -26,7 +26,7 @@ const fullmeterCartoon = [
     Donut: "donut-1",
     Link: ["vk", "456240165?t=6h32m20s"],
     Player: ["vk", "456240165", "012d5ccf17bcd5ac", "6h32m20s"],
-    Image: "https://static.tildacdn.com/tild6565-6563-4732-a463-656262346662/img.webp",
+    Image: "tild6565-6563-4732-a463-656262346662/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -36,7 +36,7 @@ const fullmeterCartoon = [
     Donut: "donut-2",
     Link: ["vk", "456240810?t=7h50m50s"],
     Player: ["vk", "456240810", "5b29e5099d28bc1e", "7h50m50s"],
-    Image: "https://static.tildacdn.com/tild6131-3134-4033-a639-386436616332/img.webp",
+    Image: "tild6131-3134-4033-a639-386436616332/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -46,7 +46,7 @@ const fullmeterCartoon = [
     Donut: "donut-1",
     Link: ["vk", "456239024?t=10m34s"],
     Player: ["vk", "456239024", "d56f2a97d9c2190c", "0h10m34s"],
-    Image: "https://static.tildacdn.com/tild3663-3462-4435-b236-613764333134/img.webp",
+    Image: "tild3663-3462-4435-b236-613764333134/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -56,7 +56,7 @@ const fullmeterCartoon = [
     Donut: "donut-2",
     Link: ["vk", "456241431?t=8h31m39s"],
     Player: ["vk", "456241431", "0fea669dc0611a5a", "8h31m39s"],
-    Image: "https://static.tildacdn.com/tild6632-3230-4031-b839-613764623932/img.webp",
+    Image: "tild6632-3230-4031-b839-613764623932/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -66,7 +66,7 @@ const fullmeterCartoon = [
     Donut: "donut-2",
     Link: ["vk", "456241591?t=12m46s"],
     Player: ["vk", "456241591", "fc93feed2598e849", "0h12m46s"],
-    Image: "https://static.tildacdn.com/tild3732-3938-4539-a362-336631326134/img.webp",
+    Image: "tild3732-3938-4539-a362-336631326134/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -76,7 +76,7 @@ const fullmeterCartoon = [
     Donut: "donut-2",
     Link: ["vk", "456241598?t=18m53s"],
     Player: ["vk", "456241598", "2896936f59079912", "0h18m53s"],
-    Image: "https://static.tildacdn.com/tild6239-6530-4562-a333-393565316137/img.webp",
+    Image: "tild6239-6530-4562-a333-393565316137/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -86,7 +86,7 @@ const fullmeterCartoon = [
     Donut: "donut-1",
     Link: ["vk", "456240415?t=4h24m17s"],
     Player: ["vk", "456240415", "eb79af2343fc2a0f", "4h24m17s"],
-    Image: "https://static.tildacdn.com/tild6331-3939-4462-a536-643139396230/img.webp",
+    Image: "tild6331-3939-4462-a536-643139396230/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -96,7 +96,7 @@ const fullmeterCartoon = [
     Donut: "donut-3",
     Link: ["vk", "456241885?t=12m22s"],
     Player: ["vk", "456241885", "85a002b49c6f147d", "0h12m22s"],
-    Image: "https://static.tildacdn.com/tild6436-3433-4434-a136-396337323737/img.webp",
+    Image: "tild6436-3433-4434-a136-396337323737/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -104,7 +104,7 @@ const fullmeterCartoon = [
     NameRU: "Геркулес",
     NameEN: "Hercules",
     Link: ["boosty", "godenname/posts/100068ea-450a-498a-9f89-b982b1b6be28"],
-    Image: "https://static.tildacdn.com/tild6233-3331-4531-b031-373233656566/img.webp",
+    Image: "tild6233-3331-4531-b031-373233656566/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -112,7 +112,7 @@ const fullmeterCartoon = [
     NameRU: "Головоломка",
     NameEN: "Inside Out",
     Status: "Сборник",
-    Image: "https://static.tildacdn.com/tild6635-3638-4836-b736-333866626534/img.webp",
+    Image: "tild6635-3638-4836-b736-333866626534/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -122,7 +122,7 @@ const fullmeterCartoon = [
     Donut: "donut-1",
     Link: ["vk", "456240105?t=11m50s"],
     Player: ["vk", "456240105", "acfe581f31b39fe0", "0h11m50s"],
-    Image: "https://static.tildacdn.com/tild3236-3834-4336-b362-343930653431/img.webp",
+    Image: "tild3236-3834-4336-b362-343930653431/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -132,7 +132,7 @@ const fullmeterCartoon = [
     Donut: "donut-1",
     Link: ["vk", "456240415?t=2h22m2s"],
     Player: ["vk", "456240415", "eb79af2343fc2a0f", "2h22m2s"],
-    Image: "https://static.tildacdn.com/tild3536-3662-4839-b561-326536316163/img.webp",
+    Image: "tild3536-3662-4839-b561-326536316163/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -142,7 +142,7 @@ const fullmeterCartoon = [
     Donut: "donut-2",
     Link: ["vk", "456241714?t=12m30s"],
     Player: ["vk", "456241714", "554da5bad90bff92", "0h12m30s"],
-    Image: "https://static.tildacdn.com/tild6137-3233-4537-b132-313330633061/img.webp",
+    Image: "tild6137-3233-4537-b132-313330633061/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -151,7 +151,7 @@ const fullmeterCartoon = [
     Donut: "donut-2",
     Link: ["vk", "456241496?t=4h31m34s"],
     Player: ["vk", "456241496", "3eebf88a50277982", "4h31m34s"],
-    Image: "https://static.tildacdn.com/tild3933-6637-4663-b665-323337383334/img.webp",
+    Image: "tild3933-6637-4663-b665-323337383334/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -161,7 +161,7 @@ const fullmeterCartoon = [
     Donut: "donut-2",
     Link: ["vk", "456241332?t=4h19m16s"],
     Player: ["vk", "456241332", "feeb74c6d84346fb", "4h19m16s"],
-    Image: "https://static.tildacdn.com/tild3836-6632-4638-b965-623238363865/img.webp",
+    Image: "tild3836-6632-4638-b965-623238363865/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -171,7 +171,7 @@ const fullmeterCartoon = [
     Donut: "donut-2",
     Link: ["vk", "456241449?t=2h11m6s"],
     Player: ["vk", "456241449", "618a03aa86234003", "2h11m6s"],
-    Image: "https://static.tildacdn.com/tild6631-3966-4063-b835-653035396362/img.webp",
+    Image: "tild6631-3966-4063-b835-653035396362/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -179,7 +179,7 @@ const fullmeterCartoon = [
     NameRU: "Зверопой",
     NameEN: "Sing",
     Status: "Сборник",
-    Image: "https://static.tildacdn.com/tild3532-3830-4034-b434-383262303530/img.webp",
+    Image: "tild3532-3830-4034-b434-383262303530/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -189,7 +189,7 @@ const fullmeterCartoon = [
     Donut: "donut-1",
     Link: ["vk", "456240165?t=4h23m46s"],
     Player: ["vk", "456240165", "012d5ccf17bcd5ac", "4h23m46s"],
-    Image: "https://static.tildacdn.com/tild3735-6233-4833-a264-626462303766/img.webp",
+    Image: "tild3735-6233-4833-a264-626462303766/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -197,7 +197,7 @@ const fullmeterCartoon = [
     NameRU: "История игрушек",
     NameEN: "Toy Story",
     Status: "Сборник",
-    Image: "https://static.tildacdn.com/tild3932-3030-4465-a333-656165343966/img.webp",
+    Image: "tild3932-3030-4465-a333-656165343966/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -205,7 +205,7 @@ const fullmeterCartoon = [
     NameRU: "Как приручить дракона",
     NameEN: "How to Train Your Dragon",
     Status: "Сборник",
-    Image: "https://static.tildacdn.com/tild3934-3962-4362-b434-343638383633/img.webp",
+    Image: "tild3934-3962-4362-b434-343638383633/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -214,7 +214,7 @@ const fullmeterCartoon = [
     Donut: "donut-1",
     Link: ["vk", "456240713?t=2h11m30s"],
     Player: ["vk", "456240713", "574a818440ae3dc4", "2h11m30s"],
-    Image: "https://static.tildacdn.com/tild3732-3937-4237-b533-613338376230/img.webp",
+    Image: "tild3732-3937-4237-b533-613338376230/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -224,7 +224,7 @@ const fullmeterCartoon = [
     Donut: "donut-2",
     Link: ["vk", "456241644?t=12m3s"],
     Player: ["vk", "456241644", "428534cc68bf4b04", "0h12m3s"],
-    Image: "https://static.tildacdn.com/tild3031-3066-4661-b238-663963633434/img.webp",
+    Image: "tild3031-3066-4661-b238-663963633434/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -234,7 +234,7 @@ const fullmeterCartoon = [
     Donut: "donut-2",
     Link: ["vk", "456240840?t=1h56m50s"],
     Player: ["vk", "456240840", "59add21ec1580575", "1h56m50s"],
-    Image: "https://static.tildacdn.com/tild3232-6634-4237-a563-653662653435/img.webp",
+    Image: "tild3232-6634-4237-a563-653662653435/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -243,7 +243,7 @@ const fullmeterCartoon = [
     Donut: "donut-1",
     Link: ["vk", "456240690?t=0h0m0s"],
     Player: ["vk", "456240690", "4b7d283fd4cbf0a2", "0h0m0s"],
-    Image: "https://static.tildacdn.com/tild6166-6230-4238-b238-323639316132/img.webp",
+    Image: "tild6166-6230-4238-b238-323639316132/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -253,7 +253,7 @@ const fullmeterCartoon = [
     Donut: "donut-2",
     Link: ["vk", "456241105?t=3h40m10s"],
     Player: ["vk", "456241105", "62d9674e4e15101c", "3h40m10s"],
-    Image: "https://static.tildacdn.com/tild3462-3239-4934-b362-326266346434/img.webp",
+    Image: "tild3462-3239-4934-b362-326266346434/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -261,7 +261,7 @@ const fullmeterCartoon = [
     NameRU: "Кот в сапогах",
     NameEN: "Puss in Boots",
     Status: "Сборник",
-    Image: "https://static.tildacdn.com/tild6335-6436-4833-b135-663266656634/img.webp",
+    Image: "tild6335-6436-4833-b135-663266656634/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -271,7 +271,7 @@ const fullmeterCartoon = [
     Donut: "donut-2",
     Link: ["vk", "456240840?t=13m41s"],
     Player: ["vk", "456240840", "59add21ec1580575", "0h13m41s"],
-    Image: "https://static.tildacdn.com/tild6239-3161-4336-b864-623132633264/img.webp",
+    Image: "tild6239-3161-4336-b864-623132633264/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -279,7 +279,7 @@ const fullmeterCartoon = [
     NameRU: "Кунг-фу Панда",
     NameEN: "Kung Fu Panda",
     Status: "Сборник",
-    Image: "https://static.tildacdn.com/tild6633-3737-4631-a338-343534316463/img.webp",
+    Image: "tild6633-3737-4631-a338-343534316463/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -287,7 +287,7 @@ const fullmeterCartoon = [
     NameRU: "ЛЕГО Фильмы",
     NameEN: "The Lego Movies",
     Status: "Сборник",
-    Image: "https://static.tildacdn.com/tild3733-3566-4863-b232-663163396332/img.webp",
+    Image: "tild3733-3566-4863-b232-663163396332/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -295,7 +295,7 @@ const fullmeterCartoon = [
     NameRU: "Ледниковый период",
     NameEN: "Ice Age",
     Status: "Сборник",
-    Image: "https://static.tildacdn.com/tild6434-3331-4334-b335-393136653731/img.webp",
+    Image: "tild6434-3331-4334-b335-393136653731/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -303,7 +303,7 @@ const fullmeterCartoon = [
     NameRU: "Лига справедливости: Парадокс источника конфликта",
     NameEN: "Justice League: The Flashpoint Paradox",
     Link: ["boosty", "hiddenarchive/posts/af81e37e-4d04-4dba-9ea2-6020c76d81d4"],
-    Image: "https://static.tildacdn.com/tild3439-3532-4365-b465-346237643030/img.webp",
+    Image: "tild3439-3532-4365-b465-346237643030/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -313,7 +313,7 @@ const fullmeterCartoon = [
     Donut: "donut-2",
     Link: ["vk", "456241578?t=2h41m27s"],
     Player: ["vk", "456241578", "e6a9d7cf5f4f9f29", "2h41m27s"],
-    Image: "https://static.tildacdn.com/tild6232-3336-4634-b137-353835646136/img.webp",
+    Image: "tild6232-3336-4634-b137-353835646136/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -323,7 +323,7 @@ const fullmeterCartoon = [
     Donut: "donut-2",
     Link: ["vk", "456241702?t=2h45m22s"],
     Player: ["vk", "456241702", "9fc0118864ecc225", "2h45m22s"],
-    Image: "https://static.tildacdn.com/tild6433-3739-4335-b231-303765343565/img.webp",
+    Image: "tild6433-3739-4335-b231-303765343565/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -333,7 +333,7 @@ const fullmeterCartoon = [
     Donut: "donut-2",
     Link: ["vk", "456241536?t=2h5m30s"],
     Player: ["vk", "456241536", "63b8d39d93647d72", "2h5m30s"],
-    Image: "https://static.tildacdn.com/tild6666-3631-4663-a130-653932366138/img.webp",
+    Image: "tild6666-3631-4663-a130-653932366138/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -341,7 +341,7 @@ const fullmeterCartoon = [
     NameRU: "Мадагаскар",
     NameEN: "Madagascar",
     Status: "Сборник",
-    Image: "https://static.tildacdn.com/tild6336-3233-4364-a634-623066363064/img.webp",
+    Image: "tild6336-3233-4364-a634-623066363064/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -349,7 +349,7 @@ const fullmeterCartoon = [
     NameRU: "Марс Экспресс",
     NameEN: "Mars Express",
     Link: ["boosty", "hiddenarchive/posts/967d4b32-8dcd-4525-949f-91f0c4fb5c8c?t=7970&tmid=362c94e9-312e-42f2-a5fb-195a8230f05f"],
-    Image: "https://static.tildacdn.com/tild3734-3034-4864-b961-363331656565/img.webp",
+    Image: "tild3734-3034-4864-b961-363331656565/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -359,7 +359,7 @@ const fullmeterCartoon = [
     Donut: "donut-1",
     Link: ["vk", "456239971?t=13h53m59s"],
     Player: ["vk", "456239971", "8ef200c9e3d9fa03", "13h53m59s"],
-    Image: "https://static.tildacdn.com/tild3035-3035-4835-b439-666331343832/img.webp",
+    Image: "tild3035-3035-4835-b439-666331343832/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -367,7 +367,7 @@ const fullmeterCartoon = [
     NameRU: "Моана",
     NameEN: "Moana",
     Status: "Сборник",
-    Image: "https://static.tildacdn.com/tild3036-3963-4363-b336-353033306537/img.webp",
+    Image: "tild3036-3963-4363-b336-353033306537/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -375,7 +375,7 @@ const fullmeterCartoon = [
     NameRU: "Монстры",
     NameEN: "Monsters",
     Status: "Сборник",
-    Image: "https://static.tildacdn.com/tild3332-3966-4630-a164-353666616461/img.webp",
+    Image: "tild3332-3966-4630-a164-353666616461/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -385,7 +385,7 @@ const fullmeterCartoon = [
     Donut: "donut-3",
     Link: ["vk", "456241792?t=16m36s"],
     Player: ["vk", "456241792", "3aa42992fce938d1", "0h16m36s"],
-    Image: "https://static.tildacdn.com/tild6265-3066-4732-b138-386230316438/img.webp",
+    Image: "tild6265-3066-4732-b138-386230316438/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -395,7 +395,7 @@ const fullmeterCartoon = [
     Donut: "donut-1",
     Link: ["vk", "456240789?t=3h50s"],
     Player: ["vk", "456240789", "17890627dca95f36", "3h50s"],
-    Image: "https://static.tildacdn.com/tild3065-3564-4233-a361-343736333033/img.webp",
+    Image: "tild3065-3564-4233-a361-343736333033/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -404,7 +404,7 @@ const fullmeterCartoon = [
     NameEN: "The Prince of Egypt",
     Link: ["vk", "456239223"],
     Player: ["vk", "456239223", "ae9653ab0a1563d6", "0h0m0s"],
-    Image: "https://static.tildacdn.com/tild6363-3466-4336-b932-313130336130/img.webp",
+    Image: "tild6363-3466-4336-b932-313130336130/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -414,7 +414,7 @@ const fullmeterCartoon = [
     Donut: "donut-1",
     Link: ["vk", "456240664?t=11m"],
     Player: ["vk", "456240664", "308ec80beefeabb4", "0h11m0s"],
-    Image: "https://static.tildacdn.com/tild3737-3730-4335-b764-303330346331/img.webp",
+    Image: "tild3737-3730-4335-b764-303330346331/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -422,7 +422,7 @@ const fullmeterCartoon = [
     NameRU: "Ральф",
     NameEN: "Wreck-It Ralph",
     Link: ["boosty", "godenname/posts/68626da1-318c-4864-b5b9-e2e02d02c087?t=211&tmid=692fd160-1792-4096-9174-822763a62490"],
-    Image: "https://static.tildacdn.com/tild3639-6363-4166-a537-656362346432/img.webp",
+    Image: "tild3639-6363-4166-a537-656362346432/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -432,7 +432,7 @@ const fullmeterCartoon = [
     Donut: "donut-1",
     Link: ["vk", "456239993?t=3h30s"],
     Player: ["vk", "456239993", "3c567e82915b7a9a", "3h30s"],
-    Image: "https://static.tildacdn.com/tild6164-6264-4761-a266-333464363262/img.webp",
+    Image: "tild6164-6264-4761-a266-333464363262/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -442,7 +442,7 @@ const fullmeterCartoon = [
     Donut: "donut-1",
     Link: ["vk", "456240011?t=4h23m45s"],
     Player: ["vk", "456240011", "bbc28b75e59c9d7c", "4h23m45s"],
-    Image: "https://static.tildacdn.com/tild3261-3133-4437-b134-653061386263/img.webp",
+    Image: "tild3261-3133-4437-b134-653061386263/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -452,7 +452,7 @@ const fullmeterCartoon = [
     Donut: "donut-1",
     Link: ["vk", "456240076?t=9h12m50s"],
     Player: ["vk", "456240076", "335b264da65928b8", "9h12m50s"],
-    Image: "https://static.tildacdn.com/tild6233-3665-4162-b337-663032663432/img.webp",
+    Image: "tild6233-3665-4162-b337-663032663432/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -462,7 +462,7 @@ const fullmeterCartoon = [
     Donut: "donut-1",
     Link: ["vk", "456239733?t=2h1m32s"],
     Player: ["vk", "456239733", "6136080115034c39", "2h1m32s"],
-    Image: "https://static.tildacdn.com/tild6363-3533-4231-b330-386535613063/img.webp",
+    Image: "tild6363-3533-4231-b330-386535613063/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -472,7 +472,7 @@ const fullmeterCartoon = [
     Donut: "donut-1",
     Link: ["vk", "456239971?t=15h46m52s"],
     Player: ["vk", "456239971", "8ef200c9e3d9fa03", "15h46m52s"],
-    Image: "https://static.tildacdn.com/tild6365-3535-4562-a661-396233356566/img.webp",
+    Image: "tild6365-3535-4562-a661-396233356566/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -482,7 +482,7 @@ const fullmeterCartoon = [
     Donut: "donut-2",
     Link: ["vk", "456241406?t=2h6m42s"],
     Player: ["vk", "456241406", "eb3be1f56ddc0072", "2h6m42s"],
-    Image: "https://static.tildacdn.com/tild3232-6562-4263-b530-386537376231/img.webp",
+    Image: "tild3232-6562-4263-b530-386537376231/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -491,7 +491,7 @@ const fullmeterCartoon = [
     Donut: "donut-2",
     Link: ["vk", "456241643?t=12m7s"],
     Player: ["vk", "456241643", "7397e8c9becf0498", "0h12m7s"],
-    Image: "https://static.tildacdn.com/tild3763-6166-4133-b664-303661386335/img.webp",
+    Image: "tild3763-6166-4133-b664-303661386335/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -501,7 +501,7 @@ const fullmeterCartoon = [
     Donut: "donut-2",
     Link: ["vk", "456240956?t=11m38s"],
     Player: ["vk", "456240956", "c8d8917ae26fd71f", "0h11m38s"],
-    Image: "https://static.tildacdn.com/tild6330-6430-4563-a363-646663633765/img.webp",
+    Image: "tild6330-6430-4563-a363-646663633765/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -511,7 +511,7 @@ const fullmeterCartoon = [
     Donut: "donut-1",
     Link: ["vk", "456239966?t=6h17m19s"],
     Player: ["vk", "456239966", "2c5c014d64cf1ba1", "6h17m19s"],
-    Image: "https://static.tildacdn.com/tild3466-6339-4436-a666-386534663466/img.webp",
+    Image: "tild3466-6339-4436-a666-386534663466/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -519,7 +519,7 @@ const fullmeterCartoon = [
     NameRU: "Тачки",
     NameEN: "Cars",
     Status: "Сборник",
-    Image: "https://static.tildacdn.com/tild3835-3063-4630-a239-346434363532/img.webp",
+    Image: "tild3835-3063-4630-a239-346434363532/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -527,7 +527,7 @@ const fullmeterCartoon = [
     NameRU: "Темный рыцарь: Возрождение легенды",
     NameEN: "Batman: The Dark Knight Returns",
     Lost: true,
-    Image: "https://static.tildacdn.com/tild3737-3930-4233-b262-633265613837/img.webp",
+    Image: "tild3737-3930-4233-b262-633265613837/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -536,14 +536,14 @@ const fullmeterCartoon = [
     NameEN: "Transformers One",
     Link: ["vk", "456241911?t=3h51m20s"],
     Player: ["vk", "456241911", "e5ca20530510fafa", "3h51m20s"],
-    Image: "https://static.tildacdn.com/tild3166-6332-4262-b736-313966383430/img.webp",
+    Image: "tild3166-6332-4262-b736-313966383430/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
     ID: "Fullmeter-Cartoon_Three-tallheroes",
     NameRU: "Три богатыря",
     Status: "Сборник",
-    Image: "https://static.tildacdn.com/tild3736-6633-4639-b233-376433373661/img.webp",
+    Image: "tild3736-6633-4639-b233-376433373661/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -552,7 +552,7 @@ const fullmeterCartoon = [
     NameEN: "Corpse Bride",
     Link: ["vk", "456239640"],
     Player: ["vk", "456239640", "d9f955664a717249", "0h0m0s"],
-    Image: "https://static.tildacdn.com/tild3936-6238-4636-b831-333965376164/img.webp",
+    Image: "tild3936-6238-4636-b831-333965376164/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -562,7 +562,7 @@ const fullmeterCartoon = [
     Donut: "donut-2",
     Link: ["vk", "456241114?t=2h33m4s"],
     Player: ["vk", "456241114", "b64d2d698d918071", "2h33m4s"],
-    Image: "https://static.tildacdn.com/tild6630-6666-4236-b734-363333666135/img.webp",
+    Image: "tild6630-6666-4236-b734-363333666135/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -572,7 +572,7 @@ const fullmeterCartoon = [
     Donut: "donut-1",
     Link: ["vk", "456240427?t=4h3m31s"],
     Player: ["vk", "456240427", "bb402566bb73d6e1", "4h3m31s"],
-    Image: "https://static.tildacdn.com/tild6635-6638-4664-b362-656537343236/img.webp",
+    Image: "tild6635-6638-4664-b362-656537343236/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -582,7 +582,7 @@ const fullmeterCartoon = [
     Donut: "donut-1",
     Link: ["vk", "456239941?t=4h1m47s"],
     Player: ["vk", "456239941", "9e93af22621e1653", "4h1m47s"],
-    Image: "https://static.tildacdn.com/tild3766-6133-4132-a664-333836363664/img.webp",
+    Image: "tild3766-6133-4132-a664-333836363664/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -592,7 +592,7 @@ const fullmeterCartoon = [
     Donut: "donut-1",
     Link: ["vk", "456240668?t=5m10s"],
     Player: ["vk", "456240668", "26781c5cf0d7c627", "0h5m10s"],
-    Image: "https://static.tildacdn.com/tild3635-6531-4632-b232-633232386165/img.webp",
+    Image: "tild3635-6531-4632-b232-633232386165/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -602,7 +602,7 @@ const fullmeterCartoon = [
     Donut: "donut-2",
     Link: ["vk", "456240917?t=1h29m46s"],
     Player: ["vk", "456240917", "f1d721e6e0099100", "1h29m46s"],
-    Image: "https://static.tildacdn.com/tild6363-6535-4531-b661-653665376235/img.webp",
+    Image: "tild6363-6535-4531-b661-653665376235/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -612,7 +612,7 @@ const fullmeterCartoon = [
     Donut: "donut-1",
     Link: ["vk", "456240690?t=1h35m50s"],
     Player: ["vk", "456240690", "4b7d283fd4cbf0a2", "1h35m50s"],
-    Image: "https://static.tildacdn.com/tild3437-6232-4363-b931-323463343233/img.webp",
+    Image: "tild3437-6232-4363-b931-323463343233/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -620,7 +620,7 @@ const fullmeterCartoon = [
     NameRU: "Человек-паук",
     NameEN: "Spider-Man",
     Status: "Сборник",
-    Image: "https://static.tildacdn.com/tild3130-3731-4664-a633-623134623263/img.webp",
+    Image: "tild3130-3731-4664-a633-623134623263/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -629,7 +629,7 @@ const fullmeterCartoon = [
     NameEN: "TMNT",
     Link: ["vk", "456241638?t=1m32s"],
     Player: ["vk", "456241638", "bbd5b1f847a0bf9c", "0h1m32s"],
-    Image: "https://static.tildacdn.com/tild6639-3830-4733-b433-353535656333/img.webp",
+    Image: "tild6639-3830-4733-b433-353535656333/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -637,7 +637,7 @@ const fullmeterCartoon = [
     NameRU: "Шрек",
     NameEN: "Shrek",
     Status: "Сборник",
-    Image: "https://static.tildacdn.com/tild3165-6662-4635-b165-316331356436/img.webp",
+    Image: "tild3165-6662-4635-b165-316331356436/img.webp",
     Type: "fullmeter-Cartoon",
   },
   {
@@ -646,7 +646,7 @@ const fullmeterCartoon = [
     Donut: "donut-3",
     Link: ["vk", "456241852?t=2h38m54s"],
     Player: ["vk", "456241852", "45c4198773dea2eb", "2h38m54s"],
-    Image: "https://static.tildacdn.com/tild6337-6562-4566-b531-636564376439/img.webp",
+    Image: "tild6337-6562-4566-b531-636564376439/img.webp",
     Type: "fullmeter-Cartoon",
   },
 ];

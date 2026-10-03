@@ -5,7 +5,7 @@ const seriesCartoons = [
     NameEN: "Arcane: League of Legends",
     Status: "2 Сезона",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild3161-6635-4163-b130-663465373134/photo.webp",
+    Image: "tild3161-6635-4163-b130-663465373134/photo.webp",
     Type: "series-Cartoon",
   },
   {
@@ -13,7 +13,7 @@ const seriesCartoons = [
     NameRU: "Атомный лес",
     Status: "1 Сезон 1-8/10 Эпизод",
     Donut: "donut-3",
-    Image: "https://static.tildacdn.com/tild6230-6634-4333-a232-663234653938/_.webp",
+    Image: "tild6230-6634-4333-a232-663234653938/_.webp",
     Type: "series-Cartoon",
   },
   {
@@ -24,7 +24,7 @@ const seriesCartoons = [
     Donut: "donut-1",
     Link: ["vk", "456239680?t=1h15m30s"],
     Player: ["vk", "456239680", "3a23c1a6b15e5178", "1h15m30s"],
-    Image: "https://static.tildacdn.com/tild6632-6438-4637-a334-323539353166/_10_.webp",
+    Image: "tild6632-6438-4637-a334-323539353166/_10_.webp",
     Type: "series-Cartoon",
   },
   {
@@ -35,7 +35,7 @@ const seriesCartoons = [
     Donut: "donut-1",
     Link: ["vk", "456239624?t=5h23m15s"],
     Player: ["vk", "456239624", "00ddd8d363eacee0", "5h23m15s"],
-    Image: "https://static.tildacdn.com/tild6538-3931-4464-b839-633664313566/_1992.webp",
+    Image: "tild6538-3931-4464-b839-633664313566/_1992.webp",
     Type: "series-Cartoon",
   },
   {
@@ -44,7 +44,7 @@ const seriesCartoons = [
     NameEN: "Ultimate Spider-Man",
     Status: "1 Сезон 1-26/26 Эпизод",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild3236-3737-4031-a133-616463343832/_-.webp",
+    Image: "tild3236-3737-4031-a133-616463343832/_-.webp",
     Type: "series-Cartoon",
   },
   {
@@ -53,7 +53,7 @@ const seriesCartoons = [
     NameEN: "Adventure Time",
     Status: "9 Сезонов",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3863-3533-4139-b239-633634363437/_.webp",
+    Image: "tild3863-3533-4139-b239-633634363437/_.webp",
     Type: "series-Cartoon",
   },
   {
@@ -62,7 +62,7 @@ const seriesCartoons = [
     NameEN: "Adventure Time: Fionna & Cake",
     Status: "1 Сезон 1-10/10 Эпизод",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild3062-6134-4266-b366-373637323434/_Adventure_Time_Fion.webp",
+    Image: "tild3062-6134-4266-b366-373637323434/_Adventure_Time_Fion.webp",
     Type: "series-Cartoon",
   },
   {
@@ -71,7 +71,7 @@ const seriesCartoons = [
     NameEN: "Steven Universe",
     Status: "6 Сезонов + Фильм",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild6337-3438-4330-b036-373466303732/_.webp",
+    Image: "tild6337-3438-4330-b036-373466303732/_.webp",
     Type: "series-Cartoon",
   },
   {
@@ -79,7 +79,7 @@ const seriesCartoons = [
     NameRU: "Гравити Фолз",
     NameEN: "Gravity Falls",
     Status: "2 Сезона",
-    Image: "https://static.tildacdn.com/tild6631-6230-4761-a430-656133303931/_.webp",
+    Image: "tild6631-6230-4761-a430-656133303931/_.webp",
     Type: "series-Cartoon",
   },
   {
@@ -88,14 +88,14 @@ const seriesCartoons = [
     NameEN: "The Spectacular Spider-Man",
     Status: "2 Сезона",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild3130-6331-4336-a562-643234356231/_-.webp",
+    Image: "tild3130-6331-4336-a562-643234356231/_-.webp",
     Type: "series-Cartoon",
   },
   {
     ID: "Series-Cartoon_SpongeBob-SquarePants",
     NameRU: "Губка Боб Квадратные Штаны",
     NameEN: "SpongeBob SquarePants",
-    Image: "https://static.tildacdn.com/tild3133-3830-4531-b732-333637303833/___.webp",
+    Image: "tild3133-3830-4531-b732-333637303833/___.webp",
     Type: "series-Cartoon",
   },
   {
@@ -103,7 +103,7 @@ const seriesCartoons = [
     NameRU: "Доктор Айболит",
     Status: "1-7/7 Эпизод",
     Link: ["boosty", "hiddenarchive/posts/b9b53b18-69ef-4459-8526-c2631b80a236?t=16702&tmid=6610f2b3-91ab-41cf-84ec-bd6bf07fc524"],
-    Image: "https://static.tildacdn.com/tild3137-6338-4863-a436-383630346331/_.webp",
+    Image: "tild3137-6338-4863-a436-383630346331/_.webp",
     Type: "series-Cartoon",
   },
   {
@@ -114,7 +114,7 @@ const seriesCartoons = [
     Donut: "donut-1",
     Link: ["vk", "456239680?t=3m20s"],
     Player: ["vk", "456239680", "3a23c1a6b15e5178", "0h3m20s"],
-    Image: "https://static.tildacdn.com/tild6332-3736-4534-b233-623534326134/_.webp",
+    Image: "tild6332-3736-4534-b233-623534326134/_.webp",
     Type: "series-Cartoon",
   },
   {
@@ -122,7 +122,7 @@ const seriesCartoons = [
     NameRU: "ДОТА: Кровь дракона",
     NameEN: "Dota: Dragon's Blood",
     Status: "2 Сезона",
-    Image: "https://static.tildacdn.com/tild6238-3634-4633-b866-346665333263/OTA__.webp",
+    Image: "tild6238-3634-4633-b866-346665333263/OTA__.webp",
     Type: "series-Cartoon",
   },
   {
@@ -131,7 +131,7 @@ const seriesCartoons = [
     NameEN: "My Little Pony: Friendship is Magic",
     Status: "Много разных серий",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild6233-6261-4363-b963-653063303266/_-__.webp",
+    Image: "tild6233-6261-4363-b963-653063303266/_-__.webp",
     Type: "series-Cartoon",
   },
   {
@@ -140,7 +140,7 @@ const seriesCartoons = [
     NameEN: "Smiling Friends",
     Status: "1 Сезон 1-2, 4, 6/6 Эпизод",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3439-3764-4430-b237-306632326662/_.webp",
+    Image: "tild3439-3764-4430-b237-306632326662/_.webp",
     Type: "series-Cartoon",
   },
   {
@@ -149,7 +149,7 @@ const seriesCartoons = [
     NameEN: "Star Wars: The Clone Wars",
     Status: "7 Сезонов",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3633-3963-4161-a636-353330346166/___.webp",
+    Image: "tild3633-3963-4161-a636-353330346166/___.webp",
     Type: "series-Cartoon",
   },
   {
@@ -160,7 +160,7 @@ const seriesCartoons = [
     Donut: "donut-3",
     Link: ["vk", "456241829?t=13m35s"],
     Player: ["vk", "456241829", "0602dd6040109527", "0h13m35s"],
-    Image: "https://static.tildacdn.com/tild3430-3934-4133-a262-663338623265/_Star_Wars_Tales_of_.webp",
+    Image: "tild3430-3934-4133-a262-663338623265/_Star_Wars_Tales_of_.webp",
     Type: "series-Cartoon",
   },
   {
@@ -169,7 +169,7 @@ const seriesCartoons = [
     NameEN: "Castlevania",
     Status: "3 Сезона",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild6565-6233-4532-a565-326565663030/photo.webp",
+    Image: "tild6565-6233-4532-a565-326565663030/photo.webp",
     Type: "series-Cartoon",
   },
   {
@@ -177,7 +177,7 @@ const seriesCartoons = [
     NameRU: "Киберслав",
     Status: "1-4/8 Эпизод",
     Link: ["boosty", "hiddenarchive/posts/2a043374-5769-4cbf-8f18-461aa1d37da4"],
-    Image: "https://static.tildacdn.com/tild6466-3265-4061-a133-303261616135/photo.webp",
+    Image: "tild6466-3265-4061-a133-303261616135/photo.webp",
     Type: "series-Cartoon",
   },
   {
@@ -186,7 +186,7 @@ const seriesCartoons = [
     NameEN: "BoJack Horseman",
     Status: "3 Сезона",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild6462-3564-4361-b530-333931396638/_.webp",
+    Image: "tild6462-3564-4361-b530-333931396638/_.webp",
     Type: "series-Cartoon",
   },
   {
@@ -195,7 +195,7 @@ const seriesCartoons = [
     NameEN: "Love, Death & Robots",
     Status: "3 Сезона",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild6663-6132-4230-a338-316363646335/___.webp",
+    Image: "tild6663-6132-4230-a338-316363646335/___.webp",
     Type: "series-Cartoon",
   },
   {
@@ -206,7 +206,7 @@ const seriesCartoons = [
     Link: ["vk", "456241729?t=11m56s"],
     Player: ["vk", "456241729", "706edfe597a88f51", "0h11m56s"],
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild3737-6462-4436-b033-396137626639/_.webp",
+    Image: "tild3737-6462-4436-b033-396137626639/_.webp",
     Type: "series-Cartoon",
   },
   {
@@ -217,7 +217,7 @@ const seriesCartoons = [
     Donut: "donut-2",
     Link: ["vk", "456241493?t=5h8m30s"],
     Player: ["vk", "456241493", "f69540962041b973", "5h8m30s"],
-    Image: "https://static.tildacdn.com/tild6539-3066-4262-b466-333639616366/-.webp",
+    Image: "tild6539-3066-4262-b466-333639616366/-.webp",
     Type: "series-Cartoon",
   },
   {
@@ -226,7 +226,7 @@ const seriesCartoons = [
     NameEN: "Don't Hug Me, I'm Scared",
     Status: "1 Сезон",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild3264-6462-4137-a639-636631343338/____.webp",
+    Image: "tild3264-6462-4137-a639-636631343338/____.webp",
     Type: "series-Cartoon",
   },
   {
@@ -235,7 +235,7 @@ const seriesCartoons = [
     NameEN: "Invincible",
     Status: "2 Сезона",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild3039-6130-4139-a239-343737313433/photo.webp",
+    Image: "tild3039-6130-4139-a239-343737313433/photo.webp",
     Type: "series-Cartoon",
   },
   {
@@ -246,7 +246,7 @@ const seriesCartoons = [
     Donut: "donut-2",
     Link: ["vk", "456241143?t=1m36s"],
     Player: ["vk", "456241143", "25d91a196df54066", "0h1m36s"],
-    Image: "https://static.tildacdn.com/tild3430-6461-4237-b139-346263666430/_.webp",
+    Image: "tild3430-6461-4237-b139-346263666430/_.webp",
     Type: "series-Cartoon",
   },
   {
@@ -257,7 +257,7 @@ const seriesCartoons = [
     Donut: "donut-1",
     Link: ["vk", "456239534?t=4h33m21s"],
     Player: ["vk", "456239534", "906514bf646a569d", "4h33m21s"],
-    Image: "https://static.tildacdn.com/tild3664-6361-4463-b662-376366633536/photo.webp",
+    Image: "tild3664-6361-4463-b662-376366633536/photo.webp",
     Type: "series-Cartoon",
   },
   {
@@ -266,7 +266,7 @@ const seriesCartoons = [
     NameEN: "Lastman",
     Status: "2 Сезона",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3731-6636-4664-b230-633461643339/_.webp",
+    Image: "tild3731-6636-4664-b230-633461643339/_.webp",
     Type: "series-Cartoon",
   },
   {
@@ -275,7 +275,7 @@ const seriesCartoons = [
     NameEN: "Over the Garden Wall",
     Status: "1-10/10 Эпизод | 17.08.2020",
     Lost: true,
-    Image: "https://static.tildacdn.com/tild3238-3662-4636-b136-356233373732/img.webp",
+    Image: "tild3238-3662-4636-b136-356233373732/img.webp",
     Type: "series-Cartoon",
   },
   {
@@ -283,7 +283,7 @@ const seriesCartoons = [
     NameRU: "Приключения капитана Врунгеля",
     Status: "1-13/13 Эпизод",
     Link: ["boosty", "hiddenarchive/posts/b9b53b18-69ef-4459-8526-c2631b80a236?t=5967&tmid=6610f2b3-91ab-41cf-84ec-bd6bf07fc524"],
-    Image: "https://static.tildacdn.com/tild6262-3766-4337-b962-653331323333/__.webp",
+    Image: "tild6262-3766-4337-b962-653331323333/__.webp",
     Type: "series-Cartoon",
   },
   {
@@ -291,7 +291,7 @@ const seriesCartoons = [
     NameRU: "Принц Галактики",
     Status: "1-4/12 Эпизод",
     Link: ["boosty", "hiddenarchive/posts/8e4a5bd9-a36e-463d-94b6-1a26f00636b2"],
-    Image: "https://static.tildacdn.com/tild3835-3536-4362-b135-656265613730/_.webp",
+    Image: "tild3835-3536-4362-b135-656265613730/_.webp",
     Type: "series-Cartoon",
   },
   {
@@ -300,7 +300,7 @@ const seriesCartoons = [
     NameEN: "Rick and Morty",
     Status: "1 Сезон, 2 Сезон 1-2/10 Эпизод",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3662-6564-4833-a532-303332353234/__.webp",
+    Image: "tild3662-6564-4833-a532-303332353234/__.webp",
     Type: "series-Cartoon",
   },
   {
@@ -311,7 +311,7 @@ const seriesCartoons = [
     Donut: "donut-2",
     Link: ["vk", "456241591?t=1h53m59s"],
     Player: ["vk", "456241591", "fc93feed2598e849", "1h53m59s"],
-    Image: "https://static.tildacdn.com/tild6463-6539-4361-b162-396537656336/img.webp",
+    Image: "tild6463-6539-4361-b162-396537656336/img.webp",
     Type: "series-Cartoon",
   },
   {
@@ -319,7 +319,7 @@ const seriesCartoons = [
     NameRU: "Сборник армянских мультфильмов Роберта Саакянца (1981-1985)",
     Status: "1-5/5 Эпизод",
     Link: ["boosty", "hiddenarchive/posts/b9b53b18-69ef-4459-8526-c2631b80a236?t=16709&tmid=6610f2b3-91ab-41cf-84ec-bd6bf07fc524"],
-    Image: "https://static.tildacdn.com/tild3663-6539-4639-a635-396337383666/____.webp",
+    Image: "tild3663-6539-4639-a635-396337383666/____.webp",
     Type: "series-Cartoon",
   },
   {
@@ -328,7 +328,7 @@ const seriesCartoons = [
     NameEN: "Scooby-Doo! Mystery Incorporated",
     Status: "1 Сезон 1-8/26 Эпизод",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3238-6433-4366-b363-643738353664/-__.webp",
+    Image: "tild3238-6433-4366-b363-643738353664/-__.webp",
     Type: "series-Cartoon",
   },
   {
@@ -336,7 +336,7 @@ const seriesCartoons = [
     NameRU: "Смешарики",
     Status: "Много чего",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild6339-3162-4764-a663-353130633035/photo.webp",
+    Image: "tild6339-3162-4764-a663-353130633035/photo.webp",
     Type: "series-Cartoon",
   },
   {
@@ -345,7 +345,7 @@ const seriesCartoons = [
     NameEN: "Happy Tree Friends",
     Status: "1-2 Сезон, 3 Сезон 1-7/25 Эпизод",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild3565-3261-4336-b233-636133383735/__.webp",
+    Image: "tild3565-3261-4336-b233-636133383735/__.webp",
     Type: "series-Cartoon",
   },
   {
@@ -354,7 +354,7 @@ const seriesCartoons = [
     NameEN: "Transformers: Prime",
     Status: "2 Сезона",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3935-3063-4132-a438-323963343962/_.webp",
+    Image: "tild3935-3063-4132-a438-323963343962/_.webp",
     Type: "series-Cartoon",
   },
   {
@@ -363,7 +363,7 @@ const seriesCartoons = [
     NameEN: "The Amazing World of Gumball",
     Status: "Много разных эпизодов",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild6331-3365-4165-b435-396363353633/__.webp",
+    Image: "tild6331-3365-4165-b435-396363353633/__.webp",
     Type: "series-Cartoon",
   },
   {
@@ -372,7 +372,7 @@ const seriesCartoons = [
     NameEN: "The Amazing Digital Circus",
     Status: "1 Сезон 1-9/9 Эпизод",
     Donut: "donut-3",
-    Image: "https://static.tildacdn.com/tild3834-3633-4166-a430-353637616465/img.webp",
+    Image: "tild3834-3633-4166-a430-353637616465/img.webp",
     Type: "series-Cartoon",
   },
   {
@@ -383,7 +383,7 @@ const seriesCartoons = [
     Donut: "donut-1",
     Link: ["vk", "456239918"],
     Player: ["vk", "456239918", "44a5fa6524e4d823", "0h0m0s"],
-    Image: "https://static.tildacdn.com/tild3432-3839-4266-b264-386665643839/_.webp",
+    Image: "tild3432-3839-4266-b264-386665643839/_.webp",
     Type: "series-Cartoon",
   },
   {
@@ -392,7 +392,7 @@ const seriesCartoons = [
     NameEN: "Scavengers Reign",
     Status: "1-12/12 Эпизод",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild3738-3336-4934-b530-383235643963/_.webp",
+    Image: "tild3738-3336-4934-b530-383235643963/_.webp",
     Type: "series-Cartoon",
   },
   {
@@ -403,7 +403,7 @@ const seriesCartoons = [
     Donut: "donut-1",
     Link: ["vk", "456239624?t=4h11m12s"],
     Player: ["vk", "456239624", "00ddd8d363eacee0", "4h11m12s"],
-    Image: "https://static.tildacdn.com/tild6236-6563-4537-a531-326333653166/-_1994.webp",
+    Image: "tild6236-6563-4537-a531-326333653166/-_1994.webp",
     Type: "series-Cartoon",
   },
   {
@@ -412,7 +412,7 @@ const seriesCartoons = [
     NameEN: "What If…?",
     Status: "1 Сезон 1-9/9 Эпизод",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild6135-3330-4162-b665-373139633138/_.webp",
+    Image: "tild6135-3330-4162-b665-373139633138/_.webp",
     Type: "series-Cartoon",
   },
   {
@@ -421,7 +421,7 @@ const seriesCartoons = [
     NameEN: "South Park",
     Status: "1-2 Сезон, 3 Сезон 1-14/17 Эпизод",
     Donut: "donut-3",
-    Image: "https://static.tildacdn.com/tild3930-6433-4463-b339-396265356332/_.webp",
+    Image: "tild3930-6433-4463-b339-396265356332/_.webp",
     Type: "series-Cartoon",
   },
 ];

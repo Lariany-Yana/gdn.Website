@@ -152,7 +152,10 @@
     <!-- Карточный шаблон: Тайтл -->
     <template id="project-card-template">
       <article class="card project">
-        <img loading="lazy" src="" />
+        <picture>
+          <source media="(pointer: fine)" srcset="" />
+          <img src="" loading="lazy" />
+        </picture>
         <div class="info">
           <span class="name-ru"></span>
           <span class="name-en"></span>
@@ -167,13 +170,6 @@
         </div>
       </article>
     </template>
-
-    <!--
-      <picture>
-        <source media="(pointer: fine)" srcset="" />
-        <img src="" loading="lazy" />
-      </picture>
-    -->
 
     <!-- Базы данных: Карточки -->
     <script src="../Database/Series/Anime.minified.js"></script>

@@ -8,7 +8,7 @@ const literatureComics = [
     Player: ["vk", "456240162", "930a61fdc40bc795", "0h12m57s"],
 
     ID: "Literary-Comics_Batman-Who-Laughs",
-    Image: "https://static.tildacdn.com/tild6334-3632-4439-b866-386133646365/_The_Batman_Who_Laug.webp",
+    Image: "tild6334-3632-4439-b866-386133646365/_The_Batman_Who_Laug.webp",
     Type: "literature-Comics",
   },
   {
@@ -17,7 +17,7 @@ const literatureComics = [
     NameEN: "Marvel Zombies",
     Status: "3 Эпизода",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3030-6433-4939-b063-363563626661/_Marvel_Zombies.webp",
+    Image: "tild3030-6433-4939-b063-363563626661/_Marvel_Zombies.webp",
     Type: "literature-Comics",
   },
   {
@@ -26,7 +26,7 @@ const literatureComics = [
     Status: "1-6/44 Главы",
     Donut: "donut-3",
     ID: "Literary-Comics_Avengers-Jonathan-Hickman",
-    Image: "https://static.tildacdn.com/tild6263-3665-4032-b736-663939656337/img.webp",
+    Image: "tild6263-3665-4032-b736-663939656337/img.webp",
     Type: "literature-Comics",
   },
   {
@@ -37,7 +37,7 @@ const literatureComics = [
     Link: ["vk", "456241894?t=2h36m46s"],
     Player: ["vk", "456241894", "2ffed7658943a3df", "2h36m46s"],
     ID: "Literary-Comics_New Avengers",
-    Image: "https://static.tildacdn.com/tild6130-3134-4135-a161-333164313462/img.webp",
+    Image: "tild6130-3134-4135-a161-333164313462/img.webp",
     Type: "literature-Comics",
   },
   {
@@ -46,7 +46,7 @@ const literatureComics = [
     NameEN: "Spider-Man: The Spider's Shadow",
     Status: "До финала",
     Link: ["boosty", "godenname/posts/ab37062e-7cb2-41e7-8f3c-b30d4432941c?t=5073&tmid=41cc8c96-4fb6-4b17-b098-71803eb13171"],
-    Image: "https://static.tildacdn.com/tild3538-6137-4038-b739-383363623430/_Spider-Man_The_Spid.webp",
+    Image: "tild3538-6137-4038-b739-383363623430/_Spider-Man_The_Spid.webp",
     Type: "literature-Comics",
   },
 ];

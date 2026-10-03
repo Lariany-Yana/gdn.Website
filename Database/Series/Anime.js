@@ -5,7 +5,7 @@ const seriesAnime = [
     NameEN: "91 Days",
     Status: "1-12/12 Эпизод",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild6131-3661-4132-b238-326235643636/91_.webp",
+    Image: ["tild6437-3331-4364-b939-376463316237/Max.webp", "tild6136-6238-4265-b039-366333306332/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -14,7 +14,7 @@ const seriesAnime = [
     NameEN: "Quanzhi Gaoshou / The King's Avatar",
     Status: "1 Сезон 1-12/12 Эпизод",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3138-6438-4233-a230-666436376232/_.webp",
+    Image: ["tild3639-6330-4638-a639-613065363933/Max.webp", "tild3230-3631-4336-b461-353838316161/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -22,7 +22,7 @@ const seriesAnime = [
     NameRU: "&#2Аватар: Легенда об Аанге",
     NameEN: "Avatar: The Last Airbender",
     Status: "3 Сезона",
-    Image: "https://static.tildacdn.com/tild3431-3663-4261-a561-643066363630/___.webp",
+    Image: ["tild3461-3264-4035-b230-396265613932/Max.webp", "tild3463-3461-4635-a235-613135623663/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -30,7 +30,7 @@ const seriesAnime = [
     NameRU: "&#3Аватар: Легенда о Корре",
     NameEN: "The Legend of Korra",
     Status: "3 Сезона",
-    Image: "https://static.tildacdn.com/tild3439-3438-4133-a539-663932656663/___.webp",
+    Image: ["tild3864-6537-4332-b161-613839636134/Max.webp", "tild3164-6237-4436-b962-636464666662/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -39,7 +39,7 @@ const seriesAnime = [
     NameEN: "Shiguang Dailiren / Link Click",
     Status: "3 Сезона",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3036-3162-4534-b235-383462386432/_.webp",
+    Image: ["tild3661-3231-4031-a338-643637636431/Max.webp", "tild6664-6433-4763-b835-313930666562/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -48,7 +48,7 @@ const seriesAnime = [
     NameEN: "Inferno Cop",
     Status: "1-13/13 Эпизод",
     Link: ["boosty", "hiddenarchive/posts/cf0a320d-c358-4b1f-b331-e37e6b52647a"],
-    Image: "https://static.tildacdn.com/tild3366-3935-4165-b232-353262306636/_.webp",
+    Image: ["tild6136-6333-4634-b562-316231353464/Max.webp", "tild3461-6333-4565-b636-633261316131/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -56,7 +56,7 @@ const seriesAnime = [
     NameRU: "Акаги, легенда маджонга",
     NameEN: "Touhai Densetsu Akagi: Yami ni Maiorita Tensai",
     Status: "1-26/26 Эпизод",
-    Image: "https://static.tildacdn.com/tild3564-6131-4463-b339-633432393736/__.webp",
+    Image: ["tild3038-3932-4431-b938-376239333935/Max.webp", "tild3566-3363-4965-a336-373731353734/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -64,7 +64,7 @@ const seriesAnime = [
     NameRU: "Альдноа.Зеро",
     NameEN: "Aldnoah.Zero",
     Status: "1-12/12 Эпизод",
-    Image: "https://static.tildacdn.com/tild3638-3137-4562-b564-386338343664/photo.webp",
+    Image: ["tild3539-3963-4066-b536-353434376566/Max.webp", "tild6533-3437-4134-b839-363533373666/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -75,7 +75,7 @@ const seriesAnime = [
     Donut: "donut-2",
     Link: ["vk", "456241510?t=2h19m47s"],
     Player: ["vk", "456241510", "7f2b259b5ae96fc2", "2h19m47s"],
-    Image: "https://static.tildacdn.com/tild3561-3330-4937-b565-376661663664/_____-.webp",
+    Image: ["tild3239-3938-4239-b566-656465393236/Max.webp", "tild3763-6462-4438-a361-616564623962/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -84,7 +84,7 @@ const seriesAnime = [
     NameEN: "Angel Beats!",
     Status: "1-12/13 Эпизод + Спешл",
     Donut: "donut-3",
-    Image: "https://static.tildacdn.com/tild6362-3532-4731-b832-373532616662/img.webp",
+    Image: ["tild6166-6464-4238-b565-333335646130/Max.webp", "tild3032-3737-4538-b232-303961626439/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -93,7 +93,7 @@ const seriesAnime = [
     NameEN: "Shingeki no Kyojin / Attack on Titan",
     Status: "4 Сезона + OVA | 25.09.2020-06.11.2023",
     Lost: true,
-    Image: "https://static.tildacdn.com/tild3733-6535-4366-b137-333730313239/_.webp",
+    Image: ["tild3762-3038-4962-b364-626462333239/Max.webp", "tild6337-3362-4637-b633-333632343537/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -101,7 +101,7 @@ const seriesAnime = [
     NameRU: "Бакуман",
     NameEN: "Bakuman.",
     Status: "1 Сезон 1-25/25 Эпизод",
-    Image: "https://static.tildacdn.com/tild6363-3133-4135-a532-616564643035/photo.webp",
+    Image: ["tild3336-6166-4464-b934-366438643663/Max.webp", "tild3239-6135-4634-b230-363838326264/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -110,7 +110,7 @@ const seriesAnime = [
     NameEN: "Kuroko no Basket",
     Status: "3 Сезона + Фильм",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild6339-6333-4162-b730-393662366638/_.webp",
+    Image: ["tild3630-3734-4431-b131-623136623063/Max.webp", "tild3362-3765-4534-b635-336166383333/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -120,7 +120,7 @@ const seriesAnime = [
     Status: "1 Сезон 1-13/13 Эпизод | 05.11.2020",
     Link: ["vk", "456239512"],
     Player: ["vk", "456239512", "1037980707aea909", "0h0m0s"],
-    Image: "https://static.tildacdn.com/tild6565-3433-4036-a537-323062343266/_.webp",
+    Image: ["tild3935-6163-4535-b266-616533336136/Max.webp", "tild3436-6633-4165-a336-663866366230/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -128,7 +128,7 @@ const seriesAnime = [
     NameRU: "Бездарная Нана",
     NameEN: "Talentless Nana",
     Status: "1-13/13 Эпизод",
-    Image: "https://static.tildacdn.com/tild6537-6536-4634-b465-356363643032/_.webp",
+    Image: ["tild3931-6339-4630-b632-393962373837/Max.webp", "tild3932-3333-4161-a533-633962623233/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -136,7 +136,7 @@ const seriesAnime = [
     NameRU: "Бездомный Бог",
     NameEN: "Noragami",
     Status: "2 Сезона",
-    Image: "https://static.tildacdn.com/tild3431-3534-4664-b738-623464646536/_.webp",
+    Image: ["tild3734-6135-4662-b466-353339336161/Max.webp", "tild6437-3831-4564-b330-323664303632/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -144,7 +144,7 @@ const seriesAnime = [
     NameRU: "Бек: Восточная ударная группа",
     NameEN: "Beck: Mongolian Chop Squad",
     Status: "1-26/26 Эпизод",
-    Image: "https://static.tildacdn.com/tild3163-3530-4464-b134-343936633130/___.webp",
+    Image: ["tild3133-3637-4131-a633-363733636461/Max.webp", "tild3036-3437-4534-b861-373438396539/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -152,7 +152,7 @@ const seriesAnime = [
     NameRU: "Берсерк",
     NameEN: "Kenpuu Denki Berserk",
     Status: "1 Сезон 1-25/25 Эпизод",
-    Image: "https://static.tildacdn.com/tild6132-3038-4636-b464-616331646134/photo.webp",
+    Image: ["tild6464-3663-4263-a134-373237356437/Max.webp", "tild3861-6636-4264-b531-383964396232/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -161,7 +161,7 @@ const seriesAnime = [
     NameEN: "Bleach",
     Status: "4 Сезона",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild6666-6666-4537-a165-633133343934/photo.webp",
+    Image: ["tild6438-3736-4137-b833-373932353061/Max.webp", "tild3633-6635-4433-b664-323532663661/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -169,7 +169,7 @@ const seriesAnime = [
     NameRU: "Богиня благословляет этот прекрасный мир! || КоноCуба",
     NameEN: "Kono Subarashii Sekai ni Shukufuku wo! || KonoSuba",
     Status: "2 Сезона + Фильм",
-    Image: "https://static.tildacdn.com/tild3766-6437-4236-a633-636137326563/__.webp",
+    Image: ["tild3536-6361-4561-a335-396634666133/Max.webp", "tild3937-6134-4134-b737-343566363639/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -177,7 +177,7 @@ const seriesAnime = [
     NameRU: "Бог старшей школы",
     NameEN: "The God of High School",
     Status: "1-13/13 Эпизод",
-    Image: "https://static.tildacdn.com/tild3138-3535-4032-b135-393333326231/__.webp",
+    Image: ["tild3164-3164-4164-b835-633231633033/Max.webp", "tild3537-3134-4263-a135-363738323537/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -186,7 +186,7 @@ const seriesAnime = [
     NameEN: "Sentou Yousei Yukikaze",
     Status: "1-5/5 Эпизод",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild3935-6331-4162-b966-356134643562/__.webp",
+    Image: ["tild6230-6539-4633-a566-646665323030/Max.webp", "tild3462-3262-4439-a334-316537643264/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -197,7 +197,7 @@ const seriesAnime = [
     Donut: "donut-2",
     Link: ["vk", "456241691?t=11m18s"],
     Player: ["vk", "456241691", "7e3d40589960e09c", "0h11m18s"],
-    Image: "https://static.tildacdn.com/tild3737-6162-4566-b237-366562323564/_.webp",
+    Image: ["tild3933-3564-4130-a134-383732656330/Max.webp", "tild3035-6331-4462-b861-373733646639/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -208,7 +208,7 @@ const seriesAnime = [
     Donut: "donut-1",
     Link: ["vk", "456239631?t=14m27s"],
     Player: ["vk", "456239631", "c780b3216326eb78", "0h14m27s"],
-    Image: "https://static.tildacdn.com/tild6164-3531-4766-a261-646436636632/__.webp",
+    Image: ["tild3038-6138-4632-a330-616663386566/Max.webp", "tild6338-3534-4563-b762-356535663130/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -217,7 +217,7 @@ const seriesAnime = [
     NameEN: "Tu Bian Ying Xiong X / To Be Hero X",
     Status: "1-24/24 Эпизод",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild6135-3066-4665-a463-316661643234/__.webp",
+    Image: ["tild3638-3632-4437-b535-326536373764/Max.webp", "tild3561-6431-4562-a362-336163633932/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -225,7 +225,7 @@ const seriesAnime = [
     NameRU: "Вайолет Эвергарден",
     NameEN: "Violet Evergarden",
     Status: "1-13/13 Эпизод + Фильм",
-    Image: "https://static.tildacdn.com/tild3364-6539-4131-b535-393531616362/_.webp",
+    Image: ["tild6338-3133-4361-b935-653864663962/Max.webp", "tild6432-3134-4164-b738-393431613839/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -233,7 +233,7 @@ const seriesAnime = [
     NameRU: "Ванпанчмен",
     NameEN: "One Punch Man",
     Status: "2 Сезона",
-    Image: "https://static.tildacdn.com/tild3261-3162-4962-a664-613966373432/photo.webp",
+    Image: ["tild3630-3966-4566-a439-323063323361/Max.webp", "tild6235-6461-4335-b564-383330393861/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -242,7 +242,7 @@ const seriesAnime = [
     NameEN: "One Piece",
     Status: "1-1157 Эпизод + 6 Фильмов + Манга",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild6437-6561-4337-b632-656363383838/_.webp",
+    Image: ["tild3736-3139-4233-a335-353539333666/Max.webp", "tild6636-3838-4961-b231-346263313565/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -253,7 +253,7 @@ const seriesAnime = [
     Donut: "donut-1",
     Link: ["vk", "456240061?t=16m38s"],
     Player: ["vk", "456240061", "0ab1381f3e404aba", "0h16m38s"],
-    Image: "https://static.tildacdn.com/tild6439-3133-4066-b434-653266636466/_.webp",
+    Image: ["tild3634-6530-4136-b864-396263643336/Max.webp", "tild3132-3933-4435-b137-613563363963/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -261,7 +261,7 @@ const seriesAnime = [
     NameRU: "Виви: Песнь флюоритового глаза",
     NameEN: "Vivy: Fluorite Eye's Song",
     Status: "1-13/13 Эпизод",
-    Image: "https://static.tildacdn.com/tild3962-6130-4837-b435-366136323531/___.webp",
+    Image: ["tild3438-3663-4265-a635-393966313564/Max.webp", "tild3538-3138-4332-b562-623462656633/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -270,7 +270,7 @@ const seriesAnime = [
     NameEN: "Re:Creators",
     Status: "1-22/22 Эпизод",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3861-3362-4236-a162-333835363666/photo.webp",
+    Image: ["tild3338-3135-4236-a238-333664646332/Max.webp", "tild3866-6563-4430-b532-383166373062/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -279,7 +279,7 @@ const seriesAnime = [
     NameEN: "Akiba Meido Sensou",
     Status: "1-12/12 Эпизод",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild3162-3135-4339-b633-343631323833/__.webp",
+    Image: ["tild3465-3139-4233-a234-623531643738/Max.webp", "tild3035-6433-4130-b238-663565333635/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -288,7 +288,7 @@ const seriesAnime = [
     NameEN: "Haikyuu!!",
     Status: "4 Сезона + OVA",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3035-3362-4264-b366-613030376439/photo.webp",
+    Image: ["tild3661-6531-4666-a663-633063316365/Max.webp", "tild3034-3736-4537-a633-376130396230/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -296,7 +296,7 @@ const seriesAnime = [
     NameRU: "Волчий дождь",
     NameEN: "Wolf's Rain",
     Status: "1-6/26 Эпизод",
-    Image: "https://static.tildacdn.com/tild6434-3238-4433-b134-396663336664/_.webp",
+    Image: ["tild3066-3637-4066-b839-306639303631/Max.webp", "tild6566-3537-4336-b131-616236343436/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -304,7 +304,7 @@ const seriesAnime = [
     NameRU: "Волчица и пряности",
     NameEN: "Ookami to Koushinryou / Spice and Wolf",
     Status: "1-13/13 Эпизод",
-    Image: "https://static.tildacdn.com/tild6337-3635-4537-a333-386231663235/__.webp",
+    Image: ["tild3564-3061-4765-a266-323138653334/Max.webp", "tild6334-3835-4333-a536-383436376162/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -312,7 +312,7 @@ const seriesAnime = [
     NameRU: "Вольный стиль!",
     NameEN: "Free! - Iwatobi Swim Club",
     Status: "1 Сезон 1-12/12 Эпизод",
-    Image: "https://static.tildacdn.com/tild3664-3936-4436-b931-326430626535/_.webp",
+    Image: ["tild3236-6534-4230-a637-636162313861/Max.webp", "tild3930-3764-4563-a630-313839323962/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -323,7 +323,7 @@ const seriesAnime = [
     Donut: "donut-1",
     Link: ["vk", "456239471?t=4h56m15s"],
     Player: ["vk", "456239471", "d5d8ae22aeafe0f8", "4h56m15s"],
-    Image: "https://static.tildacdn.com/tild6430-3964-4931-b737-613430323236/__.webp",
+    Image: ["tild6137-6463-4565-b739-343966313434/Max.webp", "tild6338-3136-4531-a236-316337316432/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -332,7 +332,7 @@ const seriesAnime = [
     NameEN: "Kage no Jitsuryokusha ni Naritakute!",
     Status: "1 Сезон 1-20/20 Эпизод",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild3164-3332-4738-a530-333664313562/__.webp",
+    Image: ["tild6438-3161-4464-b435-626432353462/Max.webp", "tild6430-3333-4564-b663-353862343231/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -340,7 +340,7 @@ const seriesAnime = [
     NameRU: "Врата Штейна",
     NameEN: "Steins;Gate",
     Status: "1-24/24 Эпизод",
-    Image: "https://static.tildacdn.com/tild3162-3239-4431-b863-633836303933/_.webp",
+    Image: ["tild3533-3938-4435-b061-303165636234/Max.webp", "tild3066-3562-4334-b632-626662613963/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -348,7 +348,7 @@ const seriesAnime = [
     NameRU: "Врата Штейна Ноль",
     NameEN: "Steins;Gate Zero",
     Status: "0-6/23 Эпизод",
-    Image: "https://static.tildacdn.com/tild3266-3162-4566-b836-353262623864/__0.webp",
+    Image: ["tild6231-3236-4561-a664-386261663336/Max.webp", "tild6235-3734-4366-b033-353566373437/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -356,7 +356,7 @@ const seriesAnime = [
     NameRU: "Всё становится F: Идеальный инсайдер",
     NameEN: "Subete ga F ni Naru / The Perfect Insider",
     Status: "1-11/11 Эпизод",
-    Image: "https://static.tildacdn.com/tild6334-3366-4662-a434-313238623965/__F__.webp",
+    Image: ["tild6561-6633-4439-b839-303334383265/Max.webp", "tild3337-3431-4163-b337-376166303339/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -364,7 +364,7 @@ const seriesAnime = [
     NameRU: "Ганц",
     NameEN: "Gantz",
     Status: "1 Сезон, 2 Сезон 1-8/13 Эпизод",
-    Image: "https://static.tildacdn.com/tild6234-3939-4135-a663-396265393864/photo.webp",
+    Image: ["tild3261-6563-4338-b466-633432386534/Max.webp", "tild6565-3134-4336-a630-633135353063/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -373,7 +373,7 @@ const seriesAnime = [
     NameEN: "Gintama",
     Status: "8 Сезонов + OVA + 2 Фильма",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild6164-3464-4039-a563-623065343638/photo.webp",
+    Image: ["tild3162-3431-4738-a537-633735343731/Max.webp", "tild3733-3265-4430-b965-326662623830/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -384,7 +384,7 @@ const seriesAnime = [
     Donut: "donut-2",
     Link: ["vk", "456241454?t=4h26m18s"],
     Player: ["vk", "456241454", "c0ae8f6868635f5d", "4h26m18s"],
-    Image: "https://static.tildacdn.com/tild6264-3935-4231-b935-336334666166/____.webp",
+    Image: ["tild6138-3832-4331-b631-663433643333/Max.webp", "tild6261-3132-4831-a466-373836633862/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -392,7 +392,7 @@ const seriesAnime = [
     NameRU: "Госпожа Кагуя: в любви как на войне",
     NameEN: "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
     Status: "2 Сезона",
-    Image: "https://static.tildacdn.com/tild6661-3065-4763-a162-346434613063/______.webp",
+    Image: ["tild3562-3038-4536-b636-396630643630/Max.webp", "tild6565-3266-4464-a133-313832303731/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -401,7 +401,7 @@ const seriesAnime = [
     NameEN: "Gankutsuou",
     Status: "1-24/24 Эпизод",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild6231-3936-4162-b831-666138663839/_-.webp",
+    Image: ["tild6561-6130-4361-a562-313562363339/Max.webp", "tild6636-6139-4631-b262-353064333336/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -409,7 +409,7 @@ const seriesAnime = [
     NameRU: "Грехи Кассяна",
     NameEN: "Casshern Sins",
     Status: "1-24/24 Эпизод",
-    Image: "https://static.tildacdn.com/tild3730-3032-4135-b835-373338393038/_.webp",
+    Image: ["tild6461-3162-4532-a537-376463663733/Max.webp", "tild6132-3534-4464-b138-663930646231/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -417,7 +417,7 @@ const seriesAnime = [
     NameRU: "Гуррен-Лаганн, пронзающий небеса",
     NameEN: "Tengen Toppa Gurren Lagann",
     Status: "1-26/26 Эпизод",
-    Image: "https://static.tildacdn.com/tild6130-6263-4230-b837-346337313533/-__.webp",
+    Image: ["tild3537-3834-4336-b564-653230636230/Max.webp", "tild6261-3433-4533-a632-646263333435/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -426,7 +426,7 @@ const seriesAnime = [
     NameEN: "Dandadan",
     Status: "2 Сезона",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild6163-6337-4236-a364-396333316661/photo.webp",
+    Image: ["tild6464-3764-4637-a231-316264396137/Max.webp", "tild3038-3933-4731-a566-643031313435/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -437,7 +437,7 @@ const seriesAnime = [
     Donut: "donut-2",
     Link: ["vk", "456241742?t=2h14m8s"],
     Player: ["vk", "456241742", "cb5a69abbc496ab6", "2h14m8s"],
-    Image: "https://static.tildacdn.com/tild6135-3339-4435-a631-613864346562/______.webp",
+    Image: ["tild3764-3833-4230-a130-663631306431/Max.webp", "tild3963-3736-4130-a633-333361336331/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -446,7 +446,7 @@ const seriesAnime = [
     NameEN: "Kanojo, Okarishimasu",
     Status: "1 Сезон 1-4/12 Эпизод",
     Lost: true,
-    Image: "https://static.tildacdn.com/tild6366-3034-4264-a636-353939373463/__.webp",
+    Image: ["tild6231-6436-4065-b131-386438326439/Max.webp", "tild3162-3934-4037-b030-373032366664/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -457,7 +457,7 @@ const seriesAnime = [
     Donut: "donut-1",
     Link: ["vk", "456239680?t=7m50s"],
     Player: ["vk", "456239680", "3a23c1a6b15e5178", "0h7m50s"],
-    Image: "https://static.tildacdn.com/tild6335-6437-4761-b831-373861363864/__.webp",
+    Image: ["tild3539-6234-4164-b835-313133373333/Max.webp", "tild3933-3535-4264-b839-656334626562/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -466,7 +466,7 @@ const seriesAnime = [
     NameEN: "D.Gray-man",
     Status: "1 Сезон 1-4/103 Эпизод",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3837-3033-4934-b862-656663393734/_-.webp",
+    Image: ["tild6234-3738-4766-a533-383335333064/Max.webp", "tild6338-3436-4436-b733-396234316336/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -475,7 +475,7 @@ const seriesAnime = [
     NameEN: "Fumetsu no Anata e",
     Donut: "donut-3",
     Status: "1 Сезон, 2 Сезон 1-8/20 Эпизод",
-    Image: "https://static.tildacdn.com/tild6232-3262-4438-a138-393561663533/__.webp",
+    Image: ["tild3238-3535-4036-b431-626330306263/Max.webp", "tild6135-3430-4839-a235-363636306262/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -484,7 +484,7 @@ const seriesAnime = [
     NameEN: "Mairimashita! Iruma-kun",
     Status: "3 Сезона",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild3765-6237-4431-a565-396632666238/____.webp",
+    Image: ["tild3333-6435-4535-b263-306536666632/Max.webp", "tild3338-6539-4633-b836-363632626138/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -492,7 +492,7 @@ const seriesAnime = [
     NameRU: "Добро пожаловать в NHK",
     NameEN: "NHK ni Youkoso! / Welcome to the NHK",
     Status: "1-25/25 Эпизод",
-    Image: "https://static.tildacdn.com/tild6661-3137-4231-b861-303662393837/___NHK.webp",
+    Image: ["tild3864-6331-4539-b461-653730366230/Max.webp", "tild3736-3136-4533-a663-646634636161/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -500,7 +500,7 @@ const seriesAnime = [
     NameRU: "Доктор Стоун",
     NameEN: "Dr. Stone",
     Status: "2 Сезона + OVA",
-    Image: "https://static.tildacdn.com/tild3735-3066-4338-b637-666339636337/_.webp",
+    Image: ["tild3639-3832-4230-a365-656164386634/Max.webp", "tild3939-3162-4633-b965-633663383832/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -509,7 +509,7 @@ const seriesAnime = [
     NameEN: "Shadows House",
     Status: "Полностью просмотрено",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3133-6263-4339-b134-313736666264/_.webp",
+    Image: ["tild6135-3834-4438-b964-303733653364/Max.webp", "tild3665-3564-4961-a363-663733633538/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -517,7 +517,7 @@ const seriesAnime = [
     NameRU: "Дороро (2019)",
     NameEN: "Dororo",
     Status: "2 Сезона",
-    Image: "https://static.tildacdn.com/tild3930-6430-4165-b661-613738613238/photo.webp",
+    Image: ["tild3863-3539-4433-b833-353630613431/Max.webp", "tild6166-3630-4533-a534-306331323262/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -525,7 +525,7 @@ const seriesAnime = [
     NameRU: "Дорохедоро",
     NameEN: "Dorohedoro",
     Status: "1 Сезон 1-12/12 Эпизод",
-    Image: "https://static.tildacdn.com/tild6334-6265-4233-b835-333063303438/photo.webp",
+    Image: ["tild3031-6336-4362-a638-313163383465/Max.webp", "tild3338-3861-4362-b964-333266623865/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -533,7 +533,7 @@ const seriesAnime = [
     NameRU: "Дочери Мнемозины",
     NameEN: "Mnemosyne no Musume-tachi",
     Status: "1-6/6 Эпизод",
-    Image: "https://static.tildacdn.com/tild3732-3336-4237-b466-306331313833/_.webp",
+    Image: ["tild3861-3635-4566-b461-333535363931/Max.webp", "tild3062-3036-4763-b137-383563623638/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -544,7 +544,7 @@ const seriesAnime = [
     Donut: "donut-3",
     Link: ["vk", "456241749?t=1h45m54s"],
     Player: ["vk", "456241749", "0007f85699be00f0", "1h45m54s"],
-    Image: "https://static.tildacdn.com/tild3134-6332-4366-b261-366135363939/_.webp",
+    Image: ["tild6464-3062-4639-b165-663530303532/Max.webp", "tild3862-6133-4130-b039-653264316165/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -552,7 +552,7 @@ const seriesAnime = [
     NameRU: "Дюрарара!!",
     NameEN: "Durarara!!",
     Status: "2 Сезона",
-    Image: "https://static.tildacdn.com/tild3762-6165-4639-b036-383662333762/photo.webp",
+    Image: ["tild6433-6633-4462-b939-613130643865/Max.webp", "tild6134-3535-4537-b463-346564373362/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -560,7 +560,7 @@ const seriesAnime = [
     NameRU: "Евангелион неонового поколения",
     NameEN: "Neon Genesis Evangelion",
     Status: "1-26/26 Эпизод + Фильм",
-    Image: "https://static.tildacdn.com/tild3031-3931-4137-b737-653436623363/img.webp",
+    Image: ["tild3161-3637-4465-b531-393733626334/Max.webp", "tild3664-6238-4530-b339-343865393861/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -569,7 +569,7 @@ const seriesAnime = [
     NameEN: "No Guns Life",
     Status: "1 Сезон 1-12/12 Эпизод",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3461-6164-4436-b666-636665363433/__.webp",
+    Image: ["tild3331-6364-4235-a235-383936303461/Max.webp", "tild6137-3865-4432-b366-356535343961/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -577,7 +577,7 @@ const seriesAnime = [
     NameRU: "Золотое божество",
     NameEN: "Golden Kamuy",
     Status: "3 Сезона",
-    Image: "https://static.tildacdn.com/tild3666-3739-4631-b136-376261656132/_.webp",
+    Image: ["tild6132-3931-4537-a663-373363363966/Max.webp", "tild3562-6633-4139-a238-623036666332/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -585,7 +585,7 @@ const seriesAnime = [
     NameRU: "Золотой парень",
     NameEN: "Golden Boy",
     Status: "1-6/6 Эпизод",
-    Image: "https://static.tildacdn.com/tild3633-3538-4333-a363-346336343165/_.webp",
+    Image: ["tild6239-6466-4138-a633-346265333635/Max.webp", "tild6636-6233-4164-b538-306531326162/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -596,7 +596,7 @@ const seriesAnime = [
     Donut: "donut-2",
     Link: ["vk", "456241284?t=13m32s"],
     Player: ["vk", "456241284", "afdb4766de18494b", "0h13m32s"],
-    Image: "https://static.tildacdn.com/tild3133-6566-4234-b763-336361353934/____.webp",
+    Image: ["tild6339-3361-4633-b635-346366636131/Max.webp", "tild3962-3237-4339-b064-616264343964/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -605,7 +605,7 @@ const seriesAnime = [
     NameEN: "Another",
     Status: "1-12/12 Эпизод",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild3333-6566-4635-b361-636662363362/photo.webp",
+    Image: ["tild3762-3837-4037-b363-386462623963/Max.webp", "tild3564-3466-4562-b861-336631643763/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -613,7 +613,7 @@ const seriesAnime = [
     NameRU: "Инициал Ди",
     NameEN: "Initial D",
     Status: "1 Сезон 1-15/26 Эпизод",
-    Image: "https://static.tildacdn.com/tild3264-3930-4138-a230-333264363963/_.webp",
+    Image: ["tild3361-3332-4236-b264-663261623338/Max.webp", "tild3661-3066-4632-b836-346436373835/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -622,7 +622,7 @@ const seriesAnime = [
     NameEN: "Inuyashiki",
     Status: "1-4/11 Эпизод",
     Link: ["boosty", "hiddenarchive/posts/ce5bf735-d315-45b2-9d8c-c5431cc9c351"],
-    Image: "https://static.tildacdn.com/tild3062-3362-4061-b962-353834643161/photo.webp",
+    Image: ["tild6438-3761-4666-b463-393862656330/Max.webp", "tild3666-3533-4635-b365-636364623465/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -630,7 +630,7 @@ const seriesAnime = [
     NameRU: "Инцидент Кэмоно",
     NameEN: "Kemono Jihen",
     Status: "1-12/12 Эпизод",
-    Image: "https://static.tildacdn.com/tild3661-3263-4364-b331-656133323037/_.webp",
+    Image: ["tild3730-3765-4232-a564-633033346633/Max.webp", "tild3539-6162-4265-b865-613237393865/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -638,7 +638,7 @@ const seriesAnime = [
     NameRU: "Истории мечей",
     NameEN: "Katanagatari",
     Status: "1-12/12 Эпизод",
-    Image: "https://static.tildacdn.com/tild3537-3265-4261-b238-666264353763/_.webp",
+    Image: ["tild3830-3563-4237-b437-376236653837/Max.webp", "tild3439-3361-4832-b433-623532353337/Min.webp"],
     Type: "series-Anime",
   },
   {
@@ -649,7 +649,7 @@ const seriesAnime = [
     Link: ["vk", "456241155?t=16m13s"],
     Player: ["vk", "456241155", "3aa7ccb6eafc19d3", "0h16m13s"],
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild6164-3133-4134-b035-366638323030/__.webp",
+    Image: "tild6164-3133-4134-b035-366638323030/__.webp",
     Type: "series-Anime",
   },
   {
@@ -659,7 +659,7 @@ const seriesAnime = [
     Status: "1-4/12 Эпизод",
     Link: ["vk", "456240483"],
     Player: ["vk", "456240483", "2c5ecc1fcb433771", "0h0m0s"],
-    Image: "https://static.tildacdn.com/tild3638-3664-4938-b965-613138616437/photo.webp",
+    Image: "tild3638-3664-4938-b965-613138616437/photo.webp",
     Type: "series-Anime",
   },
   {
@@ -667,7 +667,7 @@ const seriesAnime = [
     NameRU: "Кайдзи",
     NameEN: "Gyakkyou Burai Kaiji: Ultimate Survivor",
     Status: "2 Сезона",
-    Image: "https://static.tildacdn.com/tild6131-6633-4763-b436-633532663831/photo.webp",
+    Image: "tild6131-6633-4763-b436-633532663831/photo.webp",
     Type: "series-Anime",
   },
   {
@@ -676,7 +676,7 @@ const seriesAnime = [
     NameEN: "Kengan Ashura",
     Status: "2 Сезона",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3863-6333-4238-b763-396362636535/_.webp",
+    Image: "tild3863-6333-4238-b763-396362636535/_.webp",
     Type: "series-Anime",
   },
   {
@@ -685,7 +685,7 @@ const seriesAnime = [
     NameEN: "Cyberpunk: Edgerunners",
     Status: "1 Сезон 1-10/10 Эпизод",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3133-3764-4166-a163-653834306439/___.webp",
+    Image: "tild3133-3764-4166-a163-653834306439/___.webp",
     Type: "series-Anime",
   },
   {
@@ -693,7 +693,7 @@ const seriesAnime = [
     NameRU: "Клеймор",
     NameEN: "Claymore",
     Status: "1-26/26 Эпизод",
-    Image: "https://static.tildacdn.com/tild6533-6439-4933-a533-303135363636/photo.webp",
+    Image: "tild6533-6439-4933-a533-303135363636/photo.webp",
     Type: "series-Anime",
   },
   {
@@ -702,7 +702,7 @@ const seriesAnime = [
     NameEN: "Kimetsu no Yaiba / Demon Slayer",
     Status: "4 Сезона + Фильмы",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3166-6264-4562-b834-663362623662/__.webp",
+    Image: "tild3166-6264-4562-b834-663362623662/__.webp",
     Type: "series-Anime",
   },
   {
@@ -710,7 +710,7 @@ const seriesAnime = [
     NameRU: "Ковбой Бибоп",
     NameEN: "Cowboy Bebop",
     Status: "1-26/26 Эпизод + Фильм",
-    Image: "https://static.tildacdn.com/tild3036-3936-4262-b866-626138366331/_.webp",
+    Image: "tild3036-3936-4262-b866-626138366331/_.webp",
     Type: "series-Anime",
   },
   {
@@ -719,7 +719,7 @@ const seriesAnime = [
     NameEN: "Higurashi no Naku Koro ni",
     Status: "2 Сезона",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild6238-6135-4139-a533-373164323762/__.webp",
+    Image: "tild6238-6135-4139-a533-373164323762/__.webp",
     Type: "series-Anime",
   },
   {
@@ -727,7 +727,7 @@ const seriesAnime = [
     NameRU: "Коллекция Дзюндзи Ито",
     NameEN: "Itou Junji: Collection",
     Status: "1-12/12 Эпизод",
-    Image: "https://static.tildacdn.com/tild3763-3963-4433-b231-313363366165/__.webp",
+    Image: "tild3763-3963-4433-b231-313363366165/__.webp",
     Type: "series-Anime",
   },
   {
@@ -735,7 +735,7 @@ const seriesAnime = [
     NameRU: "Корзинка фруктов",
     NameEN: "Fruits Basket",
     Status: "1 Сезон 1-25/25 Эпизод",
-    Image: "https://static.tildacdn.com/tild3364-6361-4066-a362-363264363338/_.webp",
+    Image: "tild3364-6361-4066-a362-363264363338/_.webp",
     Type: "series-Anime",
   },
   {
@@ -744,7 +744,7 @@ const seriesAnime = [
     NameEN: "Sakura-sou no Pet na Kanojo",
     Status: "1-16/24 Эпизод",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild3932-3430-4362-b862-313539383436/__.webp",
+    Image: "tild3932-3430-4362-b862-313539383436/__.webp",
     Type: "series-Anime",
   },
   {
@@ -752,7 +752,7 @@ const seriesAnime = [
     NameRU: "Крутой учитель Онидзука",
     NameEN: "Great Teacher Onizuka",
     Status: "1-19/43 Эпизод",
-    Image: "https://static.tildacdn.com/tild3538-6533-4161-b266-356433383834/__.webp",
+    Image: "tild3538-6533-4161-b266-356433383834/__.webp",
     Type: "series-Anime",
   },
   {
@@ -760,7 +760,7 @@ const seriesAnime = [
     NameRU: "Легенда о героях Галактики",
     NameEN: "Ginga Eiyuu Densetsu / Legend of the Galactic Heroes",
     Status: "1-110/110 Эпизод",
-    Image: "https://static.tildacdn.com/tild3937-3566-4835-b433-363038613733/___.webp",
+    Image: "tild3937-3566-4835-b433-363038613733/___.webp",
     Type: "series-Anime",
   },
   {
@@ -769,7 +769,7 @@ const seriesAnime = [
     NameEN: "Summertime Render",
     Donut: "donut-3",
     Status: "1-5/25 Эпизод",
-    Image: "https://static.tildacdn.com/tild6566-6132-4430-b863-313065623638/img.webp",
+    Image: "tild6566-6132-4430-b863-313065623638/img.webp",
     Type: "series-Anime",
   },
   {
@@ -778,7 +778,7 @@ const seriesAnime = [
     NameEN: "Darling in the FranXX",
     Status: "1-24/24 Эпизод",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild3164-3962-4931-a339-663064643361/__.webp",
+    Image: "tild3164-3962-4931-a339-663064643361/__.webp",
     Type: "series-Anime",
   },
   {
@@ -787,7 +787,7 @@ const seriesAnime = [
     NameEN: "Mo Dao Zu Shi / The Master of Diabolism",
     Status: "2 Сезона",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild3234-3235-4266-a439-623330333231/__.webp",
+    Image: "tild3234-3235-4266-a439-623330333231/__.webp",
     Type: "series-Anime",
   },
   {
@@ -796,7 +796,7 @@ const seriesAnime = [
     NameEN: "Jujutsu Kaisen",
     Status: "2 Сезона",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3266-6563-4562-a632-633036643662/_.webp",
+    Image: "tild3266-6563-4562-a632-633036643662/_.webp",
     Type: "series-Anime",
   },
   {
@@ -805,7 +805,7 @@ const seriesAnime = [
     NameEN: "Maria † Holic",
     Status: "2 Сезона",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild3866-3337-4561-b065-666434323031/_.webp",
+    Image: "tild3866-3337-4561-b065-666434323031/_.webp",
     Type: "series-Anime",
   },
   {
@@ -814,7 +814,7 @@ const seriesAnime = [
     NameEN: "Mushishi",
     Status: "1-4/26 Эпизод",
     Link: ["boosty", "hiddenarchive/posts/9b13d6e7-33cc-4671-96a4-b618e65bf80f"],
-    Image: "https://static.tildacdn.com/tild3938-3139-4061-a433-316237333932/_.webp",
+    Image: "tild3938-3139-4061-a433-316237333932/_.webp",
     Type: "series-Anime",
   },
   {
@@ -823,7 +823,7 @@ const seriesAnime = [
     NameEN: "Sword Art Online",
     Status: "3 Сезона + 3 Фильма",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild6230-3533-4739-b638-393265643562/__.webp",
+    Image: "tild6230-3533-4739-b638-393265643562/__.webp",
     Type: "series-Anime",
   },
   {
@@ -831,7 +831,7 @@ const seriesAnime = [
     NameRU: "Мобильный воин Гандам&#1",
     NameEN: "UNIVERSAL CENTURY",
     Status: "Сборник",
-    Image: "https://static.tildacdn.com/tild6435-6131-4662-b862-323439333639/_UNIVERSAL_CENTURY.webp",
+    Image: "tild6435-6131-4662-b862-323439333639/_UNIVERSAL_CENTURY.webp",
     Type: "series-Anime",
   },
   {
@@ -839,7 +839,7 @@ const seriesAnime = [
     NameRU: "Мобильный воин Гандам&#2",
     NameEN: "COSMIC ERA",
     Status: "Сборник",
-    Image: "https://static.tildacdn.com/tild3666-3130-4363-b165-383632626261/_COSMIC_ERA.webp",
+    Image: "tild3666-3130-4363-b165-383632626261/_COSMIC_ERA.webp",
     Type: "series-Anime",
   },
   {
@@ -847,7 +847,7 @@ const seriesAnime = [
     NameRU: "Мобильный воин Гандам&#3",
     NameEN: "ANNO DOMINI",
     Status: "Сборник",
-    Image: "https://static.tildacdn.com/tild3234-3138-4731-b233-646535656335/_ANNO_DOMINI.webp",
+    Image: "tild3234-3138-4731-b233-646535656335/_ANNO_DOMINI.webp",
     Type: "series-Anime",
   },
   {
@@ -855,7 +855,7 @@ const seriesAnime = [
     NameRU: "Мобильный воин Гандам&#4",
     NameEN: "FUTURE CENTURY",
     Status: "Сборник",
-    Image: "https://static.tildacdn.com/tild3736-3132-4235-a238-353231326539/_FUTURE_CENTURY.webp",
+    Image: "tild3736-3132-4235-a238-353231326539/_FUTURE_CENTURY.webp",
     Type: "series-Anime",
   },
   {
@@ -863,7 +863,7 @@ const seriesAnime = [
     NameRU: "Мобильный воин Гандам&#5",
     NameEN: "AFTER COLONY",
     Status: "Сборник",
-    Image: "https://static.tildacdn.com/tild3564-3562-4336-b335-323663623466/_AFTER_COLONY.webp",
+    Image: "tild3564-3562-4336-b335-323663623466/_AFTER_COLONY.webp",
     Type: "series-Anime",
   },
   {
@@ -871,7 +871,7 @@ const seriesAnime = [
     NameRU: "Мобильный воин Гандам&#6",
     NameEN: "AD STELLA",
     Status: "Сборник",
-    Image: "https://static.tildacdn.com/tild3361-6438-4065-b862-396230613332/_AD_STELLA.webp",
+    Image: "tild3361-6438-4065-b862-396230613332/_AD_STELLA.webp",
     Type: "series-Anime",
   },
   {
@@ -879,7 +879,7 @@ const seriesAnime = [
     NameRU: "Мобильный воин Гандам&#7",
     NameEN: "POST DISASTER",
     Status: "Сборник",
-    Image: "https://static.tildacdn.com/tild3931-6661-4532-a436-333132386362/_POST_DISASTER.webp",
+    Image: "tild3931-6661-4532-a436-333132386362/_POST_DISASTER.webp",
     Type: "series-Anime",
   },
   {
@@ -888,7 +888,7 @@ const seriesAnime = [
     NameEN: "Mob Psycho 100",
     Status: "3 Сезона",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild6361-3636-4736-b964-356563383764/__100.webp",
+    Image: "tild6361-3636-4736-b964-356563383764/__100.webp",
     Type: "series-Anime",
   },
   {
@@ -897,7 +897,7 @@ const seriesAnime = [
     NameEN: "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka || DanMachi",
     Status: "1 Сезон 1-13/13 Эпизод",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3063-3663-4161-a436-643432353962/_____.webp",
+    Image: "tild3063-3663-4161-a436-643432353962/_____.webp",
     Type: "series-Anime",
   },
   {
@@ -905,7 +905,7 @@ const seriesAnime = [
     NameRU: "Монстр",
     NameEN: "Monster",
     Status: "1-74/74 Эпизод",
-    Image: "https://static.tildacdn.com/tild3638-3733-4534-b161-623365666335/photo.webp",
+    Image: "tild3638-3733-4534-b161-623365666335/photo.webp",
     Type: "series-Anime",
   },
   {
@@ -914,7 +914,7 @@ const seriesAnime = [
     NameEN: "Boku no Hero Academia / My Hero Academia",
     Status: "8 Сезонов + 2 Фильма + Спешл",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild3839-6635-4031-b564-656337306332/__.webp",
+    Image: "tild3839-6635-4031-b564-656337306332/__.webp",
     Type: "series-Anime",
   },
   {
@@ -923,7 +923,7 @@ const seriesAnime = [
     NameEN: "Nana",
     Status: "1-47/47 Эпизод",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild3561-3931-4761-a538-653433663035/photo.webp",
+    Image: "tild3561-3931-4761-a538-653433663035/photo.webp",
     Type: "series-Anime",
   },
   {
@@ -931,7 +931,7 @@ const seriesAnime = [
     NameRU: "Наруто",
     NameEN: "Naruto",
     Status: "2 Сезона + OVA + 2 Фильма",
-    Image: "https://static.tildacdn.com/tild3366-3735-4232-a537-623234646462/photo.webp",
+    Image: "tild3366-3735-4232-a537-623234646462/photo.webp",
     Type: "series-Anime",
   },
   {
@@ -939,7 +939,7 @@ const seriesAnime = [
     NameRU: "Наше",
     NameEN: "Bokura no",
     Status: "1-24/24 Эпизод",
-    Image: "https://static.tildacdn.com/tild3334-6334-4138-b130-353930383639/photo.webp",
+    Image: "tild3334-6334-4138-b130-353930383639/photo.webp",
     Type: "series-Anime",
   },
   {
@@ -948,7 +948,7 @@ const seriesAnime = [
     NameEN: "Soukyuu no Fafner",
     Status: "4 Сезона + OVA",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3739-3531-4964-b866-383265363833/_.webp",
+    Image: "tild3739-3531-4964-b866-383265363833/_.webp",
     Type: "series-Anime",
   },
   {
@@ -956,7 +956,7 @@ const seriesAnime = [
     NameRU: "Невероятное приключение ДжоДжо",
     NameEN: "JoJo no Kimyou na Bouken / JoJo's Bizarre Adventure",
     Status: "Сборник",
-    Image: "https://static.tildacdn.com/tild3363-3731-4562-b766-396439616165/img.webp",
+    Image: "tild3363-3731-4562-b766-396439616165/img.webp",
     Type: "series-Anime",
   },
   {
@@ -965,7 +965,7 @@ const seriesAnime = [
     NameEN: "Mahoutsukai no Yome",
     Status: "1 Сезон, 2 Сезон 1-16/24 Эпизод",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild3737-3539-4363-a262-373034366535/_.webp",
+    Image: "tild3737-3539-4363-a262-373034366535/_.webp",
     Type: "series-Anime",
   },
   {
@@ -975,7 +975,7 @@ const seriesAnime = [
     Status: "1 Сезон 1-4/12 Эпизод",
     Link: ["vk", "456240385"],
     Player: ["vk", "456240385", "75f630692a49e550", "0h0m0s"],
-    Image: "https://static.tildacdn.com/tild3865-3261-4632-a231-313664363439/_.webp",
+    Image: "tild3865-3261-4632-a231-313664363439/_.webp",
     Type: "series-Anime",
   },
   {
@@ -983,7 +983,7 @@ const seriesAnime = [
     NameRU: "Несносные пришельцы",
     NameEN: "Urusei Yatsura",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild6532-3533-4230-b061-356633316538/_.webp",
+    Image: "tild6532-3533-4230-b061-356633316538/_.webp",
     Type: "series-Anime",
   },
   {
@@ -994,7 +994,7 @@ const seriesAnime = [
     Donut: "donut-1",
     Link: ["vk", "456240724?t=4h9m40s"],
     Player: ["vk", "456240724", "2d168f6ebafa72f4", "4h9m40s"],
-    Image: "https://static.tildacdn.com/tild3963-6661-4531-b662-393139616464/____.webp",
+    Image: "tild3963-6661-4531-b662-393139616464/____.webp",
     Type: "series-Anime",
   },
   {
@@ -1002,7 +1002,7 @@ const seriesAnime = [
     NameRU: "Обещанный Неверленд / Обещанная страна грёз",
     NameEN: "Yakusoku no Neverland / The Promised Neverland",
     Status: "2 Сезона",
-    Image: "https://static.tildacdn.com/tild3865-6561-4938-a664-313534646436/_.webp",
+    Image: "tild3865-6561-4938-a664-313534646436/_.webp",
     Type: "series-Anime",
   },
   {
@@ -1010,7 +1010,7 @@ const seriesAnime = [
     NameRU: "Оверлорд / Повелитель / Владыка",
     NameEN: "Overlord",
     Status: "1 Сезон 1-13/13 Эпизод",
-    Image: "https://static.tildacdn.com/tild3039-3931-4537-b833-323363363265/photo.webp",
+    Image: "tild3039-3931-4537-b833-323363363265/photo.webp",
     Type: "series-Anime",
   },
   {
@@ -1019,7 +1019,7 @@ const seriesAnime = [
     NameEN: "Chi. Chikyuu no Undou ni Tsuite",
     Status: "1-25/25 Эпизод",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild6439-6535-4061-b364-383739626462/__.webp",
+    Image: "tild6439-6535-4061-b364-383739626462/__.webp",
     Type: "series-Anime",
   },
   {
@@ -1027,7 +1027,7 @@ const seriesAnime = [
     NameRU: "Одержимые смертью",
     NameEN: "Shigurui",
     Status: "1-12/12 Эпизод",
-    Image: "https://static.tildacdn.com/tild3564-3464-4037-b862-333262303162/_.webp",
+    Image: "tild3564-3464-4037-b862-333262303162/_.webp",
     Type: "series-Anime",
   },
   {
@@ -1036,7 +1036,7 @@ const seriesAnime = [
     NameEN: "Bocchi the Rock!",
     Status: "1 Сезон 1-12/12 Эпизод",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3765-6634-4864-b532-616363336465/_.webp",
+    Image: "tild3765-6634-4864-b532-616363336465/_.webp",
     Type: "series-Anime",
   },
   {
@@ -1044,7 +1044,7 @@ const seriesAnime = [
     NameRU: "Одному лишь Богу ведомый мир",
     NameEN: "Kami nomi zo Shiru Sekai",
     Status: "1-12/12 Эпизод",
-    Image: "https://static.tildacdn.com/tild3433-6666-4838-b730-383533313239/____.webp",
+    Image: "tild3433-6666-4838-b730-383533313239/____.webp",
     Type: "series-Anime",
   },
   {
@@ -1053,7 +1053,7 @@ const seriesAnime = [
     NameEN: "Les Miserables: Shoujo Cosette",
     Status: "1-52/52 Эпизод",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild3730-3162-4763-b263-333034633566/_.webp",
+    Image: "tild3730-3162-4763-b263-333034633566/_.webp",
     Type: "series-Anime",
   },
   {
@@ -1062,7 +1062,7 @@ const seriesAnime = [
     NameEN: "Saiki Kusuo no Ψ-nan",
     Status: "1 Сезон 1-12/24 Эпизод",
     Donut: "donut-3",
-    Image: "https://static.tildacdn.com/tild6134-6239-4437-b735-666434303736/_____.webp",
+    Image: "tild6134-6239-4437-b735-666434303736/_____.webp",
     Type: "series-Anime",
   },
   {
@@ -1070,7 +1070,7 @@ const seriesAnime = [
     NameRU: "Паразит: Учение о жизни",
     NameEN: "Kiseijuu: Sei no Kakuritsu",
     Status: "1-24/24 Эпизод",
-    Image: "https://static.tildacdn.com/tild3334-6665-4832-b465-636561373061/___.webp",
+    Image: "tild3334-6665-4832-b465-636561373061/___.webp",
     Type: "series-Anime",
   },
   {
@@ -1081,7 +1081,7 @@ const seriesAnime = [
     Donut: "donut-3",
     Link: ["vk", "456241864?t=14m0s"],
     Player: ["vk", "456241864", "e69d00e7b28b70dd", "0h14m0s"],
-    Image: "https://static.tildacdn.com/tild3932-3763-4636-b864-646265353336/img.webp",
+    Image: "tild3932-3763-4636-b864-646265353336/img.webp",
     Type: "series-Anime",
   },
   {
@@ -1090,7 +1090,7 @@ const seriesAnime = [
     NameEN: "Hajime no Ippo / Fighting Spirit",
     Status: "3 Сезона + OVA",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3931-6335-4637-b330-643636623461/_.webp",
+    Image: "tild3931-6335-4637-b330-643636623461/_.webp",
     Type: "series-Anime",
   },
   {
@@ -1099,7 +1099,7 @@ const seriesAnime = [
     NameEN: "Isekai Ojisan",
     Status: "1-13/13 Эпизод",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3730-3637-4530-b139-366133663332/_.webp",
+    Image: "tild3730-3637-4530-b139-366133663332/_.webp",
     Type: "series-Anime",
   },
   {
@@ -1108,7 +1108,7 @@ const seriesAnime = [
     NameEN: "Yofukashi no Uta / Call of the Night",
     Status: "1 Сезон 1-13/13 Эпизод",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3665-3264-4738-b264-313439396330/__.webp",
+    Image: "tild3665-3264-4738-b264-313439396330/__.webp",
     Type: "series-Anime",
   },
   {
@@ -1116,7 +1116,7 @@ const seriesAnime = [
     NameRU: "Пинг-понг",
     NameEN: "Ping Pong the Animation",
     Status: "1-8/8 Эпизод",
-    Image: "https://static.tildacdn.com/tild3634-6139-4666-b337-366335653133/-.webp",
+    Image: "tild3634-6139-4666-b337-366335653133/-.webp",
     Type: "series-Anime",
   },
   {
@@ -1125,7 +1125,7 @@ const seriesAnime = [
     NameEN: "Enen no Shouboutai / Fire Force",
     Status: "1 Сезон 1-24/24 Эпизод",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3062-3231-4830-b165-633164303530/__.webp",
+    Image: "tild3062-3231-4830-b165-633164303530/__.webp",
     Type: "series-Anime",
   },
   {
@@ -1134,7 +1134,7 @@ const seriesAnime = [
     NameEN: "Plastic Memories",
     Status: "1-13/13 Эпизод",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild3230-3731-4863-a332-303334656164/_.webp",
+    Image: "tild3230-3731-4863-a332-303334656164/_.webp",
     Type: "series-Anime",
   },
   {
@@ -1142,7 +1142,7 @@ const seriesAnime = [
     NameRU: "Повар-боец Сома / В поисках божественного рецепта",
     NameEN: "Shokugeki no Souma / Food Wars!",
     Status: "1-3 Сезон",
-    Image: "https://static.tildacdn.com/tild6564-3539-4633-b361-623063343136/-_.webp",
+    Image: "tild6564-3539-4633-b361-623063343136/-_.webp",
     Type: "series-Anime",
   },
   {
@@ -1151,7 +1151,7 @@ const seriesAnime = [
     NameEN: "Guimi Zhi Zhu / Lord of Mysteries",
     Status: "1 Сезон + Спецвыпуск",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild3764-3333-4462-b065-316263653832/_.webp",
+    Image: "tild3764-3333-4462-b065-316263653832/_.webp",
     Type: "series-Anime",
   },
   {
@@ -1160,7 +1160,7 @@ const seriesAnime = [
     NameEN: "Soul Eater",
     Status: "1-51/51 Эпизод",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild6239-3266-4735-b666-313937663465/_.webp",
+    Image: "tild6239-3266-4735-b666-313937663465/_.webp",
     Type: "series-Anime",
   },
   {
@@ -1171,7 +1171,7 @@ const seriesAnime = [
     Donut: "donut-1",
     Link: ["vk", "456239672?t=6h12m51s"],
     Player: ["vk", "456239672", "639ac5ec5ed7fd91", "6h12m51s"],
-    Image: "https://static.tildacdn.com/tild3761-6266-4962-b532-346531626266/photo.webp",
+    Image: "tild3761-6266-4962-b532-346531626266/photo.webp",
     Type: "series-Anime",
   },
   {
@@ -1180,7 +1180,7 @@ const seriesAnime = [
     NameEN: "Cossette no Shouzou",
     Status: "1-3/3 Эпизод",
     Link: ["boosty", "hiddenarchive/posts/37a4da44-7877-4436-be2c-05dd007b3d82"],
-    Image: "https://static.tildacdn.com/tild3233-3565-4332-a564-313739353236/__.webp",
+    Image: "tild3233-3565-4332-a564-313739353236/__.webp",
     Type: "series-Anime",
   },
   {
@@ -1189,7 +1189,7 @@ const seriesAnime = [
     NameEN: "Kaze ga Tsuyoku Fuiteiru",
     Status: "1-23/23 Эпизод",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild6366-6231-4562-b762-383430303463/_.webp",
+    Image: "tild6366-6231-4562-b762-383430303463/_.webp",
     Type: "series-Anime",
   },
   {
@@ -1198,7 +1198,7 @@ const seriesAnime = [
     NameEN: "Da Wang Rao Ming",
     Status: "1 Сезон 1-12/12 Эпизод",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3463-3236-4166-b335-373134653964/___.webp",
+    Image: "tild3463-3236-4166-b335-373134653964/___.webp",
     Type: "series-Anime",
   },
   {
@@ -1207,7 +1207,7 @@ const seriesAnime = [
     NameEN: "Wonder Egg Priority",
     Status: "1-12/12 Эпизод",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild6633-3837-4830-b939-616363663038/_-.webp",
+    Image: "tild6633-3837-4830-b939-616363663038/_-.webp",
     Type: "series-Anime",
   },
   {
@@ -1216,7 +1216,7 @@ const seriesAnime = [
     NameEN: "Sousou no Frieren / Frieren: Beyond Journey's End",
     Status: "1 Сезон 1-28/28 Эпизод",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild6338-3564-4536-b461-373734636164/____.webp",
+    Image: "tild6338-3564-4536-b461-373734636164/____.webp",
     Type: "series-Anime",
   },
   {
@@ -1225,7 +1225,7 @@ const seriesAnime = [
     NameEN: "Bungou Stray Dogs",
     Status: "1 Сезон 1-13/13 Эпизод",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3465-3666-4335-a261-346166623563/__.webp",
+    Image: "tild3465-3666-4335-a261-346166623563/__.webp",
     Type: "series-Anime",
   },
   {
@@ -1234,7 +1234,7 @@ const seriesAnime = [
     NameEN: "Sayonara Zetsubou Sensei",
     Status: "3 Сезона + OVA",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3765-6663-4536-a533-336430376664/__.webp",
+    Image: "tild3765-6663-4536-a533-336430376664/__.webp",
     Type: "series-Anime",
   },
   {
@@ -1242,7 +1242,7 @@ const seriesAnime = [
     NameRU: "Психопаспорт",
     NameEN: "Psycho-Pass",
     Status: "2 Сезона + Фильм",
-    Image: "https://static.tildacdn.com/tild3932-6632-4632-b230-373239646334/photo.webp",
+    Image: "tild3932-6632-4632-b230-373239646334/photo.webp",
     Type: "series-Anime",
   },
   {
@@ -1250,7 +1250,7 @@ const seriesAnime = [
     NameRU: "Ранма ½",
     NameEN: "Ranma ½",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild3366-3862-4233-b232-366463396539/photo.webp",
+    Image: "tild3366-3862-4233-b232-366463396539/photo.webp",
     Type: "series-Anime",
   },
   {
@@ -1258,7 +1258,7 @@ const seriesAnime = [
     NameRU: "Рассвет Йоны / Йона на заре",
     NameEN: "Akatsuki no Yona / Yona of the Dawn",
     Status: "1 Сезон 1-24/24 Эпизод",
-    Image: "https://static.tildacdn.com/tild6664-6433-4936-b435-626262316537/_.webp",
+    Image: "tild6664-6433-4936-b435-626262316537/_.webp",
     Type: "series-Anime",
   },
   {
@@ -1267,7 +1267,7 @@ const seriesAnime = [
     NameEN: "Oshi no Ko",
     Status: "1 Сезон 1-4/12 Эпизод",
     Lost: true,
-    Image: "https://static.tildacdn.com/tild3231-6530-4636-a637-613336313365/_.webp",
+    Image: "tild3231-6530-4636-a637-613336313365/_.webp",
     Type: "series-Anime",
   },
   {
@@ -1276,7 +1276,7 @@ const seriesAnime = [
     NameEN: "Mushoku Tensei: Isekai Ittara Honki Dasu",
     Status: "1 Сезон 1-23/23 Эпизод",
     Lost: true,
-    Image: "https://static.tildacdn.com/tild6435-6137-4536-b764-633131666231/img.webp",
+    Image: "tild6435-6137-4536-b764-633131666231/img.webp",
     Type: "series-Anime",
   },
   {
@@ -1285,7 +1285,7 @@ const seriesAnime = [
     NameEN: "Ousama Ranking / Ranking of Kings",
     Status: "1-19/23 Эпизод",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild3131-3336-4634-a135-653930313532/_.webp",
+    Image: "tild3131-3336-4634-a135-653930313532/_.webp",
     Type: "series-Anime",
   },
   {
@@ -1294,7 +1294,7 @@ const seriesAnime = [
     NameEN: "Ishuzoku Reviewers",
     Status: "1 Сезон 1-5/12 Эпизод",
     Lost: true,
-    Image: "https://static.tildacdn.com/tild6562-6438-4463-b236-373264616432/img.webp",
+    Image: "tild6562-6438-4463-b236-373264616432/img.webp",
     Type: "series-Anime",
   },
   {
@@ -1303,7 +1303,7 @@ const seriesAnime = [
     NameEN: "Versailles no Bara / The Rose of Versailles",
     Status: "1-40/40 Эпизод",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3838-3838-4337-b030-376438646262/_.webp",
+    Image: "tild3838-3838-4337-b030-376438646262/_.webp",
     Type: "series-Anime",
   },
   {
@@ -1311,7 +1311,7 @@ const seriesAnime = [
     NameRU: "Руки прочь от киноклуба!",
     NameEN: "Eizouken ni wa Te wo Dasu na!",
     Status: "1-8/12 Эпизод",
-    Image: "https://static.tildacdn.com/tild3963-6336-4332-a662-313965323131/___.webp",
+    Image: "tild3963-6336-4332-a662-313965323131/___.webp",
     Type: "series-Anime",
   },
   {
@@ -1320,7 +1320,7 @@ const seriesAnime = [
     NameEN: "Vinland Saga",
     Status: "1 Сезон, 2 Сезон 1-18/24 Эпизод",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3733-6364-4831-a663-353031393561/__.webp",
+    Image: "tild3733-6364-4831-a663-353031393561/__.webp",
     Type: "series-Anime",
   },
   {
@@ -1328,7 +1328,7 @@ const seriesAnime = [
     NameRU: "Самурай Чамплу",
     NameEN: "Samurai Champloo",
     Status: "1-26/26 Эпизод",
-    Image: "https://static.tildacdn.com/tild3061-3732-4136-a435-626335303736/_.webp",
+    Image: "tild3061-3732-4136-a435-626335303736/_.webp",
     Type: "series-Anime",
   },
   {
@@ -1338,7 +1338,7 @@ const seriesAnime = [
     Status: "1-4/26 Эпизод",
     Link: ["vk", "456240558"],
     Player: ["vk", "456240558", "ec99670ffd241e19", "0h0m0s"],
-    Image: "https://static.tildacdn.com/tild6434-6163-4332-b230-626437623361/__-___.webp",
+    Image: "tild6434-6163-4332-b230-626437623361/__-___.webp",
     Type: "series-Anime",
   },
   {
@@ -1347,7 +1347,7 @@ const seriesAnime = [
     NameEN: "Nanatsu no Taizai / The Seven Deadly Sins",
     Status: "1 Сезон, 2 Сезон 1-20/24 Эпизод",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild6366-3833-4230-b663-616162373037/__.webp",
+    Image: "tild6366-3833-4230-b663-616162373037/__.webp",
     Type: "series-Anime",
   },
   {
@@ -1355,7 +1355,7 @@ const seriesAnime = [
     NameRU: "Синяя тюрьма: Блю Лок",
     NameEN: "Blue Lock",
     Status: "1 Сезон 1-12/12 Эпизод",
-    Image: "https://static.tildacdn.com/tild3362-3166-4433-b436-396261363832/___.webp",
+    Image: "tild3362-3166-4433-b436-396261363832/___.webp",
     Type: "series-Anime",
   },
   {
@@ -1366,7 +1366,7 @@ const seriesAnime = [
     Donut: "donut-1",
     Link: ["vk", "456239823?t=15m25s"],
     Player: ["vk", "456239823", "e1d0b8414ec6d988", "0h15m25s"],
-    Image: "https://static.tildacdn.com/tild3332-3938-4634-b233-656231613633/_.webp",
+    Image: "tild3332-3938-4634-b233-656231613633/_.webp",
     Type: "series-Anime",
   },
   {
@@ -1375,7 +1375,7 @@ const seriesAnime = [
     NameEN: "Drifters",
     Status: "1-8/12 Эпизод",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3634-3234-4433-b038-643962653630/photo.webp",
+    Image: "tild3634-3234-4433-b038-643962653630/photo.webp",
     Type: "series-Anime",
   },
   {
@@ -1386,7 +1386,7 @@ const seriesAnime = [
     Donut: "donut-2",
     Link: ["vk", "456241249?t=11m15s"],
     Player: ["vk", "456241249", "d8693fceeb774aa1", "0h11m15s"],
-    Image: "https://static.tildacdn.com/tild3733-3566-4935-b735-356234363439/_.webp",
+    Image: "tild3733-3566-4935-b735-356234363439/_.webp",
     Type: "series-Anime",
   },
   {
@@ -1394,7 +1394,7 @@ const seriesAnime = [
     NameRU: "Случайное такси",
     NameEN: "Odd Taxi",
     Status: "1-13/13 Эпизод",
-    Image: "https://static.tildacdn.com/tild3730-6363-4534-a361-356562613335/_.webp",
+    Image: "tild3730-6363-4534-a361-356562613335/_.webp",
     Type: "series-Anime",
   },
   {
@@ -1405,7 +1405,7 @@ const seriesAnime = [
     Donut: "donut-2",
     Link: ["vk", "456241613?t=2h19m7s"],
     Player: ["vk", "456241613", "cefbaf6e87e3bb71", "2h19m7s"],
-    Image: "https://static.tildacdn.com/tild3161-3835-4465-b134-663535666331/_____.webp",
+    Image: "tild3161-3835-4465-b134-663535666331/_____.webp",
     Type: "series-Anime",
   },
   {
@@ -1414,7 +1414,7 @@ const seriesAnime = [
     NameEN: "Made in Abyss",
     Status: "2 Сезона + Фильм",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3437-6561-4662-b231-356538353337/__.webp",
+    Image: "tild3437-6561-4662-b231-356538353337/__.webp",
     Type: "series-Anime",
   },
   {
@@ -1425,7 +1425,7 @@ const seriesAnime = [
     Donut: "donut-3",
     Link: ["vk", "456241780?t=12m10s"],
     Player: ["vk", "456241780", "2b4e1bf613c67001", "0h12m10s"],
-    Image: "https://static.tildacdn.com/tild3236-6630-4733-b130-636566636234/_.webp",
+    Image: "tild3236-6630-4733-b130-636566636234/_.webp",
     Type: "series-Anime",
   },
   {
@@ -1433,7 +1433,7 @@ const seriesAnime = [
     NameRU: "Стальной алхимик: Братство",
     NameEN: "Fullmetal Alchemist: Brotherhood",
     Status: "1-64/64 Эпизод",
-    Image: "https://static.tildacdn.com/tild6134-3736-4966-b438-336361643531/__.webp",
+    Image: "tild6134-3736-4966-b438-336361643531/__.webp",
     Type: "series-Anime",
   },
   {
@@ -1442,7 +1442,7 @@ const seriesAnime = [
     NameEN: "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
     Donut: "donut-2",
     Status: "1-2 Сезон, 3 Сезон 1-8/12 Эпизод",
-    Image: "https://static.tildacdn.com/tild3839-6233-4433-a433-353461303366/______.webp",
+    Image: "tild3839-6233-4433-a433-353461303366/______.webp",
     Type: "series-Anime",
   },
   {
@@ -1450,7 +1450,7 @@ const seriesAnime = [
     NameRU: "Страна самоцветов",
     NameEN: "Houseki no Kuni",
     Status: "1-12/12 Эпизод",
-    Image: "https://static.tildacdn.com/tild3163-3838-4461-b439-663965616464/_.webp",
+    Image: "tild3163-3838-4461-b439-663965616464/_.webp",
     Type: "series-Anime",
   },
   {
@@ -1458,7 +1458,7 @@ const seriesAnime = [
     NameRU: "Судьба/Начало || Фэйт/Зеро",
     NameEN: "Fate/Zero",
     Status: "2 Сезона",
-    Image: "https://static.tildacdn.com/tild6363-6334-4033-b532-323662343238/_.webp",
+    Image: "tild6363-6334-4033-b532-323662343238/_.webp",
     Type: "series-Anime",
   },
   {
@@ -1467,7 +1467,7 @@ const seriesAnime = [
     NameEN: "Kishibe Rohan wa Ugokanai || JoJo no Kimyou na Bouken JoJo's Bizarre Adventure",
     Status: "1-4/4 Эпизод",
     Link: ["boosty", "hiddenarchive/posts/36490900-75af-4169-bfbc-1a9d837bd734"],
-    Image: "https://static.tildacdn.com/tild3635-6265-4030-b365-613866333832/img.webp",
+    Image: "tild3635-6265-4030-b365-613866333832/img.webp",
     Type: "series-Anime",
   },
   {
@@ -1476,7 +1476,7 @@ const seriesAnime = [
     NameEN: "Shigatsu wa Kimi no Uso",
     Status: "1-22/22 Эпизод",
     Donut: "donut-3",
-    Image: "https://static.tildacdn.com/tild3166-3566-4864-b362-663734373961/img.webp",
+    Image: "tild3166-3566-4864-b362-663734373961/img.webp",
     Type: "series-Anime",
   },
   {
@@ -1485,7 +1485,7 @@ const seriesAnime = [
     NameEN: "Darker than Black: Kuro no Keiyakusha",
     Status: "2 Сезона + OVA",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild6337-3563-4332-b962-333337636562/_.webp",
+    Image: "tild6337-3563-4332-b962-333337636562/_.webp",
     Type: "series-Anime",
   },
   {
@@ -1493,7 +1493,7 @@ const seriesAnime = [
     NameRU: "Токийские мстители",
     NameEN: "Tokyo Revengers",
     Status: "1 Сезон 1-6/24 Эпизод",
-    Image: "https://static.tildacdn.com/tild3261-3736-4365-a564-383239353861/img.webp",
+    Image: "tild3261-3736-4365-a564-383239353861/img.webp",
     Type: "series-Anime",
   },
   {
@@ -1501,7 +1501,7 @@ const seriesAnime = [
     NameRU: "Токийский гуль",
     NameEN: "Tokyo Ghoul",
     Status: "4 Сезона + OVA",
-    Image: "https://static.tildacdn.com/tild3237-3362-4365-b664-653038643432/_.webp",
+    Image: "tild3237-3362-4365-b664-653038643432/_.webp",
     Type: "series-Anime",
   },
   {
@@ -1510,7 +1510,7 @@ const seriesAnime = [
     NameEN: "Toriko",
     Status: "1-147/147 Эпизод",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3130-3434-4936-b336-313666643166/photo.webp",
+    Image: "tild3130-3434-4936-b336-313666643166/photo.webp",
     Type: "series-Anime",
   },
   {
@@ -1519,7 +1519,7 @@ const seriesAnime = [
     NameEN: "Trigun",
     Status: "1-8/26 Эпизод",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3661-6533-4136-b533-393930623262/photo.webp",
+    Image: "tild3661-6533-4136-b533-393930623262/photo.webp",
     Type: "series-Anime",
   },
   {
@@ -1528,7 +1528,7 @@ const seriesAnime = [
     NameEN: "Panty & Stocking with Garterbelt",
     Status: "1 Сезон 1-13/13 Эпизод",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild6537-3531-4431-b236-366135636362/____.webp",
+    Image: "tild6537-3531-4431-b236-366135636362/____.webp",
     Type: "series-Anime",
   },
   {
@@ -1536,7 +1536,7 @@ const seriesAnime = [
     NameRU: "Убей или умри",
     NameEN: "Kill la Kill",
     Status: "1-24/24 Эпизод",
-    Image: "https://static.tildacdn.com/tild3538-3333-4336-b432-326363616234/__.webp",
+    Image: "tild3538-3333-4336-b432-326363616234/__.webp",
     Type: "series-Anime",
   },
   {
@@ -1544,7 +1544,7 @@ const seriesAnime = [
     NameRU: "Убийца Акамэ!",
     NameEN: "Akame ga Kill!",
     Status: "1-24/24 Эпизод",
-    Image: "https://static.tildacdn.com/tild6330-6535-4539-a334-353961623564/_.webp",
+    Image: "tild6330-6535-4539-a334-353961623564/_.webp",
     Type: "series-Anime",
   },
   {
@@ -1553,7 +1553,7 @@ const seriesAnime = [
     NameEN: "Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! || WataNare",
     Status: "1-4/17 Эпизод",
     Donut: "donut-3",
-    Image: "https://static.tildacdn.com/tild3861-6434-4632-b666-303436613161/___.webp",
+    Image: "tild3861-6434-4632-b666-303436613161/___.webp",
     Type: "series-Anime",
   },
   {
@@ -1561,7 +1561,7 @@ const seriesAnime = [
     NameRU: "Унеси меня на Луну",
     NameEN: "Tonikaku Kawaii",
     Status: "1-12/12 Эпизод",
-    Image: "https://static.tildacdn.com/tild3763-6163-4964-a465-366165383665/img.webp",
+    Image: "tild3763-6163-4964-a465-366165383665/img.webp",
     Type: "series-Anime",
   },
   {
@@ -1570,7 +1570,7 @@ const seriesAnime = [
     NameEN: "Jiyi Guanli Ju (2026)",
     Status: "1-7/7 Эпизод",
     Link: ["boosty", "hiddenarchive/posts/800e2497-b213-45e0-99cd-7ac9da2c6c7b"],
-    Image: "https://static.tildacdn.com/tild6239-3234-4035-b133-643332376535/img.webp",
+    Image: "tild6239-3234-4035-b133-643332376535/img.webp",
     Type: "series-Anime",
   },
   {
@@ -1578,7 +1578,7 @@ const seriesAnime = [
     NameRU: "Усопшие",
     NameEN: "Shiki",
     Status: "1-22/22 Эпизод",
-    Image: "https://static.tildacdn.com/tild3030-6461-4164-a164-306634323434/photo.webp",
+    Image: "tild3030-6461-4164-a164-306634323434/photo.webp",
     Type: "series-Anime",
   },
   {
@@ -1588,7 +1588,7 @@ const seriesAnime = [
     Status: "1 Сезон 1-6/6 Эпизод",
     Link: ["vk", "456240382"],
     Player: ["vk", "456240382", "2bd1ccbe1b0f0b50", "0h0m0s"],
-    Image: "https://static.tildacdn.com/tild3938-3033-4439-a433-393863353131/-.webp",
+    Image: "tild3938-3033-4439-a433-393863353131/-.webp",
     Type: "series-Anime",
   },
   {
@@ -1596,7 +1596,7 @@ const seriesAnime = [
     NameRU: "Хантер Хантер (2011)",
     NameEN: "Hunter x Hunter",
     Status: "1-148/148 Эпизод",
-    Image: "https://static.tildacdn.com/tild6535-3939-4261-a337-343862623966/__.webp",
+    Image: "tild6535-3939-4261-a337-343862623966/__.webp",
     Type: "series-Anime",
   },
   {
@@ -1605,7 +1605,7 @@ const seriesAnime = [
     NameEN: "Hellsing Ultimate",
     Status: "1-10/10 Эпизод",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild6631-3766-4638-a564-363962643261/_.webp",
+    Image: "tild6631-3766-4638-a564-363962643261/_.webp",
     Type: "series-Anime",
   },
   {
@@ -1616,7 +1616,7 @@ const seriesAnime = [
     Donut: "donut-2",
     Link: ["vk", "456241496?t=2h14m24s"],
     Player: ["vk", "456241496", "3eebf88a50277982", "2h14m24s"],
-    Image: "https://static.tildacdn.com/tild3033-3865-4966-b333-383765626361/-__.webp",
+    Image: "tild3033-3865-4966-b333-383765626361/-__.webp",
     Type: "series-Anime",
   },
   {
@@ -1625,7 +1625,7 @@ const seriesAnime = [
     NameEN: "Kingdom",
     Status: "4 Сезон 1-21/26 Эпизод",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild6338-3636-4336-b461-316535323364/photo.webp",
+    Image: "tild6338-3636-4336-b461-316535323364/photo.webp",
     Type: "series-Anime",
   },
   {
@@ -1633,7 +1633,7 @@ const seriesAnime = [
     NameRU: "Цикл историй / Моногатари",
     NameEN: "Monogatari Series",
     Status: "10 Сезонов + 3 Фильма",
-    Image: "https://static.tildacdn.com/tild3935-3233-4839-a563-656430663438/_.webp",
+    Image: "tild3935-3233-4839-a563-656430663438/_.webp",
     Type: "series-Anime",
   },
   {
@@ -1642,7 +1642,7 @@ const seriesAnime = [
     NameEN: "Chainsaw Man",
     Status: "1 Сезон 1-12/12 Эпизод + Фильм",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3939-6130-4430-b932-613730326636/-.webp",
+    Image: "tild3939-6130-4430-b932-613730326636/-.webp",
     Type: "series-Anime",
   },
   {
@@ -1650,7 +1650,7 @@ const seriesAnime = [
     NameRU: "Человек-дьявол: Плакса",
     NameEN: "Devilman: Crybaby",
     Status: "1-10/10 Эпизод",
-    Image: "https://static.tildacdn.com/tild6236-3132-4334-a663-643437333935/-_.webp",
+    Image: "tild6236-3132-4334-a663-643437333935/-_.webp",
     Type: "series-Anime",
   },
   {
@@ -1659,7 +1659,7 @@ const seriesAnime = [
     NameEN: "Black Clover",
     Status: "1 Сезон 1-170/170 Эпизод + Фильм",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3637-3136-4065-b735-326365333033/_.webp",
+    Image: "tild3637-3136-4065-b735-326365333033/_.webp",
     Type: "series-Anime",
   },
   {
@@ -1668,7 +1668,7 @@ const seriesAnime = [
     NameEN: "Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?",
     Status: "1-12/12 Эпизод",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild3333-3338-4639-a264-633838383265/______.webp",
+    Image: "tild3333-3338-4639-a264-633838383265/______.webp",
     Type: "series-Anime",
   },
   {
@@ -1676,7 +1676,7 @@ const seriesAnime = [
     NameRU: "Шарлотта",
     NameEN: "Charlotte",
     Status: "1-13/13 Эпизод",
-    Image: "https://static.tildacdn.com/tild3138-3366-4834-b262-393138373938/photo.webp",
+    Image: "tild3138-3366-4834-b262-393138373938/photo.webp",
     Type: "series-Anime",
   },
   {
@@ -1685,7 +1685,7 @@ const seriesAnime = [
     NameEN: "Prison School",
     Status: "1-12/12 Эпизод",
     Donut: "donut-1",
-    Image: "https://static.tildacdn.com/tild6237-3038-4234-a234-363566313032/-.webp",
+    Image: "tild6237-3038-4234-a234-363566313032/-.webp",
     Type: "series-Anime",
   },
   {
@@ -1693,7 +1693,7 @@ const seriesAnime = [
     NameRU: "Школьная жизнь!",
     NameEN: "Gakkougurashi!",
     Status: "1-12/12 Эпизод",
-    Image: "https://static.tildacdn.com/tild3434-3239-4933-a463-636436366136/_.webp",
+    Image: "tild3434-3239-4933-a463-636436366136/_.webp",
     Type: "series-Anime",
   },
   {
@@ -1702,7 +1702,7 @@ const seriesAnime = [
     NameEN: "Heppoko Jikken Animation Excel♥Saga",
     Status: "1-12/26 Эпизод",
     Donut: "donut-2",
-    Image: "https://static.tildacdn.com/tild6532-3632-4461-b465-343661653831/-.webp",
+    Image: "tild6532-3632-4461-b465-343661653831/-.webp",
     Type: "series-Anime",
   },
   {
@@ -1710,7 +1710,7 @@ const seriesAnime = [
     NameRU: "Эксперименты Лэйн",
     NameEN: "Serial Experiments Lain",
     Status: "1-13/13 Эпизод",
-    Image: "https://static.tildacdn.com/tild3763-6636-4766-a134-376138313966/_.webp",
+    Image: "tild3763-6636-4766-a134-376138313966/_.webp",
     Type: "series-Anime",
   },
   {
@@ -1720,7 +1720,7 @@ const seriesAnime = [
     Status: "1-4/13 Эпизод",
     Link: ["vk", "456239711"],
     Player: ["vk", "456239711", "cb6354a7f81d34bc", "0h0m0s"],
-    Image: "https://static.tildacdn.com/tild6634-3465-4135-a162-346435353133/img.webp",
+    Image: "tild6634-3465-4135-a162-346435353133/img.webp",
     Type: "series-Anime",
   },
   {
@@ -1728,7 +1728,7 @@ const seriesAnime = [
     NameRU: "Эрго Прокси",
     NameEN: "Ergo Proxy",
     Status: "1-23/23 Эпизод",
-    Image: "https://static.tildacdn.com/tild6562-3638-4930-a432-313032393832/_.webp",
+    Image: "tild6562-3638-4930-a432-313032393832/_.webp",
     Type: "series-Anime",
   },
   {
@@ -1736,7 +1736,7 @@ const seriesAnime = [
     NameRU: "Эроманга-сэнсэй",
     NameEN: "Eromanga-sensei",
     Status: "1-4/12 Эпизод",
-    Image: "https://static.tildacdn.com/tild3232-6630-4964-a436-393466313638/-.webp",
+    Image: "tild3232-6630-4964-a436-393466313638/-.webp",
     Type: "series-Anime",
   },
   {
@@ -1744,7 +1744,7 @@ const seriesAnime = [
     NameRU: "Эта фарфоровая кукла влюбилась",
     NameEN: "Sono Bisque Doll wa Koi wo Suru / My Dress-Up Darling",
     Status: "1 Сезон 1-12/12 Эпизод",
-    Image: "https://static.tildacdn.com/tild3735-6664-4665-a663-356332643231/___.webp",
+    Image: "tild3735-6664-4665-a663-356332643231/___.webp",
     Type: "series-Anime",
   },
   {
@@ -1755,7 +1755,7 @@ const seriesAnime = [
     Donut: "donut-2",
     Link: ["vk", "456241596?t=2h48m24s"],
     Player: ["vk", "456241596", "ea3ecc58e2df2f7f", "2h48m24s"],
-    Image: "https://static.tildacdn.com/tild6337-3135-4338-a562-666664616130/___.webp",
+    Image: "tild6337-3135-4338-a562-666664616130/___.webp",
     Type: "series-Anime",
   },
   {
@@ -1763,7 +1763,7 @@ const seriesAnime = [
     NameRU: "Этот глупый свин не понимает мечту девочки-зайки",
     NameEN: "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
     Status: "1 Сезон 1-13/13 Эпизод + Фильм",
-    Image: "https://static.tildacdn.com/tild3839-3666-4565-a338-636265386162/______-.webp",
+    Image: "tild3839-3666-4565-a338-636265386162/______-.webp",
     Type: "series-Anime",
   },
   {
@@ -1774,7 +1774,7 @@ const seriesAnime = [
     Donut: "donut-2",
     Link: ["vk", "456241646?t=11m49s"],
     Player: ["vk", "456241646", "1a795000fc9971ab", "0h11m49s"],
-    Image: "https://static.tildacdn.com/tild6430-3161-4434-a565-656435393433/-___.webp",
+    Image: "tild6430-3161-4434-a565-656435393433/-___.webp",
     Type: "series-Anime",
   },
   {
@@ -1782,7 +1782,7 @@ const seriesAnime = [
     NameRU: "ID: Вторжение",
     NameEN: "ID:Invaded",
     Status: "1-13/13 Эпизод",
-    Image: "https://static.tildacdn.com/tild6164-3331-4231-b331-343034333431/_.webp",
+    Image: "tild6164-3331-4231-b331-343034333431/_.webp",
     Type: "series-Anime",
   },
   {
@@ -1790,7 +1790,7 @@ const seriesAnime = [
     NameRU: "Re:Zero. Жизнь с нуля в альтернативном мире || РеЗеро",
     NameEN: "Re:Zero kara Hajimeru Isekai Seikatsu || ReZero",
     Status: "2 Сезона",
-    Image: "https://static.tildacdn.com/tild6236-6266-4131-a339-626264653062/_____.webp",
+    Image: "tild6236-6266-4131-a339-626264653062/_____.webp",
     Type: "series-Anime",
   },
 ];
