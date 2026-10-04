@@ -155,7 +155,8 @@ body {
   background-color: #4d4d4d;
 }
 
-img[src=""] {
+img[src=""],
+picture > source[srcset=""] {
   position: relative;
   background-color: var(--card-color);
   background-position: center 80%;
@@ -214,7 +215,8 @@ a {
 /* MARK: хардкокдинг-фикс для светлой-тёмной темы
 */
 body[data-theme="light"] {
-  img[src=""] {
+  img[src=""],
+  picture > source[srcset=""] {
     background-image: url("https://static.tildacdn.com/tild3531-3937-4666-b037-626466353166/icon.svg");
   }
   .window {
@@ -242,7 +244,8 @@ body[data-theme="light"] {
   }
 }
 body[data-theme="dark"] {
-  img[src=""] {
+  img[src=""],
+  picture > source[srcset=""] {
     background-image: url("https://static.tildacdn.com/tild3566-3161-4061-b064-643066653133/icon.svg");
   }
   .window {
@@ -1589,7 +1592,8 @@ body[data-theme="dark"] {
     &.project {
       position: relative;
       border-radius: 0 0 var(--radius-M) var(--radius-M);
-      img {
+      img,
+      picture {
         aspect-ratio: 2/1;
         width: 100.5%;
         object-fit: cover;

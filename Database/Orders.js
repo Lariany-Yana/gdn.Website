@@ -19,6 +19,25 @@ const ordersDatabase = [
 
   //#region ~В процессе~
   {
+    ID: "order_The-Alters",
+    NameRU: "The Alters",
+    Status: "Игра × В заказе: 2 Часа",
+    Type: "order-during",
+    Slots: [
+      {
+        Name: "Кирвин",
+        Slot: "2",
+        Date: "07.07.25",
+        Listed: true,
+      },
+      {
+        Name: "Кирвин",
+        Slot: "1",
+        Date: "22.02.26",
+      },
+    ],
+  },
+  {
     ID: "order_Nanatsu-no-Taizai-2",
     NameRU: "Семь смертных грехов 2: Возрождение заповедей",
     NameEN: "Nanatsu no Taizai: Imashime no Fukkatsu",
@@ -363,24 +382,6 @@ const ordersDatabase = [
         Name: "Ториан",
         Slot: "0.25",
         Date: "23.05.25",
-      },
-    ],
-  },
-  {
-    ID: "order_The-Alters",
-    NameRU: "The Alters",
-    Status: "Игра × В заказе: 6 Часов",
-    Type: "order-waiting",
-    Slots: [
-      {
-        Name: "Кирвин",
-        Slot: "2",
-        Date: "07.07.25",
-      },
-      {
-        Name: "Кирвин",
-        Slot: "1",
-        Date: "22.02.26",
       },
     ],
   },

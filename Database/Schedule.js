@@ -12,53 +12,43 @@ const scheduleDatabase = [
   {
     Status: "Стрим невозможен",
     Current: true,
-    Date: "21.10.26",
+    Date: "05.10.26",
   },
   // Вторник
   {
-    NameRU: "Name",
-    NameEN: "Name",
-    Status: "Status",
+    Status: "Стрим возможен",
     Current: true,
-    Date: "22.10.26",
+    Date: "06.10.26",
   },
   // Среда
   {
-    NameRU: "Name",
-    NameEN: "Name",
-    Status: "Status",
+    Status: "Стрим возможен",
     Current: true,
-    Date: "23.10.26",
+    Date: "07.10.26",
   },
   // Четверг
   {
-    NameRU: "Name",
-    NameEN: "Name",
-    Status: "Status",
+    Status: "Стрим возможен",
     Current: true,
-    Date: "24.10.26",
+    Date: "08.10.26",
   },
   // Пятница
   {
-    NameRU: "Name",
-    NameEN: "Name",
-    Status: "Status",
+    Status: "Стрим возможен",
     Current: true,
-    Date: "25.10.26",
+    Date: "09.10.26",
   },
   // Суббота
   {
     Status: "Стрим невозможен",
     Current: true,
-    Date: "26.10.26",
+    Date: "10.10.26",
   },
   // Воскресенье
   {
-    NameRU: "Name",
-    NameEN: "Name",
-    Status: "Status",
+    Status: "Стрим возможен",
     Current: true,
-    Date: "00.10.26",
+    Date: "11.10.26",
   },
   */
 
@@ -66,50 +56,43 @@ const scheduleDatabase = [
   {
     Status: "Стрим невозможен",
     Current: true,
-    Date: "28.09.26",
+    Date: "05.10.26",
   },
   // Вторник
   {
-    NameRU: "Ангельские ритмы!",
-    NameEN: "Angel Beats!",
-    Status: "Аниме × 1 Сезон 1-7 Эпизод",
+    Status: "Стрим возможен",
     Current: true,
-    Date: "29.09.26",
+    Date: "06.10.26",
   },
   // Среда
   {
-    Status: "Стрим не состоялся",
+    Status: "Стрим возможен",
     Current: true,
-    Date: "30.09.26",
+    Date: "07.10.26",
   },
   // Четверг
   {
-    NameRU: "Ангельские ритмы!",
-    NameEN: "Angel Beats!",
-    Status: "Аниме × 1 Сезон 8-12 Эпизод",
+    Status: "Стрим возможен",
     Current: true,
-    Date: "01.10.26",
+    Date: "08.10.26",
   },
   // Пятница
   {
-    NameRU: "Ангельские ритмы!",
-    NameEN: "Angel Beats!",
-    Status: "Аниме × 1 Сезон 12-13+1 Эпизод",
+    Status: "Стрим возможен",
     Current: true,
-    Date: "02.10.26",
+    Date: "09.10.26",
   },
   // Суббота
   {
     Status: "Стрим невозможен",
     Current: true,
-    Date: "03.10.26",
+    Date: "10.10.26",
   },
   // Воскресенье
   {
-    NameRU: "The Alters",
-    Status: "Игра × Начало в ~14:00 по МСК",
+    Status: "Стрим возможен",
     Current: true,
-    Date: "04.10.26",
+    Date: "11.10.26",
   },
 
   //#region Старое: Январь 26
@@ -3108,6 +3091,57 @@ const scheduleDatabase = [
     Status: "Мультфильм",
     Current: false,
     Date: "27.09.26",
+  },
+  // Понедельник
+  {
+    Status: "Стрим невозможен",
+    Current: false,
+    Date: "28.09.26",
+  },
+  // Вторник
+  {
+    NameRU: "Ангельские ритмы!",
+    NameEN: "Angel Beats!",
+    Status: "Аниме × 1 Сезон 1-7 Эпизод",
+    Current: false,
+    Date: "29.09.26",
+  },
+  // Среда
+  {
+    Status: "Стрим не состоялся",
+    Current: false,
+    Date: "30.09.26",
+  },
+  //#endregion
+  //#region Старое: Октябрь 26
+  // Четверг
+  {
+    NameRU: "Ангельские ритмы!",
+    NameEN: "Angel Beats!",
+    Status: "Аниме × 1 Сезон 8-12 Эпизод",
+    Current: false,
+    Date: "01.10.26",
+  },
+  // Пятница
+  {
+    NameRU: "Ангельские ритмы!",
+    NameEN: "Angel Beats!",
+    Status: "Аниме × 1 Сезон 12-13+1 Эпизод",
+    Current: false,
+    Date: "02.10.26",
+  },
+  // Суббота
+  {
+    Status: "Стрим невозможен",
+    Current: false,
+    Date: "03.10.26",
+  },
+  // Воскресенье
+  {
+    NameRU: "The Alters",
+    Status: "Игра",
+    Current: false,
+    Date: "04.10.26",
   },
   //#endregion
 ];

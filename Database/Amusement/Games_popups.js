@@ -2780,6 +2780,20 @@ const amusementGamesPopups = {
       ],
     },
   ],
+  "Amusement-Games_The-Alters": [
+    {
+      Title: "",
+      Episodes: [
+        {
+          Name: "1 Эпизод",
+          Date: "04.10.26",
+          Donut: "donut-3",
+          Link: ["vk", "456241915?t=13m42s"],
+          Player: ["vk", "456241915", "c6621c2791dbc5d2", "0h13m42s"],
+        },
+      ],
+    },
+  ],
   "Amusement-Games_The-Invincible": [
     {
       Title: "",
@@ -2974,35 +2988,35 @@ const amusementGamesPopups = {
         {
           Name: "1 Эпизод",
           Date: "",
-					Donut: "donut-3",
+          Donut: "donut-3",
           Link: ["vk", "456241866?t=11m24s"],
           Player: ["vk", "456241866", "0fd0ccb60ca2d898", "0h11m24s"],
         },
         {
           Name: "2 Эпизод",
           Date: "",
-					Donut: "donut-3",
+          Donut: "donut-3",
           Link: ["vk", "456241873?t=4h27m6s"],
           Player: ["vk", "456241873", "2716cf0998717b30", "4h27m6s"],
         },
         {
           Name: "3 Эпизод",
           Date: "",
-					Donut: "donut-3",
+          Donut: "donut-3",
           Link: ["vk", "456241878?t=7m58s"],
           Player: ["vk", "456241878", "244e945b978fdbac", "0h7m58s"],
         },
         {
           Name: "4 Эпизод",
           Date: "27.08.2026",
-					Donut: "donut-3",
+          Donut: "donut-3",
           Link: ["vk", "456241891?t=3h44m3s"],
           Player: ["vk", "456241891", "fafc285ed47994e8", "3h44m3s"],
         },
         {
           Name: "5 Эпизод",
           Date: "08.09.2026",
-					Donut: "donut-3",
+          Donut: "donut-3",
           Link: ["vk", "456241898?t=13m1s"],
           Player: ["vk", "456241898", "c6ab2c5a4c068645", "0h13m1s"],
         },

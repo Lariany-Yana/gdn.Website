@@ -591,6 +591,14 @@ const amusementGames = [
     Type: "amusement-Game",
   },
   {
+    ID: "Amusement-Games_The-Alters",
+    NameRU: "The Alters",
+    Status: "4 Часа",
+    Donut: "donut-3",
+    Image: ["tild6335-3435-4639-b030-393333336536/Max.webp", "tild3637-3833-4330-a433-366330326535/Min.webp"],
+    Type: "amusement-Game",
+  },
+  {
     ID: "Amusement-Games_The-Cabin-Factory",
     NameRU: "The Cabin Factory",
     Status: "До финала",
