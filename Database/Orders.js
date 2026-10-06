@@ -1,4 +1,4 @@
-const UpdateWas = "Добавление новых слотов было: 23.09.26";
+const UpdateWas = "Добавление новых слотов было: 06.10.26";
 const ordersDatabase = [
   /* ШАБЛОН
   {
@@ -117,7 +117,7 @@ const ordersDatabase = [
   {
     ID: "order_Rogue-Trader",
     NameRU: "Warhammer 40 000: Rogue Trader",
-    Status: "Игра × Наиграно: 10 Часов, В заказе: 4 Часа",
+    Status: "Игра × Наиграно: 10 Часов, В заказе: 6 Часов",
     Type: "order-during",
     Slots: [
       {
@@ -165,6 +165,11 @@ const ordersDatabase = [
         Name: "Ekemlyr",
         Slot: "1",
         Date: "27.08.26",
+      },
+      {
+        Name: "Ekemlyr",
+        Slot: "1",
+        Date: "24.09.26",
       },
     ],
   },
@@ -979,13 +984,18 @@ const ordersDatabase = [
     ID: "order_Nanatsu-no-Taizai-3",
     NameRU: "Семь смертных грехов 3: Гнев богов",
     NameEN: "Nanatsu no Taizai: Kamigami no Gekirin",
-    Status: "Аниме × В заказе: 3 Сезон 1-8/24 Эпизод",
+    Status: "Аниме × В заказе: 3 Сезон 1-16/24 Эпизод",
     Type: "order-waiting",
     Slots: [
       {
         Name: "Coras",
         Slot: "2", // 1 Сезон 1-8 Эпизод
         Date: "28.08.26",
+      },
+      {
+        Name: "Coras",
+        Slot: "2", // 1 Сезон 9-16 Эпизод
+        Date: "24.09.26",
       },
     ],
   },
@@ -1030,28 +1040,50 @@ const ordersDatabase = [
       },
     ],
   },
-  //#endregion
-  //#region ~В уточнении~
   {
-    NameRU: "Ангельские ритмы!",
-    NameEN: "Angel Beats!",
-    Status: "Аниме × Просмотрено: 1 Сезон 1-13+1/13+1 Эпизод",
-    Type: "order-determinate",
+    ID: "order_Mushoku-Tensei-SP-1",
+    NameRU: "Реинкарнация безработного: Эрис — убийца гоблинов",
+    NameEN: "Mushoku Tensei: Eris no Goblin",
+    Status: "Аниме × В заказе: 1/1 Эпизод",
+    Type: "order-waiting",
     Slots: [
       {
         Name: "Insomnia",
-        Slot: "1",
-        Date: "09.06.26",
-        Listed: true,
-      },
-      {
-        Name: "Без имени",
-        Slot: "2.5",
-        Date: "Без даты",
-        Listed: false,
+        Slot: "0.25",
+        Date: "27.09.26",
       },
     ],
   },
+  {
+    ID: "order_Mushoku-Tensei-SP-2",
+    NameRU: "Реинкарнация безработного: Маг-хранитель Фитц",
+    NameEN: "Mushoku Tensei: Shugo Jutsushi Fitz",
+    Status: "Аниме × В заказе: 1/1 Эпизод",
+    Type: "order-waiting",
+    Slots: [
+      {
+        Name: "Insomnia",
+        Slot: "0.25",
+        Date: "27.09.26",
+      },
+    ],
+  },
+  {
+    ID: "order_Mushoku-Tensei-2",
+    NameRU: "Реинкарнация безработного: История о приключениях в другом мире",
+    NameEN: "Mushoku Tensei: Isekai Ittara Honki Dasu",
+    Status: "Аниме × В заказе: 2 Сезон 1-11/12 Эпизод",
+    Type: "order-waiting",
+    Slots: [
+      {
+        Name: "Insomnia",
+        Slot: "2.75", // 2 Сезон 1-11 Эпизод
+        Date: "27.09.26",
+      },
+    ],
+  },
+  //#endregion
+  //#region ~В уточнении~
   {
     NameRU: "Трансформеры: Начало",
     NameEN: "Transformers One",
@@ -1819,6 +1851,26 @@ const ordersDatabase = [
   },
   //#endregion
   //#region ~Просмотренное~
+  {
+    NameRU: "Ангельские ритмы!",
+    NameEN: "Angel Beats!",
+    Status: "Аниме × Просмотрено: 1 Сезон 1-13+1/13+1 Эпизод",
+    Type: "order-finished",
+    Slots: [
+      {
+        Name: "Insomnia",
+        Slot: "1",
+        Date: "09.06.26",
+        Listed: true,
+      },
+      {
+        Name: "Insomnia",
+        Slot: "2.5",
+        Date: "24.09.26",
+        Listed: true,
+      },
+    ],
+  },
   {
     NameRU: "Алиса в Пограничье",
     NameEN: "Imawa no Kuni no Arisu",
