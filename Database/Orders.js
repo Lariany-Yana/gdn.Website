@@ -79,7 +79,7 @@ const ordersDatabase = [
     ID: "order_Gotham-1",
     NameRU: "Готэм",
     NameEN: "Gotham",
-    Status: "Сериал × В заказе: 1 Сезон 15-22/22 Эпизод",
+    Status: "Сериал × В заказе: 1 Сезон 19-22/22 Эпизод",
     Style: "user_Katya",
     Type: "order-during",
     Slots: [
@@ -103,13 +103,13 @@ const ordersDatabase = [
       },
       {
         Name: "ТВОЮ МАТЬ",
-        Slot: "3", // 1 Сезон 9-14 Эпизод
+        Slot: "5", // 1 Сезон 9-18 Эпизод
         Date: "08.01.26",
         Listed: true,
       },
       {
         Name: "ТВОЮ МАТЬ",
-        Slot: "4", // 1 Сезон 15-22 Эпизод
+        Slot: "2", // 1 Сезон 19-22 Эпизод
         Date: "08.01.26",
       },
     ],

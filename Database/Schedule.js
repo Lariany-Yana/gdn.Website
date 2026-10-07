@@ -60,13 +60,15 @@ const scheduleDatabase = [
   },
   // Вторник
   {
-    Status: "Стрим возможен",
+    Status: "Стрим не состоялся",
     Current: true,
     Date: "06.10.26",
   },
   // Среда
   {
-    Status: "Стрим возможен",
+    NameRU: "Готэм",
+    NameEN: "Gotham",
+    Status: "Сериал × 1 Сезон 15-18 Эпизод",
     Current: true,
     Date: "07.10.26",
   },
