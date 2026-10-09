@@ -1657,7 +1657,7 @@ const seriesAnime = [
     ID: "Series-Anime_Black-Clover",
     NameRU: "Чёрный клевер",
     NameEN: "Black Clover",
-    Status: "1 Сезон 1-170/170 Эпизод + Фильм",
+    Status: "1 Сезон, 2 Сезон 1/↻ Эпизод + Фильм",
     Donut: "donut-1",
     Image: "tild3637-3136-4065-b735-326365333033/_.webp",
     Type: "series-Anime",

@@ -19,25 +19,6 @@ const ordersDatabase = [
 
   //#region ~В процессе~
   {
-    ID: "order_The-Alters",
-    NameRU: "The Alters",
-    Status: "Игра × В заказе: 2 Часа",
-    Type: "order-during",
-    Slots: [
-      {
-        Name: "Кирвин",
-        Slot: "2",
-        Date: "07.07.25",
-        Listed: true,
-      },
-      {
-        Name: "Кирвин",
-        Slot: "1",
-        Date: "22.02.26",
-      },
-    ],
-  },
-  {
     ID: "order_Nanatsu-no-Taizai-2",
     NameRU: "Семь смертных грехов 2: Возрождение заповедей",
     NameEN: "Nanatsu no Taizai: Imashime no Fukkatsu",
@@ -117,7 +98,7 @@ const ordersDatabase = [
   {
     ID: "order_Rogue-Trader",
     NameRU: "Warhammer 40 000: Rogue Trader",
-    Status: "Игра × Наиграно: 10 Часов, В заказе: 6 Часов",
+    Status: "Игра × Наиграно: 14 Часов, В заказе: 4 Часа",
     Type: "order-during",
     Slots: [
       {
@@ -160,6 +141,7 @@ const ordersDatabase = [
         Name: "Ekemlyr",
         Slot: "1",
         Date: "19.08.26",
+        Listed: true,
       },
       {
         Name: "Ekemlyr",
@@ -245,14 +227,20 @@ const ordersDatabase = [
   {
     ID: "order_Black-Clover-2",
     NameRU: "Чёрный клевер",
-    NameEN: "Black Clover 2nd Season",
-    Status: "Игра × В заказе: 2 Сезон 1-24/↻ Эпизод",
+    NameEN: "Black Clover",
+    Status: "Игра × В заказе: 2 Сезон 2-24/↻ Эпизод",
     Style: "user_Edwin",
     Type: "order-waiting",
     Slots: [
       {
         Name: "Статист",
-        Slot: "5",
+        Slot: "0.25",
+        Date: "29.05.24",
+        Listed: true,
+      },
+      {
+        Name: "Статист",
+        Slot: "4.75",
         Date: "29.05.24",
       },
       {
@@ -1271,6 +1259,26 @@ const ordersDatabase = [
   },
   //#endregion
   //#region ~Нужен дозаказ~
+  {
+    ID: "order_The-Alters",
+    NameRU: "The Alters",
+    Status: "Игра × Наиграно: 6 Часов",
+    Type: "order-incomplete",
+    Slots: [
+      {
+        Name: "Кирвин",
+        Slot: "2",
+        Date: "07.07.25",
+        Listed: true,
+      },
+      {
+        Name: "Кирвин",
+        Slot: "1",
+        Date: "22.02.26",
+        Listed: true,
+      },
+    ],
+  },
   {
     ID: "order_100-nin-no-Kanojo-3",
     NameRU: "Сто девушек, которые очень сильно тебя любят",

@@ -74,13 +74,27 @@ const scheduleDatabase = [
   },
   // Четверг
   {
-    Status: "Стрим возможен",
+    Status: "Стрим не состоялся",
     Current: true,
     Date: "08.10.26",
   },
   // Пятница
   {
-    Status: "Стрим возможен",
+    NameRU: "Warhammer 40 000: Rogue Trader",
+    Status: "Игра",
+    Current: true,
+    Date: "09.10.26",
+  },
+  {
+    NameRU: "Чёрный клевер",
+    NameEN: "Black Clover",
+    Status: "Аниме × 2 Сезон 1 Эпизод",
+    Current: true,
+    Date: "09.10.26",
+  },
+  {
+    NameRU: "The Alters",
+    Status: "Игра",
     Current: true,
     Date: "09.10.26",
   },

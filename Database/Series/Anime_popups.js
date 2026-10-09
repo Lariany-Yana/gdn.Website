@@ -11671,6 +11671,18 @@ const seriesAnimePopups = {
         },
       ],
     },
+    {
+      Title: "2 Сезон",
+      Episodes: [
+        {
+          Name: "1 Эпизод",
+          Date: "09.10.26",
+          Donut: "donut-3",
+          Link: ["vk", "456241918?t=2h20m36s"],
+          Player: ["vk", "456241918", "a24f4f7d398e4476", "2h20m36s"],
+        },
+      ],
+    },
   ],
   "Series-Anime_Shuumatsu-Nani-Shitemasu": [
     {
