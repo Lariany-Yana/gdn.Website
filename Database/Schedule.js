@@ -56,59 +56,43 @@ const scheduleDatabase = [
   {
     Status: "Стрим невозможен",
     Current: true,
-    Date: "05.10.26",
+    Date: "12.10.26",
   },
   // Вторник
   {
-    Status: "Стрим не состоялся",
+    Status: "Стрим невозможен",
     Current: true,
-    Date: "06.10.26",
+    Date: "13.10.26",
   },
   // Среда
   {
-    NameRU: "Готэм",
-    NameEN: "Gotham",
-    Status: "Сериал × 1 Сезон 15-18 Эпизод",
+    Status: "Стрим невозможен",
     Current: true,
-    Date: "07.10.26",
+    Date: "14.10.26",
   },
   // Четверг
   {
-    Status: "Стрим не состоялся",
+    Status: "Стрим невозможен",
     Current: true,
-    Date: "08.10.26",
+    Date: "15.10.26",
   },
   // Пятница
   {
-    NameRU: "Warhammer 40 000: Rogue Trader",
-    Status: "Игра",
+    Status: "Стрим невозможен",
     Current: true,
-    Date: "09.10.26",
-  },
-  {
-    NameRU: "Чёрный клевер",
-    NameEN: "Black Clover",
-    Status: "Аниме × 2 Сезон 1 Эпизод",
-    Current: true,
-    Date: "09.10.26",
-  },
-  {
-    NameRU: "The Alters",
-    Status: "Игра",
-    Current: true,
-    Date: "09.10.26",
+    Date: "16.10.26",
   },
   // Суббота
   {
     Status: "Стрим невозможен",
     Current: true,
-    Date: "10.10.26",
+    Date: "17.10.26",
   },
   // Воскресенье
   {
     Status: "Стрим возможен",
     Current: true,
-    Date: "11.10.26",
+    Date: "18.10.26",
   },
 
   //#region Старое: Январь 26
@@ -3158,6 +3142,64 @@ const scheduleDatabase = [
     Status: "Игра",
     Current: false,
     Date: "04.10.26",
+  },
+  // Понедельник
+  {
+    Status: "Стрим невозможен",
+    Current: false,
+    Date: "05.10.26",
+  },
+  // Вторник
+  {
+    Status: "Стрим не состоялся",
+    Current: false,
+    Date: "06.10.26",
+  },
+  // Среда
+  {
+    NameRU: "Готэм",
+    NameEN: "Gotham",
+    Status: "Сериал × 1 Сезон 15-18 Эпизод",
+    Current: false,
+    Date: "07.10.26",
+  },
+  // Четверг
+  {
+    Status: "Стрим не состоялся",
+    Current: false,
+    Date: "08.10.26",
+  },
+  // Пятница
+  {
+    NameRU: "Warhammer 40 000: Rogue Trader",
+    Status: "Игра",
+    Current: false,
+    Date: "09.10.26",
+  },
+  {
+    NameRU: "Чёрный клевер",
+    NameEN: "Black Clover",
+    Status: "Аниме × 2 Сезон 1 Эпизод",
+    Current: false,
+    Date: "09.10.26",
+  },
+  {
+    NameRU: "The Alters",
+    Status: "Игра",
+    Current: false,
+    Date: "09.10.26",
+  },
+  // Суббота
+  {
+    Status: "Стрим невозможен",
+    Current: false,
+    Date: "10.10.26",
+  },
+  // Воскресенье
+  {
+    Status: "Стрим не состоялся",
+    Current: false,
+    Date: "11.10.26",
   },
   //#endregion
 ];
