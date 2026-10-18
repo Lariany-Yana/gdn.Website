@@ -56,43 +56,43 @@ const scheduleDatabase = [
   {
     Status: "Стрим невозможен",
     Current: true,
-    Date: "12.10.26",
+    Date: "19.10.26",
   },
   // Вторник
   {
-    Status: "Стрим невозможен",
+    Status: "Стрим возможен",
     Current: true,
-    Date: "13.10.26",
+    Date: "20.10.26",
   },
   // Среда
   {
-    Status: "Стрим невозможен",
+    Status: "Стрим возможен",
     Current: true,
-    Date: "14.10.26",
+    Date: "21.10.26",
   },
   // Четверг
   {
-    Status: "Стрим невозможен",
+    Status: "Стрим возможен",
     Current: true,
-    Date: "15.10.26",
+    Date: "22.10.26",
   },
   // Пятница
   {
-    Status: "Стрим невозможен",
+    Status: "Стрим возможен",
     Current: true,
-    Date: "16.10.26",
+    Date: "23.10.26",
   },
   // Суббота
   {
     Status: "Стрим невозможен",
     Current: true,
-    Date: "17.10.26",
+    Date: "24.10.26",
   },
   // Воскресенье
   {
     Status: "Стрим возможен",
     Current: true,
-    Date: "18.10.26",
+    Date: "25.10.26",
   },
 
   //#region Старое: Январь 26
@@ -3200,6 +3200,55 @@ const scheduleDatabase = [
     Status: "Стрим не состоялся",
     Current: false,
     Date: "11.10.26",
+  },
+  // Понедельник
+  {
+    Status: "Стрим невозможен",
+    Current: false,
+    Date: "12.10.26",
+  },
+  // Вторник
+  {
+    Status: "Стрим невозможен",
+    Current: false,
+    Date: "13.10.26",
+  },
+  // Среда
+  {
+    Status: "Стрим невозможен",
+    Current: false,
+    Date: "14.10.26",
+  },
+  // Четверг
+  {
+    Status: "Стрим невозможен",
+    Current: false,
+    Date: "15.10.26",
+  },
+  // Пятница
+  {
+    Status: "Стрим невозможен",
+    Current: false,
+    Date: "16.10.26",
+  },
+  // Суббота
+  {
+    Status: "Стрим невозможен",
+    Current: false,
+    Date: "17.10.26",
+  },
+  // Воскресенье
+  {
+    NameRU: "Готэм",
+    NameEN: "Gotham",
+    Status: "Сериал × 1 Сезон 19-22 Эпизод",
+    Current: false,
+    Date: "18.10.26",
+  },
+  {
+    NameRU: "Покер",
+    Current: false,
+    Date: "18.10.26",
   },
   //#endregion
 ];

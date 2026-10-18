@@ -101,45 +101,6 @@ const ordersDatabase = [
     ],
   },
   {
-    ID: "order_Gotham-1",
-    NameRU: "Готэм",
-    NameEN: "Gotham",
-    Status: "Сериал × В заказе: 1 Сезон 19-22/22 Эпизод",
-    Style: "user_Katya",
-    Type: "order-during",
-    Slots: [
-      {
-        Name: "ТВОЮ МАТЬ",
-        Slot: "2", // 1 Сезон 1-4 Эпизод
-        Date: "12.10.25",
-        Listed: true,
-      },
-      {
-        Name: "ТВОЮ МАТЬ",
-        Slot: "1", // 1 Сезон 5-6 Эпизод
-        Date: "25.11.25",
-        Listed: true,
-      },
-      {
-        Name: "ТВОЮ МАТЬ",
-        Slot: "1", // 1 Сезон 7-8 Эпизод
-        Date: "26.12.25",
-        Listed: true,
-      },
-      {
-        Name: "ТВОЮ МАТЬ",
-        Slot: "5", // 1 Сезон 9-18 Эпизод
-        Date: "08.01.26",
-        Listed: true,
-      },
-      {
-        Name: "ТВОЮ МАТЬ",
-        Slot: "2", // 1 Сезон 19-22 Эпизод
-        Date: "08.01.26",
-      },
-    ],
-  },
-  {
     ID: "order_Rogue-Trader",
     NameRU: "Warhammer 40 000: Rogue Trader",
     Status: "Игра × Наиграно: 14 Часов, В заказе: 4 Часа",
@@ -1106,21 +1067,6 @@ const ordersDatabase = [
     ],
   },
   {
-    ID: "order_Dexter-Resurrection-1",
-    NameRU: "Декстер: Воскрешение",
-    NameEN: "Dexter: Resurrection",
-    Status: "Сериал ⨯ Просмотрено: 1 Сезон 1-2/10 Эпизод",
-    Type: "order-determinate",
-    Slots: [
-      {
-        Name: "Без имени",
-        Slot: "1", // 1 Сезон 1-2 Эпизод
-        Date: "Без даты",
-        Listed: false,
-      },
-    ],
-  },
-  {
     ID: "order_La-casa-de-papel-2",
     NameRU: "Бумажный дом",
     NameEN: "La casa de papel",
@@ -1162,38 +1108,6 @@ const ordersDatabase = [
       {
         Name: "Без имени",
         Slot: "1",
-        Date: "Без даты",
-        Listed: false,
-      },
-    ],
-  },
-  {
-    NameRU: "Декстер",
-    NameEN: "Dexter",
-    Status: "Сериал ⨯ Просмотрено: 8 Сезон 1-12/12 Эпизод",
-    Type: "order-determinate",
-    Slots: [
-      {
-        Name: "ТВОЮ МАТЬ",
-        Slot: "1", // 8 Сезон 1-2 Эпизод
-        Date: "12.08.26",
-        Listed: true,
-      },
-      {
-        Name: "ТВОЮ МАТЬ",
-        Slot: "1", // 8 Сезон 3-4 Эпизод
-        Date: "19.08.26",
-        Listed: true,
-      },
-      {
-        Name: "ТВОЮ МАТЬ",
-        Slot: "1", // 8 Сезон 5-6 Эпизод
-        Date: "01.09.26",
-        Listed: true,
-      },
-      {
-        Name: "Без имени",
-        Slot: "3", // 8 Сезон 7-8 Эпизод
         Date: "Без даты",
         Listed: false,
       },
@@ -1275,6 +1189,53 @@ const ordersDatabase = [
         Slot: "1",
         Date: "22.02.26",
         Listed: true,
+      },
+    ],
+  },
+  {
+    ID: "order_Dexter-Resurrection-1",
+    NameRU: "Декстер: Воскрешение",
+    NameEN: "Dexter: Resurrection",
+    Status: "Сериал ⨯ Просмотрено: 1 Сезон 1-2/10 Эпизод",
+    Type: "order-incomplete",
+    Slots: [
+      {
+        Name: "Без имени",
+        Slot: "1", // 1 Сезон 1-2 Эпизод
+        Date: "Без даты",
+        Listed: false,
+      },
+    ],
+  },
+  {
+    NameRU: "Декстер",
+    NameEN: "Dexter",
+    Status: "Сериал ⨯ Просмотрено: 8 Сезон 1-12/12 Эпизод",
+    Type: "order-incomplete",
+    Slots: [
+      {
+        Name: "ТВОЮ МАТЬ",
+        Slot: "1", // 8 Сезон 1-2 Эпизод
+        Date: "12.08.26",
+        Listed: true,
+      },
+      {
+        Name: "ТВОЮ МАТЬ",
+        Slot: "1", // 8 Сезон 3-4 Эпизод
+        Date: "19.08.26",
+        Listed: true,
+      },
+      {
+        Name: "ТВОЮ МАТЬ",
+        Slot: "1", // 8 Сезон 5-6 Эпизод
+        Date: "01.09.26",
+        Listed: true,
+      },
+      {
+        Name: "Без имени",
+        Slot: "3", // 8 Сезон 7-8 Эпизод
+        Date: "Без даты",
+        Listed: false,
       },
     ],
   },
@@ -1855,6 +1816,38 @@ const ordersDatabase = [
   },
   //#endregion
   //#region ~Просмотренное~
+  {
+    NameRU: "Готэм",
+    NameEN: "Gotham",
+    Status: "Сериал × Просмотрено: 1 Сезон 1-22/22 Эпизод",
+    Type: "order-finished",
+    Slots: [
+      {
+        Name: "ТВОЮ МАТЬ",
+        Slot: "2", // 1 Сезон 1-4 Эпизод
+        Date: "12.10.25",
+        Listed: true,
+      },
+      {
+        Name: "ТВОЮ МАТЬ",
+        Slot: "1", // 1 Сезон 5-6 Эпизод
+        Date: "25.11.25",
+        Listed: true,
+      },
+      {
+        Name: "ТВОЮ МАТЬ",
+        Slot: "1", // 1 Сезон 7-8 Эпизод
+        Date: "26.12.25",
+        Listed: true,
+      },
+      {
+        Name: "ТВОЮ МАТЬ",
+        Slot: "7", // 1 Сезон 9-22 Эпизод
+        Date: "08.01.26",
+        Listed: true,
+      },
+    ],
+  },
   {
     NameRU: "Ангельские ритмы!",
     NameEN: "Angel Beats!",
