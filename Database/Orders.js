@@ -19,50 +19,6 @@ const ordersDatabase = [
 
   //#region ~В процессе~
   {
-    ID: "order_Mahoutsukai-no-Yome-2",
-    NameRU: "Невеста чародея",
-    NameEN: "Mahoutsukai no Yome",
-    Status: "Аниме × В заказе: 2 Сезон 17-24/24 Эпизод",
-    Type: "order-during",
-    Slots: [
-      {
-        Name: "Мисти",
-        Slot: "0.5", // 2 Сезон 1-2 Эпизод
-        Date: "16.09.25",
-        Listed: true,
-      },
-      {
-        Name: "Мисти",
-        Slot: "1", // 2 Сезон 3-6 Эпизод
-        Date: "14.12.25",
-        Listed: true,
-      },
-      {
-        Name: "Мисти",
-        Slot: "0.5", // 2 Сезон 7-8 Эпизод
-        Date: "16.02.26",
-        Listed: true,
-      },
-      {
-        Name: "Мисти",
-        Slot: "1", // 2 Сезон 9-12 Эпизод
-        Date: "16.02.26",
-        Listed: true,
-      },
-      {
-        Name: "Мисти",
-        Slot: "1", // 2 Сезон 13-16 Эпизод
-        Date: "17.03.26",
-        Listed: true,
-      },
-      {
-        Name: "Мисти",
-        Slot: "2", // 2 Сезон 17-24 Эпизод
-        Date: "17.05.26",
-      },
-    ],
-  },
-  {
     ID: "order_Nanatsu-no-Taizai-2",
     NameRU: "Семь смертных грехов 2: Возрождение заповедей",
     NameEN: "Nanatsu no Taizai: Imashime no Fukkatsu",
@@ -1816,6 +1772,51 @@ const ordersDatabase = [
   },
   //#endregion
   //#region ~Просмотренное~
+  {
+    ID: "order_Mahoutsukai-no-Yome-2",
+    NameRU: "Невеста чародея",
+    NameEN: "Mahoutsukai no Yome",
+    Status: "Аниме × Просмотрено: 2 Сезон 1-24/24 Эпизод",
+    Type: "order-finished",
+    Slots: [
+      {
+        Name: "Мисти",
+        Slot: "0.5", // 2 Сезон 1-2 Эпизод
+        Date: "16.09.25",
+        Listed: true,
+      },
+      {
+        Name: "Мисти",
+        Slot: "1", // 2 Сезон 3-6 Эпизод
+        Date: "14.12.25",
+        Listed: true,
+      },
+      {
+        Name: "Мисти",
+        Slot: "0.5", // 2 Сезон 7-8 Эпизод
+        Date: "16.02.26",
+        Listed: true,
+      },
+      {
+        Name: "Мисти",
+        Slot: "1", // 2 Сезон 9-12 Эпизод
+        Date: "16.02.26",
+        Listed: true,
+      },
+      {
+        Name: "Мисти",
+        Slot: "1", // 2 Сезон 13-16 Эпизод
+        Date: "17.03.26",
+        Listed: true,
+      },
+      {
+        Name: "Мисти",
+        Slot: "2", // 2 Сезон 17-24 Эпизод
+        Date: "17.05.26",
+        Listed: true,
+      },
+    ],
+  },
   {
     NameRU: "Готэм",
     NameEN: "Gotham",

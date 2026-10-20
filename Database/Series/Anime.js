@@ -963,7 +963,7 @@ const seriesAnime = [
     ID: "Series-Anime_Mahoutsukai-no-Yome",
     NameRU: "Невеста чародея",
     NameEN: "Mahoutsukai no Yome",
-    Status: "1 Сезон, 2 Сезон 1-16/24 Эпизод",
+    Status: "2 Сезона",
     Donut: "donut-2",
     Image: "tild3737-3539-4363-a262-373034366535/_.webp",
     Type: "series-Anime",

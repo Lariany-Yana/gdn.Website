@@ -60,7 +60,9 @@ const scheduleDatabase = [
   },
   // Вторник
   {
-    Status: "Стрим возможен",
+    NameRU: "Невеста чародея",
+    NameEN: "Mahoutsukai no Yome",
+    Status: "Аниме × 2 Сезон 17-24 Эпизод",
     Current: true,
     Date: "20.10.26",
   },
