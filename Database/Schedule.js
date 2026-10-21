@@ -68,7 +68,9 @@ const scheduleDatabase = [
   },
   // Среда
   {
-    Status: "Стрим возможен",
+    NameRU: "Сахар",
+    NameEN: "Sheker",
+    Status: "Сериал × 1 Сезон 1-8 Эпизод",
     Current: true,
     Date: "21.10.26",
   },

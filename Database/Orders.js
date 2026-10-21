@@ -989,6 +989,20 @@ const ordersDatabase = [
   //#endregion
   //#region ~В уточнении~
   {
+    NameRU: "Сахар",
+    NameEN: "Sheker",
+    Status: "Сериал × Просмотрено: 1 Сезон 1-8/8 Эпизод",
+    Type: "order-determinate",
+    Slots: [
+      {
+        Name: "Без имени",
+        Slot: "1.5",
+        Date: "Без даты",
+        Listed: false,
+      },
+    ],
+  },
+  {
     NameRU: "Трансформеры: Начало",
     NameEN: "Transformers One",
     Status: "Мультфильм",
@@ -1005,7 +1019,7 @@ const ordersDatabase = [
   {
     NameRU: "Мстители Хикмана",
     NameEN: "Avengers by Jonathan Hickman",
-    Status: "Комиксы ⨯ Прочитано: 1-6/44 Главы",
+    Status: "Комикс ⨯ Прочитано: 1-6/44 Главы",
     Type: "order-determinate",
     Slots: [
       {
