@@ -1,4 +1,4 @@
-const UpdateWas = "Добавление новых слотов было: 06.10.26";
+const UpdateWas = "Добавление новых слотов было: 22.10.26";
 const ordersDatabase = [
   /* ШАБЛОН
   {
@@ -18,6 +18,20 @@ const ordersDatabase = [
 */
 
   //#region ~В процессе~
+  {
+    ID: "order_Sheker-2",
+    NameRU: "Сахар",
+    NameEN: "Sheker",
+    Status: "Сериал × В заказе: 2 Сезон 1-12/12 Эпизод",
+    Type: "order-during",
+    Slots: [
+      {
+        Name: "plague_9bit",
+        Slot: "3.5",
+        Date: "18.10.26",
+      },
+    ],
+  },
   {
     ID: "order_Nanatsu-no-Taizai-2",
     NameRU: "Семь смертных грехов 2: Возрождение заповедей",
@@ -59,7 +73,7 @@ const ordersDatabase = [
   {
     ID: "order_Rogue-Trader",
     NameRU: "Warhammer 40 000: Rogue Trader",
-    Status: "Игра × Наиграно: 14 Часов, В заказе: 4 Часа",
+    Status: "Игра × Наиграно: 14 Часов, В заказе: 6 Часов",
     Type: "order-during",
     Slots: [
       {
@@ -114,42 +128,10 @@ const ordersDatabase = [
         Slot: "1",
         Date: "24.09.26",
       },
-    ],
-  },
-  {
-    ID: "order_Crusader-Kings-3",
-    NameRU: "Crusader Kings III",
-    Status: "Игра × Наиграно: 18 Часов, В заказе: 4 Часа",
-    Type: "order-during",
-    Slots: [
       {
-        Name: "Izida-Sama",
-        Slot: "2",
-        Date: "06.06.26",
-        Listed: true,
-      },
-      {
-        Name: "Izida-Sama",
-        Slot: "3",
-        Date: "22.07.26",
-        Listed: true,
-      },
-      {
-        Name: "Izida-Sama",
-        Slot: "2",
-        Date: "01.08.26",
-        Listed: true,
-      },
-      {
-        Name: "Izida-Sama",
-        Slot: "2",
-        Date: "06.08.26",
-        Listed: true,
-      },
-      {
-        Name: "Izida-Sama",
-        Slot: "2",
-        Date: "13.08.26",
+        Name: "Ekemlyr",
+        Slot: "1",
+        Date: "09.10.26",
       },
     ],
   },
@@ -860,6 +842,17 @@ const ordersDatabase = [
     ],
   },
   {
+    NameRU: "Годнеслот",
+    Type: "order-waiting",
+    Slots: [
+      {
+        Name: "Сулейка",
+        Slot: "1",
+        Date: "01.08.26",
+      },
+    ],
+  },
+  {
     ID: "order_Daredevil-2",
     NameRU: "Сорвиголова",
     NameEN: "Daredevil",
@@ -874,13 +867,20 @@ const ordersDatabase = [
     ],
   },
   {
-    NameRU: "Годнеслот",
+    ID: "order_001",
+    NameRU: "Пустые слоты",
+    Style: "user_Izida",
     Type: "order-waiting",
     Slots: [
       {
-        Name: "Сулейка",
+        Name: "Izida-Sama",
         Slot: "1",
-        Date: "01.08.26",
+        Date: "13.08.26",
+      },
+      {
+        Name: "Izida-Sama",
+        Slot: "2",
+        Date: "08.09.26",
       },
     ],
   },
@@ -900,19 +900,6 @@ const ordersDatabase = [
         Name: "Coras",
         Slot: "2", // 1 Сезон 9-16 Эпизод
         Date: "24.09.26",
-      },
-    ],
-  },
-  {
-    ID: "order_001",
-    NameRU: "Пустые слоты",
-    Style: "user_Izida",
-    Type: "order-waiting",
-    Slots: [
-      {
-        Name: "Izida-Sama",
-        Slot: "2",
-        Date: "08.09.26",
       },
     ],
   },
@@ -976,7 +963,7 @@ const ordersDatabase = [
     ID: "order_Mushoku-Tensei-2",
     NameRU: "Реинкарнация безработного: История о приключениях в другом мире",
     NameEN: "Mushoku Tensei: Isekai Ittara Honki Dasu",
-    Status: "Аниме × В заказе: 2 Сезон 1-11/12 Эпизод",
+    Status: "Аниме × В заказе: 2 Сезон 1-12/12 Эпизод",
     Type: "order-waiting",
     Slots: [
       {
@@ -984,43 +971,53 @@ const ordersDatabase = [
         Slot: "2.75", // 2 Сезон 1-11 Эпизод
         Date: "27.09.26",
       },
+      {
+        Name: "aizenbbs",
+        Slot: "0.25", // 2 Сезон 12 Эпизод
+        Date: "21.10.26",
+      },
+    ],
+  },
+  {
+    ID: "order_Gotham-2",
+    NameRU: "Готэм",
+    NameEN: "Gotham",
+    Status: "Сериал × В заказе: 2 Сезон 1-2/22 Эпизод",
+    Style: "user_Katya",
+    Type: "order-waiting",
+    Slots: [
+      {
+        Name: "ТВОЮ МАТЬ",
+        Slot: "1", // 2 Сезон 1-2 Эпизод
+        Date: "18.10.26",
+      },
+    ],
+  },
+  {
+    ID: "order_Mahoutsukai-no-Yome-OVA",
+    NameRU: "Невеста чародея: В ожидании путеводной звезды",
+    NameEN: "Mahoutsukai no Yome: Hoshi Matsu Hito",
+    Status: "Аниме × В заказе: OVA 1-3/3 Эпизод",
+    Type: "order-waiting",
+    Slots: [
+      {
+        Name: "aizenbbs",
+        Slot: "0.75", // 1-3 Эпизод
+        Date: "21.10.26",
+      },
     ],
   },
   //#endregion
   //#region ~В уточнении~
+
+  //#endregion
+  //#region ~Нужен дозаказ~
   {
-    NameRU: "Сахар",
-    NameEN: "Sheker",
-    Status: "Сериал × Просмотрено: 1 Сезон 1-8/8 Эпизод",
-    Type: "order-determinate",
-    Slots: [
-      {
-        Name: "Без имени",
-        Slot: "1.5",
-        Date: "Без даты",
-        Listed: false,
-      },
-    ],
-  },
-  {
-    NameRU: "Трансформеры: Начало",
-    NameEN: "Transformers One",
-    Status: "Мультфильм",
-    Type: "order-determinate",
-    Slots: [
-      {
-        Name: "Без имени",
-        Slot: "1",
-        Date: "Без даты",
-        Listed: false,
-      },
-    ],
-  },
-  {
+    ID: "order_Avengers-Jonathan-Hickman",
     NameRU: "Мстители Хикмана",
     NameEN: "Avengers by Jonathan Hickman",
     Status: "Комикс ⨯ Прочитано: 1-6/44 Главы",
-    Type: "order-determinate",
+    Type: "order-incomplete",
     Slots: [
       {
         Name: "qwarde",
@@ -1029,119 +1026,13 @@ const ordersDatabase = [
         Listed: true,
       },
       {
-        Name: "Без имени",
+        Name: "qwarde",
         Slot: "0.5",
         Date: "Без даты",
-        Listed: false,
-      },
-    ],
-  },
-  {
-    ID: "order_La-casa-de-papel-2",
-    NameRU: "Бумажный дом",
-    NameEN: "La casa de papel",
-    Status: "Сериал × Просмотрено: 2 Сезон 1-6/9 Эпизод",
-    Type: "order-determinate",
-    Slots: [
-      {
-        Name: "lucky_god_man",
-        Slot: "0.5", // 2 Сезон 1 Эпизод
-        Date: "20.08.25",
         Listed: true,
       },
-      {
-        Name: "lucky_god_man",
-        Slot: "0.5", // 2 Сезон 2 Эпизод
-        Date: "28.08.25",
-        Listed: true,
-      },
-      {
-        Name: "lucky_god_man",
-        Slot: "1.5", // 2 Сезон 3-5 Эпизод
-        Date: "28.08.25",
-        Listed: true,
-      },
-      {
-        Name: "Без имени",
-        Slot: "0.5", // 2 Сезон 6 Эпизод
-        Date: "Без даты",
-        Listed: false,
-      },
     ],
   },
-  {
-    NameRU: "Мобильный воин Гандам: Вспышка Хэтэуэя 2 - Колдунья Кирка",
-    NameEN: "Mobile Suit Gundam: Senkou no Hathaway - Circe no Majo",
-    Status: "Полнометражка",
-    Type: "order-determinate",
-    Slots: [
-      {
-        Name: "Без имени",
-        Slot: "1",
-        Date: "Без даты",
-        Listed: false,
-      },
-    ],
-  },
-  {
-    NameRU: "Великий мышиный сыщик",
-    NameEN: "The Great Mouse Detective",
-    Status: "Мультфильм",
-    Type: "order-determinate",
-    Slots: [
-      {
-        Name: "Без имени",
-        Slot: "1",
-        Date: "Без даты",
-        Listed: false,
-      },
-    ],
-  },
-  {
-    ID: "order_Vikings-4",
-    NameRU: "Викинги",
-    NameEN: "Vikings",
-    Status: "Сериал × Просмотрено: 4 Сезон 1-18/20 Эпизод",
-    Type: "order-determinate",
-    Slots: [
-      {
-        Name: "Без имени",
-        Slot: "9", // 1-12 Эпизод
-        Date: "Без даты",
-        Listed: false,
-      },
-    ],
-  },
-  {
-    NameRU: "Шрек навсегда",
-    NameEN: "Shrek Forever After",
-    Status: "Мультфильм",
-    Type: "order-determinate",
-    Slots: [
-      {
-        Name: "Без имени",
-        Slot: "1",
-        Date: "Без даты",
-        Listed: false,
-      },
-    ],
-  },
-  {
-    NameRU: "Шрек Третий",
-    NameEN: "Shrek the Third",
-    Status: "Мультфильм",
-    Type: "order-determinate",
-    Slots: [
-      {
-        Name: "Без имени",
-        Slot: "1",
-        Date: "Без даты",
-        Listed: false,
-      },
-    ],
-  },
-  //#endregion
-  //#region ~Нужен дозаказ~
   {
     ID: "order_The-Alters",
     NameRU: "The Alters",
@@ -1163,16 +1054,66 @@ const ordersDatabase = [
     ],
   },
   {
+    ID: "order_Vikings-4",
+    NameRU: "Викинги",
+    NameEN: "Vikings",
+    Status: "Сериал × Просмотрено: 4 Сезон 1-18/20 Эпизод",
+    Type: "order-incomplete",
+    Slots: [
+      {
+        Name: "pavel",
+        Slot: "9", // 1-12 Эпизод
+        Date: "Без даты",
+        Listed: true,
+      },
+    ],
+  },
+  {
+    ID: "order_La-casa-de-papel-2",
+    NameRU: "Бумажный дом",
+    NameEN: "La casa de papel",
+    Status: "Сериал × Просмотрено: 2 Сезон 1-6/9 Эпизод",
+    Style: "need-pay",
+    Type: "order-incomplete",
+    Slots: [
+      {
+        Name: "lucky_god_man",
+        Slot: "0.5", // 2 Сезон 1 Эпизод
+        Date: "20.08.25",
+        Listed: true,
+      },
+      {
+        Name: "lucky_god_man",
+        Slot: "0.5", // 2 Сезон 2 Эпизод
+        Date: "28.08.25",
+        Listed: true,
+      },
+      {
+        Name: "lucky_god_man",
+        Slot: "1.5", // 2 Сезон 3-5 Эпизод
+        Date: "28.08.25",
+        Listed: true,
+      },
+      {
+        Name: "6 Эпизод",
+        Slot: "0.5", // 2 Сезон 6 Эпизод
+        Date: "Не оплачено",
+        Listed: false,
+      },
+    ],
+  },
+  {
     ID: "order_Dexter-Resurrection-1",
     NameRU: "Декстер: Воскрешение",
     NameEN: "Dexter: Resurrection",
     Status: "Сериал ⨯ Просмотрено: 1 Сезон 1-2/10 Эпизод",
+    Style: "need-pay",
     Type: "order-incomplete",
     Slots: [
       {
-        Name: "Без имени",
+        Name: "1-2 Эпизод",
         Slot: "1", // 1 Сезон 1-2 Эпизод
-        Date: "Без даты",
+        Date: "Не оплачено",
         Listed: false,
       },
     ],
@@ -1181,6 +1122,7 @@ const ordersDatabase = [
     NameRU: "Декстер",
     NameEN: "Dexter",
     Status: "Сериал ⨯ Просмотрено: 8 Сезон 1-12/12 Эпизод",
+    Style: "need-pay",
     Type: "order-incomplete",
     Slots: [
       {
@@ -1202,9 +1144,9 @@ const ordersDatabase = [
         Listed: true,
       },
       {
-        Name: "Без имени",
-        Slot: "3", // 8 Сезон 7-8 Эпизод
-        Date: "Без даты",
+        Name: "7-12 Эпизод",
+        Slot: "3", // 8 Сезон 7-12 Эпизод
+        Date: "Не оплачено",
         Listed: false,
       },
     ],
@@ -1578,21 +1520,6 @@ const ordersDatabase = [
   //#endregion
   //#region ~Свапы~
   {
-    ID: "order_Maul-Shadow-Lord",
-    NameRU: "Звёздные войны. Дарт Мол: Повелитель теней",
-    NameEN: "Star Wars: Maul – Shadow Lord",
-    Status: "Мультсериал × В заказе: 1 Сезон 1-4/10 Эпизод",
-    Style: "user_Misty",
-    Type: "order-waiting",
-    Slots: [
-      {
-        Name: "Мисти",
-        Slot: "1", // 1 Сезон 1-4 Эпизод
-        Date: "17.05.26",
-      },
-    ],
-  },
-  {
     Status: "Свап был 16.10.26 (Мисти)",
     Type: "order-switch",
     FromTo: [
@@ -1787,7 +1714,20 @@ const ordersDatabase = [
   //#endregion
   //#region ~Просмотренное~
   {
-    ID: "order_Mahoutsukai-no-Yome-2",
+    NameRU: "Сахар",
+    NameEN: "Sheker",
+    Status: "Сериал × Просмотрено: 1 Сезон 1-8/8 Эпизод",
+    Type: "order-finished",
+    Slots: [
+      {
+        Name: "plague_9bit",
+        Slot: "1.5",
+        Date: "18.10.26",
+        Listed: true,
+      },
+    ],
+  },
+  {
     NameRU: "Невеста чародея",
     NameEN: "Mahoutsukai no Yome",
     Status: "Аниме × Просмотрено: 2 Сезон 1-24/24 Эпизод",
@@ -1898,6 +1838,62 @@ const ordersDatabase = [
     ],
   },
   {
+    NameRU: "Трансформеры: Начало",
+    NameEN: "Transformers One",
+    Status: "Мультфильм",
+    Type: "order-finished",
+    Slots: [
+      {
+        Name: "leet-ow-pear",
+        Slot: "1",
+        Date: "Без даты",
+        Listed: true,
+      },
+    ],
+  },
+  {
+    NameRU: "Великий мышиный сыщик",
+    NameEN: "The Great Mouse Detective",
+    Status: "Мультфильм",
+    Type: "order-finished",
+    Slots: [
+      {
+        Name: "Эклер",
+        Slot: "1",
+        Date: "Без даты",
+        Listed: true,
+      },
+    ],
+  },
+  {
+    NameRU: "Шрек навсегда",
+    NameEN: "Shrek Forever After",
+    Status: "Мультфильм",
+    Type: "order-finished",
+    Slots: [
+      {
+        Name: "Эклер",
+        Slot: "1",
+        Date: "Без даты",
+        Listed: true,
+      },
+    ],
+  },
+  {
+    NameRU: "Шрек Третий",
+    NameEN: "Shrek the Third",
+    Status: "Мультфильм",
+    Type: "order-finished",
+    Slots: [
+      {
+        Name: "Эклер",
+        Slot: "1",
+        Date: "Без даты",
+        Listed: true,
+      },
+    ],
+  },
+  {
     NameRU: "Управление воспоминаниями (2026)",
     NameEN: "Jiyi Guanli Ju (2026)",
     Status: "Аниме ⨯ Просмотрено: 1 Сезон 1-7/7 Эпизод",
@@ -1920,6 +1916,37 @@ const ordersDatabase = [
         Name: "Аноним",
         Slot: "1",
         Date: "21.03.26",
+        Listed: true,
+      },
+    ],
+  },
+  {
+    NameRU: "Crusader Kings III",
+    Status: "Игра × Наиграно: 18 Часов",
+    Type: "order-finished",
+    Slots: [
+      {
+        Name: "Izida-Sama",
+        Slot: "2",
+        Date: "06.06.26",
+        Listed: true,
+      },
+      {
+        Name: "Izida-Sama",
+        Slot: "3",
+        Date: "23.07.26",
+        Listed: true,
+      },
+      {
+        Name: "Izida-Sama",
+        Slot: "2",
+        Date: "01.08.26",
+        Listed: true,
+      },
+      {
+        Name: "Izida-Sama",
+        Slot: "2",
+        Date: "06.08.26",
         Listed: true,
       },
     ],
@@ -2000,6 +2027,20 @@ const ordersDatabase = [
         Name: "Мисти",
         Slot: "2", // 1 Сезон 9-12 Эпизод
         Date: "17.07.25",
+        Listed: true,
+      },
+    ],
+  },
+  {
+    NameRU: "Мобильный воин Гандам: Вспышка Хэтэуэя 2 - Колдунья Кирка",
+    NameEN: "Mobile Suit Gundam: Senkou no Hathaway - Circe no Majo",
+    Status: "Полнометражка",
+    Type: "order-finished",
+    Slots: [
+      {
+        Name: "Izida-Sama",
+        Slot: "1",
+        Date: "13.08.26",
         Listed: true,
       },
     ],

@@ -273,6 +273,8 @@ body[data-theme="dark"] {
   }
 }
 
+.switch[data-type="order-determinate"] {display: none !important;}
+
 /* MARK: window
 */
 
@@ -1748,10 +1750,13 @@ body[data-theme="dark"] {
           box-sizing: border-box;
 
           &.listed {
-            opacity: 0.5;
+            background-color: transparent;
+            border: var(--border) var(--slot-color) solid;
+            & > * {
+              color: var(--slot-color);
+            }
           }
           &.unlisted {
-            opacity: 0.5;
             background-color: transparent;
             border: var(--border) var(--slot-color) dashed;
             & > * {
@@ -1779,7 +1784,6 @@ body[data-theme="dark"] {
           }
         }
       }
-
       &:not([id]) {
         .info .simple {
           margin-bottom: unset;
@@ -1787,6 +1791,14 @@ body[data-theme="dark"] {
 
         .info .group {
           display: none;
+        }
+      }
+      &.need-pay {
+        .slots > .slot.unlisted {
+          border: var(--border) red dashed;
+          & > * {
+            color: red;
+          }
         }
       }
     }

@@ -70,6 +70,9 @@
     &.listed {
       opacity: 1;
       backdrop-filter: invert(0.33) grayscale(1);
+      & > * {
+        color: var(--signature-color-4);
+      }
     }
     &.unlisted {
       opacity: 1;
@@ -89,6 +92,7 @@
   --slot-color: black;
 
   background-image: url("https://static.tildacdn.com/tild6362-3366-4633-b732-383930633530/BG.webp");
+  background-image: unset;
   background-position: right top;
   background-size: auto max(100%, 400px);
   .info {

@@ -2910,7 +2910,7 @@ const seriesSerialsPopups = {
           Link: ["boosty", "hiddenarchive/posts/43637479-1d09-4bd5-8810-3f77d04b23b6?t=7622&tmid=cfa18071-e234-4e18-9e4c-2dea857cf809"],
         },
         {
-          Name: "5-6 Эпизод",
+          Name: "4-6 Эпизод",
           Date: "",
           Donut: "donut-2",
           Link: ["vk", "456241728?t=3h19m0s"],
