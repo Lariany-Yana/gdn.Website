@@ -4472,6 +4472,32 @@ const seriesSerialsPopups = {
       ],
     },
   ],
+  "Series-Serials_Sheker": [
+    {
+      Title: "1 Сезон",
+      Episodes: [
+        {
+          Name: "1-8 Эпизод",
+          Date: "21.10.26",
+          Donut: "donut-3",
+          Link: ["vk", "456241924?t=12m35s"],
+          Player: ["vk", "456241924", "f2839104a235c2dd", "0h12m35s"],
+        },
+      ],
+    },
+    {
+      Title: "2 Сезон",
+      Episodes: [
+        {
+          Name: "1-6 Эпизод",
+          Date: "23.10.26",
+          Donut: "donut-3",
+          Link: ["vk", "456241923?t=1m36s"],
+          Player: ["vk", "456241923", "2a1504a081e8a4ce", "0h1m36s"],
+        },
+      ],
+    },
+  ],
   "Series-Serials_Supernatural": [
     {
       Title: "1 Сезон",

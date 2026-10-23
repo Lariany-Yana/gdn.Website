@@ -22,12 +22,18 @@ const ordersDatabase = [
     ID: "order_Sheker-2",
     NameRU: "Сахар",
     NameEN: "Sheker",
-    Status: "Сериал × В заказе: 2 Сезон 1-12/12 Эпизод",
+    Status: "Сериал × В заказе: 2 Сезон 7-12/12 Эпизод",
     Type: "order-during",
     Slots: [
       {
         Name: "plague_9bit",
-        Slot: "3.5",
+        Slot: "1.5", // 2 Сезон 1-6 Эпизод
+        Date: "18.10.26",
+        Listed: true,
+      },
+      {
+        Name: "plague_9bit",
+        Slot: "2",
         Date: "18.10.26",
       },
     ],
