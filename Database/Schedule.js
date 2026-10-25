@@ -56,49 +56,43 @@ const scheduleDatabase = [
   {
     Status: "Стрим невозможен",
     Current: true,
-    Date: "19.10.26",
+    Date: "26.10.26",
   },
   // Вторник
   {
-    NameRU: "Невеста чародея",
-    NameEN: "Mahoutsukai no Yome",
-    Status: "Аниме × 2 Сезон 17-24 Эпизод",
+    Status: "Стрим возможен",
     Current: true,
-    Date: "20.10.26",
+    Date: "27.10.26",
   },
   // Среда
   {
-    NameRU: "Сахар",
-    NameEN: "Sheker",
-    Status: "Сериал × 1 Сезон 1-8 Эпизод",
+    Status: "Стрим возможен",
     Current: true,
-    Date: "21.10.26",
+    Date: "28.10.26",
   },
   // Четверг
   {
-    Status: "Стрим не состоялся",
+    Status: "Стрим возможен",
     Current: true,
-    Date: "22.10.26",
+    Date: "29.10.26",
   },
   // Пятница
   {
-    NameRU: "Сахар",
-    NameEN: "Sheker",
-    Status: "Сериал × 2 Сезон 1-6 Эпизод",
+    Status: "Стрим возможен",
     Current: true,
-    Date: "23.10.26",
+    Date: "30.10.26",
   },
   // Суббота
   {
     Status: "Стрим невозможен",
     Current: true,
-    Date: "24.10.26",
+    Date: "31.10.26",
   },
   // Воскресенье
   {
     Status: "Стрим возможен",
     Current: true,
-    Date: "25.10.26",
+    Date: "01.11.26",
   },
 
   //#region Старое: Январь 26
@@ -3255,6 +3249,61 @@ const scheduleDatabase = [
     NameRU: "Покер",
     Current: false,
     Date: "18.10.26",
+  },
+  // Понедельник
+  {
+    Status: "Стрим невозможен",
+    Current: false,
+    Date: "19.10.26",
+  },
+  // Вторник
+  {
+    NameRU: "Невеста чародея",
+    NameEN: "Mahoutsukai no Yome",
+    Status: "Аниме × 2 Сезон 17-24 Эпизод",
+    Current: false,
+    Date: "20.10.26",
+  },
+  // Среда
+  {
+    NameRU: "Сахар",
+    NameEN: "Sheker",
+    Status: "Сериал × 1 Сезон 1-8 Эпизод",
+    Current: false,
+    Date: "21.10.26",
+  },
+  // Четверг
+  {
+    Status: "Стрим не состоялся",
+    Current: false,
+    Date: "22.10.26",
+  },
+  // Пятница
+  {
+    NameRU: "Сахар",
+    NameEN: "Sheker",
+    Status: "Сериал × 2 Сезон 1-6 Эпизод",
+    Current: false,
+    Date: "23.10.26",
+  },
+  // Суббота
+  {
+    Status: "Стрим невозможен",
+    Current: false,
+    Date: "24.10.26",
+  },
+  // Воскресенье
+  {
+    NameRU: "Сахар",
+    NameEN: "Sheker",
+    Status: "Сериал × 2 Сезон 7-12 Эпизод",
+    Current: false,
+    Date: "25.10.26",
+  },
+  {
+    NameRU: "Покер",
+    Current: false,
+    Date: "25.10.26",
   },
   //#endregion
 ];

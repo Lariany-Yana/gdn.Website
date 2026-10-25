@@ -19,26 +19,6 @@ const ordersDatabase = [
 
   //#region ~В процессе~
   {
-    ID: "order_Sheker-2",
-    NameRU: "Сахар",
-    NameEN: "Sheker",
-    Status: "Сериал × В заказе: 2 Сезон 7-12/12 Эпизод",
-    Type: "order-during",
-    Slots: [
-      {
-        Name: "plague_9bit",
-        Slot: "1.5", // 2 Сезон 1-6 Эпизод
-        Date: "18.10.26",
-        Listed: true,
-      },
-      {
-        Name: "plague_9bit",
-        Slot: "2",
-        Date: "18.10.26",
-      },
-    ],
-  },
-  {
     ID: "order_Nanatsu-no-Taizai-2",
     NameRU: "Семь смертных грехов 2: Возрождение заповедей",
     NameEN: "Nanatsu no Taizai: Imashime no Fukkatsu",
@@ -814,17 +794,6 @@ const ordersDatabase = [
         Name: "ia_chort",
         Slot: "0.5",
         Date: "08.07.26",
-      },
-    ],
-  },
-  {
-    NameRU: "Годнеслот",
-    Type: "order-waiting",
-    Slots: [
-      {
-        Name: "Кирвин",
-        Slot: "1",
-        Date: "15.07.26",
       },
     ],
   },
@@ -1719,6 +1688,20 @@ const ordersDatabase = [
   },
   //#endregion
   //#region ~Просмотренное~
+  {
+    NameRU: "Сахар",
+    NameEN: "Sheker",
+    Status: "Сериал × В заказе: 2 Сезон 1-12/12 Эпизод",
+    Type: "order-finished",
+    Slots: [
+      {
+        Name: "plague_9bit",
+        Slot: "3.5", // 2 Сезон 1-12 Эпизод
+        Date: "18.10.26",
+        Listed: true,
+      },
+    ],
+  },
   {
     NameRU: "Сахар",
     NameEN: "Sheker",
