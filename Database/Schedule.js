@@ -60,19 +60,19 @@ const scheduleDatabase = [
   },
   // Вторник
   {
-    Status: "Стрим возможен",
+    Status: "Стрим не состоялся",
     Current: true,
     Date: "27.10.26",
   },
   // Среда
   {
-    Status: "Стрим возможен",
+    Status: "Стрим не состоялся",
     Current: true,
     Date: "28.10.26",
   },
   // Четверг
   {
-    Status: "Стрим возможен",
+    NameRU: "Покер",
     Current: true,
     Date: "29.10.26",
   },
