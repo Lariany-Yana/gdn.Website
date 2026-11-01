@@ -756,9 +756,9 @@ const ordersDatabase = [
     ],
   },
   {
-    ID: "order_I-Swear",
-    NameRU: "Я ругаюсь",
-    NameEN: "I Swear",
+    ID: "order_Clayface",
+    NameRU: "Глиноликий",
+    NameEN: "Clayface",
     Status: "Фильм",
     Type: "order-waiting",
     Slots: [
@@ -1495,6 +1495,22 @@ const ordersDatabase = [
   //#endregion
   //#region ~Свапы~
   {
+    Status: "Свап был 27.10.26 (ia_chort)",
+    Type: "order-switch",
+    FromTo: [
+      {
+        NameRU: "Я ругаюсь",
+        NameEN: "I Swear",
+        Status: "Фильм × 1 Слот",
+      },
+      {
+        NameRU: "Глиноликий",
+        NameEN: "Clayface",
+        Status: "Фильм × 1 Слот",
+      },
+    ],
+  },
+  {
     Status: "Свап был 16.10.26 (Мисти)",
     Type: "order-switch",
     FromTo: [
@@ -1688,6 +1704,20 @@ const ordersDatabase = [
   },
   //#endregion
   //#region ~Просмотренное~
+  {
+    NameRU: "Человек-паук: Совершенно новый день",
+    NameEN: "Spider-Man: Brand New Day",
+    Status: "Фильм",
+    Type: "order-finished",
+    Slots: [
+      {
+        Name: "Сулейка",
+        Slot: "1",
+        Date: "Без даты",
+        Listed: true,
+      },
+    ],
+  },
   {
     NameRU: "Сахар",
     NameEN: "Sheker",

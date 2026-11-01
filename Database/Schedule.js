@@ -6,49 +6,49 @@ const scheduleDatabase = [
     NameEN: "Name",
     Status: "Status",
     Current: true,
-    Date: "00.09.26",
+    Date: "00.00.26",
   },
   // Понедельник
   {
     Status: "Стрим невозможен",
     Current: true,
-    Date: "05.10.26",
+    Date: "00.11.26",
   },
   // Вторник
   {
     Status: "Стрим возможен",
     Current: true,
-    Date: "06.10.26",
+    Date: "00.11.26",
   },
   // Среда
   {
     Status: "Стрим возможен",
     Current: true,
-    Date: "07.10.26",
+    Date: "00.11.26",
   },
   // Четверг
   {
     Status: "Стрим возможен",
     Current: true,
-    Date: "08.10.26",
+    Date: "00.11.26",
   },
   // Пятница
   {
     Status: "Стрим возможен",
     Current: true,
-    Date: "09.10.26",
+    Date: "00.11.26",
   },
   // Суббота
   {
     Status: "Стрим невозможен",
     Current: true,
-    Date: "10.10.26",
+    Date: "00.11.26",
   },
   // Воскресенье
   {
     Status: "Стрим возможен",
     Current: true,
-    Date: "11.10.26",
+    Date: "00.11.26",
   },
   */
 
@@ -56,43 +56,43 @@ const scheduleDatabase = [
   {
     Status: "Стрим невозможен",
     Current: true,
-    Date: "26.10.26",
+    Date: "02.11.26",
   },
   // Вторник
   {
-    Status: "Стрим не состоялся",
+    Status: "Стрим возможен",
     Current: true,
-    Date: "27.10.26",
+    Date: "03.11.26",
   },
   // Среда
   {
-    Status: "Стрим не состоялся",
+    Status: "Стрим возможен",
     Current: true,
-    Date: "28.10.26",
+    Date: "04.11.26",
   },
   // Четверг
   {
-    NameRU: "Покер",
+    Status: "Стрим возможен",
     Current: true,
-    Date: "29.10.26",
+    Date: "05.11.26",
   },
   // Пятница
   {
     Status: "Стрим возможен",
     Current: true,
-    Date: "30.10.26",
+    Date: "06.11.26",
   },
   // Суббота
   {
     Status: "Стрим невозможен",
     Current: true,
-    Date: "31.10.26",
+    Date: "07.11.26",
   },
   // Воскресенье
   {
     Status: "Стрим возможен",
     Current: true,
-    Date: "01.11.26",
+    Date: "08.11.26",
   },
 
   //#region Старое: Январь 26
@@ -3304,6 +3304,52 @@ const scheduleDatabase = [
     NameRU: "Покер",
     Current: false,
     Date: "25.10.26",
+  },
+  // Понедельник
+  {
+    Status: "Стрим невозможен",
+    Current: false,
+    Date: "26.10.26",
+  },
+  // Вторник
+  {
+    Status: "Стрим не состоялся",
+    Current: false,
+    Date: "27.10.26",
+  },
+  // Среда
+  {
+    Status: "Стрим не состоялся",
+    Current: false,
+    Date: "28.10.26",
+  },
+  // Четверг
+  {
+    NameRU: "Покер",
+    Current: false,
+    Date: "29.10.26",
+  },
+  // Пятница
+  {
+    Status: "Стрим не состоялся",
+    Current: false,
+    Date: "30.10.26",
+  },
+  // Суббота
+  {
+    Status: "Стрим невозможен",
+    Current: false,
+    Date: "31.10.26",
+  },
+  //#endregion
+  //#region Старое: Ноябрь 26
+  // Воскресенье
+  {
+    NameRU: "Человек-паук: Совершенно новый день",
+    NameEN: "Spider-Man: Brand New Day",
+    Status: "Фильм",
+    Current: false,
+    Date: "01.11.26",
   },
   //#endregion
 ];

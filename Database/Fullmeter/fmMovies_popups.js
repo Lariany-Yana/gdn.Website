@@ -972,6 +972,16 @@ const fullmeterMoviePopups = {
           Type: "fullmeter-Movie",
         },
         { pasteCard: "Series-Serials_Hawkeye" },
+        {
+          ID: "Fullmeter-Movie_MCU-Spider-Man-Brand-New-Day",
+          NameRU: "Человек-паук: Совершенно новый день",
+          NameEN: "Spider-Man: Brand New Day",
+          Donut: "donut-3",
+          Link: ["vk", "456241928?t=18m32s"],
+          Player: ["vk", "456241928", "dcb83a60725bc89a", "0h18m32s"],
+          Image: ["tila6331-6664-4461-a533-316530616661/Max.webp", "tila6235-3339-4238-a662-356537366662/Min.webp"],
+          Type: "fullmeter-Movie",
+        },
       ],
     },
     {
