@@ -3745,6 +3745,16 @@ const fullmeterMovie = [
     Type: "fullmeter-Movie",
   },
   {
+    ID: "Fullmeter-Movie_Sheker-Last-chance",
+    NameRU: "Sheker. Последний шанс",
+    Status: "Стрим был: 06.11.2026",
+    Donut: "donut-3",
+    Link: ["vk", "456241929?t=2h20m32s"],
+    Player: ["vk", "456241929", "f4a1255174b201db", "2h20m32s"],
+    Image: ["tila6232-3035-4131-a231-323537316266/Max.webp", "tila6163-3136-4739-b037-653364663230/Min.webp"],
+    Type: "fullmeter-Movie",
+  },
+  {
     ID: "Fullmeter-Movie_V-for-Vendetta",
     NameRU: "V - значит Вендетта",
     NameEN: "V for Vendetta",

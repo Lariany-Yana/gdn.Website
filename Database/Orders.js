@@ -19,6 +19,32 @@ const ordersDatabase = [
 
   //#region ~В процессе~
   {
+    ID: "order_Black-Clover-2",
+    NameRU: "Чёрный клевер",
+    NameEN: "Black Clover",
+    Status: "Игра × В заказе: 2 Сезон 2-24/↻ Эпизод",
+    Style: "user_Edwin",
+    Type: "order-during",
+    Slots: [
+      {
+        Name: "Статист",
+        Slot: "0.25",
+        Date: "29.05.24",
+        Listed: true,
+      },
+      {
+        Name: "Статист",
+        Slot: "4.75",
+        Date: "29.05.24",
+      },
+      {
+        Name: "Статист",
+        Slot: "1",
+        Date: "05.07.24",
+      },
+    ],
+  },
+  {
     ID: "order_Nanatsu-no-Taizai-2",
     NameRU: "Семь смертных грехов 2: Возрождение заповедей",
     NameEN: "Nanatsu no Taizai: Imashime no Fukkatsu",
@@ -150,32 +176,6 @@ const ordersDatabase = [
         Name: "Статист",
         Slot: "0.5", // 1 Сезон 11-13 Эпизод
         Date: "25.07.24",
-      },
-    ],
-  },
-  {
-    ID: "order_Black-Clover-2",
-    NameRU: "Чёрный клевер",
-    NameEN: "Black Clover",
-    Status: "Игра × В заказе: 2 Сезон 2-24/↻ Эпизод",
-    Style: "user_Edwin",
-    Type: "order-waiting",
-    Slots: [
-      {
-        Name: "Статист",
-        Slot: "0.25",
-        Date: "29.05.24",
-        Listed: true,
-      },
-      {
-        Name: "Статист",
-        Slot: "4.75",
-        Date: "29.05.24",
-      },
-      {
-        Name: "Статист",
-        Slot: "1",
-        Date: "05.07.24",
       },
     ],
   },
@@ -954,21 +954,6 @@ const ordersDatabase = [
     ],
   },
   {
-    ID: "order_Gotham-2",
-    NameRU: "Готэм",
-    NameEN: "Gotham",
-    Status: "Сериал × В заказе: 2 Сезон 1-2/22 Эпизод",
-    Style: "user_Katya",
-    Type: "order-waiting",
-    Slots: [
-      {
-        Name: "ТВОЮ МАТЬ",
-        Slot: "1", // 2 Сезон 1-2 Эпизод
-        Date: "18.10.26",
-      },
-    ],
-  },
-  {
     ID: "order_Mahoutsukai-no-Yome-OVA",
     NameRU: "Невеста чародея: В ожидании путеводной звезды",
     NameEN: "Mahoutsukai no Yome: Hoshi Matsu Hito",
@@ -984,9 +969,37 @@ const ordersDatabase = [
   },
   //#endregion
   //#region ~В уточнении~
+  {
+    NameRU: "Sheker. Последний шанс",
+    Status: "Фильм",
+    Type: "order-determinate",
+    Slots: [
+      {
+        Name: "Без имени",
+        Slot: "1",
+        Date: "Без даты",
+        Listed: false,
+      },
+    ],
+  },
 
   //#endregion
   //#region ~Нужен дозаказ~
+  {
+    ID: "order_Gotham-2",
+    NameRU: "Готэм",
+    NameEN: "Gotham",
+    Status: "Сериал × Просмотрено: 2 Сезон 1-2/22 Эпизод",
+    Type: "order-incomplete",
+    Slots: [
+      {
+        Name: "ТВОЮ МАТЬ",
+        Slot: "1", // 2 Сезон 1-2 Эпизод
+        Date: "18.10.26",
+        Listed: true,
+      },
+    ],
+  },
   {
     ID: "order_Avengers-Jonathan-Hickman",
     NameRU: "Мстители Хикмана",

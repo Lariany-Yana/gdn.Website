@@ -60,25 +60,33 @@ const scheduleDatabase = [
   },
   // Вторник
   {
-    Status: "Стрим возможен",
+    Status: "Стрим не состоялся",
     Current: true,
     Date: "03.11.26",
   },
   // Среда
   {
-    Status: "Стрим возможен",
+    Status: "Стрим не состоялся",
     Current: true,
     Date: "04.11.26",
   },
   // Четверг
   {
-    Status: "Стрим возможен",
+    Status: "Стрим не состоялся",
     Current: true,
     Date: "05.11.26",
   },
   // Пятница
   {
-    Status: "Стрим возможен",
+    NameRU: "Готэм",
+    NameEN: "Gotham",
+    Status: "Сериал × 2 Сезон 1-2 Эпизод",
+    Current: true,
+    Date: "06.11.26",
+  },
+  {
+    NameRU: "Sheker. Последний шанс",
+    Status: "Фильм",
     Current: true,
     Date: "06.11.26",
   },

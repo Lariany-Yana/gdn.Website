@@ -973,8 +973,8 @@ const fullmeterMoviePopups = {
         },
         { pasteCard: "Series-Serials_Hawkeye" },
         {
-          ID: "Fullmeter-Movie_MCU-Spider-Man-Brand-New-Day",
-          NameRU: "Человек-паук: Совершенно новый день",
+          ID: "Fullmeter-Movie_MCU-Spider-Man-Brand-New-Day || Марвел",
+          NameRU: "Человек-паук: Совершенно новый день || Marvel",
           NameEN: "Spider-Man: Brand New Day",
           Donut: "donut-3",
           Link: ["vk", "456241928?t=18m32s"],

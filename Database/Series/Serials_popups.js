@@ -1323,6 +1323,18 @@ const seriesSerialsPopups = {
         },
       ],
     },
+    {
+      Title: "2 Сезон",
+      Episodes: [
+        {
+          Name: "1-2 Эпизод",
+          Date: "06.11.2026",
+          Donut: "donut-3",
+          Link: ["vk", "456241929?t=13m56s"],
+          Player: ["vk", "456241929", "f4a1255174b201db", "0h13m56s"],
+        },
+      ],
+    },
   ],
   "Series-Serials_Dexter": [
     {
@@ -4503,6 +4515,10 @@ const seriesSerialsPopups = {
           Player: ["vk", "456241925", "15cba5375f26c65e", "0h12m19s"],
         },
       ],
+    },
+    {
+      Title: "",
+      Cards: [{ pasteCard: "Fullmeter-Movie_Sheker-Last-chance" }],
     },
   ],
   "Series-Serials_Supernatural": [
