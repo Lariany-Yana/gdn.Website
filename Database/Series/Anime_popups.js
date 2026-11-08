@@ -10035,6 +10035,13 @@ const seriesAnimePopups = {
           Link: ["vk", "456241911?t=12m30s"],
           Player: ["vk", "456241911", "e5ca20530510fafa", "0h12m30s"],
         },
+        {
+          Name: "21-24 Эпизод",
+          Date: "08.11.2026",
+          Donut: "donut-3",
+          Link: ["vk", "456241930?t=11m9s"],
+          Player: ["vk", "456241930", "9f48ecf4b0b51b33", "0h11m9s"],
+        },
       ],
     },
   ],

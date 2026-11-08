@@ -98,7 +98,21 @@ const scheduleDatabase = [
   },
   // Воскресенье
   {
-    Status: "Стрим возможен",
+    NameRU: "Мстители Хикмана",
+    NameEN: "Avengers by Jonathan Hickman",
+    Status: "Комикс × 6-13 Главы",
+    Current: true,
+    Date: "08.11.26",
+  },
+  {
+    NameRU: "Семь смертных грехов",
+    NameEN: "Nanatsu no Taizai / The Seven Deadly Sins",
+    Status: "Аниме × 2 Сезон 21-24 Эпизод",
+    Current: true,
+    Date: "08.11.26",
+  },
+  {
+    NameRU: "Покер",
     Current: true,
     Date: "08.11.26",
   },
@@ -2822,7 +2836,7 @@ const scheduleDatabase = [
   {
     NameRU: "Новые Мстители",
     NameEN: "New Avengers",
-    Status: "Комикс × 1-5 Главы",
+    Status: "Комикс × 1-3 Главы",
     Current: false,
     Date: "01.09.26",
   },
@@ -3067,6 +3081,13 @@ const scheduleDatabase = [
   {
     NameRU: "Мстители Хикмана",
     NameEN: "Avengers by Jonathan Hickman",
+    Status: "Комикс × 4-5 Главы",
+    Current: false,
+    Date: "24.09.26",
+  },
+  {
+    NameRU: "Новые Мстители",
+    NameEN: "New Avengers",
     Status: "Комикс × 4-6 Главы",
     Current: false,
     Date: "24.09.26",

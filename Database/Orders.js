@@ -19,6 +19,48 @@ const ordersDatabase = [
 
   //#region ~В процессе~
   {
+    ID: "order_New-Avengers",
+    NameRU: "Новые Мстители",
+    NameEN: "New Avengers",
+    Status: "Комикс ⨯ Прочитано: 1-6/64 Главы",
+    Type: "order-during",
+    Slots: [
+      {
+        Name: "qwarde",
+        Slot: "0.5",
+        Date: "28.09.25",
+        Listed: true,
+      },
+      {
+        Name: "qwarde",
+        Slot: "0.5",
+        Date: "Без даты",
+        Listed: true,
+      },
+    ],
+  },
+  {
+    ID: "order_Avengers-Jonathan-Hickman",
+    NameRU: "Мстители Хикмана",
+    NameEN: "Avengers by Jonathan Hickman",
+    Status: "Комикс ⨯ Прочитано: 1-13/44 Главы",
+    Type: "order-during",
+    Slots: [
+      {
+        Name: "qwarde",
+        Slot: "0.5",
+        Date: "28.09.25",
+        Listed: true,
+      },
+      {
+        Name: "qwarde",
+        Slot: "1.5",
+        Date: "Без даты",
+        Listed: true,
+      },
+    ],
+  },
+  {
     ID: "order_Black-Clover-2",
     NameRU: "Чёрный клевер",
     NameEN: "Black Clover",
@@ -41,44 +83,6 @@ const ordersDatabase = [
         Name: "Статист",
         Slot: "1",
         Date: "05.07.24",
-      },
-    ],
-  },
-  {
-    ID: "order_Nanatsu-no-Taizai-2",
-    NameRU: "Семь смертных грехов 2: Возрождение заповедей",
-    NameEN: "Nanatsu no Taizai: Imashime no Fukkatsu",
-    Status: "Аниме × В заказе: 2 Сезон 21-24/24 Эпизод",
-    Type: "order-during",
-    Slots: [
-      {
-        Name: "Podserty",
-        Slot: "1", // 1 Сезон 1-4 Эпизод
-        Date: "06.08.25",
-        Listed: true,
-      },
-      {
-        Name: "Podserty",
-        Slot: "2", // 2 Сезон 5-12 Эпизод
-        Date: "14.12.25",
-        Listed: true,
-      },
-      {
-        Name: "Podserty",
-        Slot: "1", // 2 Сезон 13-16 Эпизод
-        Date: "14.12.25",
-        Listed: true,
-      },
-      {
-        Name: "Coras",
-        Slot: "1", // 2 Сезон 17-20 Эпизод
-        Date: "21.08.26",
-        Listed: true,
-      },
-      {
-        Name: "Wonder Of You",
-        Slot: "1", // 2 Сезон 21-24 Эпизод
-        Date: "21.08.26",
       },
     ],
   },
@@ -1001,27 +1005,6 @@ const ordersDatabase = [
     ],
   },
   {
-    ID: "order_Avengers-Jonathan-Hickman",
-    NameRU: "Мстители Хикмана",
-    NameEN: "Avengers by Jonathan Hickman",
-    Status: "Комикс ⨯ Прочитано: 1-6/44 Главы",
-    Type: "order-incomplete",
-    Slots: [
-      {
-        Name: "qwarde",
-        Slot: "0.5",
-        Date: "28.09.25",
-        Listed: true,
-      },
-      {
-        Name: "qwarde",
-        Slot: "0.5",
-        Date: "Без даты",
-        Listed: true,
-      },
-    ],
-  },
-  {
     ID: "order_The-Alters",
     NameRU: "The Alters",
     Status: "Игра × Наиграно: 6 Часов",
@@ -1718,6 +1701,44 @@ const ordersDatabase = [
   //#endregion
   //#region ~Просмотренное~
   {
+    NameRU: "Семь смертных грехов 2: Возрождение заповедей",
+    NameEN: "Nanatsu no Taizai: Imashime no Fukkatsu",
+    Status: "Аниме × Просмотрено: 2 Сезон 1-24/24 Эпизод",
+    Type: "order-finished",
+    Slots: [
+      {
+        Name: "Podserty",
+        Slot: "1", // 1 Сезон 1-4 Эпизод
+        Date: "06.08.25",
+        Listed: true,
+      },
+      {
+        Name: "Podserty",
+        Slot: "2", // 2 Сезон 5-12 Эпизод
+        Date: "14.12.25",
+        Listed: true,
+      },
+      {
+        Name: "Podserty",
+        Slot: "1", // 2 Сезон 13-16 Эпизод
+        Date: "14.12.25",
+        Listed: true,
+      },
+      {
+        Name: "Coras",
+        Slot: "1", // 2 Сезон 17-20 Эпизод
+        Date: "21.08.26",
+        Listed: true,
+      },
+      {
+        Name: "Wonder Of You",
+        Slot: "1", // 2 Сезон 21-24 Эпизод
+        Date: "21.08.26",
+        Listed: true,
+      },
+    ],
+  },
+  {
     NameRU: "Человек-паук: Совершенно новый день",
     NameEN: "Spider-Man: Brand New Day",
     Status: "Фильм",
@@ -1979,20 +2000,6 @@ const ordersDatabase = [
         Name: "Izida-Sama",
         Slot: "2",
         Date: "06.08.26",
-        Listed: true,
-      },
-    ],
-  },
-  {
-    NameRU: "Новые Мстители",
-    NameEN: "New Avengers",
-    Status: "Комиксы",
-    Type: "order-finished",
-    Slots: [
-      {
-        Name: "qwarde",
-        Slot: "0.5",
-        Date: "28.09.25",
         Listed: true,
       },
     ],

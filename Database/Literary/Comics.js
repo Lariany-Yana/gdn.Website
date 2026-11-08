@@ -23,7 +23,7 @@ const literatureComics = [
   {
     NameRU: "Мстители Хикмана",
     NameEN: "Avengers by Jonathan Hickman",
-    Status: "1-6/44 Главы",
+    Status: "1-13/44 Главы",
     Donut: "donut-3",
     ID: "Literary-Comics_Avengers-Jonathan-Hickman",
     Image: "tild6263-3665-4032-b736-663939656337/img.webp",
@@ -32,11 +32,9 @@ const literatureComics = [
   {
     NameRU: "Новые Мстители",
     NameEN: "New Avengers",
-    Status: "1-5 Главы",
+    Status: "1-6/64 Главы",
     Donut: "donut-3",
-    Link: ["vk", "456241894?t=2h36m46s"],
-    Player: ["vk", "456241894", "2ffed7658943a3df", "2h36m46s"],
-    ID: "Literary-Comics_New Avengers",
+    ID: "Literary-Comics_New-Avengers",
     Image: "tild6130-3134-4135-a161-333164313462/img.webp",
     Type: "literature-Comics",
   },
