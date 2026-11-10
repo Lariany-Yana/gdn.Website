@@ -56,65 +56,43 @@ const scheduleDatabase = [
   {
     Status: "Стрим невозможен",
     Current: true,
-    Date: "02.11.26",
+    Date: "09.11.26",
   },
   // Вторник
   {
-    Status: "Стрим не состоялся",
+    Status: "Стрим возможен",
     Current: true,
-    Date: "03.11.26",
+    Date: "10.11.26",
   },
   // Среда
   {
-    Status: "Стрим не состоялся",
+    Status: "Стрим возможен",
     Current: true,
-    Date: "04.11.26",
+    Date: "11.11.26",
   },
   // Четверг
   {
-    Status: "Стрим не состоялся",
+    Status: "Стрим возможен",
     Current: true,
-    Date: "05.11.26",
+    Date: "12.11.26",
   },
   // Пятница
   {
-    NameRU: "Готэм",
-    NameEN: "Gotham",
-    Status: "Сериал × 2 Сезон 1-2 Эпизод",
+    Status: "Стрим возможен",
     Current: true,
-    Date: "06.11.26",
-  },
-  {
-    NameRU: "Sheker. Последний шанс",
-    Status: "Фильм",
-    Current: true,
-    Date: "06.11.26",
+    Date: "13.11.26",
   },
   // Суббота
   {
     Status: "Стрим невозможен",
     Current: true,
-    Date: "07.11.26",
+    Date: "14.11.26",
   },
   // Воскресенье
   {
-    NameRU: "Мстители Хикмана",
-    NameEN: "Avengers by Jonathan Hickman",
-    Status: "Комикс × 6-13 Главы",
+    Status: "Стрим возможен",
     Current: true,
-    Date: "08.11.26",
-  },
-  {
-    NameRU: "Семь смертных грехов",
-    NameEN: "Nanatsu no Taizai / The Seven Deadly Sins",
-    Status: "Аниме × 2 Сезон 21-24 Эпизод",
-    Current: true,
-    Date: "08.11.26",
-  },
-  {
-    NameRU: "Покер",
-    Current: true,
-    Date: "08.11.26",
+    Date: "15.11.26",
   },
 
   //#region Старое: Январь 26
@@ -3379,6 +3357,70 @@ const scheduleDatabase = [
     Status: "Фильм",
     Current: false,
     Date: "01.11.26",
+  },
+  // Понедельник
+  {
+    Status: "Стрим невозможен",
+    Current: false,
+    Date: "02.11.26",
+  },
+  // Вторник
+  {
+    Status: "Стрим не состоялся",
+    Current: false,
+    Date: "03.11.26",
+  },
+  // Среда
+  {
+    Status: "Стрим не состоялся",
+    Current: false,
+    Date: "04.11.26",
+  },
+  // Четверг
+  {
+    Status: "Стрим не состоялся",
+    Current: false,
+    Date: "05.11.26",
+  },
+  // Пятница
+  {
+    NameRU: "Готэм",
+    NameEN: "Gotham",
+    Status: "Сериал × 2 Сезон 1-2 Эпизод",
+    Current: false,
+    Date: "06.11.26",
+  },
+  {
+    NameRU: "Sheker. Последний шанс",
+    Status: "Фильм",
+    Current: false,
+    Date: "06.11.26",
+  },
+  // Суббота
+  {
+    Status: "Стрим невозможен",
+    Current: false,
+    Date: "07.11.26",
+  },
+  // Воскресенье
+  {
+    NameRU: "Мстители Хикмана",
+    NameEN: "Avengers by Jonathan Hickman",
+    Status: "Комикс × 6-13 Главы",
+    Current: false,
+    Date: "08.11.26",
+  },
+  {
+    NameRU: "Семь смертных грехов",
+    NameEN: "Nanatsu no Taizai / The Seven Deadly Sins",
+    Status: "Аниме × 2 Сезон 21-24 Эпизод",
+    Current: false,
+    Date: "08.11.26",
+  },
+  {
+    NameRU: "Покер",
+    Current: false,
+    Date: "08.11.26",
   },
   //#endregion
 ];
