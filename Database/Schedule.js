@@ -60,7 +60,15 @@ const scheduleDatabase = [
   },
   // Вторник
   {
-    Status: "Стрим возможен",
+    NameRU: "Warhammer 40 000: Rogue Trader",
+    Status: "Игра",
+    Current: true,
+    Date: "10.11.26",
+  },
+  {
+    NameRU: "Целитель Адамс",
+    NameEN: "Patch Adams",
+    Status: "Фильм",
     Current: true,
     Date: "10.11.26",
   },

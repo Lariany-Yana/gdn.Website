@@ -669,7 +669,7 @@ const amusementGames = [
   {
     ID: "Amusement-Games_Warhammer-40K-Rogue-Trader",
     NameRU: "Warhammer 40 000: Rogue Trader",
-    Status: "14 Часов",
+    Status: "18 Часов",
     Donut: "donut-3",
     Image: "tild3263-3431-4363-a433-363131613736/img.webp",
     Type: "amusement-Game",

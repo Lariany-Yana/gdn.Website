@@ -3041,6 +3041,13 @@ const amusementGamesPopups = {
           Link: ["vk", "456241918?t=12m20s"],
           Player: ["vk", "456241918", "a24f4f7d398e4476", "0h12m20s"],
         },
+        {
+          Name: "8 Эпизод",
+          Date: "09.10.26",
+          Donut: "donut-3",
+          Link: ["vk", "456241933?t=12m50s"],
+          Player: ["vk", "456241933", "cdeff783c8d4c51a", "0h12m50s"],
+        },
       ],
     },
   ],

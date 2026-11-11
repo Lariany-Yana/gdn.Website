@@ -3540,6 +3540,17 @@ const fullmeterMovie = [
     Type: "fullmeter-Movie",
   },
   {
+    ID: "Fullmeter-Movie_Patch-Adams",
+    NameRU: "Целитель Адамс",
+    NameEN: "Patch Adams",
+    Status: "Стрим был: 10.11.2026",
+    Donut: "donut-3",
+    Link: ["vk", "456241934?t=11m56s"],
+    Player: ["vk", "456241934", "cdeff783c8d4c51a", "0h11m56s"],
+    Image: ["tila3066-6566-4963-b966-373963353432/Max.webp", "tila3662-3939-4230-a563-333238646161/Min.webp"],
+    Type: "fullmeter-Movie",
+  },
+  {
     ID: "Fullmeter-Movie_Charlie-and-Chocolate-Factory",
     NameRU: "Чарли и шоколадная фабрика",
     NameEN: "Charlie and the Chocolate Factory",

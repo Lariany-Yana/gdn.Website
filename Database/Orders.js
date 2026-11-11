@@ -89,7 +89,7 @@ const ordersDatabase = [
   {
     ID: "order_Rogue-Trader",
     NameRU: "Warhammer 40 000: Rogue Trader",
-    Status: "Игра × Наиграно: 14 Часов, В заказе: 6 Часов",
+    Status: "Игра × Наиграно: 18 Часов, В заказе: 2 Часа",
     Type: "order-during",
     Slots: [
       {
@@ -138,11 +138,13 @@ const ordersDatabase = [
         Name: "Ekemlyr",
         Slot: "1",
         Date: "27.08.26",
+        Listed: true,
       },
       {
         Name: "Ekemlyr",
         Slot: "1",
         Date: "24.09.26",
+        Listed: true,
       },
       {
         Name: "Ekemlyr",
@@ -253,20 +255,6 @@ const ordersDatabase = [
         Name: "Madaofist",
         Slot: "4.25",
         Date: "18.12.24",
-      },
-    ],
-  },
-  {
-    ID: "order_Patch-Adams",
-    NameRU: "Целитель Адамс",
-    NameEN: "Patch Adams",
-    Status: "Фильм",
-    Type: "order-waiting",
-    Slots: [
-      {
-        Name: "Кирвин",
-        Slot: "1",
-        Date: "23.03.25",
       },
     ],
   },
@@ -1700,6 +1688,20 @@ const ordersDatabase = [
   },
   //#endregion
   //#region ~Просмотренное~
+  {
+    NameRU: "Целитель Адамс",
+    NameEN: "Patch Adams",
+    Status: "Фильм",
+    Type: "order-finished",
+    Slots: [
+      {
+        Name: "Кирвин",
+        Slot: "1",
+        Date: "23.03.25",
+        Listed: true,
+      },
+    ],
+  },
   {
     NameRU: "Семь смертных грехов 2: Возрождение заповедей",
     NameEN: "Nanatsu no Taizai: Imashime no Fukkatsu",
