@@ -200,22 +200,31 @@ const ordersDatabase = [
     ],
   },
   {
-    ID: "order_Muri-ja-Nakatta",
-    NameRU: "У меня нет любовницы! (А может и есть?!)",
-    NameEN: "Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?)",
-    Status: "Аниме × В заказе: 1 Сезон 5-12/12 Эпизод",
+    ID: "order_Paul",
+    NameRU: "Пол: Секретный материальчик",
+    NameEN: "Paul",
+    Status: "Фильм",
     Style: "user_Edwin",
     Type: "order-waiting",
     Slots: [
       {
         Name: "Статист",
-        Slot: "1", // 1 Сезон 1-4 Эпизод
-        Date: "17.05.24",
-        Listed: true,
+        Slot: "1",
+        Date: "26.08.24",
       },
+    ],
+  },
+  {
+    ID: "order_Slumdog-Millionaire",
+    NameRU: "Миллионер из трущоб",
+    NameEN: "Slumdog Millionaire",
+    Status: "Фильм",
+    Style: "user_Edwin",
+    Type: "order-waiting",
+    Slots: [
       {
         Name: "Статист",
-        Slot: "2", // 1 Сезон 5-12 Эпизод
+        Slot: "1",
         Date: "26.08.24",
       },
     ],
@@ -978,6 +987,21 @@ const ordersDatabase = [
   //#endregion
   //#region ~Нужен дозаказ~
   {
+    ID: "order_Muri-ja-Nakatta",
+    NameRU: "У меня нет любовницы! (А может и есть?!)",
+    NameEN: "Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?)",
+    Status: "Аниме × Просмотрено: 1 Сезон 1-4/12 Эпизод",
+    Type: "order-incomplete",
+    Slots: [
+      {
+        Name: "Статист",
+        Slot: "1", // 1 Сезон 1-4 Эпизод
+        Date: "17.05.24",
+        Listed: true,
+      },
+    ],
+  },
+  {
     ID: "order_Gotham-2",
     NameRU: "Готэм",
     NameEN: "Gotham",
@@ -1478,6 +1502,38 @@ const ordersDatabase = [
   },
   //#endregion
   //#region ~Свапы~
+  {
+    Status: "Свап был 15.11.26 (Статист)",
+    Type: "order-switch",
+    FromTo: [
+      {
+        NameRU: "У меня нет любовницы! (А может и есть?!)",
+        NameEN: "Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?)",
+        Status: "Аниме × 1 Слот",
+      },
+      {
+        NameRU: "Миллионер из трущоб",
+        NameEN: "Slumdog Millionaire",
+        Status: "Фильм × 1 Слот",
+      },
+    ],
+  },
+  {
+    Status: "Свап был 15.11.26 (Статист)",
+    Type: "order-switch",
+    FromTo: [
+      {
+        NameRU: "У меня нет любовницы! (А может и есть?!)",
+        NameEN: "Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?)",
+        Status: "Аниме × 1 Слот",
+      },
+      {
+        NameRU: "Пол: Секретный материальчик",
+        NameEN: "Paul",
+        Status: "Фильм × 1 Слот",
+      },
+    ],
+  },
   {
     Status: "Свап был 27.10.26 (ia_chort)",
     Type: "order-switch",
