@@ -983,7 +983,48 @@ const ordersDatabase = [
       },
     ],
   },
-
+  {
+    ID: "order_Gotham-2",
+    NameRU: "Готэм",
+    NameEN: "Gotham",
+    Status: "Сериал × Просмотрено: 2 Сезон 1-4/22 Эпизод",
+    Type: "order-determinate",
+    Slots: [
+      {
+        Name: "ТВОЮ МАТЬ",
+        Slot: "1", // 2 Сезон 1-2 Эпизод
+        Date: "18.10.26",
+        Listed: true,
+      },
+      {
+        Name: "Без имени",
+        Slot: "1", // 2 Сезон 3-4 Эпизод
+        Date: "Без даты",
+        Listed: false,
+      },
+    ],
+  },
+  {
+    ID: "order_Ojingeo-geim",
+    NameRU: "Игра в кальмара",
+    NameEN: "Ojingeo geim",
+    Status: "Сериал ⨯ Просмотрено: 2 Сезон 1-4/7 Эпизод",
+    Type: "order-determinate",
+    Slots: [
+      {
+        Name: "plague_9bit",
+        Slot: "1", // 2 Сезон 1-2 Эпизод
+        Date: "09.01.25",
+        Listed: true,
+      },
+      {
+        Name: "Без имени",
+        Slot: "1", // 2 Сезон 3-4 Эпизод
+        Date: "Без даты",
+        Listed: false,
+      },
+    ],
+  },
   //#endregion
   //#region ~Нужен дозаказ~
   {
@@ -997,21 +1038,6 @@ const ordersDatabase = [
         Name: "Статист",
         Slot: "1", // 1 Сезон 1-4 Эпизод
         Date: "17.05.24",
-        Listed: true,
-      },
-    ],
-  },
-  {
-    ID: "order_Gotham-2",
-    NameRU: "Готэм",
-    NameEN: "Gotham",
-    Status: "Сериал × Просмотрено: 2 Сезон 1-2/22 Эпизод",
-    Type: "order-incomplete",
-    Slots: [
-      {
-        Name: "ТВОЮ МАТЬ",
-        Slot: "1", // 2 Сезон 1-2 Эпизод
-        Date: "18.10.26",
         Listed: true,
       },
     ],
@@ -1465,21 +1491,6 @@ const ordersDatabase = [
         Name: "Демон21",
         Slot: "0.5", // 2 Сезон 1 Эпизод
         Date: "06.05.25",
-        Listed: true,
-      },
-    ],
-  },
-  {
-    ID: "order_Ojingeo-geim",
-    NameRU: "Игра в кальмара",
-    NameEN: "Ojingeo geim",
-    Status: "Сериал ⨯ Просмотрено: 2 Сезон 1-2/7 Эпизод",
-    Type: "order-incomplete",
-    Slots: [
-      {
-        Name: "plague_9bit",
-        Slot: "1", // 2 Сезон 1-2 Эпизод
-        Date: "09.01.25",
         Listed: true,
       },
     ],

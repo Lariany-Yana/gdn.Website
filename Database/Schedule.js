@@ -56,51 +56,43 @@ const scheduleDatabase = [
   {
     Status: "Стрим невозможен",
     Current: true,
-    Date: "09.11.26",
+    Date: "16.11.26",
   },
   // Вторник
   {
-    NameRU: "Warhammer 40 000: Rogue Trader",
-    Status: "Игра",
+    Status: "Стрим возможен",
     Current: true,
-    Date: "10.11.26",
-  },
-  {
-    NameRU: "Целитель Адамс",
-    NameEN: "Patch Adams",
-    Status: "Фильм",
-    Current: true,
-    Date: "10.11.26",
+    Date: "17.11.26",
   },
   // Среда
   {
-    Status: "Стрим не состоялся",
+    Status: "Стрим возможен",
     Current: true,
-    Date: "11.11.26",
+    Date: "18.11.26",
   },
   // Четверг
   {
-    Status: "Стрим не состоялся",
+    Status: "Стрим возможен",
     Current: true,
-    Date: "12.11.26",
+    Date: "19.11.26",
   },
   // Пятница
   {
-    Status: "Стрим не состоялся",
+    Status: "Стрим возможен",
     Current: true,
-    Date: "13.11.26",
+    Date: "20.11.26",
   },
   // Суббота
   {
     Status: "Стрим невозможен",
     Current: true,
-    Date: "14.11.26",
+    Date: "21.11.26",
   },
   // Воскресенье
   {
     Status: "Стрим возможен",
     Current: true,
-    Date: "15.11.26",
+    Date: "22.11.26",
   },
 
   //#region Старое: Январь 26
@@ -3429,6 +3421,70 @@ const scheduleDatabase = [
     NameRU: "Покер",
     Current: false,
     Date: "08.11.26",
+  },
+  // Понедельник
+  {
+    Status: "Стрим невозможен",
+    Current: false,
+    Date: "09.11.26",
+  },
+  // Вторник
+  {
+    NameRU: "Warhammer 40 000: Rogue Trader",
+    Status: "Игра",
+    Current: false,
+    Date: "10.11.26",
+  },
+  {
+    NameRU: "Целитель Адамс",
+    NameEN: "Patch Adams",
+    Status: "Фильм",
+    Current: false,
+    Date: "10.11.26",
+  },
+  // Среда
+  {
+    Status: "Стрим не состоялся",
+    Current: false,
+    Date: "11.11.26",
+  },
+  // Четверг
+  {
+    Status: "Стрим не состоялся",
+    Current: false,
+    Date: "12.11.26",
+  },
+  // Пятница
+  {
+    Status: "Стрим не состоялся",
+    Current: false,
+    Date: "13.11.26",
+  },
+  // Суббота
+  {
+    Status: "Стрим невозможен",
+    Current: false,
+    Date: "14.11.26",
+  },
+  // Воскресенье
+  {
+    NameRU: "Готэм",
+    NameEN: "Gotham",
+    Status: "Сериал × 2 Сезон 3-4 Эпизод",
+    Current: false,
+    Date: "15.11.26",
+  },
+  {
+    NameRU: "Игра в кальмара",
+    NameEN: "Ojingeo geim",
+    Status: "Сериал × 2 Сезон 3-4 Эпизод",
+    Current: false,
+    Date: "15.11.26",
+  },
+  {
+    Status: "Покер",
+    Current: false,
+    Date: "15.11.26",
   },
   //#endregion
 ];
