@@ -220,7 +220,7 @@ const seriesSerials = [
     ID: "Series-Serials_Ojingeo-geim",
     NameRU: "Игра в Кальмара",
     NameEN: "Ojingeo geim",
-    Status: "1 Сезон, 2 Сезон 1-4/7 Эпизод",
+    Status: "1 Сезон, 2 Сезон 1-5/7 Эпизод",
     Donut: "donut-1",
     Image: "tild6230-3565-4261-b466-373932613331/__.webp",
     Type: "series-Serial",

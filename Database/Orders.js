@@ -86,73 +86,6 @@ const ordersDatabase = [
       },
     ],
   },
-  {
-    ID: "order_Rogue-Trader",
-    NameRU: "Warhammer 40 000: Rogue Trader",
-    Status: "Игра × Наиграно: 18 Часов, В заказе: 2 Часа",
-    Type: "order-during",
-    Slots: [
-      {
-        Name: "Ekemlyr",
-        Slot: "1",
-        Date: "29.03.26",
-        Listed: true,
-      },
-      {
-        Name: "Ekemlyr",
-        Slot: "1",
-        Date: "05.04.26",
-        Listed: true,
-      },
-      {
-        Name: "Ekemlyr",
-        Slot: "1",
-        Date: "21.04.26",
-        Listed: true,
-      },
-      {
-        Name: "Ekemlyr",
-        Slot: "1",
-        Date: "28.04.26",
-        Listed: true,
-      },
-      {
-        Name: "Ekemlyr",
-        Slot: "1",
-        Date: "24.07.26",
-        Listed: true,
-      },
-      {
-        Name: "Ekemlyr",
-        Slot: "1",
-        Date: "07.08.26",
-        Listed: true,
-      },
-      {
-        Name: "Ekemlyr",
-        Slot: "1",
-        Date: "19.08.26",
-        Listed: true,
-      },
-      {
-        Name: "Ekemlyr",
-        Slot: "1",
-        Date: "27.08.26",
-        Listed: true,
-      },
-      {
-        Name: "Ekemlyr",
-        Slot: "1",
-        Date: "24.09.26",
-        Listed: true,
-      },
-      {
-        Name: "Ekemlyr",
-        Slot: "1",
-        Date: "09.10.26",
-      },
-    ],
-  },
   //#endregion
   //#region ~В очереди~
   {
@@ -971,6 +904,20 @@ const ordersDatabase = [
   //#endregion
   //#region ~В уточнении~
   {
+    NameRU: "Ван Пис",
+    NameEN: "One Piece",
+    Status: "Аниме × Прочитано: 1179-1188 Главы",
+    Type: "order-incomplete",
+    Slots: [
+      {
+        Name: "Без имени",
+        Slot: "1",
+        Date: "Без даты",
+        Listed: false,
+      },
+    ],
+  },
+  {
     NameRU: "Sheker. Последний шанс",
     Status: "Фильм",
     Type: "order-determinate",
@@ -1008,7 +955,7 @@ const ordersDatabase = [
     ID: "order_Ojingeo-geim",
     NameRU: "Игра в кальмара",
     NameEN: "Ojingeo geim",
-    Status: "Сериал ⨯ Просмотрено: 2 Сезон 1-4/7 Эпизод",
+    Status: "Сериал ⨯ Просмотрено: 2 Сезон 1-5/7 Эпизод",
     Type: "order-determinate",
     Slots: [
       {
@@ -1019,7 +966,7 @@ const ordersDatabase = [
       },
       {
         Name: "Без имени",
-        Slot: "1", // 2 Сезон 3-4 Эпизод
+        Slot: "1.5", // 2 Сезон 3-4 Эпизод
         Date: "Без даты",
         Listed: false,
       },
@@ -1027,6 +974,74 @@ const ordersDatabase = [
   },
   //#endregion
   //#region ~Нужен дозаказ~
+  {
+    ID: "order_Rogue-Trader",
+    NameRU: "Warhammer 40 000: Rogue Trader",
+    Status: "Игра × Наиграно: 20 Часов",
+    Type: "order-incomplete",
+    Slots: [
+      {
+        Name: "Ekemlyr",
+        Slot: "1",
+        Date: "29.03.26",
+        Listed: true,
+      },
+      {
+        Name: "Ekemlyr",
+        Slot: "1",
+        Date: "05.04.26",
+        Listed: true,
+      },
+      {
+        Name: "Ekemlyr",
+        Slot: "1",
+        Date: "21.04.26",
+        Listed: true,
+      },
+      {
+        Name: "Ekemlyr",
+        Slot: "1",
+        Date: "28.04.26",
+        Listed: true,
+      },
+      {
+        Name: "Ekemlyr",
+        Slot: "1",
+        Date: "24.07.26",
+        Listed: true,
+      },
+      {
+        Name: "Ekemlyr",
+        Slot: "1",
+        Date: "07.08.26",
+        Listed: true,
+      },
+      {
+        Name: "Ekemlyr",
+        Slot: "1",
+        Date: "19.08.26",
+        Listed: true,
+      },
+      {
+        Name: "Ekemlyr",
+        Slot: "1",
+        Date: "27.08.26",
+        Listed: true,
+      },
+      {
+        Name: "Ekemlyr",
+        Slot: "1",
+        Date: "24.09.26",
+        Listed: true,
+      },
+      {
+        Name: "Ekemlyr",
+        Slot: "1",
+        Date: "09.10.26",
+        Listed: true,
+      },
+    ],
+  },
   {
     ID: "order_Muri-ja-Nakatta",
     NameRU: "У меня нет любовницы! (А может и есть?!)",

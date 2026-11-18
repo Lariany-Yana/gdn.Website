@@ -60,7 +60,22 @@ const scheduleDatabase = [
   },
   // Вторник
   {
-    Status: "Стрим возможен",
+    NameRU: "Ван Пис",
+    NameEN: "One Piece",
+    Status: "Манга × 1179-1188 Главы",
+    Current: true,
+    Date: "17.11.26",
+  },
+  {
+    NameRU: "Warhammer 40 000: Rogue Trader",
+    Status: "Игра",
+    Current: true,
+    Date: "17.11.26",
+  },
+  {
+    NameRU: "Игра в кальмара",
+    NameEN: "Ojingeo geim",
+    Status: "Сериал × 2 Сезон 5 Эпизод",
     Current: true,
     Date: "17.11.26",
   },
