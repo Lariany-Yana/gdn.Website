@@ -2409,6 +2409,13 @@ const seriesAnimePopups = {
           Link: ["vk", "456241937?t=17m45s"],
           Player: ["vk", "456241937", "3ca351838e08e91c", "0h17m45s"],
         },
+        {
+          Name: "Манга: 1189-1199 Главы",
+          Date: "19.11.2026",
+          Donut: "donut-3",
+          Link: ["vk", "456241938?t=14m50s"],
+          Player: ["vk", "456241938", "17f373bcf7393b9e", "0h14m50s"],
+        },
       ],
     },
   ],

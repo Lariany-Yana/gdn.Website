@@ -81,13 +81,22 @@ const scheduleDatabase = [
   },
   // Среда
   {
-    Status: "Стрим возможен",
+    Status: "Стрим не состоялся",
     Current: true,
     Date: "18.11.26",
   },
   // Четверг
   {
-    Status: "Стрим возможен",
+    NameRU: "Ван Пис",
+    NameEN: "One Piece",
+    Status: "Манга × 1189-1199 Главы",
+    Current: true,
+    Date: "19.11.26",
+  },
+  {
+    NameRU: "Игра в кальмара",
+    NameEN: "Ojingeo geim",
+    Status: "Сериал × 2 Сезон 6-7 Эпизод",
     Current: true,
     Date: "19.11.26",
   },

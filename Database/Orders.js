@@ -906,12 +906,12 @@ const ordersDatabase = [
   {
     NameRU: "Ван Пис",
     NameEN: "One Piece",
-    Status: "Аниме × Прочитано: 1179-1188 Главы",
+    Status: "Аниме × Прочитано: 1179-1199 Главы",
     Type: "order-incomplete",
     Slots: [
       {
         Name: "Без имени",
-        Slot: "1",
+        Slot: "2",
         Date: "Без даты",
         Listed: false,
       },
@@ -955,7 +955,7 @@ const ordersDatabase = [
     ID: "order_Ojingeo-geim",
     NameRU: "Игра в кальмара",
     NameEN: "Ojingeo geim",
-    Status: "Сериал ⨯ Просмотрено: 2 Сезон 1-5/7 Эпизод",
+    Status: "Сериал ⨯ Просмотрено: 2 Сезон 1-7/7 Эпизод",
     Type: "order-determinate",
     Slots: [
       {
@@ -966,7 +966,7 @@ const ordersDatabase = [
       },
       {
         Name: "Без имени",
-        Slot: "1.5", // 2 Сезон 3-4 Эпизод
+        Slot: "2.5", // 2 Сезон 3-4 Эпизод
         Date: "Без даты",
         Listed: false,
       },
