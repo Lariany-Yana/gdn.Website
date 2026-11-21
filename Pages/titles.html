@@ -60,7 +60,6 @@
           <button class="switch" data-type="literature-Book">Книги</button>
         </div>
       </nav>
-
       <div class="content"></div>
     </div>
 
@@ -104,6 +103,18 @@
       </aside>
     </template>
 
+    <!-- Сортировка по подписке -->
+    <template id="sorting-template">
+      <div class="sorting">
+        <button class="sort active" data-type="donut-0"></button>
+        <button class="sort donut-1 active" data-type="donut-1"></button>
+        <button class="sort donut-2 active" data-type="donut-2"></button>
+        <button class="sort donut-3 active" data-type="donut-3"></button>
+        <button class="sort sub active" data-type="sub"></button>
+        <button class="sort dub active" data-type="dub"></button>
+      </div>
+    </template>
+
     <!-- Попап: Тайтл -->
     <template id="project-template">
       <article class="project" style="background-image: url()">
@@ -112,6 +123,7 @@
           <span class="name-en"></span>
           <div class="simple status"></div>
           <div class="simple donut"></div>
+          <div class="simple version"></div>
         </div>
         <div class="content"></div>
       </article>
@@ -161,6 +173,7 @@
           <span class="name-en"></span>
           <div class="simple status"></div>
           <div class="simple donut"></div>
+          <div class="simple version"></div>
           <div class="group">
             <button class="watch">Открыть</button>
             <a class="link" href="" target="_blank">Смотреть</a>

@@ -255,6 +255,7 @@ class SiteEngine {
     this.bindEvents();
     this.initTabs();
     this.initSearch();
+    this.initSorting();
 
     this.activeTabKey = `${this.config.favKey || this.config.containerId}_session_tab`;
     let savedTab = null;
@@ -485,6 +486,135 @@ class SiteEngine {
     });
   }
 
+  // --- ФИЛЬТР КАРТОЧЕК ПО УРОВНЮ ПОДПИСКИ (DONUT) ---
+
+  initSorting() {
+    const template = document.getElementById("sorting-template");
+    const contentEl = this.windowEl.querySelector(".content");
+    if (!template || !contentEl) return;
+
+    const clone = template.content.cloneNode(true);
+    this.sortingEl = clone.querySelector(".sorting");
+    if (!this.sortingEl) return;
+
+    this.sortingKey = `${this.config.favKey || this.config.containerId}_sorting`;
+
+    let savedState = null;
+    try {
+      savedState = JSON.parse(localStorage.getItem(this.sortingKey));
+    } catch (e) {
+      savedState = null;
+    }
+
+    this.sortingState = {};
+    const sortButtons = this.sortingEl.querySelectorAll("button.sort");
+
+    sortButtons.forEach((btn) => {
+      const type = btn.dataset.type;
+      if (!type) return;
+
+      // По умолчанию все переключатели включены
+      const isActive = savedState && typeof savedState[type] === "boolean" ? savedState[type] : true;
+      this.sortingState[type] = isActive;
+      btn.classList.toggle("active", isActive);
+    });
+
+    // Гарантия: хотя бы один переключатель всегда включён
+    if (!Object.values(this.sortingState).some(Boolean)) {
+      const firstBtn = sortButtons[0];
+      if (firstBtn && firstBtn.dataset.type) {
+        this.sortingState[firstBtn.dataset.type] = true;
+        firstBtn.classList.add("active");
+      }
+    }
+
+    this.sortingEl.addEventListener("click", (e) => {
+      const btn = e.target.closest("button.sort");
+      if (!btn || !this.sortingEl.contains(btn)) return;
+
+      const type = btn.dataset.type;
+      if (!type) return;
+
+      const isActive = btn.classList.contains("active");
+      // Запрещаем выключение последнего активного переключателя
+      if (isActive && Object.values(this.sortingState).filter(Boolean).length <= 1) return;
+
+      this.sortingState[type] = !isActive;
+      btn.classList.toggle("active", !isActive);
+      this.saveSortingState();
+      this.applySorting();
+    });
+
+    contentEl.prepend(this.sortingEl);
+  }
+
+  saveSortingState() {
+    try {
+      localStorage.setItem(this.sortingKey, JSON.stringify(this.sortingState));
+    } catch (e) {
+      console.error(`Ошибка при сохранении ${this.sortingKey}:`, e);
+    }
+  }
+
+  getCardDonutType(card) {
+    const donutEl = card.querySelector(".donut");
+    if (donutEl) {
+      if (donutEl.classList.contains("donut-1")) return "donut-1";
+      if (donutEl.classList.contains("donut-2")) return "donut-2";
+      if (donutEl.classList.contains("donut-3")) return "donut-3";
+    }
+    // Карточки без уровня подписки относятся к donut-0
+    return "donut-0";
+  }
+
+  applySorting() {
+    if (!this.sortingState) return;
+
+    const contentEl = this.windowEl.querySelector(".content");
+    if (!contentEl) return;
+
+    const sections = contentEl.querySelectorAll(":scope > section.cards");
+    if (sections.length === 0) return;
+
+    const navContainer = this.windowEl.querySelector(".management.navigate");
+    let totalVisible = 0;
+
+    sections.forEach((section) => {
+      let visibleCount = 0;
+
+      section.querySelectorAll(".card").forEach((card) => {
+        const type = this.getCardDonutType(card);
+        const isVisible = this.sortingState[type] !== false;
+        card.style.display = isVisible ? "" : "none";
+        if (isVisible) visibleCount++;
+      });
+
+      totalVisible += visibleCount;
+
+      // Пустые группы скрываем вместе с кнопками алфавитной навигации
+      section.style.display = visibleCount > 0 ? "" : "none";
+
+      const groupKey = section.dataset.groupKey;
+      if (navContainer && groupKey) {
+        const navBtn = navContainer.querySelector(`button[data-group="${CSS.escape(groupKey)}"]`);
+        if (navBtn) navBtn.style.display = visibleCount > 0 ? "" : "none";
+      }
+    });
+
+    // Стандартная заглушка, если фильтр скрыл все карточки текущей вкладки
+    let emptyEl = contentEl.querySelector(":scope > .empty-state");
+    if (totalVisible === 0) {
+      if (!emptyEl) {
+        emptyEl = document.createElement("div");
+        emptyEl.className = "empty-state";
+        emptyEl.textContent = "Список пуст";
+        contentEl.appendChild(emptyEl);
+      }
+    } else if (emptyEl) {
+      emptyEl.remove();
+    }
+  }
+
   renderAll() {
     if (!this.config.database) return;
     this.renderByItems(this.config.database);
@@ -508,8 +638,15 @@ class SiteEngine {
     contentEl.scrollTop = 0;
     contentEl.innerHTML = "";
 
+    // Блок сортировки постоянный: возвращаем тот же узел после очистки контента,
+    // чтобы он не пересоздавался и не терял состояние при переключении вкладок
+    if (this.sortingEl) contentEl.appendChild(this.sortingEl);
+
     if (!items || items.length === 0) {
-      contentEl.innerHTML = `<div class="empty-state">Список пуст</div>`;
+      const emptyEl = document.createElement("div");
+      emptyEl.className = "empty-state";
+      emptyEl.textContent = "Список пуст";
+      contentEl.appendChild(emptyEl);
       const navContainer = this.windowEl.querySelector(".management.navigate");
       if (navContainer) navContainer.innerHTML = "";
       return;
@@ -552,6 +689,8 @@ class SiteEngine {
     } else {
       this.initAlphabetNavigation(sortedData);
     }
+
+    this.applySorting();
   }
 
   prepareSearchIndex() {

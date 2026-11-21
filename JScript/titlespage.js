@@ -73,8 +73,8 @@ function createProjectCard(item, cardTypeClass = "project") {
 
   const clone = template.content.cloneNode(true);
   const card = clone.querySelector(".card");
-
   const itemId = item.ID || item.id;
+
   if (itemId) card.id = itemId;
   if (cardTypeClass) card.classList.add(cardTypeClass);
 
@@ -94,7 +94,6 @@ function createProjectCard(item, cardTypeClass = "project") {
 
   const nameRuEl = clone.querySelector(".name-ru");
   if (nameRuEl) nameRuEl.textContent = nameRuInfo.cleanName;
-
   const nameEnEl = clone.querySelector(".name-en");
   if (nameEnEl) nameEnEl.textContent = nameEnInfo?.cleanName || "";
 
@@ -107,6 +106,8 @@ function createProjectCard(item, cardTypeClass = "project") {
     donutEl.classList.add(Array.isArray(donutVal) ? donutVal[0] : donutVal);
   }
 
+  updateSubtitlesVersion(card.querySelector(".info"), item);
+
   const favBtn = clone.querySelector(".favorite");
   if (favBtn && itemId) {
     const favs = SiteEngine.activeInstance?.favorites;
@@ -116,7 +117,6 @@ function createProjectCard(item, cardTypeClass = "project") {
   }
 
   updateControlButtons(card, item);
-
   return clone;
 }
 
@@ -218,7 +218,6 @@ function createProjectPopupContent(projectId, projectsDb, popupsDb) {
 
   const projectClone = projectTpl.content.cloneNode(true);
   const projectEl = projectClone.querySelector(".project");
-
   if (finalId) projectEl.id = finalId;
 
   const { max, min } = getImageUrls(projectMeta);
@@ -247,6 +246,8 @@ function createProjectPopupContent(projectId, projectsDb, popupsDb) {
     if (aboutDonut && donutVal) {
       aboutDonut.classList.add(Array.isArray(donutVal) ? donutVal[0] : donutVal);
     }
+
+    updateSubtitlesVersion(aboutEl, projectMeta);
   }
 
   const contentEl = projectEl.querySelector(".content");
@@ -272,10 +273,8 @@ function createProjectPopupContent(projectId, projectsDb, popupsDb) {
 
     if (seasonData.Episodes && seasonData.Episodes.length > 0) {
       if (cardsContainer) cardsContainer.remove();
-
       seasonData.Episodes.forEach((ep) => {
         if (!episodeTpl) return;
-
         const epClone = episodeTpl.content.cloneNode(true);
         const epEl = epClone.querySelector(".episode");
 
@@ -289,7 +288,6 @@ function createProjectPopupContent(projectId, projectsDb, popupsDb) {
 
         const epName = infoGroup.querySelector(".name");
         if (epName) epName.textContent = ep.Name || ep.title || "";
-
         const epDate = infoGroup.querySelector(".date");
         if (epDate) epDate.textContent = ep.Date || "";
 
@@ -310,7 +308,6 @@ function createProjectPopupContent(projectId, projectsDb, popupsDb) {
       });
     } else if (seasonData.Cards && seasonData.Cards.length > 0) {
       if (episodesContainer) episodesContainer.remove();
-
       seasonData.Cards.forEach((cardData) => {
         pasteCard(cardData, cardsContainer, "project");
       });
@@ -323,7 +320,6 @@ function createProjectPopupContent(projectId, projectsDb, popupsDb) {
   });
 
   restoreContinueState(projectEl);
-
   return projectEl;
 }
 
@@ -414,6 +410,27 @@ function updateControlButtons(container, item) {
     } else {
       watchBtn.removeAttribute("disabled");
     }
+  }
+}
+
+function updateSubtitlesVersion(container, item) {
+  if (!container || !item) return;
+
+  const versionEl = container.querySelector(".simple.version");
+  if (!versionEl) return;
+
+  let subtitles = item.Subtitles;
+  if (typeof subtitles === "string") {
+    const value = subtitles.trim().toLowerCase();
+    if (value === "true") subtitles = true;
+    else if (value === "false") subtitles = false;
+    else return;
+  }
+
+  if (subtitles === true) {
+    versionEl.classList.add("sub");
+  } else if (subtitles === false) {
+    versionEl.classList.add("dub");
   }
 }
 

@@ -710,7 +710,6 @@ body[data-theme="dark"] {
       }
     }
   }
-
   /* MARK: window > content
 */
   & > .content {
@@ -734,8 +733,79 @@ body[data-theme="dark"] {
     justify-content: flex-start;
     gap: var(--padding-S);
 
-    /* MARK: content > details
-*/
+    & > .sorting {
+      display: flex;
+      flex-direction: row;
+      gap: var(--padding-S);
+      max-width: 100%;
+      justify-self: center;
+      background-color: var(--card-color);
+      border-radius: var(--radius-L);
+      padding: var(--padding-btn);
+      box-sizing: border-box;
+      .sort {
+        all: unset;
+        cursor: pointer;
+        font-size: 12px;
+        text-transform: uppercase;
+        opacity: 0.5;
+        transition: var(--anim-type-main) var(--anim-duration-S);
+
+        &.active {
+          opacity: 1;
+        }
+
+        @media (hover: hover) {
+          &:hover {
+            opacity: 0.75;
+          }
+        }
+
+        &.sub {
+          display: none;
+          color: var(--text-color-main);
+          &::after {
+            content: "Субтитры";
+          }
+        }
+        &.dub {
+          display: none;
+          color: var(--text-color-main);
+          &::after {
+            content: "Озвучка";
+          }
+        }
+
+        &:not(.donut-1, .donut-2, .donut-3, .sub, .dub) {
+          color: whitesmoke;
+          &::after {
+            content: "Без подписки";
+          }
+        }
+
+        &.donut-1 {
+          color: var(--donut-1);
+          &::after {
+            content: var(--donut-1-note);
+          }
+        }
+
+        &.donut-2 {
+          color: var(--donut-2);
+          &::after {
+            content: var(--donut-2-note);
+          }
+        }
+        &.donut-3 {
+          color: var(--donut-3);
+          &::after {
+            content: var(--donut-3-note);
+          }
+        }
+      }
+    }
+
+    /* MARK: content > details */
     & > details {
       width: 100%;
       padding-top: var(--padding-S);
@@ -997,6 +1067,23 @@ body[data-theme="dark"] {
             &::after {
               content: var(--donut-3-note);
             }
+          }
+        }
+
+        .simple.version {
+          display: block;
+          color: var(--text-color-main);
+          font-size: 16px;
+
+          &:not(.sub, .dub) {
+            display: none;
+          }
+
+          &.sub::after {
+            content: "Субтитры";
+          }
+          &.dub::after {
+            content: "Озвучка";
           }
         }
       }
@@ -1639,6 +1726,8 @@ body[data-theme="dark"] {
       }
 
       .info {
+        position: relative;
+        box-sizing: border-box;
         .simple.donut {
           white-space: pre-wrap;
 
@@ -1666,6 +1755,31 @@ body[data-theme="dark"] {
             &::before {
               content: var(--donut-3-note);
             }
+          }
+        }
+
+        .simple.version {
+          display: block;
+          position: absolute;
+          top: 0;
+          transform: translateY(-100%);
+          align-self: center;
+          background-color: var(--card-color);
+          color: var(--text-color-main);
+          font-size: 12px;
+          padding: var(--padding-btn);
+          border-radius: var(--radius-S) var(--radius-S) 0 0;
+          box-sizing: border-box;
+
+          &:not(.sub, .dub) {
+            display: none;
+          }
+
+          &.sub::after {
+            content: "Субтитры";
+          }
+          &.dub::after {
+            content: "Озвучка";
           }
         }
         .group {
@@ -1919,6 +2033,15 @@ body[data-theme="dark"] {
       .section {
         opacity: 1;
       }
+    }
+
+    .content .sorting {
+      display: flex;
+      flex-direction: column;
+      width: 100%;
+      align-items: center;
+      padding: var(--padding-S);
+      border-radius: var(--radius-S);
     }
 
     .content .cards .card {
