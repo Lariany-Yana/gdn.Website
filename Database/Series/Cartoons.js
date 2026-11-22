@@ -250,6 +250,16 @@ const seriesCartoons = [
     Type: "series-Cartoon",
   },
   {
+    ID: "Series-Cartoon_Pantheon",
+    NameRU: "Пантеон",
+    NameEN: "Pantheon",
+    Status: "1 Сезон 1-4/8 Эпизод",
+    Subtitles: false,
+    Donut: "donut-3",
+    Image: ["tila3733-3939-4366-a333-636639643066/Max.webp", "tila3461-3737-4934-b933-666432383239/Min.webp"],
+    Type: "series-Cartoon",
+  },
+  {
     ID: "Series-Cartoon_Primal",
     NameRU: "Первобытный",
     NameEN: "Primal",

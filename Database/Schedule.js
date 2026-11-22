@@ -56,67 +56,43 @@ const scheduleDatabase = [
   {
     Status: "Стрим невозможен",
     Current: true,
-    Date: "16.11.26",
+    Date: "23.11.26",
   },
   // Вторник
   {
-    NameRU: "Ван Пис",
-    NameEN: "One Piece",
-    Status: "Манга × 1179-1188 Главы",
+    Status: "Стрим возможен",
     Current: true,
-    Date: "17.11.26",
-  },
-  {
-    NameRU: "Warhammer 40 000: Rogue Trader",
-    Status: "Игра",
-    Current: true,
-    Date: "17.11.26",
-  },
-  {
-    NameRU: "Игра в кальмара",
-    NameEN: "Ojingeo geim",
-    Status: "Сериал × 2 Сезон 5 Эпизод",
-    Current: true,
-    Date: "17.11.26",
+    Date: "24.11.26",
   },
   // Среда
   {
-    Status: "Стрим не состоялся",
+    Status: "Стрим возможен",
     Current: true,
-    Date: "18.11.26",
+    Date: "25.11.26",
   },
   // Четверг
   {
-    NameRU: "Ван Пис",
-    NameEN: "One Piece",
-    Status: "Манга × 1189-1199 Главы",
+    Status: "Стрим возможен",
     Current: true,
-    Date: "19.11.26",
-  },
-  {
-    NameRU: "Игра в кальмара",
-    NameEN: "Ojingeo geim",
-    Status: "Сериал × 2 Сезон 6-7 Эпизод",
-    Current: true,
-    Date: "19.11.26",
+    Date: "26.11.26",
   },
   // Пятница
   {
     Status: "Стрим возможен",
     Current: true,
-    Date: "20.11.26",
+    Date: "27.11.26",
   },
   // Суббота
   {
     Status: "Стрим невозможен",
     Current: true,
-    Date: "21.11.26",
+    Date: "28.11.26",
   },
   // Воскресенье
   {
     Status: "Стрим возможен",
     Current: true,
-    Date: "22.11.26",
+    Date: "29.11.26",
   },
 
   //#region Старое: Январь 26
@@ -3509,6 +3485,80 @@ const scheduleDatabase = [
     Status: "Покер",
     Current: false,
     Date: "15.11.26",
+  },
+
+  // Понедельник
+  {
+    Status: "Стрим невозможен",
+    Current: false,
+    Date: "16.11.26",
+  },
+  // Вторник
+  {
+    NameRU: "Ван Пис",
+    NameEN: "One Piece",
+    Status: "Манга × 1179-1188 Главы",
+    Current: false,
+    Date: "17.11.26",
+  },
+  {
+    NameRU: "Warhammer 40 000: Rogue Trader",
+    Status: "Игра",
+    Current: false,
+    Date: "17.11.26",
+  },
+  {
+    NameRU: "Игра в кальмара",
+    NameEN: "Ojingeo geim",
+    Status: "Сериал × 2 Сезон 5 Эпизод",
+    Current: false,
+    Date: "17.11.26",
+  },
+  // Среда
+  {
+    Status: "Стрим не состоялся",
+    Current: false,
+    Date: "18.11.26",
+  },
+  // Четверг
+  {
+    NameRU: "Ван Пис",
+    NameEN: "One Piece",
+    Status: "Манга × 1189-1199 Главы",
+    Current: false,
+    Date: "19.11.26",
+  },
+  {
+    NameRU: "Игра в кальмара",
+    NameEN: "Ojingeo geim",
+    Status: "Сериал × 2 Сезон 6-7 Эпизод",
+    Current: false,
+    Date: "19.11.26",
+  },
+  // Пятница
+  {
+    Status: "Стрим не состоялся",
+    Current: false,
+    Date: "20.11.26",
+  },
+  // Суббота
+  {
+    Status: "Стрим невозможен",
+    Current: false,
+    Date: "21.11.26",
+  },
+  // Воскресенье
+  {
+    NameRU: "Пантеон",
+    NameEN: "Pantheon",
+    Status: "Мультсериал × 1 Сезон 1-4 Эпизод",
+    Current: false,
+    Date: "22.11.26",
+  },
+  {
+    NameRU: "Покер",
+    Current: false,
+    Date: "22.11.26",
   },
   //#endregion
 ];

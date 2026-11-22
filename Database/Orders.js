@@ -19,6 +19,27 @@ const ordersDatabase = [
 
   //#region ~В процессе~
   {
+    ID: "order_Pantheon-1",
+    NameRU: "Пантеон",
+    NameEN: "Pantheon",
+    Status: "Мультсериал × В заказе: 1 Сезон 5-8/8 Эпизод",
+    Style: "user_Izida",
+    Type: "order-during",
+    Slots: [
+      {
+        Name: "Izida-Sama",
+        Slot: "2", // 1 Сезон 1-4 Эпизод
+        Date: "21.10.25",
+        Listed: true,
+      },
+      {
+        Name: "Izida-Sama",
+        Slot: "2", // 1 Сезон 5-8 Эпизод
+        Date: "21.10.25",
+      },
+    ],
+  },
+  {
     ID: "order_New-Avengers",
     NameRU: "Новые Мстители",
     NameEN: "New Avengers",
@@ -277,21 +298,6 @@ const ordersDatabase = [
         Name: "Madaofist",
         Slot: "4", // 4 Сезон 1-8 Эпизод
         Date: "08.08.25",
-      },
-    ],
-  },
-  {
-    ID: "order_Pantheon-1",
-    NameRU: "Пантеон",
-    NameEN: "Pantheon",
-    Status: "Мультсериал × В заказе: 1 Сезон 1-8/8 Эпизод",
-    Style: "user_Izida",
-    Type: "order-waiting",
-    Slots: [
-      {
-        Name: "Izida-Sama",
-        Slot: "4", // 1 Сезон 1-8 Эпизод
-        Date: "21.10.25",
       },
     ],
   },

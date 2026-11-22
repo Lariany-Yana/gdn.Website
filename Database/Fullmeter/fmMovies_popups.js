@@ -954,6 +954,7 @@ const fullmeterMoviePopups = {
           ID: "Fullmeter-Movie_MCU-Captain-America-Brave-New-World",
           NameRU: "Капитан Америка: Дивный новый мир || Марвел",
           NameEN: "Captain America: Brave New World || Marvel",
+          Subtitles: true,
           Donut: "donut-3",
           Link: ["vk", "456241853?t=10m6s"],
           Player: ["vk", "456241853", "ee70a99466fe587d", "0h10m6s"],
@@ -965,6 +966,7 @@ const fullmeterMoviePopups = {
           ID: "Fullmeter-Movie_MCU-Thunderbolts",
           NameRU: "Громовержцы* || Марвел",
           NameEN: "Thunderbolts* || Marvel",
+          Subtitles: true,
           Donut: "donut-3",
           Link: ["vk", "456241859?t=4h7m52s"],
           Player: ["vk", "456241859", "15dc1e02fde6f72f", "4h7m52s"],
@@ -976,6 +978,7 @@ const fullmeterMoviePopups = {
           ID: "Fullmeter-Movie_MCU-Spider-Man-Brand-New-Day || Марвел",
           NameRU: "Человек-паук: Совершенно новый день || Marvel",
           NameEN: "Spider-Man: Brand New Day",
+          Subtitles: true,
           Donut: "donut-3",
           Link: ["vk", "456241928?t=18m32s"],
           Player: ["vk", "456241928", "dcb83a60725bc89a", "0h18m32s"],
@@ -986,7 +989,16 @@ const fullmeterMoviePopups = {
     },
     {
       Title: "Вне Кинематографической вселенной",
-      Cards: [{ pasteCard: "Fullmeter-Movie_Ghost-Rider" }, { pasteCard: "Fullmeter-Cartoon_Spider-Man" }, { pasteCard: "Series-Serials_Moon-Knight" }, { pasteCard: "Series-Cartoon_What-If" }, { pasteCard: "Fullmeter-Movie_Blade" }, { pasteCard: "Fullmeter-Movie_Fantastic-Four" }, { pasteCard: "Series-Serials_Spider-Noir" }],
+      Cards: [
+        //prettier-ignore
+        { pasteCard: "Fullmeter-Movie_Ghost-Rider" },
+        { pasteCard: "Fullmeter-Cartoon_Spider-Man" },
+        { pasteCard: "Series-Serials_Moon-Knight" },
+        { pasteCard: "Series-Cartoon_What-If" },
+        { pasteCard: "Fullmeter-Movie_Blade" },
+        { pasteCard: "Fullmeter-Movie_Fantastic-Four" },
+        { pasteCard: "Series-Serials_Spider-Noir" },
+      ],
     },
   ],
   "Fullmeter-Movie_Marvel-X-Men": [

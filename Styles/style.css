@@ -1067,6 +1067,9 @@ body[data-theme="dark"] {
             &::after {
               content: var(--donut-3-note);
             }
+          &::before {
+            content: "Потребуется\20";
+          }
           }
         }
 
@@ -1754,6 +1757,9 @@ body[data-theme="dark"] {
             color: var(--donut-3);
             &::before {
               content: var(--donut-3-note);
+            }
+            &::after {
+              content: unset;
             }
           }
         }

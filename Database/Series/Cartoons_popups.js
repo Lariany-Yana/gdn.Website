@@ -1430,6 +1430,20 @@ const seriesCartoonsPopups = {
       ],
     },
   ],
+  "Series-Cartoon_Pantheon": [
+    {
+      Title: "1 Сезон",
+      Episodes: [
+        {
+          Name: "1-4 Эпизод",
+          Date: "22.11.2026",
+          Donut: "donut-3",
+          Link: ["vk", "456241939?t=13m"],
+          Player: ["vk", "456241939", "ffc81dfb748fbd21", "0h13m0s"],
+        },
+      ],
+    },
+  ],
   "Series-Cartoon_Lastman": [
     {
       Title: "1 Сезон",
