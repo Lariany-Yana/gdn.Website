@@ -140,15 +140,13 @@ const ordersDatabase = [
     ],
   },
   {
-    ID: "order_Most-Wanted-2005",
-    NameRU: "Need for Speed: Most Wanted (2005)",
-    Status: "Игра × В заказе: 2 Часа",
+    NameRU: "Школа 13",
     Style: "user_Edwin",
     Type: "order-waiting",
     Slots: [
       {
         Name: "Статист",
-        Slot: "1",
+        Slot: "0.75",
         Date: "29.05.24",
       },
     ],
@@ -1534,6 +1532,20 @@ const ordersDatabase = [
   },
   //#endregion
   //#region ~Свапы~
+  {
+    Status: "Свап был 24.11.26 (Статист)",
+    Type: "order-switch",
+    FromTo: [
+      {
+        NameRU: "Need for Speed: Most Wanted (2005)",
+        Status: "Игра × 1 Слот",
+      },
+      {
+        NameRU: "Школа 13",
+        Status: "0.75 Слот",
+      },
+    ],
+  },
   {
     Status: "Свап был 15.11.26 (Статист)",
     Type: "order-switch",
