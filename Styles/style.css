@@ -713,6 +713,7 @@ body[data-theme="dark"] {
   /* MARK: window > content
 */
   & > .content {
+    position: relative;
     width: 100%;
     height: 100%;
     padding: var(--padding-S);
@@ -886,6 +887,7 @@ body[data-theme="dark"] {
     }
 
     .close {
+      display: block;
       all: unset;
       z-index: 1;
       position: absolute;
@@ -907,6 +909,10 @@ body[data-theme="dark"] {
       transition: color var(--anim-duration-S) var(--anim-type-main);
 
       cursor: pointer;
+
+      &::after {
+        content: "Закрыть окно";
+      }
 
       @media (hover: hover) {
         &:hover {
@@ -949,6 +955,10 @@ body[data-theme="dark"] {
       &[id^="Series-"] .about .simple.status::before {
         content: "Просмотрено:\20";
       }
+      &:is([id$="Anime_Mobile-Suit-Gundam"], [id$="Anime_Gundam-UNIVERSAL-CENTURY"], [id$="Anime_Gundam-COSMIC-ERA"], [id$="Anime_Gundam-ANNO-DOMINI"], [id$="Anime_Gundam-FUTURE-CENTURY"], [id$="Anime_Gundam-AFTER-COLONY"], [id$="Anime_Gundam-AD-STELLA"], [id$="Anime_Gundam-POST-DISASTER"]) .about .simple.status::before {
+        content: unset !important;
+      }
+
       &[id^="Fullmeter-"] .about .simple.status::before {
         content: unset;
       }
@@ -1067,9 +1077,9 @@ body[data-theme="dark"] {
             &::after {
               content: var(--donut-3-note);
             }
-          &::before {
-            content: "Потребуется\20";
-          }
+            &::before {
+              content: "Потребуется\20";
+            }
           }
         }
 
@@ -1530,8 +1540,15 @@ body[data-theme="dark"] {
       .simple.status::before {
         content: "Просмотрено:\20";
       }
+
       .group .watch::after {
         content: "\20эпизоды";
+      }
+    }
+
+    &:is([id$="Anime_Mobile-Suit-Gundam"], [id$="Anime_Gundam-UNIVERSAL-CENTURY"], [id$="Anime_Gundam-COSMIC-ERA"], [id$="Anime_Gundam-ANNO-DOMINI"], [id$="Anime_Gundam-FUTURE-CENTURY"], [id$="Anime_Gundam-AFTER-COLONY"], [id$="Anime_Gundam-AD-STELLA"], [id$="Anime_Gundam-POST-DISASTER"]) .info {
+      .simple.status::before {
+        content: unset !important;
       }
     }
     &[id^="Fullmeter-"] .info {
@@ -1574,7 +1591,7 @@ body[data-theme="dark"] {
       }
     }
 
-    &:is([id$="Anime_Gundam-UNIVERSAL-CENTURY"], [id$="Anime_Gundam-COSMIC-ERA"], [id$="Anime_Gundam-ANNO-DOMINI"], [id$="Anime_Gundam-FUTURE-CENTURY"], [id$="Anime_Gundam-AFTER-COLONY"], [id$="Anime_Gundam-AD-STELLA"], [id$="Anime_Gundam-POST-DISASTER"]) .info .group .watch::after {
+    &:is([id$="Anime_Mobile-Suit-Gundam"], [id$="Anime_Gundam-UNIVERSAL-CENTURY"], [id$="Anime_Gundam-COSMIC-ERA"], [id$="Anime_Gundam-ANNO-DOMINI"], [id$="Anime_Gundam-FUTURE-CENTURY"], [id$="Anime_Gundam-AFTER-COLONY"], [id$="Anime_Gundam-AD-STELLA"], [id$="Anime_Gundam-POST-DISASTER"]) .info .group .watch::after {
       content: "\20сборник";
     }
 
